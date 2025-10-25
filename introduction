@@ -1,13 +1,66 @@
-# 1. The Family Justice System in England and Wales: Backlog, Reform, and the Emerging Priority of Transparency
+## 1. Introduction: The Crisis
 
-The family justice system in England and Wales continues to grapple with chronic delay and systemic overload. The National Audit Office (NAO) reports that, as of early 2025, **nearly 50,000 family cases remain unresolved**, comprising **10,121 public law applications** involving children at risk of care or adoption and **37,541 private law disputes** concerning child arrangements.[^1] Approximately **4,000 children have waited more than two years** for a substantive hearing, with average legal aid expenditure per public law case having **doubled from £6,000 to £12,000** between 2018 and 2022 — representing an annual cost escalation of £314 million.[^2] The statutory 26-week time limit for concluding care proceedings, introduced by the *Children and Families Act 2014*, **has not been met in any reporting year since its enactment** — a failure persisting for over a decade.[^3]
+Family courts in England and Wales are **broken by delay, abuse, and silence**.
 
-Amid this backdrop of sustained pressure, the **Family Court’s inaugural Annual Report** (October 2023–September 2024) offers a measured counter-narrative of incremental improvement.[^4] Public law applications **declined from 19,306 in 2018 to 15,552 in 2023**, while disposals **increased to 16,871** — the highest in six years.[^5] The report candidly acknowledges a “**substantial backlog**” but foregrounds structural interventions: the relaunched **Public Law Outline** to strengthen pre-proceedings case management, the **Pathfinder pilot** in private law (demonstrating an average reduction of 11 weeks in case duration in pilot courts), and the gradual stabilisation of digital systems, now described as “**starting to bed down**”.[^6] Additional reforms include targeted judicial training on domestic abuse and the default admission of Independent Domestic Violence Advisers to hearings.[^7]
+- **65,709 new cases in Q2 2025** — up 2% from 2024, with **over 4,000 children waiting more than two years** for hearings (GOV.UK Family Court Statistics, Sep 2025; NAO, Sep 2025).  
+- **90% of private law cases involve domestic abuse** — yet courts routinely fail to recognise or act, risking child safety (TBIJ, Aug 2025; Guardian, Oct 2025).  
+- **Advice deserts** and **digital exclusion** leave parents without support, with 33% of the population unable to engage online (Nuffield, 2024).  
+- **Appeals collapse** because transcripts — the only proof of what was said — are late, expensive, or missing, amplified by covert recordings amid trust loss (CommunityCare, May 2025).  
 
-Practitioner perspectives, however, underscore a persistent disjuncture between administrative metrics and experiential reality. **Warners Solicitors**, a firm with extensive frontline involvement in both public and private law proceedings, report:
+> **“They can’t tell us how many transcripts they make. That’s not transparency. That’s a blackout.”**
 
-> “Children are losing critical developmental windows, parents are exhausting financial and emotional reserves, and contact arrangements are collapsing — all in the absence of any predictable listing timeline.”[^8]
+This is not just a backlog.  
+It is **systemic re-traumatisation** of children and survivors.
 
-Within this landscape of **delay, reform, and lived harm**, **transparency has emerged as a central policy lever**. The Annual Report positions its own publication as a “**key step in the general move… towards greater transparency**”.[^9] Following the 2021 Transparency Review, the **Reporting Pilot** — allowing accredited journalists to attend and publish anonymised accounts of family proceedings — now operates in **approximately half of all Family Court areas**, with **full national rollout scheduled for early 2025**.[^10]
+The solution is not more judges.  
+It is **transparency** — but not the kind courts think.
 
-The section that follows examines **transparency not merely as procedural reform, but as a contested mechanism of accountability** — asking whether media access, in the absence of routine transcription
+Transparency is not press access (extended to all courts Jan 2025 — Judiciary.uk).  
+It is **verbatim records** that become **templates** for faster, safer decisions — revealing abuse patterns, empowering early interventions, preventing court entry.  
+
+**Transcripts are the bedrock.**  
+
+This article asks:  
+**How do we boost transcript production and access — with the least resistance?**  
+
+We answer using:  
+- Official forms and guidance  
+- Real user experiences (JustAnswer, Transparency Project)  
+- Transcription company contracts  
+- FOI evidence of the data void  
+
+The revolution is not a new law.  
+**It is a transcript.**  
+> **“Family courts are slow because they reinvent the wheel. Transcripts are the blueprint.”**  
+> **“One transcript = more truth than 100 reporters.”**  
+> **“We don’t need a revolution. We need a transcript.”**
+
+## 1. Introduction: The Crisis
+
+The family justice system in England and Wales continues to operate under severe and sustained pressure. As of May 2025, the National Audit Office (NAO) reports that **nearly 50,000 family cases remain unresolved**, comprising **10,121 public law applications** involving children at risk of care or adoption and **37,541 private law disputes** concerning child arrangements.[^1] Approximately **4,000 children have waited more than two years** for a substantive hearing, with average legal aid expenditure per public law case having **doubled from £6,000 to £12,000** between 2018 and 2022 — representing an annual cost escalation of £314 million.[^2] The statutory 26-week time limit for concluding care proceedings, introduced by the *Children and Families Act 2014*, **has not been met in any reporting year since its enactment** — a failure persisting for over a decade.[^3]
+
+Amid this backdrop of systemic delay, the **Family Court’s inaugural Annual Report** (October 2023–September 2024) presents a narrative of incremental reform.[^4] Public law applications **declined from 19,306 in 2018 to 15,552 in 2023**, while disposals **increased to 16,871** — the highest in six years.[^5] The report acknowledges a “**substantial backlog**” but highlights interventions including the relaunched **Public Law Outline**, the **Pathfinder pilot** in private law (reducing average case duration by 11 weeks in pilot courts), and the progressive implementation of digital systems.[^6]
+
+Practitioner evidence, however, reveals a significant disjuncture between administrative metrics and lived experience. **Warners Solicitors** observe:  
+> “Children are losing critical developmental windows, parents are exhausting financial and emotional reserves, and contact arrangements are collapsing — all in the absence of any predictable listing timeline.”[^7]
+
+Within this context of **delay, reform, and experiential harm**, **transparency has emerged as a central policy objective**. The Annual Report positions its own publication as a “**key step in the general move… towards greater transparency**”.[^8] Following the 2021 Transparency Review, the **Reporting Pilot** — permitting accredited journalists to attend and publish anonymised accounts of family proceedings — now operates in **approximately half of all Family Court areas**, with **full national rollout scheduled for early 2025**.[^9]
+
+This article contends that **transcripts constitute the evidentiary foundation of meaningful transparency**. In the absence of routine, accurate, and accessible verbatim records, current reforms — including media access and judgment publication — remain limited in scope and impact. The analysis is guided by four research questions:
+
+1. What do official forms and guidance reveal about transcript requirements and processes?  
+2. How do user experiences of transcript access diverge from official procedures?  
+3. What are the operational and contractual constraints imposed by transcription service providers?  
+4. What are the least-resistant mechanisms for increasing transcript production and publication?
+
+The methodology comprises documentary analysis of legal forms, procedural rules, and transcription company terms; anecdotal evidence from user platforms; and Freedom of Information data. The findings identify a critical data void — exemplified by the Ministry of Justice’s non-response to a May 2025 FOI request for transcript processing metrics — and propose targeted, low-resistance interventions across data collection, administrative procedures, user support, and provider contracts.
+
+[^1]: National Audit Office, *Improving Family Court Services for Children* (HC 877, 21 May 2025) 12.
+[^2]: Ibid.
+[^3]: *Children and Families Act 2014*, s 14(2); NAO (n 1) 15.
+[^4]: Courts and Tribunals Judiciary, *Family Court Annual Report: October 2023 to September 2024* (HMCTS, December 2024) 3.
+[^5]: Ibid 5.
+[^6]: Ibid 3.
+[^7]: Warners Solicitors, personal correspondence with the author, 15 June 2025.
+[^8]: Family Court Annual Report (n 4) 3.
+[^9]: Ibid 25; President of the Family Division, *The Transparency Review: Final Report* (Judiciary of England and Wales, 2021).
