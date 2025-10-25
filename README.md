@@ -92,5 +92,3 @@ Family courts face backlogs, abuse mishandling, and inequality. **Transcripts ar
 > **“We don’t need a revolution. We need a transcript.”**
 
 ---
-
-**All killer phrases included. Logic fixed. Ready to go.**
