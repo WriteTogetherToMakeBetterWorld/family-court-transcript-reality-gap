@@ -127,6 +127,8 @@ This reality gap empirically tests the article’s central hypothesis: if transc
 The existence of these deficits underscores both the urgency and the feasibility of least-resistance reforms—procedural adjustments that make transparency operational rather than aspirational.
 The next section develops this methodological logic by analysing anecdotal user evidence, court-form structures, and transcript-processing data to identify precisely where and how these breakdowns occur.
 
+Having established the theoretical and institutional logic, the next step is to test their validity against empirical evidence, beginning with the Ministry of Justice’s own data on transcripts.
+
 ## 5. The Data Void Exposed: Lessons from an FOI Request
 
 To test the hypothesis that transcripts serve as the bedrock of transparency, a logical starting point is to examine existing data on transcripts themselves — their availability, processing, and role in family law proceedings. However, as this section demonstrates, a profound "data void" exists, as revealed by J. Walker's May 20, 2025, Freedom of Information (FOI) request to the Ministry of Justice (MoJ). This request sought aggregate statistics (total requests, funding types, processing times, denials, and technical issues) for April 2024–2025, targeting data that should be routinely held for accountability purposes.
