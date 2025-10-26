@@ -155,11 +155,11 @@ Any oral orders or directions given by the court.
 They do not include written submissions like skeleton arguments — these are pre-prepared documents outlining parties' positions, submitted in advance and not spoken verbatim in court. Skeleton arguments are not transcribed but could be published separately as part of transparency initiatives to provide context for hearings (House of Commons Justice Committee, 2022). This article focuses exclusively on transcripts of oral proceedings, as they capture the dynamic, unfiltered reality of court interactions — the core of the "reality gap."
 The FOI's revelation of a data void underscores a critical question: How can transparency reforms succeed without basic metrics on transcripts, the primary source of verifiable court activity? This gap not only hinders reform but perpetuates crises like delays (e.g., untracked transcription backlogs) and bias (e.g., no data on how oral evidence is recorded in abuse cases). Addressing it requires mandatory reporting, aligning with TIG's data sub-group aims — a least-resistance step to prove the hypothesis viable.
 
-6. Practice-Based Assessment: Transcript Access, Approval, and Publication Barriers
+### 6. Practice-Based Assessment: Transcript Access, Approval, and Publication Barriers
 
 This chapter operationalises the hypothesis by examining how transcripts are actually obtained and published in the family courts of England and Wales. It combines (i) a documentary/procedural analysis of the rules, forms, and official guidance with (ii) a methodologically rigorous analysis of court-user anecdotes drawn from public sources. The goal is to identify concrete barriers, timings, and choke points that convert transparency aspirations into (or away from) practice.
 
-6.1 Methodology: Anecdotal Evidence from Court-System Users
+### 6.1 Methodology: Anecdotal Evidence from Court-System Users
 
 Purpose. To generate practice-level insight where official metrics are absent (§5), we synthesised user-reported experiences concerning transcript requests, costs, timescales, denials, and publication.
 
@@ -197,14 +197,14 @@ Output. A frequency table of barriers, median/percentile timelines by stage, and
 
 Why anecdote matters here. Where official metrics are missing, systematically analysed anecdotal data provides practice intelligence: it identifies the where and why of failure well enough to target low-resistance fixes.
 
-6.2 Documentary/Procedural Analysis (Rules, Forms, Guidance)
+### 6.2 Documentary/Procedural Analysis (Rules, Forms, Guidance)
 
 Instruments analysed. Family Procedure Rules 2010 (FPR), Practice Direction 5A (PD5A), transcript request forms/guidance (e.g., EX107 request, EX107GN guidance; EX105 where applicable), local practice notes where available, and judiciary/HMCTS notices relevant to recordings and approvals.
 
 Analytic focus. We map text to practice for three discrete phases (below), capturing:
 (i) mandatory steps, (ii) discretionary steps, (iii) documents exchanged, (iv) time expectations (stated vs. observed), and (v) failure points (with remedies, if any).
 
-6.3 The Three Phases in Practice (with measurable checkpoints)
+### 6.3 The Three Phases in Practice (with measurable checkpoints)
 Phase	What must happen	Documents / Actors	Typical time claims	Common failure points	Practical, low-resistance fixes
 A. Pre-Vendor (Court intake & permission)	Identify hearing/date; confirm audio exists; determine who may request; obtain permission if required.	Applicant; court listing; EX107 + fee; PD5A criteria; any anonymity directions.	Often quoted as 5–10 working days to authorise/forward to vendor.	Audio missing/corrupt; uncertainty over who may request; inconsistent permission practices; incomplete EX107.	Form redesign: tick-box for role (party/journalist/other) + hearing ID; auto-check audio existence before payment; template orders granting transcript for appeal prep.
 B. Vendor Stage (Transcription company)	Court sends audio; vendor quotes; requester pays (or provides LAA authority); transcription produced.	HMCTS-approved vendor; quote/invoice; LAA reference if public funding.	Claims of 10–15 working days (varies).	Long queues; unclear start clock (when did vendor receive audio?); per-minute costs opaque; returns for “inaudible” segments.	Time-stamped handover notice (court→vendor); quote standardisation (show per-minute rate, estimated total, SLA); escalation path for corrupt audio.
@@ -212,7 +212,7 @@ C. Judicial Approval & Publication	Judge reviews transcript; corrections/anonymi
 
 Key observation. Each phase currently contains opaque hand-offs (no shared clock, no “received” stamps) that make delay invisible and accountability diffuse.
 
-6.4 Findings from the Anecdotal Dataset (concise synthesis)
+### 6.4 Findings from the Anecdotal Dataset (concise synthesis)
 
 Delays concentrate at hand-offs. The longest spreads occur at: court→vendor transfer and post-production judicial approval. Users cannot tell when the clock starts.
 
@@ -226,7 +226,7 @@ Publication is exceptional, not ordinary. Even when transcripts are produced, re
 
 (In your full draft, drop in your Nfinal counts, medians, and a short table of theme frequencies.)
 
-6.5 Limitations
+### 6.5 Limitations
 
 Public posts are self-selected and skew toward problematic experiences; positive/neutral cases are under-reported.
 
@@ -236,7 +236,7 @@ Timings are user-reported (we triangulated where possible).
 
 The analysis is practice-facing, not a substitute for national administrative statistics (whose absence is itself a major finding).
 
-6.6 Immediate, Low-Resistance Process Improvements (derived from the above)
+### 6.6 Immediate, Low-Resistance Process Improvements (derived from the above)
 
 EX107 form update
 
