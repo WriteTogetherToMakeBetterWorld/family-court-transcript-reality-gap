@@ -155,24 +155,50 @@ These approaches imagine deeper cultural and structural shifts in how justice it
 
 ## 5. The Data Void Exposed: Lessons from an FOI Request
 
-To test the hypothesis that transcripts serve as the bedrock of transparency, a logical starting point is to examine existing data on transcripts themselves — their availability, processing, and role in family law proceedings. However, as this section demonstrates, a profound "data void" exists, as revealed by J. Walker's May 20, 2025, Freedom of Information (FOI) request to the Ministry of Justice (MoJ). This request sought aggregate statistics (total requests, funding types, processing times, denials, and technical issues) for April 2024–2025, targeting data that should be routinely held for accountability purposes.
-By October 26, 2025, after processing and an internal review, the response was partial and restrictive:
+Having built the logic that transparency depends on transcripts (§4.1), located that logic within the court system’s structures (§4.2), and revealed the empirical “reality gap” of missing transcription metrics (§4.3), we now move to the first stage of practical testing.  
+This section examines what the Ministry of Justice (MoJ) and associated court services actually hold in terms of transcript data — their availability, processing, refusal rates, and bottlenecks. The analysis is based on a Freedom of Information (FOI) request submitted by **J. Walker on 20 May 2025**, which sought aggregate statistics on transcript requests, funding types, processing times, denials, and technical issues for the period **April 2024–April 2025**.
 
-National statistics were withheld under Section 12(2) of the FOI Act 2000, citing cost exemption (limit £600).
-For Newcastle Civil and Family Court and Tribunals Centre specifics, data was "not held" due to no "legal or business requirement."
-Operational details were incomplete, with breakdowns by funding type (public/private) provided but no comprehensive metrics on denials or issues.
-The review upheld these decisions, breaching Section 16's duty to assist by not suggesting ways to refine the request (Walker, 2025). This opacity directly contravenes TIG's data collection goals and Justice Committee recommendations for mandatory metrics to establish baseline accountability (TIG Progress Report, 2022; House of Commons Justice Committee, 2022).
+### 5.1 Findings: The FOI Data Void
 
-Defining Transcripts in Family Law Proceedings
-Before delving deeper, clarity is needed on what transcripts encompass in family law. Transcripts are verbatim records of oral proceedings — the word-for-word documentation of what is said during hearings, including:
+By **26 October 2025**, after initial processing and an internal review, the MoJ’s response was **partial and restrictive**:
 
-Oral arguments by parties or counsel.
-Witness testimony and evidence presentation.
-Judicial comments, questions, and oral judgments (where not delivered in writing).
-Any oral orders or directions given by the court.
+- **National statistics** were withheld under *Section 12(2)* of the FOI Act 2000, citing the £600 cost-exemption limit.  
+- For **Newcastle Civil and Family Court and Tribunals Centre**, data was reported as *“not held”* because there was *“no legal or business requirement”* to record it.  
+- Operational details were incomplete: breakdowns by funding type (public/private) were provided, but there were no comprehensive metrics on denials, delays, or technical recording issues.  
+- The internal review upheld these decisions, breaching *Section 16’s duty to assist* by failing to advise how the request could be refined (Walker, 2025).  
 
-They do not include written submissions like skeleton arguments — these are pre-prepared documents outlining parties' positions, submitted in advance and not spoken verbatim in court. Skeleton arguments are not transcribed but could be published separately as part of transparency initiatives to provide context for hearings (House of Commons Justice Committee, 2022). This article focuses exclusively on transcripts of oral proceedings, as they capture the dynamic, unfiltered reality of court interactions — the core of the "reality gap."
-The FOI's revelation of a data void underscores a critical question: How can transparency reforms succeed without basic metrics on transcripts, the primary source of verifiable court activity? This gap not only hinders reform but perpetuates crises like delays (e.g., untracked transcription backlogs) and bias (e.g., no data on how oral evidence is recorded in abuse cases). Addressing it requires mandatory reporting, aligning with TIG's data sub-group aims — a least-resistance step to prove the hypothesis viable.
+This outcome exposes a **systemic transparency gap**: the absence of even basic statistical oversight over transcript processing. It directly contravenes the **Transparency Implementation Group (TIG)** data sub-group’s objectives and the **Justice Committee’s** 2022 recommendation that baseline metrics be collected and published for accountability (TIG Progress Report, 2022; House of Commons Justice Committee, 2022).
+
+### 5.2 Defining Transcripts in Family Law Proceedings
+
+Before analysing further, clarity is needed on what *“transcripts”* mean in this context.  
+In family proceedings, transcripts are **verbatim records of oral hearings** — the word-for-word account of what is said in court, including:
+
+- Oral arguments by parties or counsel  
+- Witness testimony and evidential exchanges  
+- Judicial questions, comments, and oral judgments (where not issued in writing)  
+- Oral orders or directions delivered in hearings  
+
+They **do not** include written submissions such as *skeleton arguments* or *position statements* — documents prepared in advance, not spoken verbatim.  
+However, as the **Justice Committee (2022)** and **Transparency & Open Justice Board (TOJ)** note, publishing such written materials alongside transcripts could, in future, provide valuable procedural context.  
+
+For this article, the focus remains on **oral transcripts** because they capture the *dynamic and unfiltered reality of courtroom dialogue* — the precise arena where discrepancies between speech and record create the “reality gap.”
+
+### 5.3 Implications: The Absence of Foundational Data
+
+The FOI’s revelation of a **data void** underscores a fundamental contradiction in current policy:  
+transparency reforms cannot succeed without basic, measurable data on the very instrument that enables transparency — the transcript.
+
+This gap perpetuates multiple systemic crises:  
+- **Delay**, through untracked transcription backlogs;  
+- **Bias**, through the absence of data on how survivor testimony or judicial reasoning is recorded;  
+- **Fragmentation**, as no inter-agency dataset exists for auditing performance or appeals.  
+
+Addressing this deficiency requires **mandatory reporting** on transcript requests, completions, delays, and denials — a *least-resistance* reform fully aligned with TIG’s data-collection goals.  
+
+In short, the **data void** is both an obstacle and a diagnostic tool. By revealing what is missing, it points to the precise structural levers through which transparency can move from aspiration to implementation.  
+The next section extends this empirical lens by analysing **user experiences, procedural forms, and procurement processes**, mapping where the transcript system breaks down in practice.
+
 
 ### 6. Practice-Based Assessment: Transcript Access, Approval, and Publication Barriers
 
