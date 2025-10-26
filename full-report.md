@@ -226,6 +226,27 @@ The goal is to identify concrete barriers, timings, and choke points that determ
 The first half of this analysis explores the *obtaining pathway*, focusing on procedural access, costs, and approval delays.  
 The following section (§7) extends the analysis to the *publication pathway*, evaluating how transcripts move — or fail to move — from private record to public resource.
 
+### 6.1 The Obtaining Pathway: From Request to Transcript
+
+This subsection analyses how transcripts are obtained, moving through three layers of the process:
+1. **Procedural Layer – Rules and Forms:** what the Family Procedure Rules (FPR 2010, PD 5A) prescribe, the EX107 form, the court’s two-day transfer rule, etc.  
+2. **Administrative Layer – Institutional and Procurement Practices:** who provides transcription (the six contracted companies), how often contracts change, pricing, funding, and bottlenecks between HMCTS and suppliers.  
+3. **Experiential Layer – User Realities:** what court users report (delays, denials, high costs, errors), drawn from public sources and FOI data.
+
+
+### 6.2 The Publication Pathway: From Transcript to Public Record
+
+This subsection uses the same three analytical layers to examine how transcripts move from private record to public resource:
+1. **Procedural Layer – Legal Permissions and Standards:** FPR 12G, 12D, TIG guidance on anonymisation, judicial authorisation, what is formally allowed.  
+2. **Administrative Layer – Systems and Costs:** who performs anonymisation, who pays, where files are hosted, the lack of central repository, TIG pilot frameworks.  
+3. **Experiential Layer – Access and Use:** experiences of journalists, academics, NGOs seeking transcripts; cases where publication enabled or denied; how families perceive fairness when publication is blocked.
+
+
+
+
+## 7. Reform Pathway: Least-Resistance Solutions and Future Directions
+
+Mess... Enjoying reading mess... here is a mess....
 
 ### 6.1 Methodology: Anecdotal Evidence from Court-System Users
 
