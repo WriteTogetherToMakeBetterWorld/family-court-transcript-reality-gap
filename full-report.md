@@ -1,5 +1,3 @@
----
-title: "Unlocking Family Justice: Transcripts as the Keystone for Transparency, Accountability, and Reform"
 
 # Abstract
 
@@ -14,8 +12,6 @@ These **least-resistance reforms** leverage existing infrastructure (TIG pilots,
 
 **Word count**: 240  
 **Keywords**: family courts, transparency, court transcripts, open justice, least-resistance reform, reality gap
-
----
 
 ## 1. The Crises: Symptoms of Systemic Failure
 
