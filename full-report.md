@@ -203,10 +203,29 @@ The next section extends this empirical lens by analysing **user experiences, pr
 
 While the FOI response reveals systemic opacity, user experiences show its human cost.
 
-MESS - DO REDO!!!!! - ENJOYING READING MESS? READ MESS. iT STARTS HERE....
-### 6. Practice Analysis: Access, Approval, and Publication Barriers
+## 6. Practice Analysis: Two Pathways of Transparency — Obtaining and Publishing Transcripts
 
-This chapter operationalises the hypothesis by examining how transcripts are actually obtained and published in the family courts of England and Wales. The articles refocus returining to its fundamenat conceptual frameing, i.e. how can we bring about the change with the least resistance and greatest impact? It combines (i) a documentary/procedural analysis of the rules, forms, and official guidance with (ii) a methodologically rigorous analysis of court-user anecdotes drawn from public sources. The goal is to identify concrete barriers, timings, and choke points that convert transparency aspirations into (or away from) practice.
+The preceding sections established why transcripts are the bedrock of transparency and how the system currently fails to monitor them.  
+This section begins a practice-based examination of **two interdependent transparency pathways**:
+
+1. **The Obtaining Pathway** — how transcripts are requested, produced, and approved; and  
+2. **The Publication Pathway** — how transcripts are anonymised, shared, and used to enable accountability and learning.
+
+These two processes are conceptually distinct but functionally inseparable.  
+**If reform stops at improving how transcripts are obtained, without enabling their publication, transparency remains private.**  
+Knowledge of judicial reasoning, error, and bias would stay confined to the individual family, never transferring into institutional learning or precedent-based improvement.  
+Thus, the *linkage* between obtaining and publishing is itself the critical reform step — the point where personal justice becomes systemic justice.
+
+This chapter operationalises the central hypothesis by examining how transcripts are actually obtained and, where possible, made public in the family courts of England and Wales.  
+It returns to the article’s fundamental conceptual framing: **how can change be achieved with the least resistance yet the greatest systemic impact?**  
+To answer this, the analysis combines  
+(i) a **documentary and procedural review** of existing rules, forms, and official guidance, with  
+(ii) a **methodologically structured analysis of court-user anecdotes** drawn from public sources.  
+The goal is to identify concrete barriers, timings, and choke points that determine whether transparency remains an aspiration or becomes a lived practice.
+
+The first half of this analysis explores the *obtaining pathway*, focusing on procedural access, costs, and approval delays.  
+The following section (§7) extends the analysis to the *publication pathway*, evaluating how transcripts move — or fail to move — from private record to public resource.
+
 
 ### 6.1 Methodology: Anecdotal Evidence from Court-System Users
 
