@@ -1,14 +1,5 @@
 # Unlocking Family Justice: Transcripts as the Keystone for Transparency, Accountability, and Reform
 
----
-title: "The Family Court Transcript Reality Gap: Systemic Crises and the Urgent Need for Verbatim Accountability"
-author: "Research Collective"
-date: "2025-10-26"
-tags: ["family-justice", "court-transcripts", "transparency", "systemic-delay", "open-justice"]
----
-
-# Systemic Crises in the UK Family Courts: An Analysis of Procedural Failings, Delays, and the Impact on Vulnerable Families
-
 ## Introduction
 
 The Family Courts of the United Kingdom are entrusted with one of society’s most profound responsibilities: to protect the welfare of children, adjudicate on the most intimate aspects of family life, and provide a forum for the just resolution of disputes. However, the central thesis of this analysis is that the family justice system is currently in the grip of a multi-faceted crisis. It is a system beset by systemic dysfunction, a profound failure to adequately address domestic abuse, and, as a consequence, severe and damaging outcomes for the children and families it is designed to serve. This article will examine the key areas of this crisis, including the chronic operational backlogs that delay justice, the fragmented governance that undermines accountability, the pervasive "pro-contact culture" that can compromise safety, and the tangible human cost of these failings. Despite ongoing and well-intentioned reform efforts, these deep-seated problems persist. Drawing upon official reports from bodies such as the National Audit Office, data from third-sector organisations, and stakeholder testimony, this article provides a systems-level analysis of these interlocking crises and the challenging path towards meaningful reform. **These systemic issues also amplify the "reality gap" in court transcripts, where delays and inaccuracies in verbatim records hinder appeals and perpetuate unfair outcomes, underscoring the need for improved transcription processes as a key reform area.**
