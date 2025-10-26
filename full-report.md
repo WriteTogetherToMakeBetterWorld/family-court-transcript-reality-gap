@@ -1,8 +1,5 @@
 ---
 title: "Unlocking Family Justice: Transcripts as the Keystone for Transparency, Accountability, and Reform"
-author: "Karolina"
-date: "2025-10-26"
-tags: ["family-justice", "court-transcripts", "transparency", "open-justice", "systemic-reform", "least-resistance"]
 
 # Abstract
 
