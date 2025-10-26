@@ -124,6 +124,42 @@ Any oral orders or directions given by the court.
 They do not include written submissions like skeleton arguments — these are pre-prepared documents outlining parties' positions, submitted in advance and not spoken verbatim in court. Skeleton arguments are not transcribed but could be published separately as part of transparency initiatives to provide context for hearings (House of Commons Justice Committee, 2022). This article focuses exclusively on transcripts of oral proceedings, as they capture the dynamic, unfiltered reality of court interactions — the core of the "reality gap."
 The FOI's revelation of a data void underscores a critical question: How can transparency reforms succeed without basic metrics on transcripts, the primary source of verifiable court activity? This gap not only hinders reform but perpetuates crises like delays (e.g., untracked transcription backlogs) and bias (e.g., no data on how oral evidence is recorded in abuse cases). Addressing it requires mandatory reporting, aligning with TIG's data sub-group aims — a least-resistance step to prove the hypothesis viable.
 
+## 6. Practice-Based Assessment: Transcript Access, Approval, and Publication Barriers
+
+Building on the data void exposed in Section 5 and the logical mapping in Section 4, this section shifts to a practice-based assessment — examining the reality of obtaining and publishing transcripts in family law. If the hypothesis holds (transcripts as bedrock), we must test viability through real-world barriers. This draws on thematic analysis of administrative processes (FPR 2010, PD 5A) and anecdotal data from court users (e.g., FOI responses, stakeholder forums like JustAnswer). Themes: delays, costs, denials, and publication restrictions.
+
+### Defining Transcripts in Family Law Proceedings
+
+Transcripts are **verbatim records of oral proceedings** — capturing what is spoken in court, including arguments, testimony, judicial questions, oral judgments, and directions (Family Procedure Rules 2010 [FPR], Practice Direction 5A [PD 5A]). They include:  
+- Oral judgments (spoken reasons for decisions, e.g., Child Arrangements Orders [CAO]).  
+- Full hearing dialogue (case management, trials, evidence).  
+- Oral orders (spoken in court, even if later written).  
+
+They do not include **written submissions like skeleton arguments** — pre-hearing documents outlining parties' positions (FPR r 18.1). Skeletons are not spoken/transcribed but could be published separately for context (House of Commons Justice Committee, 2022).
+
+This article limits focus to oral proceedings/transcripts, as they address the "reality gap" (spoken vs. recorded). Critical question: Should it expand to written materials? No — oral is priority for viability (low-resistance reform). But skeletons/other documents (e.g., position statements) warrant consideration for full transparency (TOJ board p. 2: "core documents").
+
+### Regulations Governing Transcripts
+
+Transcripts are regulated under FPR 2010 and PD 5A:  
+- **Request process**: Apply via EX107 form; court approval required (PD 5A para 4.1).  
+- **Funding**: Public via legal aid; private parties pay (up to £2.50/minute).  
+- **Delivery**: HMCTS-contracted transcriber; judicial approval for appeals (FPR r 5.5).  
+- **Limits**: Anonymity mandatory (FPR r 12.73); no automatic publication (TIG pilots test redacted sharing).  
+
+Critical question: Do regulations block reform? No — PD 5A allows provisional release; fixes like EX107 updates can streamline.
+
+### User Anecdotes: Access Issues and Impacts
+
+Anecdotal data from users (e.g., JustAnswer forums) highlights barriers:  
+- **Delays**: "Requests take months; appeals stall" (FLAG DV, 2024).  
+- **Denials**: "Judge denied access — no reason given" (JustAnswer, 2025 user query).  
+- **Costs**: "£1,000+ for a hearing — unaffordable for LIPs" (Transparency Project, 2023b).  
+- **Inaccuracy**: "Transcript omitted key exchanges, letting bias slide" (Justice Committee testimony, 2022).  
+
+Themes: Gatekeeping (judicial approval blocks appeals); inequity (LIPs disadvantaged). This tests hypothesis: Inaccessible transcripts perpetuate crises (e.g., delays from re-hearings). TIG's data sub-group recommends mandatory metrics (2022) — a least-resistance fix.
+
+This void demands action: Routinely collected data would prove transcripts' viability.
 ## 6. Analysing Barriers: Processes, Experiences, and Procurement
 
 To identify low-resistance mechanisms for boosting transcript production/publication, this analysis draws on documents, user anecdotes, and procurement.
