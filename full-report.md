@@ -1,16 +1,12 @@
 # Unlocking Family Justice: Transcripts as the Keystone for Transparency, Accountability, and Reform
 
-*By Karolina — October 2025*
-
----
-
 ## 1. Introduction: The Deepening Crisis in Family Justice
 
 The family justice system in England and Wales is mired in a crisis of delays, backlogs, and systemic failures that inflict lasting harm on children and families. As detailed in the National Audit Office (NAO) report of May 2025, nearly 50,000 family cases remained unresolved by December 2024, comprising 10,121 public law applications (local authority-initiated child protection cases) and 37,541 private law disputes (parental conflicts over child arrangements like residence or contact). Updated figures from the Ministry of Justice's Family Court Statistics Quarterly for July to September 2025 indicate persistent pressures, with 65,709 new cases started in the prior quarter (April to June 2025) and a slight 4% reduction in open private law cases to 16,061 by September's end. Over 4,000 children continue to wait more than two years for substantive hearings, far exceeding the statutory 26-week limit for care proceedings under the Children and Families Act 2014—a benchmark unmet since its enactment over a decade ago.
 
 Domestic abuse permeates 90% of private law cases, yet a entrenched "pro-contact culture" often prioritizes parental involvement over child safety, leading to mishandled allegations and ongoing risks. Access barriers compound the issue: "advice deserts" in underserved areas deprive many of legal support, while digital exclusion impacts 33% of the population, barring effective engagement with online systems. Appeals frequently collapse due to transcripts—verbatim records essential for verifying proceedings—being delayed, costly, or unavailable.
 
-This is not just inefficiency; it is systemic re-traumatization. Prolonged uncertainty exacerbates emotional harm, with the annual cost of family justice escalating to £1.8 billion and legal aid per case doubling to £12,000. As the Byline Times reported in May 2025, thousands of children endure years in limbo amid rising costs and fragmented oversight. The House of Commons Public Accounts Committee (PAC) in September 2025 lambasted the government's "lack of urgency," highlighting regional disparities where cases resolve in 18 weeks in Wales but 70 weeks in London, driven by shortages of district judges and social workers.
+This is not just inefficiency; it is systemic re-traumatization. Prolonged uncertainty exacerbates emotional harm, with the annual cost of family justice escalating to £1.8 billion and legal aid per case doubling to £12,000. As the Byline Times reported in May 2025, thousands of children endure years in limbo amid rising costs and fragmented oversight. The House of Commons Public Accounts Committee's September 2025 report lambasted the government's "lack of urgency," highlighting regional disparities where cases resolve in 18 weeks in Wales but 70 weeks in London, driven by shortages of district judges and social workers.
 
 ## 2. Reforms Amid Persistent Hurdles: Signs of Progress and Gaps
 
@@ -83,29 +79,3 @@ Key phrases: "Family courts reinvent the wheel—transcripts are the blueprint."
 ## 9. Conclusion: A Call to Action for Verifiable Justice
 
 The family justice crisis demands bold, evidence-driven reform. Transparency, evolved since 2021, holds promise, but transcripts are its foundation. By implementing these interventions, we can reduce delays, expose harms, and restore trust—safeguarding children. Policymakers: Prioritize transcript reforms in TIG agendas. Stakeholders: Advocate via petitions to MoJ or MPs. Join the push—contact transparency@judiciary.uk or support NatCen evaluations. Together, unlock justice for a better world.
-
----
-
-## Sources — Full Text from 7 Documents
-
-### 1. Warners Solicitors – The State of English Family Court Delays in 2024
-```text
-The State of English Family Court Delays in 2024
-
-Family court delays in England have reached concerning levels in 2024, causing significant distress for families navigating the legal system. The delays affect various types of cases, from child custody disputes to care proceedings and have far-reaching consequences for children and parents alike.
-
-The Scale of the Problem
-
-As of 2024, the average time for private law cases, which typically involve disputes between separated parents over child arrangements, has increased to 47 weeks from application to final order. This means families are waiting nearly a year for resolution, a situation that can exacerbate tensions and negatively impact the well-being of children.
-
-In public law cases, which often involve local authorities and child protection issues, the situation is equally troubling. Only 23% of these cases are being resolved within the target timeframe of 26 weeks set by the Public Law Outline (PLO). The average duration for public law cases has risen to 44 weeks, the highest level in nearly a decade.
-
-Impact on Families and Children
-
-The consequences of these delays are profound:
-
-Increased conflict: Prolonged legal battles can intensify animosity between parents, making it harder to reach amicable agreements.
-
-Emotional harm: Children caught in the middle of these disputes experience unnecessary stress and emotional turmoil.
-
-Financial strain: Extended legal proceedings can lead to mounting costs for families.
