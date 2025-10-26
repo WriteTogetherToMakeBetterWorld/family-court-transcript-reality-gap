@@ -134,6 +134,25 @@ The existence of these deficits underscores both the urgency and the feasibility
 
 The next section develops this methodological logic by analysing anecdotal user evidence, court-form structures, and transcript-processing data to identify precisely where and how these breakdowns occur.
 
+### 4.4 Beyond the Present Logic: Larger Paradigms and Least-Resistance Change
+
+While this article focuses on practical reforms achievable within the current rules and infrastructure, it is important to recognise that more transformative paradigms of transparency are possible.  
+These approaches imagine deeper cultural and structural shifts in how justice itself is conceived — shifts that challenge not only practice but the underlying logic of how courts define truth, ownership, and participation.
+
+#### Alternative Paradigms of Transparency
+
+1. **From Permission to Presumption**  
+   - *Current logic:* Secrecy by default — transcripts and publication require judicial permission.  
+   - *Alternative:* Openness by default — transcripts automatically created and anonymised unless there are compelling reasons to restrict them.  
+   - *Shift:* From *“transparency if justified”* to *“secrecy if justified.”*  
+   - *Example:* The Transparency Reporting Pilot’s expansion (now standard via Practice Directions PD12R and PD14G as of January 2025) allows accredited journalists to report on hearings unless restricted, signalling a systemic move toward openness across all tiers, as noted in the TIG Progress Report and the President’s April 2025 View.
+
+2. **From Private Ownership to Shared Record**  
+   - *Current logic:* Recordings belong to the court; access is a privilege.  
+   - *Alternative:* Transcripts treated as a **jointly owned civic record** or public knowledge asset, managed through neutral digital archives or “justice data trusts.”  
+   - *Shift:* From *“court property”* to *“public resource.”*  
+   - *Example:* The Transparency & Open Justice Board’s Key Objectives (2024) describe core documents — judgments, evidence, and transcripts — as a public resource, with TIG’s anonym
+
 ## 5. The Data Void Exposed: Lessons from an FOI Request
 
 To test the hypothesis that transcripts serve as the bedrock of transparency, a logical starting point is to examine existing data on transcripts themselves — their availability, processing, and role in family law proceedings. However, as this section demonstrates, a profound "data void" exists, as revealed by J. Walker's May 20, 2025, Freedom of Information (FOI) request to the Ministry of Justice (MoJ). This request sought aggregate statistics (total requests, funding types, processing times, denials, and technical issues) for April 2024–2025, targeting data that should be routinely held for accountability purposes.
