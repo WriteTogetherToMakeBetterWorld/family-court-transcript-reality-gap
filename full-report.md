@@ -42,7 +42,9 @@ According to the NAO, it is not yet possible to track a child’s journey throug
 
 These high-level systemic failures of timeliness, governance, and data create a dysfunctional environment that critically undermines the court’s ability to deliver just, timely, and verifiable outcomes — the very foundation of family stability.
 
-## 2. Reforms Amid Persistent Hurdles: Signs of Progress and Gaps
+These high-level systemic failures of timeliness, governance, and data create a dysfunctional environment that critically undermines the court’s ability to deliver just, timely, and verifiable outcomes — the very foundation of family stability.
+
+## 2. Transparency Framework and Evolution: From Principle to Implementation
 
 Reform efforts offer glimmers of hope. The Family Court’s Annual Report for October 2023 to September 2024 acknowledges the "substantial backlog" but spotlights initiatives like the relaunched Public Law Outline (PLO), designed to enforce pre-proceedings management and the 26-week timeline (Judiciary, 2024). The Pathfinder pilot, emphasising child-centred approaches via early Child Impact Reports from CAFCASS or Cafcass Cymru, is now live in North Wales, South East Wales, Dorset, and Birmingham, with backlogs of legacy cases nearly cleared and average durations reduced by 11 weeks (Judiciary, 2024).
 
@@ -62,7 +64,7 @@ Expert views reinforce transparency's catalytic role: NatCen's 2025 pilot evalua
 
 Challenges persist: inconsistent data, resistance, and a "data void" (House of Commons Justice Committee, 2023). Yet, transparency is evolving from peripheral to central philosophy, **with this article proposing it as the unifying force directly responding to the symptoms of crises** — though not yet fully harnessed in current policy frameworks.
 
-## 4. Logical Mapping: Crisis Symptoms → Transparency Deficits → Transcripts as Bedrock
+## 4. Logical Mapping: From Crises to Transparency Deficits
 
 Before mapping transparency deficits, it helps to clarify how the argument is structured.  
 **First**, this section explains *why* the family-court crises are rooted in opacity and how transcripts provide the visibility needed to repair them (macro level).  
@@ -96,7 +98,7 @@ They turn process into data, dialogue into evidence, and judgment into verifiabl
 
 ---
 
-### 4.2 Institutional Logic: Embedding Reform through the Transparency Implementation Group
+### 4.2 Institutional Logic: Embedding Transparency in Governance
 
 Having established why transcripts matter conceptually, the next question is *where* this remedy can be operationalised.  
 The answer lies within the **Transparency Implementation Group (TIG)** — the body created by the President of the Family Division to translate transparency principles into day-to-day judicial practice.  
@@ -153,7 +155,7 @@ These approaches imagine deeper cultural and structural shifts in how justice it
    - *Shift:* From *“court property”* to *“public resource.”*  
    - *Example:* The Transparency & Open Justice Board’s Key Objectives (2024) describe core documents — judgments, evidence, and transcripts — as a public resource, with TIG’s anonym
 
-## 5. The Data Void Exposed: Lessons from an FOI Request
+## 5. Empirical Testing: The Data Void Exposed
 
 Having built the logic that transparency depends on transcripts (§4.1), located that logic within the court system’s structures (§4.2), and revealed the empirical “reality gap” of missing transcription metrics (§4.3), we now move to the first stage of practical testing.  
 This section examines what the Ministry of Justice (MoJ) and associated court services actually hold in terms of transcript data — their availability, processing, refusal rates, and bottlenecks. The analysis is based on a Freedom of Information (FOI) request submitted by **J. Walker on 20 May 2025**, which sought aggregate statistics on transcript requests, funding types, processing times, denials, and technical issues for the period **April 2024–April 2025**.
@@ -199,8 +201,10 @@ Addressing this deficiency requires **mandatory reporting** on transcript reques
 In short, the **data void** is both an obstacle and a diagnostic tool. By revealing what is missing, it points to the precise structural levers through which transparency can move from aspiration to implementation.  
 The next section extends this empirical lens by analysing **user experiences, procedural forms, and procurement processes**, mapping where the transcript system breaks down in practice.
 
+While the FOI response reveals systemic opacity, user experiences show its human cost.
+
 MESS - DO REDO!!!!! - ENJOYING READING MESS? READ MESS. iT STARTS HERE....
-### 6. Practice-Based Assessment: Transcript Access, Approval, and Publication Barriers
+### 6. Practice Analysis: Access, Approval, and Publication Barriers
 
 This chapter operationalises the hypothesis by examining how transcripts are actually obtained and published in the family courts of England and Wales. The articles refocus returining to its fundamenat conceptual frameing, i.e. how can we bring about the change with the least resistance and greatest impact? It combines (i) a documentary/procedural analysis of the rules, forms, and official guidance with (ii) a methodologically rigorous analysis of court-user anecdotes drawn from public sources. The goal is to identify concrete barriers, timings, and choke points that convert transparency aspirations into (or away from) practice.
 
