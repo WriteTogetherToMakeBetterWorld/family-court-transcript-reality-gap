@@ -201,7 +201,7 @@ Addressing this deficiency requires **mandatory reporting** on transcript reques
 In short, the **data void** is both an obstacle and a diagnostic tool. By revealing what is missing, it points to the precise structural levers through which transparency can move from aspiration to implementation.  
 The next section extends this empirical lens by analysing **user experiences, procedural forms, and procurement processes**, mapping where the transcript system breaks down in practice.
 
-While the FOI response reveals systemic opacity, user experiences show its human cost.
+While the FOI response reveals systemic opacity, user experiences show its human cost. The following analysis proceeds via two interlinked pathways of transparency — one concerned with how transcripts are obtained, the other with how they are published. Section 6 begins with the former; Section 6.2 will address the latter.”
 
 ## 6. Practice Analysis: Two Pathways of Transparency — Obtaining and Publishing Transcripts
 
