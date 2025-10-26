@@ -64,51 +64,68 @@ Challenges persist: inconsistent data, resistance, and a "data void" (House of C
 
 ## 4. Logical Mapping: Crisis Symptoms → Transparency Deficits → Transcripts as Bedrock
 
-The working assumption of this article is that the multiple crises of the family justice system — delay, fragmentation, bias, and harm — are not merely accompanied by transparency deficits; they are driven by them. Each symptom of dysfunction is mirrored by an information failure: delayed judgments by missing transcripts, inconsistent practice by opaque governance, and inequitable outcomes by the absence of verifiable records.
+Before mapping transparency deficits, it is necessary to outline the three analytical layers that guide this section and the chapters that follow.
+First, the macro-logic establishes the conceptual foundation: the crises of the family justice system are symptoms of opacity, and transcripts represent the structural remedy.
+Second, the institutional-logic locates that remedy within existing governance mechanisms, particularly the Transparency Implementation Group (TIG) and the Transparency & Open Justice (TOJ) Board.
+Third, the methodological-logic (developed in Section 5) tests this theory empirically by analysing user-level evidence, court-form design, and transcript-processing data to expose procedural bottlenecks.
+Together, these logics move from theoretical justification, through institutional embedding, toward empirical verification—building a coherent framework for diagnosing and ultimately reforming the family-court transcript system.
 
-This analysis therefore treats transparency not as a peripheral reform, but as the mechanism through which the other crises can be resolved. The logical mapping that follows demonstrates how transparency deficits generate systemic harm — and how transcripts, as the bedrock of verifiable truth, provide a direct and practical means of repair.
+4.1 Macro-Logic: Mapping Transparency Deficits to Transcript Solutions
 
-To begin, we must establish **how transcripts are the bedrock of transparency**. Transcripts provide the verbatim, objective record of proceedings — the raw material for scrutiny, data, and reform. Without them, transparency is superficial: summaries can distort, notes can omit, and judgments can diverge from what was said. The hypothesis assumes transcripts are viable — but to test it, we map crises to deficits, then deficits to transcripts.
+The working assumption of this article is that the multiple crises of the family justice system—delay, fragmentation, bias, and harm—are not merely accompanied by transparency deficits; they are driven by them.
+Each symptom of dysfunction is mirrored by an information failure: delayed judgments by missing transcripts, inconsistent practice by opaque governance, and inequitable outcomes by the absence of verifiable records.
 
-The mapping below tests the hypothesis: Each crisis symptom links to a transparency deficit, and transcripts resolve both.
+This analysis therefore treats transparency not as a peripheral reform but as the mechanism through which the other crises can be resolved.
+Transcripts provide the verbatim, objective record of proceedings—the raw material for scrutiny, data, and reform.
+Without them, transparency is superficial: summaries can distort, notes can omit, and judgments can diverge from what was said.
+The mapping below tests the hypothesis that each crisis symptom links to a transparency deficit and that transcripts resolve both.
 
-| Crisis Symptom | Transparency Deficit | Transcript Mechanism of Resolution | Evidence |
-|---------------|----------------------|------------------------------------|----------|
-| **Chronic delay and backlog** | No real-time visibility into what happens in hearings; orders and judgments depend on recollection rather than record; appeal preparation stalls while waiting for approval. | Provisional release of transcripts upon completion enables immediate review and correction, shortening appeal cycles and clarifying contested facts without additional hearings. | Warners Solicitors (2024); Walker FOI (2025) |
-| **Fragmented governance and weak accountability** | Multiple agencies (MoJ, DfE, HMCTS, Cafcass) operate on inconsistent data; no unified audit trail of proceedings. | Centralised transcript repository provides a shared evidential record accessible to oversight bodies, closing the inter-agency information gap and enabling performance monitoring. | TIG Progress Report (2022) |
-| **Data deficit and absence of systemic learning** | Case outcomes cannot be linked to process data; policy is based on anecdote. | Machine-readable transcript metadata (dates, issues, outcomes) allows longitudinal research and evidence-based policy evaluation. | NAO (2025); TIG Data Sub-group (2022) |
-| **Pro-contact bias and minimisation of abuse** | Absence of verifiable records allows mischaracterisation of testimony; survivors’ accounts often reduced or paraphrased in judgments. | Verbatim transcripts preserve survivor voice and reveal judicial framing, enabling scrutiny of bias and compliance with Practice Direction 12J and Article 6 ECHR fairness standards. | Bureau of Investigative Journalism (2025) |
-| **Erosion of public trust and perceived secrecy** | Hearings are private, judgments rarely published, and media access restricted; the system appears closed. | Redacted or anonymised transcript publication operationalises the Transparency and Open Justice Board’s principles, demonstrating accountability while protecting privacy. | House of Commons Justice Committee (2022) |
-| **Human harm** (re-traumatisation, instability) | Lack of verifiable outcomes | Accurate records reduce re-hearings, enable trust | FLAG DV (2024); Byline Times (2025) |
+Crisis Symptom	Transparency Deficit	Transcript Mechanism of Resolution	Evidence
+Chronic delay and backlog	No real-time visibility into hearings; orders depend on recollection; appeal preparation stalls.	Provisional release of transcripts enables immediate review and correction, shortening appeal cycles.	Warners Solicitors (2024); Walker FOI (2025)
+Fragmented governance and weak accountability	Agencies (MoJ, DfE, HMCTS, Cafcass) operate on inconsistent data.	Centralised transcript repository provides shared evidential record for oversight.	TIG Progress Report (2022)
+Data deficit and absence of systemic learning	Outcomes cannot be linked to process data; policy based on anecdote.	Machine-readable transcript metadata allows longitudinal, evidence-based policy.	NAO (2025); TIG Data Sub-group (2022)
+Pro-contact bias and minimisation of abuse	No verifiable record of testimony; survivor voice reduced in judgments.	Verbatim transcripts reveal judicial framing, enabling bias scrutiny and PD 12J / Article 6 ECHR compliance.	Bureau of Investigative Journalism (2025)
+Erosion of public trust and perceived secrecy	Hearings private; judgments seldom published.	Redacted transcript publication operationalises TOJ principles.	House of Commons Justice Committee (2022)
+Human harm (re-traumatisation, instability)	Lack of verifiable outcomes and feedback loop.	Accurate records reduce re-hearings and rebuild confidence.	FLAG DV (2024); Byline Times (2025)
 
-**Conclusion of Mapping**:  
-> **Every crisis symptom is a transparency deficit. Every transparency deficit is a transcript deficit.** In this model, transcripts act as the connective tissue between transparency and reform. They turn process into data, dialogue into evidence, and judgment into verifiable record — a low-cost intervention with high systemic leverage.
+Conclusion of Mapping
 
-By embedding transcription improvement within existing structures, transparency ceases to be a rhetorical aspiration and becomes a measurable, actionable reform pathway.
+Every crisis symptom is a transparency deficit. Every transparency deficit is a transcript deficit.
 
-### TIG Sub-Groups: Transcripts as Logical Bedrock
+In this model, transcripts act as the connective tissue between transparency and reform.
+They turn process into data, dialogue into evidence, and judgment into verifiable record—a low-cost intervention with high systemic leverage.
 
-TIG's five sub-groups **depend on transcripts** — not as an add-on, but as **operational necessity**:
+4.2 Institutional-Logic: Embedding Reform through the Transparency Implementation Group
 
-| TIG Sub-Group | Transparency Goal | Transcript Role | Source |
-|---------------|-------------------|-----------------|--------|
-| **Press reporting** | Accurate, anonymised journalism | Verbatim record prevents misreporting | Transparency Project (2021) |
-| **Data collection** | Reliable metrics on delays/abuse | Only source for objective data | TIG Data Sub-group (2022) |
-| **Media engagement** | Safe public sharing | Redacted transcripts = controlled openness | Justice Committee (2022) |
-| **Judgment publication** | Published rulings reflect reality | Ensures written judgment matches oral | Judiciary (undated) |
-| **Financial remedies** | Prevent post-hearing disputes | Captures verbal agreements | Judiciary (2022) |
+Having established why transcripts matter conceptually, the next question is where this remedy can be operationalised.
+The answer lies within the Transparency Implementation Group (TIG)—the body created by the President of the Family Division to translate transparency principles into day-to-day judicial practice.
+Each of TIG’s five sub-groups depends on transcripts not as an accessory but as an operational necessity.
 
-**Without transcripts, TIG fails.**
+TIG Sub-Group	Transparency Goal	Transcript Role	Source
+Press reporting	Enable accurate, anonymised journalism.	Verbatim records prevent misreporting and misquotation.	Transparency Project (2021)
+Data collection	Create reliable metrics on delay and abuse.	Transcripts are the only objective source of process data.	TIG Data Sub-group (2022)
+Media engagement	Facilitate safe public communication.	Redacted transcripts provide controlled openness.	Justice Committee (2022)
+Judgment publication	Ensure published rulings reflect reality.	Transcripts verify that written judgments match oral findings.	Judiciary (undated)
+Financial remedies	Prevent post-hearing disputes.	Captures verbal agreements and reasoning accurately.	Judiciary (2022)
 
-### The Reality Gap: Defined and Proven
+Without transcripts, the TIG architecture cannot function as designed.
 
-| Gap | Evidence |
-|-----|----------|
-| **Transcript inaccessibility** | FOI: Denials for "recording issues" (Walker, 2025) |
-| **No national data** | MoJ admits no central tracking (Walker, 2025) |
-| **Appeal delays** | Provisional release blocked by judicial approval |
+The institutional logic therefore confirms the macro-hypothesis: transparency depends on transcription.
+Where transcripts are missing or delayed, TIG’s goals—accurate reporting, data integrity, and public accountability—become structurally impossible to deliver.
 
-**This is the "reality gap"** — the disconnect between **what is said in court** and **what is recorded, shared, or used**. This gap tests the hypothesis: if transcripts are inaccessible, transparency cannot resolve crises. But as the mapping shows, they are viable — with least-resistance fixes.
+4.3 Empirical Validation: The Reality Gap
+
+The mapping and institutional framework show what should work; empirical evidence shows why it still does not.
+Freedom-of-Information disclosures and Ministry of Justice statements reveal a persistent reality gap—the disconnect between what is said in court and what is recorded, shared, or used.
+
+Gap	Evidence
+Transcript inaccessibility	FOI responses citing “recording issues” as grounds for denial (Walker 2025).
+No national data	MoJ confirms absence of a central transcript-tracking system (Walker 2025).
+Appeal delays	Provisional release blocked pending judicial approval, compounding procedural backlog.
+
+This reality gap empirically tests the article’s central hypothesis: if transcripts remain inaccessible, transparency cannot resolve crises.
+The existence of these deficits underscores both the urgency and the feasibility of least-resistance reforms—procedural adjustments that make transparency operational rather than aspirational.
+The next section develops this methodological logic by analysing anecdotal user evidence, court-form structures, and transcript-processing data to identify precisely where and how these breakdowns occur.
 
 ## 5. The Data Void Exposed: Lessons from an FOI Request
 
