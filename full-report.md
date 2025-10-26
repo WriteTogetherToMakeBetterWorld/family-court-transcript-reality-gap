@@ -202,7 +202,7 @@ The next section extends this empirical lens by analysing **user experiences, pr
 MESS - DO REDO!!!!! - ENJOYING READING MESS? READ MESS. iT STARTS HERE....
 ### 6. Practice-Based Assessment: Transcript Access, Approval, and Publication Barriers
 
-This chapter operationalises the hypothesis by examining how transcripts are actually obtained and published in the family courts of England and Wales. It combines (i) a documentary/procedural analysis of the rules, forms, and official guidance with (ii) a methodologically rigorous analysis of court-user anecdotes drawn from public sources. The goal is to identify concrete barriers, timings, and choke points that convert transparency aspirations into (or away from) practice.
+This chapter operationalises the hypothesis by examining how transcripts are actually obtained and published in the family courts of England and Wales. The articles refocus returining to its fundamenat conceptual frameing, i.e. how can we bring about the change with the least resistance and greatest impact? It combines (i) a documentary/procedural analysis of the rules, forms, and official guidance with (ii) a methodologically rigorous analysis of court-user anecdotes drawn from public sources. The goal is to identify concrete barriers, timings, and choke points that convert transparency aspirations into (or away from) practice.
 
 ### 6.1 Methodology: Anecdotal Evidence from Court-System Users
 
