@@ -300,6 +300,111 @@ By combining open, replicable user accounts with documentary corroboration, the 
 (i) mandatory steps, (ii) discretionary steps, (iii) documents exchanged, (iv) time expectations (stated vs observed), (v) failure points.
 
 ---
+#### 6.2.A Forms & Guidance: What They Explicitly Say About Transcripts (E&W)
+
+This sub-section audits the *official* documents that a court-user or practitioner actually touches when seeking a transcript. It extracts what is **explicitly stated** (deadlines/SLAs, who can apply, costs) and flags **hidden dependencies** (internal court handling; judicial approval) that the forms/guidance do not time-box but which directly affect appeal timetables.
+
+> Jurisdiction: England & Wales. Sources: EX107, EX107 Guidance (EX107GN), EX105, EX160A (Help with Fees guidance), FP161 (Family Appellant’s Notice) / N161 (Civil Appellant’s Notice), Court of Appeal Guide (latest edition).
+
+##### FP161 / N161 — Appellant’s Notice (Family / Civil)
+
+| Element | Quoted / paraphrased content | Explicit deadline | Hidden dependency | Clarity / Problem | Possible fix |
+|---|---|---:|---|---|---|
+| Required docs | “Transcript or note of judgment” to accompany the notice (or asap thereafter). | **21 days** to file appeal notice (Family/Civil). | Transcript must be ordered externally (EX107 chain), and may require **judge approval** before release. | Strict filing deadline vs. undefined transcript chain. | Add cross-reference note: “Order transcript **immediately** via EX107; approval and internal court handling may take **several weeks**.” |
+| Missing transcript | “Do not delay filing… if you lack documents; apply for **extension/time directions** explaining steps taken to obtain transcript.” | 21-day filing still bites. | Requires evidence of when transcript was ordered/paid and chasing steps. | LiPs often discover this too late. | Pre-print “evidence to attach if transcript pending” checklist. |
+
+##### EX160A — Help with Fees (Guidance)
+
+| Element | Quoted / paraphrased content | Explicit deadline | Hidden dependency | Clarity / Problem | Possible fix |
+|---|---|---:|---|---|---|
+| Third-party costs | “Help with Fees **does not cover** third-party charges such as **transcription**.” | — | Users must pursue **EX105** (public expense) separately. | Frequent misunderstanding that HWF covers vendor fees. | Add banner in EX107: “HWF does not cover vendor costs; see EX105.” |
+
+##### EX105 — Application for Transcript at Public Expense
+
+| Element | Quoted / paraphrased content | Explicit deadline | Hidden dependency | Clarity / Problem | Possible fix |
+|---|---|---:|---|---|---|
+| Scope | Apply for **judgment only / evidence / whole hearing**; provide means evidence. | — | Determination may take time; not linked to appeal clock. | Funding decision can lag the 21-day window. | Allow provisional order + later cost regularisation if public expense granted. |
+
+##### EX107 — Request for Transcription of Court/Tribunal Proceedings
+
+| Element | Quoted / paraphrased content | Explicit deadline | Hidden dependency | Clarity / Problem | Possible fix |
+|---|---|---:|---|---|---|
+| Vendor selection | Applicant must choose an **HMCTS-approved** company. | — | **Prices & SLAs vary** by vendor; quotes needed. | Price/turnaround info is in **guidance**, not the form. | Add mini table of service bands + reminder to compare vendors. |
+| Service bands | “Within **48 hours**” / “Within **12 working days**” (transcription time). | — | Clock starts **when vendor receives audio**. | Users misread bands as end-to-end. | Add fixed field: “Court → vendor handover date/time (T1).” |
+| Judicial approval | “Return to court for **judge approval**?” (tick box). | — | **Approval delay** excluded from service bands. | Silent SLA creates appeal risk. | Standardise a **5–7 working day** approval target (or require an estimate). |
+| Costs / liability | Requester pays vendor directly unless at public expense. | — | Public expense must be pre-authorised (EX105). | Clear on liability; unclear on timing. | Add “funding route chosen” tick-box + EX105 reference. |
+
+##### EX107 Guidance (EX107GN)
+
+| Element | Quoted / paraphrased content | Explicit deadline | Hidden dependency | Clarity / Problem | Possible fix |
+|---|---|---:|---|---|---|
+| Court processing | **2 working days** to log/process EX107; **~10 working days** average to locate audio and dispatch to vendor. | 2d (+) ~10d (internal). | These days **precede** vendor SLA; users rarely see them. | Creates the **48h illusion**. | Display **combined** minimum: “Internal 12d + vendor 2d = **14d+** (excl. approval).” |
+| Approval exclusion | “Service level excludes **judge approval** for judgments.” | — | Adds open-ended tail after vendor step. | Critical for appeals; not time-boxed. | Prominent warning + approval target/estimate field. |
+| Permission (non-party) | Non-parties in Family must obtain permission (C2/D11) **before** EX107. | — | Extra form + fee + judicial discretion. | Multi-step path often unknown to journalists/researchers. | Insert simple flow in EX107GN for non-parties. |
+
+##### Court of Appeal Civil Division Guide (latest edition)
+
+| Element | Quoted / paraphrased content | Explicit deadline | Hidden dependency | Clarity / Problem | Possible fix |
+|---|---|---:|---|---|---|
+| Transcript for appeal | Order transcript **at the earliest possible opportunity**; file notice within time; seek **extension** if transcript delayed. | **21 days** to file; **14 days** post-sealing for core bundle. | Must show proof of order/payment + chasing. | Realistic about delay; onerous proof burden on LiPs. | Provide template “transcript-pending” letter + evidence list. |
+
+---
+
+#### 6.2.B Appeal Clock vs. Transcript Chain (Why 48h ≠ 48h)
+
+The **appeal deadline (21 days)** collides with a **multi-stage chain** that is **not end-to-end timed**:
+
+1) **EX107 processed by court** → *2 working days*  
+2) **Audio retrieval / locate & dispatch to vendor** → *~10 working days (average)*  
+3) **Vendor service band** → *48 hours* or *12 working days* **from receipt of audio** (not from the hearing, not from filing EX107)  
+4) **Judicial approval of judgment transcripts** → **no SLA**, frequently several days or weeks  
+5) **Release to applicant** → then bundle/grounds can be finalised
+
+**Best-case theory for a “48h” service:**  
+`2d (process) + 10d (audio) + 2d (vendor 48h) + Xd (approval) = **14d + approval**`  
+Even **before** approval, the theoretical minimum already consumes **two thirds** of the 21-day window.
+
+> **Implication.** The system’s own documents create a **reasonable expectation** that 48h means “soon,” while the same documents confirm that core portions of the pipeline are **untimed** and **invisible** (internal dispatch; judicial approval). This is a classic *design-by-omission* problem.
+
+---
+
+#### 6.2.C Hidden Dependencies & Ambiguities (Design-by-Omission Map)
+
+- **Start-clock opacity:** No shared timestamp for **court → vendor** handover (T1); applicants cannot verify when the vendor’s SLA actually began.  
+- **Untimed approval gate:** **Judicial approval** is mandatory for judgment transcripts but has **no SLA**; excluded from vendor service bands.  
+- **Funding path bifurcation:** **HWF** does **not** cover vendor costs; separate **EX105** path may delay ordering while the appeal clock runs.  
+- **Vendor choice without price sheet:** EX107 requires a vendor pick but gives no in-form price comparators; price transparency is buried in guidance.  
+- **Non-party permission maze:** For Family, non-parties must obtain permission (C2/D11) **before** EX107; the primary form does not depict this flow.
+
+---
+
+#### 6.2.D Low-Resistance Form Fixes (within current rules)
+
+1. **Show the whole clock.** Add fields on EX107 for **T1 (court→vendor dispatch date/time)** and **T2 (vendor→court/judge)**; print a “**combined minimum timeline**” line that sums internal handling + service band (excludes approval).  
+2. **Time-box approval or declare estimate.** Add a **5–7 working day target** for judicial approval (or require a judge’s/office estimate on the EX107 clerk section).  
+3. **Price cues at point of choice.** Add a **mini cost band table** and a reminder that **per-minute/folio rates vary**; require vendors to link to standard tariffs.  
+4. **Appeal-aware banner.** In FP161/N161 notes: “If transcript delayed, **file on time** and attach **evidence of steps** (order date, payment, chasers); request **extension** promptly.”  
+5. **Publication nudge (opt-in).** Add a tick-box in EX107: “If approved, I intend to seek **anonymised publication** of the transcript (subject to any order).”  
+   - **Model clause** (for the judge’s/permission order): *“Upon completion and approval, the applicant may **publish an anonymised transcript** consistent with this Order; no identification of children or family; professional identifiers as directed; breach may constitute contempt; liberty to apply.”*
+
+---
+
+#### Figure 6.A (revised) — Transcript Chain with Checkpoints
+
+```mermaid
+flowchart TD
+  A[EX107 submitted] --> B{Audio exists?}
+  B -- No --> X[Stop: record fault & retry path]
+  B -- Yes --> C[Court → Vendor (T1)]
+  C --> D[Vendor transcription (48h / 12wd)]
+  D --> E[Judicial approval (T2)]
+  E --> F[Release to applicant]
+  F --> G{Publication permission?}
+  G -- Yes --> H[Anonymised publication within order]
+  G -- No --> I[Private release only]
+  classDef stop fill:#fee,stroke:#f66,color:#600;
+  class X stop;
+
 
 #### 6.2.1 Confidentiality Rules Governing Publication  
 *(AJA 1960 s.12; FPR 2010 rr.12.73–12.75; PD 12G)*
