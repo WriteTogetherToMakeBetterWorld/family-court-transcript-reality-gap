@@ -316,6 +316,20 @@ The **Family Procedure Rules 2010** create limited exceptions (e.g., rr.12.73, 1
 
 **Implication for this article’s model:** any pathway for transcript-based transparency must (i) build in anonymisation, and (ii) provide a **permission route** (standard wording/order templates), so the publication pathway is lawful rather than merely procedural.
 
+### 6.2.2 Practitioner & Advocacy Commentary (Blog Stream): Methods and Scope
+
+**Purpose.** To complement court-user anecdotes with a practitioner lens, we analysed public posts from **The Transparency Project** blog (England & Wales; 1 Jan 2023 – 26 Oct 2025). This stream captures how lawyers, legal bloggers and advocates describe the *same processes* (transcripts, recordings, anonymisation, publication, open justice) from within practice culture.
+
+**Inclusion criteria.** Posts that (i) concern **family court** in England & Wales; and (ii) substantively mention at least one of: **transcript**, **recording/audio**, **EX107**, **anonymisation/redaction**, **publication/sharing**, **transparency/open justice**; and (iii) include practical detail (forms, timeframes, costs, permission, vendor issues, judicial approval, or redaction).
+
+**Exclusions.** Criminal/tribunal matters; non-UK; duplicates; purely academic notices; posts without actionable practice content.
+
+**Capture & ethics.** Public posts only. We recorded **title, author, date, URL, body text, and comments**. Commenter identities were anonymised (“User 1”, “User 2”…). No contact with authors or moderators.
+
+**Coding.** The blog stream was coded with the **same codebook** as §6.1 (stages A1–B3; failure modes; themes; outcomes) with minor extensions for practitioner-specific themes (procurement/market issues; model permission wording; anonymisation conventions). 20–25% were double-coded; κ≥0.70 targeted.
+
+**What advocacy adds.** Posts written by legal professionals (e.g., *Have you thought about giving notice?*, 2024) corroborate user-reported choke points (permission gatekeeping, opaque hand-offs, approval lag) and supply **operational detail** that users rarely have: (i) standard **wording** for permission orders; (ii) practical **anonymisation** checklists; (iii) descriptions of **recording integrity** failures and their knock-on effects. In short, the blog stream connects micro-level user barriers to **meso-level practice culture**, strengthening the case for low-resistance fixes.
+
 ### 6.3 The Three Phases in Practice (with measurable checkpoints)
 
 | Phase | What must happen | Documents / Actors | Typical time claims | Common failure points | Practical, low-resistance fixes |
@@ -328,7 +342,7 @@ The **Family Procedure Rules 2010** create limited exceptions (e.g., rr.12.73, 1
 
 ### 6.4 Findings from the Anecdotal Dataset (concise synthesis)
 
-**JustAnswer.co.uk (N=12)** — the only source with structured expert responses — reveals consistent barriers:
+Read together with the **Transparency Project** blog stream in §6.2.2, the user dataset shows the same choke points at three hand-offs (court→vendor, vendor→court, and judicial approval), with advocacy posts adding practical detail on **permission/“notice” gatekeeping**, **recording integrity**, and **anonymisation/publication norms**.
 
 **Timelines by Stage** (medians, inferred):
 - Pre-vendor: 14 days
@@ -389,6 +403,8 @@ Allowing or encouraging these transcript holders to publish their authorised cop
 In effect, it transforms an individual act of documentation into a collective act of public learning. The same transactions that currently produce siloed, inaccessible documents could instead generate a distributed corpus of verified, anonymised material — a real-time record of how family law is lived and adjudicated.
 
 This model reframes *open justice* not as an abstract institutional reform but as an emergent by-product of ordinary procedural participation.
+
+*These recommendations are triangulated across user accounts (§6.4), advocacy/practitioner commentary (§6.2.2), and the governing rules/forms (§6.2–§6.2.1).*
 
 ### 6.7 Conclusion
 
