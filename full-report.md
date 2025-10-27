@@ -190,8 +190,6 @@ For this article, the focus remains on **oral transcripts** because they capture
 
 ### 5.3 Implications: The Absence of Foundational Data
 
-### 5.3 Implications: The Absence of Foundational Data
-
 The FOI’s revelation of a **data void** exposes a fundamental contradiction in current policy:  
 transparency reforms cannot succeed without basic, measurable data on the very instrument that enables transparency — the transcript itself.
 
@@ -220,53 +218,51 @@ Section 6 begins with the former; Section 6.2 examines the latter.
 The preceding sections established why transcripts are the bedrock of transparency and how the system currently fails to monitor them.
 
 This section begins a practice-based examination of **two interdependent transparency pathways**:
-1. **The Obtaining Pathway** — how transcripts are requested, produced, and approved; and
+1. **The Obtaining Pathway** — how transcripts are requested, produced, and approved; and  
 2. **The Publication Pathway** — how transcripts are anonymised, shared, and used to enable accountability and learning.
 
 These two processes are conceptually distinct but functionally inseparable.
 
-**If reform stops at improving how transcripts are obtained, without enabling their publication, transparency remains private.**
+> **If reform stops at improving how transcripts are obtained, without enabling their publication, transparency remains private.**
 
-Knowledge of judicial reasoning, error, and bias would stay confined to the individual family, never transferring into institutional learning or precedent-based improvement.
-
+Knowledge of judicial reasoning, error, and bias would stay confined to the individual family, never transferring into institutional learning or precedent-based improvement.  
 Thus, the *linkage* between obtaining and publishing is itself the critical reform step — the point where personal justice becomes systemic justice.
 
-This chapter operationalises the central hypothesis by examining how transcripts are actually obtained and, where possible, made public in the family courts of England and Wales.
-
+This chapter operationalises the central hypothesis by examining how transcripts are actually obtained and, where possible, made public in the family courts of England and Wales.  
 It returns to the article’s fundamental conceptual framing: **how can change be achieved with the least resistance yet the greatest systemic impact?**
 
 To answer this, the analysis integrates **two complementary evidence streams**:
 - **Documentary and procedural review** — official forms, Family Procedure Rules (FPR 2010, PD 5A, 12G, 12D), and Transparency Implementation Group (TIG) guidance, tracing what the system formally prescribes and how it functions administratively;
-- **User-experience synthesis** — systematically analysed court-user narratives and practitioner commentary that reveal how these processes operate in practice, exposing procedural gaps, costs, delays, denials, and barriers to publication.
+- **User-experience synthesis** — systematically analysed court-user narratives and practitioner commentary revealing how these processes operate in practice, exposing procedural gaps, costs, delays, denials, and barriers to publication.
 
-By combining these two streams, the analysis moves between the *institutional view* of how the process is supposed to work and the *experiential view* of how it actually unfolds.
+By combining these two streams, the analysis moves between the *institutional view* (how the process is supposed to work) and the *experiential view* (how it actually unfolds).  
+This dual perspective locates procedural choke points and structural disconnections — the practical places where transparency either succeeds or collapses.
 
-This dual perspective allows us to locate both procedural choke points and structural disconnections — the practical places where transparency either succeeds or collapses.
+---
 
 ### 6.1.1 Search Strategy for Anecdotal User Evidence
 
 Because no national dataset exists on transcript accessibility (§5), this study incorporated systematically sourced anecdotal data from public legal forums to examine users’ lived experience of the transcript process.
 
-The objective was to triangulate **procedural design** (what the system prescribes) with **experiential reality** (how users encounter it), identifying barriers, costs, and procedural choke points across both the *obtaining* and *publication* pathways.
+The objective was to triangulate **procedural design** (what the system prescribes) with **experiential reality** (how users encounter it), identifying barriers, costs, and procedural choke points across both pathways.
 
 #### Rationale for Anecdotal Data
-1. **Pragmatic necessity.** There is no central or disaggregated database tracking transcript requests, delays, denials, or costs. The *data void* revealed in §5 makes anecdotal material the only available empirical entry point to examine how transparency functions in practice.
-2. **Conceptual alignment.** The *least-resistance reform* hypothesis targets small, recurrent frictions. Aggregated user reports surface those micro-failures where policy intent meets real-world process.
+1. **Pragmatic necessity.** No central database tracks transcript requests, delays, denials, or costs. The *data void* revealed in §5 makes anecdotal material the only available empirical entry point.  
+2. **Conceptual alignment.** The *least-resistance reform* hypothesis targets small, recurrent frictions. Aggregated user reports surface those micro-failures where policy intent meets real-world process.  
 3. **Transparency logic.** Using publicly available posts preserves openness and replicability: items are timestamped, visible, and auditable.
 
 #### Data Sources (Anecdotal Corpus)
 Searches targeted open platforms that host verifiable, timestamped user narratives and practitioner interactions:
-- **JustAnswer.co.uk** — legally moderated Q&A reflecting real procedural encounters (N=12).
-- **Mumsnet.com** — lived-experience accounts from litigants in person.
-- **Reddit /r/LegalAdviceUK** — informal but detailed case descriptions, often with procedural specifics and costs.
+- **JustAnswer.co.uk** — legally moderated Q&A reflecting real procedural encounters (N = 12)  
+- **Mumsnet.com** — lived-experience accounts from litigants in person  
+- **Reddit /r/LegalAdviceUK** — informal but detailed case descriptions, often with procedural specifics and costs  
 
-> **Important scope note:** **WhatDoTheyKnow (WDTK)** hosts FOI correspondence and is **not** part of the anecdotal user corpus. FOI materials are treated as **documentary evidence** (see §5) and used here only for **triangulation** (below).
+> **Scope note:** *WhatDoTheyKnow* (WDTK) hosts FOI correspondence and is **not** part of the anecdotal user corpus. FOI materials are treated as **documentary evidence** (see §5) and used here only for triangulation.
 
 #### Search Framework and Logic
-To ensure **replicability, breadth, and thematic saturation**, Google/DuckDuckGo were used with domain-restricted Boolean operators (`site:`). Queries were grouped under six hypothesised friction points:
 
-| Theme | Analytical Purpose | Example Query Syntax |
-|------|---------------------|----------------------|
+| Theme | Analytical Purpose | Example Query |
+|------|---------------------|---------------|
 | **Access & Procedure** | How users request transcripts / navigate forms | `site:justanswer.co.uk "family court" transcript` |
 | **Cost & Funding** | Costs, invoices, Legal Aid barriers | `site:justanswer.co.uk transcript AND ("cost" OR "Legal Aid")` |
 | **Delays & Denials** | Time, refusals, recording problems | `site:justanswer.co.uk transcript AND ("delay" OR "refused" OR "recording missing")` |
@@ -276,124 +272,115 @@ To ensure **replicability, breadth, and thematic saturation**, Google/DuckDuckGo
 
 Search window: **1 Jan 2023 – 26 Oct 2025** (post-pandemic backlogs, TIG rollouts, current HMCTS procurement cycle).
 
-#### Inclusion and Exclusion Criteria
-- **Included:** England & Wales family-law posts referencing transcripts/recordings or named forms (e.g., EX107); with checkable procedural detail (venue/date/actor); describing at least one stage (*request → production → approval/publication*).
-- **Excluded:** criminal/tribunal matters; press-only access disputes; unverifiable or jurisdiction-ambiguous content; duplicates; general complaints without procedural detail.
+#### Inclusion / Exclusion
+**Include:** Family-law posts (E&W) referencing transcripts/recordings or named forms (e.g., EX107); checkable procedural detail; describing at least one stage (*request → production → approval/publication*).  
+**Exclude:** Criminal/tribunal matters; press-only access disputes; unverifiable or duplicate content; generic complaints lacking procedural detail.
 
 #### Data Treatment
-Each item was logged (URL, platform, date/time) and anonymised.
-Items were thematically coded (delay, cost, denial, vendor issue, publication barrier) and mapped to the two transparency pathways:
-- **Obtaining Pathway:** request, cost/funding, vendor stage, judicial approval;
-- **Publication Pathway:** anonymisation, authorisation, hosting/access.
+Each item was logged (URL, platform, date/time) and anonymised.  
+Items were thematically coded (delay, cost, denial, vendor issue, publication barrier) and mapped to two pathways:
+- **Obtaining:** request, cost/funding, vendor stage, judicial approval  
+- **Publication:** anonymisation, authorisation, hosting/access  
 
-No contact was made with authors or moderators. All quotations were anonymised to prevent re-identification.
+No contact was made with authors or moderators. All quotations were anonymised.
 
 #### Documentary Triangulation (Not Part of Anecdotal Corpus)
-Consistent with §5, **FOI correspondence** (e.g., WDTK) and official notices (Judiciary/HMCTS) were used **only to corroborate** anecdotal claims (e.g., stated timelines, refusal grounds, procurement arrangements). These documents were analysed as **documentary evidence** in §5 and are not included in the anecdotal dataset reported in §6.
+Consistent with §5, **FOI correspondence** and official HMCTS/Judiciary notices were used **only to corroborate** anecdotal claims (timelines, refusal grounds, procurement arrangements). These remain part of the **documentary evidence** set.
 
-#### Validity and Replicability
-This dual-source approach aligns with the article’s framework: transparency is procedural.
+#### Validity & Replicability
 By combining open, replicable user accounts with documentary corroboration, the analysis reconstructs how transparency is **actually lived**, identifying precise points where least-resistance reforms can yield the largest systemic gains.
 
-### 6.2 Documentary/Procedural Analysis (Rules, Forms, Guidance)
+---
 
-**Instruments analysed.** Family Procedure Rules 2010 (FPR), Practice Direction 5A (PD5A), transcript request forms/guidance (e.g., EX107 request, EX107GN guidance; EX105 where applicable), local practice notes where available, and judiciary/HMCTS notices relevant to recordings and approvals.
+### 6.2 Documentary / Procedural Analysis (Rules, Forms, Guidance)
 
-**Analytic focus.** We map text to practice for three discrete phases (below), capturing:
-(i) mandatory steps, (ii) discretionary steps, (iii) documents exchanged, (iv) time expectations (stated vs. observed), and (v) failure points (with remedies, if any).
+**Instruments analysed:** FPR 2010; PD 5A; PD 12G; EX107/EX107GN/EX105; local practice notes; Judiciary/HMCTS notices.
 
-#### 6.2.1 Confidentiality Rules Governing Publication (AJA 1960 s.12; FPR 2010 rr.12.73–12.75; PD12G)
+**Analytic focus:** map text to practice across three phases, capturing  
+(i) mandatory steps, (ii) discretionary steps, (iii) documents exchanged, (iv) time expectations (stated vs observed), (v) failure points.
 
-Family proceedings are presumptively private, and this privacy extends to any *account of what transpired* in court — including **transcripts**, **notes of evidence and submissions**, and **transcripts/notes of judgments**. Recent practice commentary highlights that the standard **confidentiality warning** commonly attached to Family Court orders has been updated to spell this out explicitly:
+---
 
-> *“Until the conclusion of the proceedings no person shall publish … any material which is intended or likely to identify the child[ren] … Further, during the proceedings or after they have concluded no person shall publish information related to the proceedings including accounts of what has gone on in front of the judge, documents filed in the proceedings, **transcripts or notes of evidence and submissions**, and **transcripts and notes of judgments** (including extracts, quotations, or summaries). Any person who does so may be in contempt of court.”*
+#### 6.2.1 Confidentiality Rules Governing Publication  
+*(AJA 1960 s.12; FPR 2010 rr.12.73–12.75; PD 12G)*
 
-The newer wording **does not change the law**; it clarifies it.
+Family proceedings are presumptively private, and this privacy extends to any *account of what transpired* in court — including **transcripts**, **notes of evidence**, and **judgments**.  
+Recent practice commentary notes that standard confidentiality warnings now state explicitly:
 
-The legal bases include **Children Act 1989 s.97** (child identification) and **Administration of Justice Act 1960 s.12** (publication from private proceedings). “Publish” includes **social media**.
+> *“Until the conclusion of the proceedings no person shall publish … any material likely to identify the child(ren) … Further, during or after proceedings no person shall publish information related to the proceedings including accounts of what has gone on in front of the judge, documents filed, **transcripts or notes of evidence and submissions**, and **transcripts and notes of judgments** … Any person who does so may be in contempt of court.”*
 
-The **Family Procedure Rules 2010** create limited exceptions (e.g., rr.12.73, 12.75; PD12G) allowing sharing with legal advisers, experts, or where the **court gives permission**. Crucially, **possession of a lawfully obtained transcript via EX107 does not itself confer a right to publish**. Publication requires **permission and/or compliant anonymisation** within the framework above.
+The updated wording **clarifies** existing law rather than changing it.  
+Legal bases: **Children Act 1989 s.97** (child ID) and **AJA 1960 s.12** (private proceedings). “Publish” includes social-media sharing.  
+**FPR 2010** provides narrow exceptions (e.g., rr. 12.73, 12.75; PD 12G).  
+Importantly, possession of a transcript obtained via EX107 **does not confer a right to publish**. Publication requires **permission** and/or compliant **anonymisation**.
 
-**Implication for this article’s model:** any pathway for transcript-based transparency must (i) build in anonymisation, and (ii) provide a **permission route** (standard wording/order templates), so the publication pathway is lawful rather than merely procedural.
+**Implication:** Any transparency pathway must (i) build in anonymisation, and (ii) provide a permission route (standard wording/order templates) so that publication is lawful, not merely procedural.
 
-### 6.2.2 Practitioner & Advocacy Commentary (Blog Stream): Methods and Scope
+---
 
-**Purpose.** To complement court-user anecdotes with a practitioner lens, we analysed public posts from **The Transparency Project** blog (England & Wales; 1 Jan 2023 – 26 Oct 2025). This stream captures how lawyers, legal bloggers and advocates describe the *same processes* (transcripts, recordings, anonymisation, publication, open justice) from within practice culture.
+#### 6.2.2 Practitioner & Advocacy Commentary (Blog Stream)
 
-**Inclusion criteria.** Posts that (i) concern **family court** in England & Wales; and (ii) substantively mention at least one of: **transcript**, **recording/audio**, **EX107**, **anonymisation/redaction**, **publication/sharing**, **transparency/open justice**; and (iii) include practical detail (forms, timeframes, costs, permission, vendor issues, judicial approval, or redaction).
+**Purpose:** Complement user anecdotes with practitioner insight via **The Transparency Project** (England & Wales; Jan 2023 – Oct 2025).
 
-**Exclusions.** Criminal/tribunal matters; non-UK; duplicates; purely academic notices; posts without actionable practice content.
+**Inclusion:** Posts on family court mentioning transcripts, recordings, EX107, anonymisation/redaction, publication, open-justice.  
+**Exclusion:** Non-UK or non-practice posts.
 
-**Capture & ethics.** Public posts only. We recorded **title, author, date, URL, body text, and comments**. Commenter identities were anonymised (“User 1”, “User 2”…). No contact with authors or moderators.
+**Method:** Public posts only; title, author, date, URL, body, comments captured. Commenters anonymised.  
+Coded with same scheme as §6.1 (stages A1–B3, failure modes, outcomes) plus practitioner themes (procurement, permission wording, anonymisation norms). 20–25 % double-coded, κ ≥ 0.70.
 
-**Coding.** The blog stream was coded with the **same codebook** as §6.1 (stages A1–B3; failure modes; themes; outcomes) with minor extensions for practitioner-specific themes (procurement/market issues; model permission wording; anonymisation conventions). 20–25% were double-coded; κ≥0.70 targeted.
+**Added value:** Practitioner blogs corroborate user choke points (permission gatekeeping, opaque hand-offs, approval lag) and contribute operational detail:  
+- standard wording for permission orders,  
+- practical anonymisation checklists,  
+- recording-integrity failures and consequences.  
 
-**What advocacy adds.** Posts written by legal professionals (e.g., *Have you thought about giving notice?*, 2024) corroborate user-reported choke points (permission gatekeeping, opaque hand-offs, approval lag) and supply **operational detail** that users rarely have: (i) standard **wording** for permission orders; (ii) practical **anonymisation** checklists; (iii) descriptions of **recording integrity** failures and their knock-on effects. In short, the blog stream connects micro-level user barriers to **meso-level practice culture**, strengthening the case for low-resistance fixes.
+Thus, the blog stream links **micro-barriers** to **meso-level practice culture**, strengthening low-resistance reform design.
 
-### 6.2.3 Practitioner Commentary (Solicitors/Barristers): Methods & Scope
+---
 
-**Purpose.** To triangulate user-reported frictions with practitioner-reported practice, a curated corpus of **35 practitioner items (2023–2025)** was analysed.  
-Sources include solicitors, barristers, and professional bodies (FLBA, Bar Council, Law Society, and multiple chambers). The focus: **transcripts/EX107, recordings, transparency/open reporting/TIG, and delays/backlogs** in England & Wales.
+#### 6.2.3 Practitioner Commentary (Solicitors / Barristers)
 
-**Inclusion criteria.** Public posts or statements by practising lawyers or practitioner bodies that  
-(i) concern family justice in E&W and  
-(ii) substantively mention at least one of the topics above and  
-(iii) include concrete practice detail (order mechanics, timelines/costs, vendor/approval steps, anonymisation).
+**Purpose:** Triangulate user frictions with practitioner-reported practice.  
+Corpus = 35 items (2023–2025) from solicitors, barristers, FLBA, Bar Council, Law Society, and chambers. Focus: **transcripts/EX107**, **recordings**, **transparency/TIG**, **delays/backlogs**.
 
-**Exclusions.** Non-UK or criminal matters; marketing or promotional copy lacking practice content; duplicates; generic roundups with no procedural content.
+**Inclusion:** Family-justice E&W; substantive mention of topics above with practice detail.  
+**Exclusion:** Non-UK, promotional, or generic content.
 
-**Coding & reliability.** Items were coded using the same framework as §6.1.1:  
-- **Themes:** `Transcripts_EX107`, `Recordings`, `Transparency_OpenReporting`, `Delays_Backlogs`.  
-- **Stage:** best-fit among `A_PreVendor` (request/permission/audio), `B_Vendor` (quote/turnaround/inaudible), `C_Approval_Publication` (approval/redaction/publication).  
-- **Evidence type:** Barrister_Blog / Solicitor_FirmPost / Chambers_Note / ProfBody_Statement / Training_Handout / Q&A_Practitioner.  
-- **Strength (1–3):** 1 = opinion; 2 = practice detail; 3 = rules + data/timeline.  
-Pre-window context items (pre-2023) were flagged `outside_window: true` and used only for context.
+**Coding:** Same as §6.1.1.  
+Themes: `Transcripts_EX107`, `Recordings`, `Transparency_OpenReporting`, `Delays_Backlogs`.  
+Stages: `A_PreVendor`, `B_Vendor`, `C_Approval_Publication`.  
+Evidence types: Barrister_Blog / Solicitor_FirmPost / Chambers_Note / ProfBody_Statement / Training_Handout / Q&A_Practitioner.  
+Strength 1–3 (1 = opinion; 3 = rules + data).  
+Pre-2023 context items flagged `outside_window: true`.
 
-**Ethics.** All material was publicly accessible. Author and firm names are anonymised to practitioner type.
+**Ethics:** All material public; author identities anonymised to practitioner type.
 
+---
 
 ### 6.3 The Three Phases in Practice (with measurable checkpoints)
 
-| Phase | What must happen | Documents / Actors | Typical time claims | Common failure points | Practical, low-resistance fixes |
-|-------|------------------|--------------------|---------------------|-----------------------|---------------------------------|
-| A. Pre-Vendor (Court intake & permission) | Identify hearing/date; confirm audio exists; determine who may request; obtain permission if required. | Applicant; court listing; EX107 + fee; PD5A criteria; any anonymity directions. | Often quoted as 5–10 working days to authorise/forward to vendor. | Audio missing/corrupt; uncertainty over who may request; inconsistent permission practices; incomplete EX107. | Form redesign: tick-box for role (party/journalist/other) + hearing ID; auto-check audio existence before payment; template orders granting transcript for appeal prep. |
-| B. Vendor Stage (Transcription company) | Court sends audio; vendor quotes; requester pays (or provides LAA authority); transcription produced. | HMCTS-approved vendor; quote/invoice; LAA reference if public funding. | Claims of 10–15 working days (varies). | Long queues; unclear start clock (when did vendor receive audio?); per-minute costs opaque; returns for “inaudible” segments. | Time-stamped handover notice (court→vendor); quote standardisation (show per-minute rate, estimated total, SLA); escalation path for corrupt audio. |
-| C. Judicial Approval & Publication | Judge reviews transcript; corrections/anonymisation; release to parties; optional publication. | Judge; parties; anonymisation policy; any pilot (TIG/TOJ). | Variable; often open-ended; appeals stall. | Gatekeeping delays; no provisional access; uncertainty about publication/redaction rules. | Provisional release on completion (marked “subject to approval”) for appeal prep; standard redaction rules; target turnaround for approval (e.g., 5–7 working days). |
+| Phase | What must happen | Documents / Actors | Typical time claims | Common failure points | Low-resistance fixes |
+|-------|------------------|--------------------|---------------------|-----------------------|----------------------|
+| **A Pre-Vendor (Court intake & permission)** | Identify hearing/date; confirm audio exists; determine who may request; obtain permission if required. | Applicant; court listing; EX107 + fee; PD5A; any anonymity directions | 5–10 working days (quoted) | Missing/corrupt audio; unclear eligibility; inconsistent permissions; incomplete EX107 | Form redesign: role tick-box + hearing ID; auto-check audio existence; template orders granting transcript for appeal prep |
+| **B Vendor Stage** | Court sends audio; vendor quotes; requester pays / LAA auth; transcript produced | HMCTS-approved vendor; quote/invoice; LAA ref | 10–15 working days (claimed) | Long queues; unclear start clock; opaque rates; inaudible segments | Time-stamped handover (court → vendor); quote standardisation; escalation for corrupt audio |
+| **C Judicial Approval & Publication** | Judge reviews; corrections/anonymisation; release to parties; optional publication | Judge; parties; TIG policy | Variable / open-ended | Gatekeeping delays; no provisional access; unclear publication rules | Provisional release “subject to approval”; standard redaction rules; 5–7 day approval target |
 
-**Key observation.** Each phase currently contains opaque hand-offs (no shared clock, no “received” stamps) that make delay invisible and accountability diffuse.
+> **Observation:** Each phase contains opaque hand-offs (no shared clock, no “received” stamps) that make delay invisible and accountability diffuse.
 
 #### Figure 6.A — Transcript Pathways (Obtaining → Publication)
 
 ```mermaid
 flowchart TD
-  A[Request via EX107 <br/>Role tick-box + Hearing ID] --> B{Audio exists?}
+  A[Request via EX107<br/>Role tick-box + Hearing ID] --> B{Audio exists?}
   B -- No --> X[Stop: Missing/Corrupt Audio<br/>Record fault + retry path]
-  B -- Yes --> C[Court → Vendor <br/>Handover timestamp (T1)]
-  C --> D[Quote + Payment/LAA <br/>Per-minute rate + estimate]
-  D --> E[Transcription <br/>Retry if inaudible]
-  E --> F[Judicial Approval (T2) <br/>Corrections + Redactions]
+  B -- Yes --> C[Court → Vendor<br/>Handover timestamp (T1)]
+  C --> D[Quote + Payment/LAA<br/>Per-minute rate + estimate]
+  D --> E[Transcription<br/>Retry if inaudible]
+  E --> F[Judicial Approval (T2)<br/>Corrections + Redactions]
   F --> G{Transparency Order?}
-  G -- Yes --> H[Anonymised Publication <br/>Within TO scope + contempt warning]
-  G -- No --> I[Private Release Only <br/>Seek permission if publishing]
+  G -- Yes --> H[Anonymised Publication<br/>Within TO scope]
+  G -- No --> I[Private Release Only<br/>Seek permission]
   classDef stop fill:#fee,stroke:#f66,color:#600;
   class X stop;
-(Caption: visual summary of §6.3 checkpoints with explicit fault codes and time-stamps T1–T3.)
-
-
----
-
-# ✅ STEP 5 — Final Add-ons / Internal Hygiene
-
-| Task | Where | Markdown snippet |
-|------|--------|------------------|
-| **Add cross-reference in intro** | In first paragraph of §6 | “The analysis integrates three complementary evidence streams — **documentary**, **user**, and now **practitioner** (§6.2.3) — to map how transcripts move from request to publication.” |
-| **Add internal link at 6.7 start** | Start of §6.7 Conclusion | “Read together, the user (§6.1), advocacy (§6.2.2), and practitioner (§6.2.3 → 6.4.1) streams confirm the same structural choke points.” |
-| **Append Appendix reference** | End of §6.7 Conclusion | “Detailed practitioner item summaries (n = 35) are provided in **Appendix P1** for transparency and replication.” |
-
----
-
-✅ **Result:**  
-Your Chapter 6 keeps its academic tone and numbering; practitioner material is methodologically integrated, visually reinforced, and GitHub-ready for rendering.
 
 ### 6.4 Findings from the Anecdotal Dataset (concise synthesis)
 
