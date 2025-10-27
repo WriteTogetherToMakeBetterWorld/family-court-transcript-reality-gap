@@ -350,6 +350,24 @@ Instruments analysed. Family Procedure Rules 2010 (FPR), Practice Direction 5A (
 Analytic focus. We map text to practice for three discrete phases (below), capturing:
 (i) mandatory steps, (ii) discretionary steps, (iii) documents exchanged, (iv) time expectations (stated vs. observed), and (v) failure points (with remedies, if any).
 
+<!-- START ADDITION: §6.2.1 Confidentiality rules governing publication -->
+
+#### 6.2.1  Confidentiality Rules Governing Publication (AJA 1960 s.12; FPR 2010 rr.12.73–12.75; PD12G)
+
+Family proceedings are presumptively private, and this privacy extends to any *account of what transpired* in court — including **transcripts**, **notes of evidence and submissions**, and **transcripts/notes of judgments**. Recent practice commentary highlights that the standard **confidentiality warning** commonly attached to Family Court orders has been updated to spell this out explicitly:
+
+> *“Until the conclusion of the proceedings no person shall publish … any material which is intended or likely to identify the child[ren] … Further, during the proceedings or after they have concluded no person shall publish information related to the proceedings including accounts of what has gone on in front of the judge, documents filed in the proceedings, **transcripts or notes of evidence and submissions**, and **transcripts and notes of judgments** (including extracts, quotations, or summaries). Any person who does so may be in contempt of court.”*
+
+The newer wording **does not change the law**; it clarifies it.  
+The legal bases include **Children Act 1989 s.97** (child identification) and **Administration of Justice Act 1960 s.12** (publication from private proceedings). “Publish” includes **social media**.  
+
+The **Family Procedure Rules 2010** create limited exceptions (e.g., rr.12.73, 12.75; PD12G) allowing sharing with legal advisers, experts, or where the **court gives permission**. Crucially, **possession of a lawfully obtained transcript via EX107 does not itself confer a right to publish**. Publication requires **permission and/or compliant anonymisation** within the framework above.
+
+**Implication for this article’s model:** any pathway for transcript-based transparency must (i) build in anonymisation, and (ii) provide a **permission route** (standard wording/order templates), so the publication pathway is lawful rather than merely procedural.
+
+<!-- END ADDITION -->
+
+
 ### 6.3 The Three Phases in Practice (with measurable checkpoints)
 Phase	What must happen	Documents / Actors	Typical time claims	Common failure points	Practical, low-resistance fixes
 A. Pre-Vendor (Court intake & permission)	Identify hearing/date; confirm audio exists; determine who may request; obtain permission if required.	Applicant; court listing; EX107 + fee; PD5A criteria; any anonymity directions.	Often quoted as 5–10 working days to authorise/forward to vendor.	Audio missing/corrupt; uncertainty over who may request; inconsistent permission practices; incomplete EX107.	Form redesign: tick-box for role (party/journalist/other) + hearing ID; auto-check audio existence before payment; template orders granting transcript for appeal prep.
