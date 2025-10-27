@@ -63,6 +63,8 @@ Practically, TIG's sub-groups drive implementation: press reporting pilots (laun
 Expert views reinforce transparency's catalytic role: NatCen's 2025 pilot evaluation shows improved public understanding without privacy breaches (NatCen, 2025). The Justice Committee (2022) advocates enhanced media access and transcripts for democratic oversight. The MoJ's 2025 Call for Evidence urges better data and document sharing (MoJ, 2025c). **FOI (Freedom of Information)** requests reveal ongoing barriers, like transcript denials due to recording issues (Walker, 2025).
 
 Challenges persist: inconsistent data, resistance, and a "data void" (House of Commons Justice Committee, 2023). Yet, transparency is evolving from peripheral to central philosophy, **with this article proposing it as the unifying force directly responding to the symptoms of crises** — though not yet fully harnessed in current policy frameworks.
+Even within the current system, those who already request and fund transcripts could — with minimal procedural change — become the system’s most powerful transparency engine (see Section 6 → 7).
+
 
 ## 4. Logical Mapping: From Crises to Transparency Deficits
 
@@ -402,6 +404,22 @@ Price transparency
 
 Standardised quotes (per-minute rate + estimated minutes + likely total); flag funding routes for LIPs.
 
+soemthing to add: 
+<!-- START ADDITION: Enabling Public Access Through Existing Transcript Requests -->
+
+### Enabling Public Access Through Existing Transcript Requests
+
+The least resistant improvement to the current system is to build upon what already exists. Every year, parties, journalists, and researchers pay private vendors to obtain authorised transcripts of family court hearings under the EX107 process. These individuals have already navigated the procedural maze, obtained judicial approval, and financed transcription.
+
+Allowing or encouraging these transcript holders to publish their authorised copies — either in anonymised form or via a central repository — represents the most efficient, system-compatible path to transparency. It does not require new infrastructure, legislative reform, or additional court resources. It simply extends the existing workflow of those who are already engaging with the transcript process.
+
+In effect, it transforms an individual act of documentation into a collective act of public learning. The same transactions that currently produce siloed, inaccessible documents could instead generate a distributed corpus of verified, anonymised material — a real-time record of how family law is lived and adjudicated.
+
+This model reframes *open justice* not as an abstract institutional reform but as an emergent by-product of ordinary procedural participation.
+
+<!-- END ADDITION -->
+
+
 ## 7. Policy Implications: Transcripts as Drivers of Systemic Change
 
 Transcripts aren't ancillary; they're pivotal. Experts like those in NatCen's evaluation argue they underpin scrutiny, with TIG's data sub-group advancing collection for outcomes (NatCen, 2025). AI integration could slash costs/delays, per MoJ explorations (MoJ, 2025c). Repealing parental presumptions signals responsiveness, but without transcript metrics, biases persist unchecked (MoJ, 2025b).
@@ -416,6 +434,8 @@ To catalyse change:
 - **Contracts:** Add SLAs, open-data clauses; accelerate AI rollout.
 
 Key phrases: "Family courts reinvent the wheel—transcripts are the blueprint." "One transcript unveils more truth than 100 reporters." "No revolution needed—just transcripts." "Transparency ignites with the spoken word." "Transcribe to transform justice."
+
+- Encourage voluntary publication of authorised transcripts already obtained under EX107 — a low-resistance path to transparency requiring no legislative reform.
 
 ## 9. Conclusion: A Call to Action for Verifiable Justice
 
