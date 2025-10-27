@@ -188,20 +188,30 @@ For this article, the focus remains on **oral transcripts** because they capture
 
 ### 5.3 Implications: The Absence of Foundational Data
 
-The FOI’s revelation of a **data void** underscores a fundamental contradiction in current policy:  
-transparency reforms cannot succeed without basic, measurable data on the very instrument that enables transparency — the transcript.
+### 5.3 Implications: The Absence of Foundational Data
 
-This gap perpetuates multiple systemic crises:  
-- **Delay**, through untracked transcription backlogs;  
-- **Bias**, through the absence of data on how survivor testimony or judicial reasoning is recorded;  
-- **Fragmentation**, as no inter-agency dataset exists for auditing performance or appeals.  
+The FOI’s revelation of a **data void** exposes a fundamental contradiction in current policy:  
+transparency reforms cannot succeed without basic, measurable data on the very instrument that enables transparency — the transcript itself.
 
-Addressing this deficiency requires **mandatory reporting** on transcript requests, completions, delays, and denials — a *least-resistance* reform fully aligned with TIG’s data-collection goals.  
+This absence of transcript-related metrics perpetuates multiple systemic crises:
 
-In short, the **data void** is both an obstacle and a diagnostic tool. By revealing what is missing, it points to the precise structural levers through which transparency can move from aspiration to implementation.  
-The next section extends this empirical lens by analysing **user experiences, procedural forms, and procurement processes**, mapping where the transcript system breaks down in practice.
+- **Delay**, through untracked transcription backlogs and approval bottlenecks;  
+- **Bias**, through the lack of data on how survivor testimony or judicial reasoning is captured and represented;  
+- **Fragmentation**, as no inter-agency dataset exists for monitoring performance, appeals, or cross-system outcomes.  
 
-While the FOI response reveals systemic opacity, user experiences show its human cost. The following analysis proceeds via two interlinked pathways of transparency — one concerned with how transcripts are obtained, the other with how they are published. Section 6 begins with the former; Section 6.2 will address the latter.”
+Addressing this deficiency requires **mandatory reporting** on transcript requests, completions, delays, and denials — a *least-resistance* reform fully aligned with the Transparency Implementation Group (TIG) data-collection goals.  
+
+In short, the **data void** is both an obstacle and a diagnostic tool.  
+By revealing what is missing, it identifies the precise structural levers through which transparency can move from aspiration to implementation.  
+
+Yet the absence of even minimal transcript metrics renders traditional quantitative evaluation impossible.  
+Consequently, the next stage adopts an **alternative empirical strategy** — analysing *publicly available user narratives* as a proxy dataset.  
+These accounts, systematically collected and coded, expose the micro-failures that aggregate into the systemic opacity documented here.  
+
+The following analysis therefore extends this empirical lens through two interlinked pathways of transparency:  
+1. how transcripts are **obtained**, and  
+2. how they are **published**.  
+Section 6 begins with the former; Section 6.2 examines the latter.
 
 ## 6. Practice Analysis: Two Pathways of Transparency — Obtaining and Publishing Transcripts
 
@@ -217,34 +227,79 @@ Knowledge of judicial reasoning, error, and bias would stay confined to the indi
 Thus, the *linkage* between obtaining and publishing is itself the critical reform step — the point where personal justice becomes systemic justice.
 
 This chapter operationalises the central hypothesis by examining how transcripts are actually obtained and, where possible, made public in the family courts of England and Wales.  
-It returns to the article’s fundamental conceptual framing: **how can change be achieved with the least resistance yet the greatest systemic impact?**  
-To answer this, the analysis combines  
-(i) a **documentary and procedural review** of existing rules, forms, and official guidance, with  
-(ii) a **methodologically structured analysis of court-user anecdotes** drawn from public sources.  
-The goal is to identify concrete barriers, timings, and choke points that determine whether transparency remains an aspiration or becomes a lived practice.
+It returns to the article’s fundamental conceptual framing: **how can change be achieved with the least resistance yet the greatest systemic impact?**
 
-The first half of this analysis explores the *obtaining pathway*, focusing on procedural access, costs, and approval delays.  
-The following section (§7) extends the analysis to the *publication pathway*, evaluating how transcripts move — or fail to move — from private record to public resource.
+To answer this, the analysis integrates **two complementary evidence streams**:
 
-### 6.1 The Obtaining Pathway: From Request to Transcript
+- **Documentary and procedural review** — official forms, Family Procedure Rules (FPR 2010, PD 5A, 12G, 12D), and Transparency Implementation Group (TIG) guidance, tracing what the system formally prescribes and how it functions administratively;  
+- **User-experience synthesis** — systematically analysed court-user narratives and practitioner commentary that reveal how these processes operate in practice, exposing procedural gaps, costs, delays, denials, and barriers to publication.
 
-This subsection analyses how transcripts are obtained, moving through three layers of the process:
-1. **Procedural Layer – Rules and Forms:** what the Family Procedure Rules (FPR 2010, PD 5A) prescribe, the EX107 form, the court’s two-day transfer rule, etc.  
-2. **Administrative Layer – Institutional and Procurement Practices:** who provides transcription (the six contracted companies), how often contracts change, pricing, funding, and bottlenecks between HMCTS and suppliers.  
-3. **Experiential Layer – User Realities:** what court users report (delays, denials, high costs, errors), drawn from public sources and FOI data.
+By combining these two streams, the analysis moves between the *institutional view* of how the process is supposed to work and the *experiential view* of how it actually unfolds.  
+This dual perspective allows us to locate both procedural choke points and structural disconnections — the practical places where transparency either succeeds or collapses.
+
+The first half of this analysis explores the *obtaining pathway* (§6.1), focusing on procedural access, administrative handling, and user-level delays.  
+The following half (§6.2) extends to the *publication pathway*, evaluating how transcripts move — or fail to move — from private record to public resource, and how this determines whether transparency becomes a shared or siloed good.
+
+### 6.1.1 Search Strategy for Anecdotal User Evidence
+
+Because no national dataset exists on transcript accessibility (§5), this study incorporated systematically sourced anecdotal data from public legal forums to examine users’ lived experience of the transcript process.  
+The objective was to triangulate **procedural design** (what the system prescribes) with **experiential reality** (how users encounter it), identifying barriers, costs, and procedural choke points across both the *obtaining* and *publication* pathways.
+
+#### Rationale for Anecdotal Data
+
+1. **Pragmatic necessity.** There is no central or disaggregated database tracking transcript requests, delays, denials, or costs. The *data void* revealed in §5 makes anecdotal material the only available empirical entry point to examine how transparency functions in practice.  
+2. **Conceptual alignment.** The *least-resistance reform* hypothesis targets small, recurrent frictions. Aggregated user reports surface those micro-failures where policy intent meets real-world process.  
+3. **Transparency logic.** Using publicly available posts preserves openness and replicability: items are timestamped, visible, and auditable.
+
+#### Data Sources (Anecdotal Corpus)
+
+Searches targeted open platforms that host verifiable, timestamped user narratives and practitioner interactions:
+
+- **JustAnswer.co.uk** — legally moderated Q&A reflecting real procedural encounters.  
+- **Mumsnet.com** — lived-experience accounts from litigants in person.  
+- **Reddit /r/LegalAdviceUK** — informal but detailed case descriptions, often with procedural specifics and costs.
+
+> **Important scope note:** **WhatDoTheyKnow (WDTK)** hosts FOI correspondence and is **not** part of the anecdotal user corpus. FOI materials are treated as **documentary evidence** (see §5) and used here only for **triangulation** (below).
+
+#### Search Framework and Logic
+
+To ensure **replicability, breadth, and thematic saturation**, Google/DuckDuckGo were used with domain-restricted Boolean operators (`site:`). Queries were grouped under six hypothesised friction points:
+
+| Theme | Analytical Purpose | Example Query Syntax |
+|------|---------------------|----------------------|
+| **Access & Procedure** | How users request transcripts / navigate forms | `site:justanswer.co.uk "family court" transcript` |
+| **Cost & Funding** | Costs, invoices, Legal Aid barriers | `site:justanswer.co.uk transcript AND ("cost" OR "Legal Aid")` |
+| **Delays & Denials** | Time, refusals, recording problems | `site:justanswer.co.uk transcript AND ("delay" OR "refused" OR "recording missing")` |
+| **Procurement & Vendor Issues** | Quality/timing of approved transcribers | `site:justanswer.co.uk "transcription company" AND ("delay" OR "problem")` |
+| **Publication & Anonymisation** | Experiences of sharing/making public | `site:justanswer.co.uk transcript AND ("publish" OR "anonymisation")` |
+| **Comparative Transparency** | Context across justice settings | `site:justanswer.co.uk "open justice" AND "family court"` |
+
+Search window: **1 Jan 2023 – 26 Oct 2025** (post-pandemic backlogs, TIG rollouts, current HMCTS procurement cycle).
+
+#### Inclusion and Exclusion Criteria
+
+- **Included:** England & Wales family-law posts referencing transcripts/recordings or named forms (e.g., EX107); with checkable procedural detail (venue/date/actor); describing at least one stage (*request → production → approval/publication*).  
+- **Excluded:** criminal/tribunal matters; press-only access disputes; unverifiable or jurisdiction-ambiguous content; duplicates; general complaints without procedural detail.
+
+#### Data Treatment
+
+Each item was logged (URL, platform, date/time) and anonymised.  
+Items were thematically coded (delay, cost, denial, vendor issue, publication barrier) and mapped to the two transparency pathways:  
+- **Obtaining Pathway:** request, cost/funding, vendor stage, judicial approval;  
+- **Publication Pathway:** anonymisation, authorisation, hosting/access.
+
+No contact was made with authors or moderators. All quotations were anonymised to prevent re-identification.
+
+#### Documentary Triangulation (Not Part of Anecdotal Corpus)
+
+Consistent with §5, **FOI correspondence** (e.g., WDTK) and official notices (Judiciary/HMCTS) were used **only to corroborate** anecdotal claims (e.g., stated timelines, refusal grounds, procurement arrangements). These documents were analysed as **documentary evidence** in §5 and are not included in the anecdotal dataset reported in §6.
+
+#### Validity and Replicability
+
+This dual-source approach aligns with the article’s framework: transparency is procedural.  
+By combining open, replicable user accounts with documentary corroboration, the analysis reconstructs how transparency is **actually lived**, identifying precise points where least-resistance reforms can yield the largest systemic gains.
 
 
-### 6.2 The Publication Pathway: From Transcript to Public Record
-
-This subsection uses the same three analytical layers to examine how transcripts move from private record to public resource:
-1. **Procedural Layer – Legal Permissions and Standards:** FPR 12G, 12D, TIG guidance on anonymisation, judicial authorisation, what is formally allowed.  
-2. **Administrative Layer – Systems and Costs:** who performs anonymisation, who pays, where files are hosted, the lack of central repository, TIG pilot frameworks.  
-3. **Experiential Layer – Access and Use:** experiences of journalists, academics, NGOs seeking transcripts; cases where publication enabled or denied; how families perceive fairness when publication is blocked.
-
-
-
-
-## 7. Reform Pathway: Least-Resistance Solutions and Future Directions
 
 Mess... Enjoying reading mess... here is a mess....
 
