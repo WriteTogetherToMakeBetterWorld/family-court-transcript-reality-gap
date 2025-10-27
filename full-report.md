@@ -405,6 +405,122 @@ flowchart TD
   classDef stop fill:#fee,stroke:#f66,color:#600;
   class X stop;
 
+#### 6.2.E Transcript Pipeline — Operational Chain (Court → Vendor → Judge → Applicant)
+
+The operational pathway for obtaining a court transcript is initiated by the applicant submitting **Form EX107 — Request for transcription of Court or Tribunal proceedings**. The pathway contains multiple checkpoints and untimed hand-offs that often conflict with short appeal deadlines (e.g., **21 days** to file an appellant’s notice).
+
+---
+
+##### Stage 1 — Submission & Court Triage (T0 → internal checks)
+
+The applicant completes EX107 and sends it to the relevant court. Required details typically include case name, hearing date, judge, case reference, and **choice of approved transcription company**.
+
+- **Non-parties (Family):** must first obtain permission (usually **C2** in children cases or **D11** in divorce) before EX107. (County Court civil non-parties generally use **N244**.)
+- **Court processing:** staff have **2 working days** to process EX107 and initiate handling; **locating and sending the audio** carries an average **~10 working-day** internal lead time before the vendor can start.
+
+> **Implication:** A realistic **minimum** before the vendor receives audio is **≈ 12 working days** (2d processing + ~10d retrieval).
+
+---
+
+##### Stage 2 — Court → Vendor (audio dispatch)
+
+Once audio is located, the court dispatches it to the selected vendor. The vendor **starts the clock only on receipt of the audio**.  
+Where a transcript is ordered **at public expense**, the court should send the work to the supplier offering **best value for money** for the requested service level.
+
+---
+
+##### Stage 3 — Vendor Work (T1: transcription time only)
+
+Vendors operate **Service Level Bands (SLBs)** for Civil/Family/Tribunals such as **“within 48 hours”** and **“within 12 working days.”**  
+Pricing is by **folio (72 words)** and **varies by vendor**. If delivery is slower than the requested band, charges are adjusted to the **lower band achieved**. These SLBs are **vendor time only** and **exclude** internal court handling and judicial approval.
+
+---
+
+##### Stage 4 — Vendor → Judge (T2: judicial approval)
+
+For appeals, **judgment transcripts must be approved by the judge**. EX107 has an internal court section asking whether the transcript should be **returned for judicial approval prior to release**.  
+- **Crucial:** The **service band explicitly excludes** the time taken for judge’s approval. This stage is an **undefined delay** and may involve corrections/redactions.
+
+---
+
+##### Stage 5 — Judge → Applicant (release & costs)
+
+After approval, the transcript is released to the applicant (or retained/processed by the court if **public expense** applies).  
+- Applicants usually **pay the vendor directly**, unless the court orders provision **at public expense** via **EX105**.
+- **Help with Fees (EX160A)** does **not** cover third-party vendor charges; EX105 is a separate path and its determination may take time.
+
+---
+
+##### Stage 6 — Optional Publication (permission & anonymisation)
+
+Release to a party does **not** itself confer a right to publish. In Family cases, publication requires **permission and compliant anonymisation**. Where publication is directed in the public interest, the **court may meet costs**; where a judgment falls within schedules for publication, **costs may be shared**. Parties (including LiPs) are commonly invited to check anonymisation to avoid “jigsaw identification.”
+
+---
+
+##### Quantified theoretical minimum (excluding judicial approval)
+
+Let
+- Court processing = 2 working days  
+- Audio retrieval = 10 working days (average)  
+- Fastest vendor band = **48 hours** (= 2 working days)
+
+Then the **theoretical minimum** to reach a **draft transcript awaiting approval** is:
+
+$$
+T_{\text{min}} = 2 + 10 + 2 \approx \mathbf{14\ \text{working days}}
+$$
+
+The actual end-to-end time is:
+
+$$
+T_{\text{total}} = T_{\text{min}} + T_{\text{judicial\ approval}}
+$$
+
+Since **\(T_{\text{judicial approval}}\)** is **untimed**, the end-to-end duration is unknown in advance.
+
+---
+
+##### Conflict with the 21-day appeal window
+
+A **21-day** appeal deadline equates to roughly **15–16 working days**.  
+Even the best-case **\(T_{\text{min}}\)** of **≈14 working days** nearly exhausts the window **before approval is factored in**. Practice guidance therefore warns appellants **not to delay filing** the appellant’s notice if the transcript is pending; instead, file on time and seek **directions/extension** for the transcript when the core bundle is due, providing **evidence**: order date, payment, and chasing steps.
+
+---
+
+##### Structural delays (design constraints)
+
+- **Untimed judicial approval:** No SLA for judge’s sign-off on judgments; excluded from vendor SLBs.  
+- **Internal audio lag:** ~10 working-day average precedes vendor work; creates the “48-hour illusion.”  
+- **Fragmented funding path:** **EX105** (public expense) is separate from **EX160A** (HWF) and may delay ordering.  
+- **Pre-permission for non-parties:** Additional application (C2/D11/N244) introduces further uncertainty before EX107.
+
+##### Low-resistance reform levers
+
+1. **Set or display an approval expectation:** a **5–7 working-day** target (or a case-specific estimate recorded by the court).  
+2. **Show the whole clock:** record **T1 (court→vendor dispatch)** and **T2 (vendor→court/judge)** on the case; display a **combined minimum** timeline on EX107/EX107GN.  
+3. **Integrate funding paths:** allow provisional ordering with later cost regularisation if EX105 is granted; clearly banner that **EX160A does not cover vendor fees**.  
+4. **Price/SLA cues at selection:** show a mini table of **service bands** and a reminder that **rates vary by vendor** at the point of vendor choice.
+
+---
+
+###### Figure 6.A (pipeline checkpoints)
+
+```mermaid
+flowchart TD
+  A[EX107 submitted] --> P[Processing 2 working days]
+  P --> R[Locate & package audio ~10 working days]
+  R --> B{Audio exists?}
+  B -- No --> X[Record fault & retry path]
+  B -- Yes --> C[Court → Vendor (T1)]
+  C --> D[Vendor transcription<br/>(48h / 12wd band)]
+  D --> E[Return to court<br/>for judicial approval (T2)]
+  E --> F[Release to applicant]
+  F --> G{Publication permission?}
+  G -- Yes --> H[Anonymised publication within order]
+  G -- No --> I[Private release only]
+  classDef stop fill:#fee,stroke:#f66,color:#600;
+  class X stop;
+
 
 #### 6.2.1 Confidentiality Rules Governing Publication  
 *(AJA 1960 s.12; FPR 2010 rr.12.73–12.75; PD 12G)*
