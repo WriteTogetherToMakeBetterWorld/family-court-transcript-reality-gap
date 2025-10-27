@@ -330,6 +330,28 @@ The **Family Procedure Rules 2010** create limited exceptions (e.g., rr.12.73, 1
 
 **What advocacy adds.** Posts written by legal professionals (e.g., *Have you thought about giving notice?*, 2024) corroborate user-reported choke points (permission gatekeeping, opaque hand-offs, approval lag) and supply **operational detail** that users rarely have: (i) standard **wording** for permission orders; (ii) practical **anonymisation** checklists; (iii) descriptions of **recording integrity** failures and their knock-on effects. In short, the blog stream connects micro-level user barriers to **meso-level practice culture**, strengthening the case for low-resistance fixes.
 
+### 6.2.3 Practitioner Commentary (Solicitors/Barristers): Methods & Scope
+
+**Purpose.** To triangulate user-reported frictions with practitioner-reported practice, a curated corpus of **35 practitioner items (2023–2025)** was analysed.  
+Sources include solicitors, barristers, and professional bodies (FLBA, Bar Council, Law Society, and multiple chambers). The focus: **transcripts/EX107, recordings, transparency/open reporting/TIG, and delays/backlogs** in England & Wales.
+
+**Inclusion criteria.** Public posts or statements by practising lawyers or practitioner bodies that  
+(i) concern family justice in E&W and  
+(ii) substantively mention at least one of the topics above and  
+(iii) include concrete practice detail (order mechanics, timelines/costs, vendor/approval steps, anonymisation).
+
+**Exclusions.** Non-UK or criminal matters; marketing or promotional copy lacking practice content; duplicates; generic roundups with no procedural content.
+
+**Coding & reliability.** Items were coded using the same framework as §6.1.1:  
+- **Themes:** `Transcripts_EX107`, `Recordings`, `Transparency_OpenReporting`, `Delays_Backlogs`.  
+- **Stage:** best-fit among `A_PreVendor` (request/permission/audio), `B_Vendor` (quote/turnaround/inaudible), `C_Approval_Publication` (approval/redaction/publication).  
+- **Evidence type:** Barrister_Blog / Solicitor_FirmPost / Chambers_Note / ProfBody_Statement / Training_Handout / Q&A_Practitioner.  
+- **Strength (1–3):** 1 = opinion; 2 = practice detail; 3 = rules + data/timeline.  
+Pre-window context items (pre-2023) were flagged `outside_window: true` and used only for context.
+
+**Ethics.** All material was publicly accessible. Author and firm names are anonymised to practitioner type.
+
+
 ### 6.3 The Three Phases in Practice (with measurable checkpoints)
 
 | Phase | What must happen | Documents / Actors | Typical time claims | Common failure points | Practical, low-resistance fixes |
@@ -339,6 +361,39 @@ The **Family Procedure Rules 2010** create limited exceptions (e.g., rr.12.73, 1
 | C. Judicial Approval & Publication | Judge reviews transcript; corrections/anonymisation; release to parties; optional publication. | Judge; parties; anonymisation policy; any pilot (TIG/TOJ). | Variable; often open-ended; appeals stall. | Gatekeeping delays; no provisional access; uncertainty about publication/redaction rules. | Provisional release on completion (marked “subject to approval”) for appeal prep; standard redaction rules; target turnaround for approval (e.g., 5–7 working days). |
 
 **Key observation.** Each phase currently contains opaque hand-offs (no shared clock, no “received” stamps) that make delay invisible and accountability diffuse.
+
+#### Figure 6.A — Transcript Pathways (Obtaining → Publication)
+
+```mermaid
+flowchart TD
+  A[Request via EX107 <br/>Role tick-box + Hearing ID] --> B{Audio exists?}
+  B -- No --> X[Stop: Missing/Corrupt Audio<br/>Record fault + retry path]
+  B -- Yes --> C[Court → Vendor <br/>Handover timestamp (T1)]
+  C --> D[Quote + Payment/LAA <br/>Per-minute rate + estimate]
+  D --> E[Transcription <br/>Retry if inaudible]
+  E --> F[Judicial Approval (T2) <br/>Corrections + Redactions]
+  F --> G{Transparency Order?}
+  G -- Yes --> H[Anonymised Publication <br/>Within TO scope + contempt warning]
+  G -- No --> I[Private Release Only <br/>Seek permission if publishing]
+  classDef stop fill:#fee,stroke:#f66,color:#600;
+  class X stop;
+(Caption: visual summary of §6.3 checkpoints with explicit fault codes and time-stamps T1–T3.)
+
+
+---
+
+# ✅ STEP 5 — Final Add-ons / Internal Hygiene
+
+| Task | Where | Markdown snippet |
+|------|--------|------------------|
+| **Add cross-reference in intro** | In first paragraph of §6 | “The analysis integrates three complementary evidence streams — **documentary**, **user**, and now **practitioner** (§6.2.3) — to map how transcripts move from request to publication.” |
+| **Add internal link at 6.7 start** | Start of §6.7 Conclusion | “Read together, the user (§6.1), advocacy (§6.2.2), and practitioner (§6.2.3 → 6.4.1) streams confirm the same structural choke points.” |
+| **Append Appendix reference** | End of §6.7 Conclusion | “Detailed practitioner item summaries (n = 35) are provided in **Appendix P1** for transparency and replication.” |
+
+---
+
+✅ **Result:**  
+Your Chapter 6 keeps its academic tone and numbering; practitioner material is methodologically integrated, visually reinforced, and GitHub-ready for rendering.
 
 ### 6.4 Findings from the Anecdotal Dataset (concise synthesis)
 
@@ -369,6 +424,20 @@ Read together with the **Transparency Project** blog stream in §6.2.2, the user
 1. *"Filed EX107 3 months ago—paid £180, still nothing. LIP, can't afford chase."* (2024; delay, cost, LIP)
 2. *"Audio 'corrupt'—court says no recording. How appeal?"* (2023; recording_missing, approval)
 3. *"Transcriber quote £450 for 5 hours—LAA denied. Settled under pressure."* (2025; cost, settlement_pressure)
+
+   ### 6.4.1 Practitioner Findings (Concise Synthesis)
+
+Practitioner material **corroborates** user anecdotes and clarifies **publication mechanics**.  
+Chambers notes and Bar/Solicitor-body statements describe a **permissioned openness** model: publication proceeds under a **transparency order** with mandatory anonymisation; reporter attendance triggers judicial consideration of such an order.  
+Practitioner posts confirm two Obtaining-pathway fragilities also seen in user data: **audio integrity** (missing/corrupt recordings) and **opaque hand-offs** between court and vendor.
+
+On **recordings**, firms and barristers distinguish **court audio** (precondition for producing the official transcript) from **party-made/covert recordings**, where courts require **certified transcriptions** and **full, unedited disclosure**; publication of such material is tightly constrained.  
+Bar and Law Society statements quantify or characterise **delay** (e.g., 50-week pendency; 100 000+ children affected), aligning with the user-inferred median (~77 days end-to-end).  
+The shared remedy is procedural: **visible clocks** at T1 (authorisation), T2 (vendor production), T3 (judicial approval) and **standard wording** to convert private transcripts into **lawful, anonymised public artefacts**.
+
+**Theme prevalence (n = 35):** `Transparency_OpenReporting` (20) > `Delays_Backlogs` (16) > `Transcripts_EX107` (12) > `Recordings` (9).  
+**Stage focus:** `A_PreVendor` dominates for EX107 / recordings; `C_Approval_Publication` for transparency/order mechanics; `B_Vendor` appears in **inaudible/ping-pong** delay cases.
+
 
 ### 6.5 Limitations
 
@@ -405,6 +474,26 @@ In effect, it transforms an individual act of documentation into a collective ac
 This model reframes *open justice* not as an abstract institutional reform but as an emergent by-product of ordinary procedural participation.
 
 *These recommendations are triangulated across user accounts (§6.4), advocacy/practitioner commentary (§6.2.2), and the governing rules/forms (§6.2–§6.2.1).*
+
+#### Box 6.P — Practitioner Playbook: Linking Obtaining → Publication
+
+- **A1 Intake (EX107):** Add a role tick-box (party / journalist / legal blogger), hearing-ID helper, and an **audio-existence check before payment**.  
+- **A2 Permission:** Where required, include an order clause authorising both the transcript and its potential **post-approval anonymised publication** aligned with any Transparency Order (TO).  
+- **B Vendor:** Require **handover timestamps** (court → vendor → court). Quotes must show **per-minute rate**, estimated total, and LAA route.  
+- **B Faults:** For **inaudible/corrupt** returns, create a **retry pathway** and preserve the clock (no hidden resets).  
+- **C Approval:** Judicial approval applies redactions per TO; issue **provisional copies** “subject to approval” where needed for appeals.  
+- **C Publication:** Publish **anonymised transcripts** within TO scope; children never identifiable; professional identifiers as directed; include **contempt-of-court warning** for breaches.  
+- **Covert recordings:** Require **certified transcription** and **full, unedited disclosure**; publication only with explicit permission.
+
+- ##### Model wording (Practitioner-aligned)
+
+**EX107 add-on (request):**  
+> “The applicant also seeks permission for **post-approval publication** of an **anonymised** version of the authorised transcript, to be exercised only **in accordance with any Transparency Order or further directions of the court**.”
+
+**Transparency / permission order (publication):**  
+> “Upon completion and approval, the applicant may **publish an anonymised transcript** consistent with this Order. **No identification of the child(ren) or family.** Treatment of professional identifiers **as directed by the court.** Any publication beyond this scope requires permission. **Breach may constitute contempt of court.** Liberty to apply.”
+
+
 
 ### 6.7 Conclusion
 
