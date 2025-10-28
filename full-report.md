@@ -2248,3 +2248,46 @@ Transparency Project (2023b) *Open Justice in Practice*. Available at: https://t
 Walker, J. (2025) *FOI: Court Transcript Data*, WhatDoTheyKnow. Available at: https://www.whatdotheyknow.com/request/court_transcript_processing_performanc
 
 Warners Solicitors (2024) *State of Delays 2024*. Tonbridge: Warners Solicitors.
+
+https://transparencyproject.org.uk/category/cases/notorious/page/7/
+https://transparencyproject.org.uk/29974-2/
+https://transparencyproject.org.uk/an-order-for-no-contact-at-west-london-family-court/
+https://transparencyproject.org.uk/family-court-reporting-watch-roundup-august-sept-2025/
+https://transparencyproject.org.uk/judgment-given-and-published-in-welsh/
+https://transparencyproject.org.uk/british-teenager-becomes-a-ward-of-court-to-escape-from-somalia/
+https://transparencyproject.org.uk/children-left-with-harmful-parents-because-of-lack-of-foster-carers/
+https://transparencyproject.org.uk/public-and-private-the-limits-of-transparency-in-charlie-gards-case-an-update/
+https://transparencyproject.org.uk/judgment-published-to-warn-women-against-sperm-donor-who-has-180-kids/
+https://transparencyproject.org.uk/identification-of-judges-in-sara-sharif-family-court-history/
+https://transparencyproject.org.uk/court-of-appeal-to-consider-the-idea-of-the-anonymous-judge/
+https://transparencyproject.org.uk/family-judge-keeps-press-in-the-dark-about-indefensible-case/
+https://transparencyproject.org.uk/air-conditioning-astroturf-and-transparency-orders/
+https://transparencyproject.org.uk/final-divorce-orders-a-particular-category/
+https://transparencyproject.org.uk/transcript-reveals-what-one-judge-really-thinks-of-transparency/
+https://transparencyproject.org.uk/when-a-judge-prefers-his-own-biases-to-the-law-all-is-lost/
+https://transparencyproject.org.uk/behind-closed-doors-a-transcript-from-a-private-hearing/
+https://transparencyproject.org.uk/family-justice-ostiis-apertis/
+https://transparencyproject.org.uk/logan-mwangi-the-child-practice-review-and-the-family-courts/
+https://transparencyproject.org.uk/i-watched-eastenders-and-analysed-scarletts-family-court-drama-so-you-dont-have-to/
+https://transparencyproject.org.uk/the-mystery-of-x-the-croydon-expert/
+https://transparencyproject.org.uk/speaking-out-in-the-public-interest-and-childrens-privacy-rights-the-eleanor-bradford-adoption-breakdown-saga/
+https://transparencyproject.org.uk/bell-v-tavistock-court-of-appeal-judgment-an-explainer/
+https://transparencyproject.org.uk/agony-of-fighting-for-my-child-in-the-courts-by-a-family-lawyer-in-a-candid-account-a-lawyer-reveals-how-when-she-found-herself-in-her-clients-shoes-it-almost-destroyed-her/
+https://transparencyproject.org.uk/the-lachaux-libel-case-returns-with-an-expensive-result-for-the-publishers/
+https://transparencyproject.org.uk/misdiagnosis-case-update/
+https://transparencyproject.org.uk/the-domestic-abuse-appeals-a-missed-opportunity-for-cultural-change/
+https://transparencyproject.org.uk/domestic-abuse-conjoined-appeals-update/
+https://transparencyproject.org.uk/should-a-journalist-be-able-to-see-all-the-court-papers-behind-a-flawed-decision-that-a-child-should-be-adopted-marshalling-the-arguments/
+https://transparencyproject.org.uk/the-ppe-procurement-case-transparency-missed-in-both-politics-and-law/
+https://transparencyproject.org.uk/the-court-of-appeal-considers-domestic-abuse-part-3/
+https://transparencyproject.org.uk/the-court-of-appeal-considers-domestic-abuse-part-2/
+https://transparencyproject.org.uk/the-court-of-appeal-considers-domestic-abuse-part-1/
+https://transparencyproject.org.uk/bell-v-tavistock-in-the-high-court-an-explainer/
+https://transparencyproject.org.uk/eastenders-and-domestic-abuse/
+https://transparencyproject.org.uk/of-a-piece/
+https://transparencyproject.org.uk/296-days-to-correct-a-factual-inaccuracy-effective-press-regulation/
+https://transparencyproject.org.uk/journalists-persuade-judge-to-change-his-mind-and-name-criticised-local-authority/
+https://transparencyproject.org.uk/that-judgment-and-what-people-have-said-about-it/
+https://transparencyproject.org.uk/no-means-no-jh-v-mf/
+https://transparencyproject.org.uk/experience-as-a-legal-blogger-at-the-tafida-raqeeb-case/
+https://transparencyproject.org.uk/orphans-from-syria/
