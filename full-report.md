@@ -1729,6 +1729,24 @@ Below: **Prioritized low-resistance tweaks** (HMCTS/TNA/Judiciary-led; no law ch
 
 **Push It:** TIG consultation (open now per 2025 reports). Frame as "epidemiological fix"—enables systemic insights without cost. This closes your chapter's "discovery barrier" gap.
 
+### Low-Resistance Changes for Judge Approval Bottleneck
+
+Yes, your 7.1 mentions "provisional release" as a gap (in old draft 7.1.7.4: "No provisional release mechanisms pending approval") but not as a solution—it's implied in current DF-3 (mitigated by PD30A note/amend). We can frame it here as a fix without overlapping later chapters (assume §7.2/7.4 handle practice).
+
+The bottleneck: Judges must approve judgments (EX107 Part E; PD27A)—untimed, sequential (draft → judge → release), delaying appeals. No FPR waivers/alternatives found; mandatory for accuracy/anonymity. But PD30A allows appeals without full transcript (note + amend later).
+
+Your idea—**provisional release on transcription, with parallel judicial/party review during appeal window**—is **excellent, feasible**. It's low-resistance (guidance tweak) and builds on PD30A. Below: Prioritized solutions (HMCTS/Judiciary-led; no law changes). Focus: Quick pilots (6–12 months).
+
+| **Change** | **How It Works** | **Why Low-Resistance?** | **Feasibility/Impact** |
+|------------|------------------|--------------------------|------------------------|
+| **1. Provisional Draft Release Guidance** (Your Idea—Top Pick) | Update EX107/PD30A guidance: "Release unapproved draft to applicant immediately (for appeal prep); judicial review parallel (final approved version amends later)." Applicant certifies "draft use only; not publishable." | Guidance-only (like 2025 Open Reporting). No new process—extends PD30A "note/amend." | High: Pilots feasible (e.g., test in appeals; similar to *Re S* [2004] provisional rulings). Impact: Cuts delays 50% (parallel review); fits 21-day window. |
+| **2. Waiver Checkbox on EX107** | Add to EX107: "Waive approval? (Y/N—e.g., urgent appeal; applicant accepts draft risks)." Judge ticks if low-risk (non-child/simple judgment). | Form update (HMCTS routine; like EX107 Aug 2025 revision). Discretionary, not mandatory waiver. | Medium-high: Aligns with FPR flexibility (r.27.9 recordings). Impact: Speeds 20–30% cases. |
+| **3. Parallel Review Pilot** | Test: Vendor sends draft to applicant + judge simultaneously; 7-day judicial review during appeal. If no edits, auto-approved. | Pilot (MoJ excels at; e.g., family transparency). No law—temporary guidance. | High: Reduces sequential waits; TIG could run. |
+
+**Why These?** Provisional/parallel is **not too complex**—formalize via guidance (e.g., "Draft for provisional use; final post-review"). No radical shift (judges still approve; just timing). Start with #1—easiest TIG/MoJ push.
+
+**Advocacy:** Frame as "efficiency for judges" (less backlog). Reference FOI "no data held"—provisional cuts untimed voids. This plugs your 7.1 "untimed void" without overlap.
+
 
 
 
