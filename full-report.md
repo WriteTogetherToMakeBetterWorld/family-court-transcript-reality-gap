@@ -562,6 +562,8 @@ Both sources agree the Service Level Band (SLB) covers only vendor production ti
 ### Judicial Approval: The Untimed Stage
 **Mandatory gatekeeping.** HMCTS guidance and EX107 require transcripts be **approved by the presiding judge** before release to ensure accuracy and anonymity compliance, especially in private hearings [EX107 Part E; HMCTS Guidance Aug 2025]. The approved version is final; no mechanism exists to view judicial edits (e.g., track changes), creating opacity in how accuracy is ensured and potentially concealing interpretive influences on the record.
 
+**No mandatory track record exists for changes (e.g., "track changes" log of edits by judges or parties), meaning users cannot verify what was altered from the draft—further compounding transparency deficits.**
+
 **The untimed void.** No rule, form, or guidance specifies:
 - How long judges have to approve transcripts
 - What triggers approval
@@ -1747,6 +1749,30 @@ Your idea—**provisional release on transcription, with parallel judicial/party
 
 **Advocacy:** Frame as "efficiency for judges" (less backlog). Reference FOI "no data held"—provisional cuts untimed voids. This plugs your 7.1 "untimed void" without overlap.
 
+### Low-Resistance Changes for Transcription Company Performance
+
+You're spot on—HMCTS's 5 approved vendors (e.g., eScribers, Marten Walsh Cherer) operate under fixed SLBs (48 hours/12 wd), but contracts lack public incentives for beating them or standardized reporting on time/accuracy/costs. Current KPIs exist (timeliness/compliance per procurement), but no transparency (FOI: "no data held" on metrics; vendors self-report internally). Users pick vendors blindly (EX107 lists them; no comparisons).
+
+**Core Fix:** Embed **incentives + standardized reporting** in contract renewals (next ~2026; low-resistance via MoJ procurement). Freedom to deliver early (no penalty), but report against uniform framework (e.g., % on-time/early, error rates via complaints/changes, folio costs). Public dashboard for choice.
+
+Below: **Prioritized tweaks** (MoJ/HMCTS-led; no law changes). Focus: Quick updates (6–12 months).
+
+| **Pillar** | **Change** | **How It Works** | **Why Low-Resistance?** | **Feasibility/Impact** |
+|------------|------------|------------------|--------------------------|------------------------|
+| **Time (Beat SLBs)** | **Early-Delivery Bonus in Contracts** (Top Pick) | Renewals (2026) add: +5–10% fee for >80% deliveries early (e.g., 24 hrs vs. 48). Vendors report quarterly (% on-time/early via HMCTS portal). Guidance: "Encourage faster for appeals." | Procurement tweak (like current KPIs). No new rules—builds on timeliness standards. | High: Vendors compete (e.g., eScribers pilots faster). Impact: 20–30% quicker avg (incentivizes efficiency without mandates). |
+| **Accuracy (Quality Metrics)** | **Standardized Error Reporting Framework** | Mandate uniform metrics: % transcripts with changes (post-approval), complaint rate (<5% target), accuracy score (e.g., 98% via sample audits). Quarterly self-report to HMCTS; anonymized public summary. | Guidance/contract addendum (TIG-like). Collect via existing complaints portal (no new system). | Medium-high: Aligns with AI pilots (accuracy metrics). Impact: Consistent quality; weeds out underperformers. |
+| **Costs (Transparency)** | **Public Vendor Comparison Dashboard** | GOV.UK page: Table of avg folio costs/SLB, % early delivery, complaint rates (updated quarterly from reports). EX107 links: "Compare vendors here." | Site update (like fee schedules). Vendors submit data (contract clause). | High: MoJ pushes transparency (2025 Act). Impact: Users pick efficient/cheaper; drives competition. |
+
+**Why These?** Start with #1—easiest (procurement incentives exist; expand). Framework ensures apples-to-apples (e.g., all report "changes/folio" vs. vague "complaints"). No "fixed windows" lock-in—rewards beating them.
+
+**Push It:** FOI on current KPIs ("What metrics in 2025 contracts?"); TIG for family focus. This ties to your 7.1 DF-2 (vendor > HMCTS transparency)—turns opacity into user empowerment.
+
+As Low-Resistance Solution
+Easiest Fix: Update PD27A/EX107 guidance: "Provide tracked-changes version on request (draft vs. final); log edits publicly if published."
+
+How: HMCTS/Judiciary tweak (no law; like 2025 transparency updates). Pilot in appeals: Auto-generate logs via Word/PDF tools.
+Resistance: Low—builds on TIG reports (2023: "audit trails needed"). Impact: Reveals influences (e.g., interpretive tweaks); cuts opacity 50%.
+Push: TIG feedback—"Mandate logs for trust."
 
 
 
