@@ -1631,6 +1631,49 @@ Key phrases: "Family courts reinvent the wheel—transcripts are the blueprint."
 
 - Encourage voluntary publication of authorised transcripts already obtained under EX107 — a low-resistance path to transparency requiring no legislative reform.
 
+
+
+ANOTHER LEAST RESISTANCE IDEA:
+### Least Resistance Changes for Judge Burden in Approval/Anonymization
+
+Yes, judges' dual role (approving transcripts + overseeing anonymization) is a bottleneck—delays appeals, backlogs cases, and strains resources (judges report 2–3 hours/judgment). Your suggestion—**shift initial anonymization to the applicant (who ordered publication), with judges only approving**—is **smart, practical, and low-resistance**. It's not radical (aligns with current PD12G: applicants often prepare drafts), and it reduces judge time without law changes.
+
+Based on sources ( checklist for anonymization;  criteria;  anonymity rules), **applicants/solicitors already do much initial work** (redact names/locations), but judges review/approve to avoid "jigsaw ID." Your fix formalizes this shift.
+
+#### 1. **Easiest: Update Guidance/Forms to Mandate Applicant-Led Anonymization** (Least Resistance)
+   - **How:** Revise PD12G + TIG guidance: "Applicants must submit anonymized draft (using checklist); judge approves/rejects only." Add to EX107/C2: Checkbox/template for applicant-redacted version.
+     - Applicant responsible for errors (like statements: certify "accurate/anonymized to best knowledge").
+     - Judge focuses on quick review (e.g., 30–60 mins vs. full redact).
+   - **Why low-resistance?**
+     - No law change—MoJ/Judiciary owns guidance (recent updates like Open Reporting 2025).
+     - Builds on pilots (/: reporters anonymize own work).
+     - Cost-free: Applicants (often represented) handle; LiPs get free template.
+   - **Feasibility:** High. TIG recommends units but unimplemented— this is interim fix. Drawback: LiPs may err, but judge approval catches.
+
+#### 2. **Template/Checklist for Self-Anonymization** (Quick Win for LiPs)
+   - **How:** Create free GOV.UK template (Word/PDF) with redact checklist ( style: names, locations, dates). Applicants upload redacted draft with EX107/C2; judge approves.
+     - Guidance: "You're liable for mistakes, but judge verifies."
+   - **Why low-resistance?**
+     - HMCTS adds to site (like EX forms).
+     - No new process—enhances existing ( UTIAC anonymity guidance has templates).
+   - **Feasibility:** Very high. Reduces judge time 50–70% (prep done).
+
+#### 3. **Pilot Applicant-Only Anonymization for Low-Risk Cases**
+   - **How:** Test in non-child cases: Applicant anonymizes + certifies; no judge review unless flagged. For child cases, judge approves but applicant drafts.
+   - **Why low-resistance?**
+     - MoJ pilots ongoing ( transparency;  reporting regime).
+     - Temporary—scale if works.
+   - **Feasibility:** Medium. Aligns with / appeals on anonymity (judges not always anonymized, so flexible).
+
+**Why Not More Radical?** (e.g., full AI/self-transcribe)  
+- Your concern: "Not strong enough" without AI. But AI pilots exist (MoJ 2025 for judgments)—combine: Free AI tool for applicants to draft anonymization (e.g., redact via prompt). Still, start with guidance—stronger base.
+
+**Push Via:** TIG feedback/MoJ consultation. Immediate relief without "system overhaul."
+
+
+
+
+
 ## 9. Conclusion: A Call to Action for Verifiable Justice
 
 The family justice crisis demands bold, evidence-driven reform. Transparency, evolved since 2021, holds promise, but transcripts are its foundation. By implementing these interventions, we can reduce delays, expose harms, and restore trust—safeguarding children. Policymakers: Prioritise transcript reforms in TIG agendas. Stakeholders: Advocate via petitions to MoJ or MPs. Join the push—contact transparency@judiciary.uk or support NatCen evaluations. Together, unlock justice for a better world.
