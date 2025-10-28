@@ -368,6 +368,9 @@ It is to **make transcripts flow** — from courtroom to public domain — with 
 **Streamline obtaining. Enable publication. Close the loop.**  
 That is how **personal justice becomes systemic justice**.
 
+**But how broken are the pathways today?**  
+The following analysis examines this question through **three complementary evidence layers** — documentary rules, lived experiences, and professional commentary — to reveal precisely where the system fails and how least-resistance reforms can fix it.
+
 ---
 
 ### 7.0 Analytical Design and Evidence Logic
