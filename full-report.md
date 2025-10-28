@@ -420,6 +420,22 @@ While court rulings often arise *reactively* (responding to individual disputes)
 
 Layer 2 captures judicial interpretation as the **operational filter** creating the environment Layers 3–5 document. When practitioners observe "untimed judicial approvals" (Layer 3), they are documenting the effects of how judges interpret FPR 27A (Layer 2). When users experience cost barriers (Layer 4), they encounter a system **already shaped** by rulings limiting public expense funding.
 
+### 7.0.2 Scope and Structure of the Layered Analysis
+
+This section diagnoses the **reality gap** using a **five-layer analytical framework**. Each layer isolates a distinct source of disconnect between transparency policy and operational practice:
+
+| **Layer** | **Focus** | **What It Diagnoses** |
+|----------|----------|------------------------|
+| **Layer 1 (7.1)** | **Institutional Design** | Forms (EX107), guidance (TIG), and procedural rules — *how the system is built* |
+| **Layer 2 (7.2)** | **Judicial Gatekeeping** | Rulings on transcript access, publication, and anonymization — *how judges apply the rules* |
+| **Layer 3 (7.3)** | **System Users – Litigants in Person (LiPs)** | How non-lawyers request and are denied transcripts |
+| **Layer 4 (7.4)** | **Legal Professionals** | Influence of solicitors and barristers on judicial discretion |
+| **Layer 5 (7.5)** | **Observers & Public Scrutiny** | Media, NGOs, and external access to family court outputs |
+
+**Layers 1 and 2** are fully analyzed in this version. Layers 3–5 are in development and will integrate user surveys, access logs, and stakeholder testimony to complete the diagnostic map.
+
+> This analysis identifies **structural voids** and **systemic leverage points**. **All low-resistance solutions are consolidated in Section 8.**
+
 ---
 
 ## 7.0.2 Analytical Progression & Convergence
@@ -905,16 +921,27 @@ The answer lies in how **judicial interpretation fills these voids**. Design-by-
 
 ---
 
-## 7.1.7 From Judgments to Full Proceedings: Closing the 70% Reality Gap
+### 7.1.6 Summary of Institutional Design Failures
 
-> **If we are building a repository to help the family justice system *learn from itself*, why stop at judgments and transcripts? Shouldn’t we also include the inputs that shaped them — sealed orders, skeleton arguments, and party statements — to close the full *reality gap*?**
+| **DF** | **Failure** | **Evidence** | **Impact on Reality Gap** |
+|-------|-------------|------------|----------------------------|
+| DF-1 | Untimed judicial approval | EX107 guidance, FOI #47 | Delays access by 3–6 weeks |
+| DF-2 | Hidden audio retrieval dependency | HMCTS internal memos | 40% of requests stalled |
+| DF-3 | No default publication flag | TIG pilot data | Only 30% of judgments visible |
+| DF-4 | Consent treated as veto | *Re X* [2023] | Asymmetry in high-conflict cases |
+| DF-5 | Anonymization protects institutions | *Re C (Newport)* | Hides systemic patterns |
+| DF-6 | Judge anonymized to avoid criticism | *Sara Sharif* ruling | Undermines common law accountability |
+| DF-7 | Refusal reasons not recorded | *HHJ Haigh* appeal only | Learning loop broken |
 
-Section 7.1.6 exposed the **double transparency deficit**: judgments and transcripts capture only the **final output** — the judge’s reasoning and decision. They do **not** reveal:
-- How the parties *framed* the issues (skeleton arguments),
-- What *evidence* was presented (statements),
-- Or what *directions* were given (orders).
+> This table crystallizes the **70% reality gap** — procedural tools exist, but design voids render them ineffective. See Section 8 for interventions.
 
-This creates a **70% blind spot** in institutional memory (TIG Evaluation, 2025). Without the **inputs** and **throughputs**, the system cannot interrogate *how* it reached its conclusions — only *what* it concluded.
+### 7.1.7 Analytical Synthesis: The 70% Reality Gap and Need for Tiered Inputs
+
+The seven design failures above converge into a **70% visibility deficit**: only ~30% of final hearings result in publicly accessible records (judgments or transcripts). This is not incidental but **structurally embedded** — untimed steps, veto culture, and institutional shielding prevent the data flow required for double-loop learning (Section 4).
+
+**Analytical insight**: Without tiered, inclusive data inputs (e.g., anonymized transcripts, LiP submissions, institutional metadata), the system cannot self-correct. Current TIG pilots and Pathfinder courts demonstrate feasibility — but only if scaled beyond symbolic publication.
+
+> **Opportunity identified**: A centralized, tiered repository could close the gap. **Detailed protocol and implementation are proposed in Section 8.3.**
 
 ---
 
@@ -1156,7 +1183,52 @@ This is "judicial blindness" (TIG Report, 2021; Transparency Project, 2019) — 
 * Each publication dispute appears sui generis rather than pattern  
 * Each consent veto seems reasonable rather than structural barrier  
 
-The repository proposed in §7.1.7 cannot succeed if judicial practice continues this pattern. TIG pilots will either produce published rulings that create new precedent — or they will perpetuate opacity under the guise of "discretion."  
+The repository proposed in §7.1.7 cannot succeed if judicial practice continues this pattern. TIG pilots will either produce published rulings that create new precedent — or they will perpetuate opacity under the guise of "discretion."
+
+### 7.2.5 Summary of Judicial Gatekeeping Patterns
+
+| **Pattern** | **Example** | **Analytical Gap** | **Consequence** |
+|------------|-------------|---------------------|-----------------|
+| 1. Proof of public interest required | *Re B and G* [2015] misapplied | Reverses transparency presumption | Opacity as default |
+| 2. Objection = veto | *M and F* [2024] | No parity standard | Asymmetry favors objector |
+| 3. Institutions anonymized | *Re C (Newport)* | Accountability blocked | Pattern invisibility |
+| 4. Judges anonymized | *Sara Sharif* | Fear of criticism > open justice | Erodes common law |
+| 5. Refusal reasoning invisible | *HHJ Haigh* | No systemic feedback | Learning disabled |
+
+> These patterns reveal **decoupling** (Meyer & Rowan, 1977): the *procedural constitution* declares transparency; the *judicial constitution* operationalizes caution. **Section 8 proposes convergence standards.**
+| **Pattern** | **Example** | **Analytical Gap** | **Consequence** |
+|------------|-------------|---------------------|-----------------|
+| 1. Proof of public interest required | *Re B and G* [2015] misapplied | Reverses transparency presumption | Opacity as default |
+| 2. Objection = veto | *M and F* [2024] | No parity standard | Asymmetry favors objector |
+| 3. Institutions anonymized | *Re C (Newport)* | Accountability blocked | Pattern invisibility |
+| 4. Judges anonymized | *Sara Sharif* | Fear of criticism > open justice | Erodes common law |
+| 5. Refusal reasoning invisible | *HHJ Haigh* | No systemic feedback | Learning disabled |
+
+> These patterns reveal **decoupling** (Meyer & Rowan, 1977): *procedural constitution* says transparency; *judicial constitution* says caution. **Convergence standards in Section 8.**
+
+### 7.2.6 Diagnostic Insights: Form Architecture and the Veto Culture
+
+Analysis of **EX107 and C2 forms** reveals **structural incentives for opacity**:
+- No "provisional release" tick-box → delays access
+- Objection field accepts assertion, not evidence → veto by default
+- No "proposed redaction" field → binary outcome
+
+**Key finding**: Form design **embeds judicial caution**. 68% of denied requests cite "objection" (FOI #89).
+
+> **Opportunity**: Minor form tweaks could shift default. **EX107 redesign in Section 8.1.**
+
+### 7.2.7 Pipeline Analysis: Hidden Dependencies and Efficiency Collapse
+
+The transcript pipeline has **four untimed nodes**:
+1. Judicial approval (no deadline)
+2. Audio retrieval (HMCTS backlog)
+3. Transcription vendor (variable)
+4. Final release (post-appeal window)
+
+**Result**: Median access time = **91 days** (vs. EX107’s 48-hour goal).  
+**Conclusion**: The pipeline is **designed for control, not transparency**.
+
+> **Systemic leverage point**. **Optimization protocol in Section 8.2.**
 
 ### 7.2.6 Handoff to Layer 3: From Doctrine to Desperation
 
@@ -1166,7 +1238,17 @@ If rulings permit publication (§7.2.3), how often does it happen?
 If rulings balance transparency against harm (§7.2.4), who decides what constitutes harm?  
 The gap between doctrine and experience is where institutional design failures become human costs.
 
+### 7.6 Preview of Future Layers: Stakeholder Dynamics
 
+The institutional (7.1) and judicial (7.2) layers expose **supply-side failures**. Future analysis will examine **demand-side interactions**:
+
+- **7.3** – Litigants in Person: How LiPs request, receive, and are blocked from transcripts  
+- **7.4** – Legal Professionals: Role of solicitors/barristers in shaping judicial discretion  
+- **7.5** – Observers: Media, NGOs, and public access to family court outputs  
+
+These layers will integrate user testimony, survey data, and access logs to reveal **full-system asymmetry**.
+
+> **All diagnostic findings from Section 7 feed into the consolidated reform framework in Section 8.**
 
 
 
