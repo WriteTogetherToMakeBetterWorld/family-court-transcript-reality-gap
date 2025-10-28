@@ -1,3 +1,12 @@
+Section 1: Introduction – Sets the stage with the "reality gap" in family courts (e.g., transcripts as untapped tools for transparency). Primarily contextual, no analysis or solutions yet.
+Section 2: Crises in Family Court – Diagnoses systemic issues (e.g., bias, delays, abuse minimization). Pure analysis of problems.
+Section 3: Theoretical Foundations – Explains concepts like double-loop learning and systemic intelligence. Theoretical background, no solutions.
+Section 4: Empirical Foundations and Data Deficit – Highlights evidence voids (e.g., NatCen reports, FOI data). Analytical, with hints at data needs but no fixes.
+Section 5: Paradigms and Learning Cycles – Discusses organizational paradigms and learning models. Conceptual analysis.
+Section 6: Transparency as a Driver of Change – Explores transparency's role in reform. Bridges theory to practice, still analytical.
+Section 7: Layered Analysis of the Reality Gap – Core diagnostic engine (detailed below). Primarily analysis, but with embedded targeted solutions tied to specific gaps.
+Section 8: Policy Implications and Low-Resistance Interventions – Broader reforms (detailed below). This is the main solutions section, building on 7's findings.
+Section 9: Conclusion and Call to Action – Summarizes and advocates. No new analysis or solutions.
 
 # Abstract
 
