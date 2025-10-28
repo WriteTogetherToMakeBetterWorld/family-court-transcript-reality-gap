@@ -548,6 +548,17 @@ For a 500-folio transcript (moderate-length judgment): expedited costs ~£700–
 
 **When the Service Level Band clock starts.** Vendor Terms & Conditions state timelines commence **after** approval from the court, recording retrieval, and payment receipt. This creates **Design Failure 2 (DF-2): Vendor Transparency > HMCTS Transparency** — commercial providers explicitly clarify what public forms conceal: stated timelines exclude court processing, recording retrieval, and judicial approval [Vendor T&Cs, e.g., eScribers; Marten Walsh Cherer].
 
+**While official guidance discloses the core exclusions, transcription companies formalize these delays in legally binding terms, providing greater operational clarity than HMCTS forms.**  
+Both sources agree the Service Level Band (SLB) covers only vendor production time, excluding court processing and judicial approval:
+
+| **Aspect** | **HMCTS Guidance (EX107GN)** | **Transcription Companies (T&Cs)** |
+|------------|-------------------------------|-------------------------------------|
+| **SLB Scope** | “Time for company to produce and deliver or submit to court”; excludes judge approval | “Turnaround commences after audio + payment received”; “approval time beyond our control” (e.g., eScribers: “not likely within chosen band if approval needed”) |
+| **Court Lead Time** | “2 working days to process EX107”; “~10 working days average to locate/send audio” | “Normally dispatched within 10 working days… no guarantee” (The Transcription Agency) |
+| **Judicial Approval** | “Additional time required”; “SLB excludes judge’s approval” | “Cannot release without court permission”; “solely at discretion of Court/Judge” |
+
+**Result:** Vendors manage expectations contractually; HMCTS relies on separate guidance. This reinforces **DF-2 (Vendor Transparency > HMCTS Transparency)** — users accessing vendor websites receive clearer warnings than those using official forms alone.
+
 ### Judicial Approval: The Untimed Stage
 **Mandatory gatekeeping.** HMCTS guidance and EX107 require transcripts be **approved by the presiding judge** before release to ensure accuracy and anonymity compliance, especially in private hearings [EX107 Part E; HMCTS Guidance Aug 2025]. The approved version is final; no mechanism exists to view judicial edits (e.g., track changes), creating opacity in how accuracy is ensured and potentially concealing interpretive influences on the record.
 
@@ -1423,6 +1434,191 @@ Anecdotes expose **LIP vulnerability**: users pay £180+ for records they cannot
 Transcripts aren't ancillary; they're pivotal. Experts like those in NatCen's evaluation argue they underpin scrutiny, with TIG's data sub-group advancing collection for outcomes (NatCen, 2025). AI integration could slash costs/delays, per MoJ explorations (MoJ, 2025c). Repealing parental presumptions signals responsiveness, but without transcript metrics, biases persist unchecked (MoJ, 2025b).
 
 ## 8. Low-Resistance Interventions: Actionable Pathways Forward
+
+I am thinking let's take each of these 5 leayers - 1. procedural
+hhere we would have
+
+a) forms itself:
+the single, lowest-resistance, highest-impact fix that helps users right now — without requiring rule changes, parliamentary approval, or system redesign — is:
+
+Add a clear, on-form warning to EX107 (and FP161/N161) that explicitly resolves the 48-hour illusion and the 21-day collision.
+
+This is least resistance because:
+
+It’s a form update (HMCTS controls EX107)
+No statutory change needed
+No extra cost (just text + layout)
+Immediate user benefit
+Politically neutral (improves clarity, not policy)
+
+
+Proposed On-Form Fix (EX107 C5 — Service Level Band Selection)
+Current (misleading):
+textWhich Service Level Band do you require?
+☐ Within 48 hours
+☐ Within 12 working days
+Proposed (user-protective):
+textWhich Service Level Band do you require?  
+*(This is the transcriber’s production time ONLY — it starts AFTER the court has processed your request, located the audio, and sent it to the transcriber. Average court processing + audio retrieval: ~12 working days. Judicial approval (required for judgments) is untimed and excluded.)*
+
+☐ Within 48 hours *(total ~14+ working days + approval)*
+☐ Within 12 working days *(total ~24+ working days + approval)*
+
+⚠️ **For appeals**: The 21-day appeal deadline starts when judgment is given. Even the fastest option may not deliver an approved transcript in time. You can file your appeal (FP161/N161) with a "note of judgment" and amend later (PD30A).
+
+Why This Works
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ProblemSolved By Fix48-hour illusionExplicitly says: vendor time onlyNo end-to-end timelineGives ~minimum total (14+ days)Appeal collisionFlags 21-day risk + PD30A workaroundUser confusionAll info at decision point (not buried in guidance)LiP vulnerabilityNo legal knowledge assumed
+
+Bonus: Mirror Fix on FP161/N161 (Section 12)
+Current:
+text☐ a transcript or note of judgment
+[ ] Reasons why not supplied...
+Proposed:
+text☐ a transcript or note of judgment  
+*(You can file this appeal on time even if the transcript is not ready. Use a note of judgment and amend later — see PD30A. Order transcript via EX107 as soon as possible.)*
+
+[ ] Reasons why not supplied and date when it will be available
+
+Implementation Feasibility
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FactorStatusAuthorityHMCTS owns forms — can update via routine revisionPrecedentEX160A already puts critical info on form ("does not cover transcription")CostNegligible (text change)TimelineCould be live in next form revision cycle (3–6 months)ResistanceLow — improves user experience, reduces complaints
+
+Why Not Fix the 21-Day Rule?
+You asked: "Not changing the 21 days, but isn't it?"
+Correct — this is not about extending the 21-day rule.
+That would require:
+
+FPR amendment
+Judicial consultation
+Possible statute change
+
+Too slow, too hard.
+Instead, accept the 21-day rule exists — but stop the system from lying to users about whether they can meet it.
+
+The harm isn’t the deadline. The harm is the false belief that a transcript can arrive in time.
+
+
+Final Recommendation
+Push for this change via:
+
+FOI to HMCTS: "When was EX107 last reviewed? What user testing was done on timeline clarity?"
+Transparency Project / Legal Bloggers: Campaign for "Truth on Forms"
+Judiciary.uk feedback portal
+MP question: "Will the MoJ update EX107 to prevent misleading appellants?"
+
+
+Bottom line:
+Yes — the easiest, fastest, most ethical win is truth on the form.
+It doesn’t fix the system.
+But it stops the system from gaslighting users.
+And that’s a start.
+
+
+
+### Low-Resistance Solutions for Transcript Costs
+
+You're spot on—the core issue is that low-income litigants (especially LiPs) can get court fees waived via EX160A (Help with Fees, automatic if on benefits/low income), but transcripts (vendor-charged, £415–£995+ for typical judgments) fall through the cracks. EX105 (public expense) exists but is discretionary, untimed, and burdensome (requires financial proof, case justification, and often a quote—court decides if "in interests of justice" and you truly can't afford). No automatic link to EX160A approval.
+
+This creates a **wealth filter**: Richer parties get transcripts easily; poor ones delay appeals or file weak ones without them.
+
+Below, I'll outline **feasible, low-resistance fixes** (no law changes needed—just policy tweaks, pilots, or guidance updates). I prioritized **non-radical** ideas (e.g., no full reliance on unpaid labor). For AI/self-transcription (your suggestions), they're viable but need safeguards—I'll explain feasibility based on current UK pilots/trials.
+
+#### 1. **Easiest: Streamline EX105 Integration with EX160A** (Least Resistance Overall)
+   - **How:** Make EX105 semi-automatic for EX160A qualifiers. E.g., if you're already approved for court fee waiver, EX105 fast-tracks (pre-filled financials, presumed "can't afford," focus only on "interests of justice").
+     - Add checkbox on EX160A: "Also apply for transcript funding? (Submit EX105 details here.)"
+     - HMCTS guidance update: "If EX160A granted, EX105 presumed eligible unless case frivolous."
+   - **Why low-resistance?**
+     - No new law—HMCTS owns forms/guidance; could update in 3–6 months (like recent EX107 revisions).
+     - Builds on existing (EX105 success in appeals if "reasonable grounds" shown).
+     - Cost-neutral: Public expense already budgeted; just reduces admin barriers.
+   - **Feasibility:** High. EX105 already helps unrepresented/poor (per GOV.UK). Pilots could test in family courts. Drawback: Still discretionary (judge decides)—but faster than now.
+   - **Impact:** Helps poor people immediately; no radical shift.
+
+#### 2. **AI-Assisted Transcription (Your Idea—Stronger Than You Think, But Pilot It)**
+   - **How:** Expand MoJ's AI pilots to family courts for low-income users. E.g., free AI transcription from court audio (user requests via EX107 variant; AI generates draft, judge approves for accuracy).
+     - For poor qualifiers (EX160A/EX105), waive vendor fees—use in-house AI (like MoJ's offender convo tool).
+     - Safeguard: User reviews draft; responsible for flagging errors (like statements). If inaccurate, fallback to vendor (paid if able).
+   - **Why low-resistance?**
+     - UK trials underway: MoJ's 12-week pilot (2025) tests AI for hearings/judgments; Surrey Uni tool reduces errors 9% for Supreme Court (adaptable to family).
+     - No law change—MoJ exploring AI for courts (plan: "assist judges in preparing judgments").
+     - Free/cheap: AI costs pennies vs. £1–2/folio. Start as opt-in pilot (e.g., "AI Draft Option" on EX107).
+   - **Feasibility:** Medium-high. Pilots show 80–90% accuracy; human review fixes rest. Not "too weak"—MoJ confirms feasibility for transcripts. Radical? Less than full self-transcription; builds on existing tech.
+   - **Impact:** Free for poor; scalable. Drawback: Privacy/accuracy concerns—need consent/disclaimers.
+
+#### 3. **Allow Self-Transcription from Audio (Your Idea—Viable with Limits)**
+   - **How:** Grant low-income users access to audio (exceptional now, per PD on Audio Recordings) for self-transcription. Submit draft to judge for approval (user liable for errors, like statements: "I certify this is accurate to the best of my knowledge").
+     - On EX107: "Self-Transcribe Option" (free audio access if EX105-like need shown).
+     - Guidance: "You're responsible for mistakes; court may reject if inaccurate."
+   - **Why low-resistance?**
+     - No new law—build on covert recording policies (allowed if disclosed; FJC guidance: transcripts prepared from recordings).
+     - Courts already handle user-submitted notes (PD30A for appeals).
+     - Pilot in family: Test with disclaimers to avoid liability.
+   - **Feasibility:** Medium. No direct policy now (audio exceptional for error-checking), but FJC guides on recordings imply possible. Not radical—user accountability mirrors statements. Drawback: Time-intensive for LiPs; accuracy risks (but user-owned).
+   - **Impact:** Free for poor; empowers self-reps. Stronger with AI hybrid (self-use free AI tools like Whisper).
+
+#### Why These Over Radicals?
+- **Unpaid reliance (e.g., pro bono transcribers):** Too unreliable/scarce; needs new infrastructure (radical).
+- **Full rule change (e.g., waive all for poor):** Needs FPR amendment—high resistance.
+- Prioritize **pilots/guidance tweaks**—MoJ/HMCTS can do unilaterally.
+
+**Next:** Advocate via Transparency Project/MoJ feedback. Start with EX105 streamlining—easiest win.
 
 To catalyse change:
 
