@@ -262,17 +262,95 @@ These two processes are conceptually distinct but functionally inseparable.
 > **If reform stops at improving how transcripts are obtained, without enabling their publication, transparency remains private.**
 
 Knowledge of judicial reasoning, error, and bias would stay confined to the individual family, never transferring into institutional learning or precedent-based improvement.  
-Thus, the *linkage* between obtaining and publishing is itself the critical reform step — the point where personal justice becomes systemic justice.
+Thus, the *linkage* between obtaining and publishing is itself the critical reform step — the point where personal justice becomes systemic justice. The underlining question of the article branches then too: what is the least improment to increase/effiencitnly improvming in obtarining trancrivs and what .... to making them public?? hanges then to 
 
 This chapter operationalises the central hypothesis by examining how transcripts are actually obtained and, where possible, made public in the family courts of England and Wales.  
-It returns to the article’s fundamental conceptual framing: **how can change be achieved with the least resistance yet the greatest systemic impact?**
+It returns to the article’s fundamental conceptual framing: **how can change be achieved with the least resistance yet the greatest systemic impact?** both for a) how we obtain transcirpts? b) publicising it?
 
 To answer this, the analysis integrates **two complementary evidence streams**:
 - **Documentary and procedural review** — official forms, Family Procedure Rules (FPR 2010, PD 5A, 12G, 12D), and Transparency Implementation Group (TIG) guidance, tracing what the system formally prescribes and how it functions administratively;
-- **User-experience synthesis** — systematically analysed court-user narratives and practitioner commentary revealing how these processes operate in practice, exposing procedural gaps, costs, delays, denials, and barriers to publication.
+- **User-experience synthesis** — systematically analysed court-user narratives and practitioner commentary solicistors, barsisters/judges/cafacasss workers? ??? and observers transpaprency projects revealing how these processes operate in practice, exposing procedural gaps, costs, delays, denials, and barriers to publication.
 
 By combining these two streams, the analysis moves between the *institutional view* (how the process is supposed to work) and the *experiential view* (how it actually unfolds).  
 This dual perspective locates procedural choke points and structural disconnections — the practical places where transparency either succeeds or collapses.
+
+
+## 7. Practice Analysis: Two Pathways of Transparency — Obtaining and Publishing Transcripts
+
+The preceding sections established why transcripts are the bedrock of transparency and how the system currently fails to monitor them.
+
+This chapter now undertakes a **practice-based examination** of two interdependent transparency pathways:
+
+1. **The Obtaining Pathway** — how transcripts are requested, produced, and approved; and  
+2. **The Publication Pathway** — how transcripts are anonymised, shared, and used to enable accountability and learning.
+
+Although conceptually distinct, these pathways are **functionally inseparable**.
+
+> **If reform stops at improving how transcripts are obtained, without enabling their publication, transparency remains private.**
+
+Knowledge of judicial reasoning, error, and bias would remain confined to individual families, never transferring into institutional learning or precedent-based improvement.  
+The *critical reform* lies in connecting these two pathways — the point where **personal justice becomes systemic justice**.
+
+This chapter operationalises the central hypothesis of the article by analysing how transcripts are actually **obtained** and, where possible, **made public** in the family courts of England and Wales.  
+It returns to the foundational question of this research:
+
+> **How can change be achieved with the least resistance yet the greatest systemic impact?**  
+> (a) in obtaining transcripts, and  
+> (b) in publishing them lawfully and safely.
+
+---
+
+### 7.0 Analytical Design and Evidence Logic
+
+To answer this question, the chapter integrates **three complementary evidence layers** that together reveal the gap between the *designed* and *lived* operation of the transcript system.  
+This sequence follows a logic of **progressive triangulation** — moving from formal design, through practical experience, to external evaluation.
+
+#### 1. Documentary and Procedural Review — *What the system says should happen*
+
+The first layer examines the **official architecture** governing transcription and publication.  
+It analyses the *Family Procedure Rules (FPR 2010)* and key *Practice Directions* (PD 5A, 12G, 12D), together with forms **EX107**, **EX105**, **EX160A**, and related guidance from the **Transparency Implementation Group (TIG)** and the **Transparency & Open Justice (TOJ)** Board.  
+The aim is to map what the system formally prescribes:
+- who may request transcripts;  
+- what approvals or permissions are required;  
+- what timeframes and costs are implied; and  
+- how those processes link (or fail to link) to appeal deadlines and publication rules.
+
+This analysis defines the baseline of *intended transparency* — the model of how transcription should function if every rule operated perfectly.
+
+#### 2. Lived and Practitioner Perspectives — *What actually happens in practice*
+
+The second layer investigates how these rules are experienced in the real world.  
+Drawing on systematically collected and coded accounts from **court users**, **solicitors**, **barristers**, and other practitioners, this section reconstructs the lived procedural journey: how parties request, fund, and wait for transcripts; how courts and vendors communicate; and where the process breaks down.  
+It draws on publicly accessible legal forums (e.g., *JustAnswer*, *Reddit /r/LegalAdviceUK*, *Mumsnet*) and practitioner commentaries from chambers, professional bodies, and legal blogs.
+
+The objective is to expose the **reality gap** between formal procedure and everyday experience — the delays, costs, denials, and discretionary barriers that frustrate the theoretical process set out in the forms.  
+This layer concludes by identifying specific **choke points** and **design-by-omission failures** that generate systemic opacity.
+
+#### 3. Observer and Advocacy Analysis — *How transparency is interpreted and contested*
+
+The third layer triangulates the findings above through commentary from **The Transparency Project** and related advocacy or oversight initiatives.  
+These observers stand slightly outside daily court operations yet within the professional ecosystem, analysing how transparency reforms are evolving and where they succeed or stall.  
+Their commentaries and reports provide a meta-level interpretation of:
+- how transcript access and publication are discussed in public legal discourse;  
+- how practitioners and journalists navigate the permission system; and  
+- how policy reform efforts (e.g., TIG pilots) are perceived from an accountability standpoint.
+
+This layer functions as **external validation**: it tests whether the procedural and experiential findings align with broader professional observations, thereby strengthening the reliability and generalisability of the conclusions.
+
+---
+
+### 7.1 Integrative Logic
+
+Together, these three layers provide a **360-degree empirical view** of transparency in practice:
+
+| **Layer** | **Primary Question** | **Evidence Type** | **Analytical Output** |
+|------------|----------------------|-------------------|------------------------|
+| **1. Documentary / Procedural** | What do the official rules and forms prescribe? | FPR, PDs, EX107/EX105/EX160A, TIG/TOJ guidance | Baseline of intended process; identification of untimed or opaque stages |
+| **2. Lived / Practitioner** | How do users and professionals experience the process? | User narratives, practitioner blogs, legal Q&As | Mapping of real-world friction, cost, and delay points |
+| **3. Observer / Advocacy** | How is transparency interpreted in wider discourse? | Transparency Project and advocacy commentary | Triangulation and external validation of systemic gaps |
+
+This triangulated design allows the analysis to move fluidly between **institutional intent** and **lived implementation**, revealing precisely where transparency either succeeds or collapses.  
+It ensures that the *least-resistance reforms* proposed later are grounded not in isolated anecdotes or theoretical assumptions, but in **convergent evidence** across the institutional, experiential, and advocacy dimensions of the family-court ecosystem.
 
 ---
 
