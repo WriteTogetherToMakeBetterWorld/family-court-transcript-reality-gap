@@ -381,11 +381,161 @@ The following analysis therefore investigates this question through three comple
 
 ### 7.0 Analytical Design and Evidence Logic
 
+To answer the central question — **“How can change be achieved with the least resistance yet the greatest systemic impact?”** — this chapter employs **data triangulation** (Denzin, 1978), integrating **four complementary evidence sources** to expose the gap between the *designed* and *lived* operation of the transcript system.
 
-To answer this question "How broken the pathways are", the chapter integrates **three complementary evidence layers** aim to reveal the gaps between the *designed* and *lived* operation of the transcript system.  
-This sequence follows a logic of **progressive triangulation** — moving from formal design (i.e. court's forms, procedures), through practical experience (court's system's users, mothes/fathers), to external evaluation (observesa and advocators of chance, transparecy projct???. - and the solicitors barister? where tothe fall???? 
+Triangulation strengthens validity by examining **transcript accessibility** through multiple lenses, each revealing dimensions the others cannot see.  
+**In the absence of national transcript data (§6), this approach reconstructs the transcript process through convergent evidence from those who design it, operate within it, experience it, and observe it:**
 
-#### 1. Documentary and Procedural Review — *What the system says should happen*
+1. **Institutional Design & Operational Practice** — what the *rules prescribe* and *how courts and transcribers apply them* (FPR 2010, PD 27A, EX107, judicial approvals, transcription contracts, HMCTS workflows).  
+   **Purpose**: Establish the *intended process* and its *operational execution* — the baseline for measuring deviation.
+
+2. **Professional Practice** — what *legal practitioners* observe across multiple cases (solicitors, barristers).  
+   **Purpose**: Reveal *systemic patterns* and *structural gaps* (e.g., untimed approvals, recording failures) invisible to individual users.
+
+3. **Direct User Experience** — what *individual litigants* encounter (parents, litigants in person).  
+   **Purpose**: Expose *friction points* and *human cost* (e.g., costs, confusion) most acute for those without legal training.
+
+4. **External Observer Commentary** — what *independent analysts* conclude (Transparency Project, advocacy organisations).  
+   **Purpose**: Provide *meta-level validation* and connect findings to broader transparency reform discourse.
+
+This triangulated design moves from **prescribed design** → **professional pattern** → **individual pain** → **external meaning** — building **convergent evidence** for where least-resistance reforms can restore the feedback loop between courtroom dialogue and systemic learning.
+
+**Methodological stance:** This analysis adopts a **constructivist–interpretivist orientation**, treating all textual artefacts — whether official forms, user accounts, or practitioner commentary — as **evidence of institutional process** rather than individual psychology. What matters is **positional distance from the system**: who speaks from inside its design, who navigates its operation, who experiences its barriers, and who observes its effects.
+```
+### 7.1 Institutional Architecture: Design & Execution
+
+This layer examines the **official architecture** governing transcript production through documentary analysis of **publicly accessible institutional sources**. It establishes what the system **formally prescribes** (rules, forms, procedures) and what it **officially claims** about processing (timelines, costs, workflows).
+
+**Critical methodological limitation:** This analysis can only document **stated design and official claims**. It cannot verify actual performance because:
+- FOI request (Walker 2025) revealed **"no data held"** on transcript processing times
+- No public performance monitoring exists
+- HMCTS does not publish transcript production metrics
+
+Therefore, Section 7.1 documents **intended transparency** - what should happen if the system operated as designed. Actual performance is assessed through practitioner observations (§7.2) and user experiences (§7.3).
+
+---
+
+#### 7.1.1 Methodology: Sources & Analytical Approach
+
+This analysis draws exclusively on **publicly accessible official documents**:
+
+| **Component** | **Sources** | **Access Method** | **What Can Be Known** | **What Cannot Be Known** |
+|---------------|-------------|-------------------|----------------------|--------------------------|
+| **Formal Rules & Procedures** | FPR 2010, PDs (5A, 12G, 27A), Forms EX107/EX105/EX160A/FP161/N161, Court of Appeal Guide | legislation.gov.uk, GOV.UK forms portal, judiciary.uk | Mandatory vs discretionary steps; explicit timelines; cost structures; permission requirements | Actual compliance rates; real-world timing |
+| **Official Processing Claims** | EX107 Guidance Notes, HMCTS guidance | GOV.UK, judiciary.uk | What HMCTS states about processing (e.g., "2 working days", "~10 working days average") | Whether these timelines are accurate (FOI: "no data held") |
+| **Judicial Approval Requirements** | PD 27A, EX107 form, Court of Appeal guidance | legislation.gov.uk, HMCTS website | That approval is required; that it's excluded from SLAs | How long approval actually takes (no SLA published) |
+| **Vendor Infrastructure** | HMCTS approved transcriber list, vendor public T&Cs, vendor websites | HMCTS website, vendor websites | Approved vendors; publicly posted SLAs; some pricing | Actual contracts; performance data; quality metrics |
+| **Publication Framework** | AJA 1960 s.12, FPR 2010, Children Act 1989 s.97, PD 12G | legislation.gov.uk | Legal restrictions; confidentiality rules; permission pathways | How permission is granted in practice |
+
+**Analytical approach:**
+- **Close reading** of forms for mandatory vs discretionary language, explicit vs silent deadlines
+- **Gap analysis** identifying "design-by-omission" (e.g., untimed stages, untracked handoffs)
+- **Timeline mapping** showing how stated processing stages relate to appeal deadlines
+- **Cross-referencing** to identify contradictions or dependencies
+
+---
+
+#### 7.1.2 Formal Rules & Procedures
+
+[Your existing 7.2.A content - the tables analyzing each form]
+
+**Analytical focus:** What the forms explicitly state vs. what they omit; mandatory requirements vs. discretionary stages; stated timelines vs. silent gaps.
+
+---
+
+#### 7.1.3 Official Processing Claims (Stated but Unverified)
+
+**What official guidance states:**
+
+From EX107 Guidance Notes:
+- Court processing: **2 working days** to log and process EX107
+- Audio retrieval: **~10 working days average** to locate and dispatch to vendor
+- Vendor service bands: **48 hours** or **12 working days** (from when vendor receives audio)
+
+**Critical limitation:** These are **stated in official guidance** but cannot be independently verified.
+
+FOI request to HMCTS (Walker 2025) sought data on:
+- Number of transcript requests processed
+- Actual processing times
+- Delays and refusals
+
+Response: **"Information not held"** - HMCTS does not systematically collect or monitor transcript processing data.
+
+**Therefore:** This analysis documents **official claims** about processing. Whether these timelines reflect reality is assessed through practitioner observations (§7.2) and user experiences (§7.3).
+
+[Your timeline calculation showing 2d + 10d + 2d = 14d minimum, excluding approval]
+
+---
+
+#### 7.1.4 The Untimed Judicial Approval Gate
+
+**Official requirement:** Judgment transcripts must be approved by the judge before release (EX107 form, PD 27A)
+
+**What is NOT stated:**
+- How long approval takes
+- What approval entails (corrections? redactions? full review?)
+- Any target timeline or SLA
+
+**Impact:** EX107GN explicitly states that service level bands **exclude judicial approval time**. This creates an **untimed gate** in a time-sensitive process (21-day appeal window).
+
+**What cannot be known from official sources:** Actual approval timelines. This is assessed through practitioner accounts (§7.2).
+
+---
+
+#### 7.1.5 Vendor Infrastructure & Service Levels
+
+**What is publicly accessible:**
+- HMCTS approved transcriber list (current providers include [list from website])
+- Service Level Bands: "within 48 hours" / "within 12 working days" (EX107GN)
+- Some pricing information on vendor websites (per-folio rates range from £X-Y)
+
+**What is NOT publicly accessible:**
+- Actual HMCTS-vendor contracts
+- Performance monitoring or compliance data
+- Contract terms, renewal frequency, quality assurance procedures
+
+**Key finding:** Vendor SLBs measure **only vendor time** (audio received → transcript delivered to court). All court processing (EX107 receipt → audio dispatch, judicial approval) is excluded.
+
+---
+
+#### 7.1.6 Publication Framework & Confidentiality Rules
+
+[Your existing 7.2.1 content]
+
+---
+
+#### 7.1.7 Synthesis: Design Gaps in the Official System
+
+Analyzing Components 1-6 reveals **five structural gaps** in the official design:
+
+1. **Fragmented timelines** - Each stage has a stated duration, but no end-to-end SLA exists
+2. **Untimed approval** - Judicial approval is mandatory but has no published timeline
+3. **Opaque handoffs** - Court-to-vendor transfer is not tracked or timestamped
+4. **Bifurcated funding** - HWF vs EX105 pathways create confusion
+5. **Publication vacuum** - No standard permission pathway or anonymization infrastructure
+
+[Rest of your synthesis from 7.2.C]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### ### 7.1 Institutional Architecture: Design & Execution
+
+1. Documentary and Procedural Review — *What the system says should happen*
 
 The first layer examines the **official architecture** governing transcription and publication.  
 It analyses the *Family Procedure Rules (FPR 2010)* and key *Practice Directions* (PD 5A, 12G, 12D), together with forms **EX107**, **EX105**, **EX160A**, and related guidance from the **Transparency Implementation Group (TIG)** and the **Transparency & Open Justice (TOJ)** Board.  
@@ -935,6 +1085,8 @@ Bureau of Investigative Journalism (2025) *Domestic Abuse in 90% of Family Court
 Byrom, N. (2024) *Where Has My Justice Gone?* London: Nuffield Foundation.
 
 Children and Families Act (2014) s 14(2). London: HMSO.
+
+Denzin, N.K. (1978) *The Research Act: A Theoretical Introduction to Sociological Methods*. New York: McGraw-Hill.
 
 Hencke, D. (2025) 'Family Justice in Crisis', *Byline Times*, 21 May.
 
