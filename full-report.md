@@ -824,12 +824,13 @@ Even when judgments are published, users face significant discovery challenges:
 ---
 ## 7.1.5 Critical Gaps in the Publication Pathway
 | **Gap** | **Design Silence** | **Systemic Effect** |
-|-------|-------------------|---------------------|
+|---------|--------------------|---------------------|
 | No Anonymisation Unit | Judges lack time (2–3 hrs/judgment); unimplemented despite recommendations (LiPs unsupported) | Publication delays, risk of identification errors or over-cautious redaction |
 | No verification process | "Jigsaw ID" risk untested systematically | Quality inconsistency; anonymisation becomes defensive rather than enabling |
 | No enforcement of judge-specific targets | No monitoring, consequences, or audit (focus on "serious" cases misses routine patterns) | Wild variation across courts; "holistic picture" lost; presumption becomes discretionary |
 | Consent asymmetry | No guidance when parties split (institutional objections delay indefinitely) | Single objection functions as veto; transparency inverted from presumption to exception |
 | No subject indexing | Discovery relies on specialized knowledge (fragmented across repositories) | Published judgments remain functionally inaccessible; transparency nominal not real |
+| No integrated publication request on EX107 | No mechanism to flag publication intent during transcript request; requires separate C2 application (with fees/hearings if contested) even if uncontested | Forces additional applications/hearings post-transcript; delays transparency and adds costs, even when parties later agree |
 
 **Analytical synthesis.** The Publication Pathway promises a presumption of publication for serious cases, strict anonymisation protections, and free public repositories. But the design enables:
 - **Discretion without oversight** (no monitoring of whether mandatory cases are published)
@@ -837,6 +838,8 @@ Even when judgments are published, users face significant discovery challenges:
 - **Resource bottlenecks** (no dedicated anonymisation support despite 2–3 hour burden)
 - **Publication voids** (inconsistent compliance, no enforcement mechanism)
 - **Discovery barriers** (poor searchability, no subject indexing, inadequate metadata)
+
+  **Fragmented publication requests:** Even after obtaining a transcript via EX107, users must file a separate C2 (or equivalent) for permission if not requested at the hearing—requiring payment (£258 fee) and often a full hearing to argue the case if any party objects, creating unnecessary procedural hurdles that could be streamlined if flagged earlier.
 
 **The compounding effect.** Even when a judgment successfully navigates all barriers—judge chooses to publish, parties consent or objections are overcome, anonymisation is completed, judgment is uploaded—if it's published on BAILII without adequate metadata, arrives months after the hearing, or sits in isolation because similar cases weren't published due to inconsistent judicial practice, the result is **selective transparency**. Enough openness exists to claim compliance with the 2014 guidance, but insufficient volume, quality, and accessibility to enable the systemic learning the guidance intended [2014 Judicial Guidance; TIG Reports 2023–2025]. The "serious cases" presumption exacerbates this by prioritizing dramatic harms (e.g., child death) over routine disputes, logically failing to capture prevalence patterns for policy reform.
 
@@ -1772,7 +1775,14 @@ Easiest Fix: Update PD27A/EX107 guidance: "Provide tracked-changes version on re
 
 How: HMCTS/Judiciary tweak (no law; like 2025 transparency updates). Pilot in appeals: Auto-generate logs via Word/PDF tools.
 Resistance: Low—builds on TIG reports (2023: "audit trails needed"). Impact: Reveals influences (e.g., interpretive tweaks); cuts opacity 50%.
-Push: TIG feedback—"Mandate logs for trust."
+Push: TIG feedback—"Mandate logs for trust
+
+
+
+Proposed least resistance solution: Add a tick-box to EX107: "Request publication of anonymized transcript? (Triggers consent check; auto-approved if uncontested—full hearing only if objections raised)."
+
+How: HMCTS updates form/guidance (no law change; like recent EX107 revisions ). If ticked, court seeks party views during approval (parallel process); uncontested = fast order. Contested = hearing, but early flag reduces surprises.
+Why least resistance? Form tweak only (6 months max); builds on FPR 12.73 discretion (permission can be informal if agreed ). Pilots feasible via TIG . Impact: Cuts C2 filings 30–50% (uncontested cases); saves judge time/costs.
 
 
 
