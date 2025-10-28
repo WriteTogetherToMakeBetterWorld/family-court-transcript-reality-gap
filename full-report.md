@@ -533,6 +533,16 @@ Court staff target 2 working days to process EX107 before sending to transcriber
 
 ### Transcription Logistics: Vendors, Service Level Bands, and Costs
 **Approved vendor framework.** HMCTS maintains an approved list of transcription providers: eScribers (formerly Auscript), Marten Walsh Cherer, The Transcription Agency, Acolad UK Ltd (formerly Ubiqus), Epiq (formerly DTI) [HMCTS Guidance Aug 2025].
+**List-order bias and performance invisibility.** A subtle design flaw compounds transcription inefficiency: HMCTS lists these suppliers alphabetically or arbitrarily on EX107 guidance and regional court lists. **Position bias** means applicants—especially litigants in person—tend to select the first name encountered, rewarding placement rather than performance (Thaler & Sunstein, 2008). No comparative metrics (speed, accuracy, complaint rates) are visible to applicants.
+
+This "choice architecture distortion" decouples market share from delivery quality. The first-listed company captures disproportionate orders regardless of whether it consistently delivers within Service Level Bands or requires frequent judicial corrections. Procurement renewals occur without transparent performance metrics.
+
+**Least-resistance intervention:** Internal performance-weighted listing. Suppliers report quarterly data (% transcripts delivered before contractual deadline, % requiring judicial correction, % substantiated complaints) to HMCTS. An **efficiency index** rotates supplier order on EX107 lists quarterly—top performers listed first. This creates "soft competition" without public shaming: applicants choose freely, but choice architecture nudges toward quality over time. Efficient providers naturally capture more orders.
+
+**Implementation cost:** Minimal. Requires only quarterly data collection (already occurs for contract compliance), an algorithm to reorder the list (simple formula), and automated updates to EX107 guidance PDFs. Performance transparency exists within HMCTS, not as public ranking—aligning market incentives with delivery quality while avoiding punitive pressure on suppliers.
+
+**Effect:** Over time, this addresses both **DF-2** (vendor clarity > HMCTS clarity) by creating institutional incentive to match vendor-level transparency, and compounds with mitigating **DF-3** (timeline contradiction) by rewarding speed. The current system already creates competitive pressure—but rewards alphabetical luck rather than performance.
+```
 
 **Service Level Bands (SLBs):** For civil/family (Service Level Band = delivery window from receipt of recording).
 | Band | Delivery Window | Typical Use Case |
