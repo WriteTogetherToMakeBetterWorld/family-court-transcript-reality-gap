@@ -249,8 +249,6 @@ The following analysis therefore extends this empirical lens through two interli
 2. how they are **published**.  
 Section 6 begins with the former; Section 6.2 examines the latter.
 
-
-```markdown
 ## 7. Practice Analysis: Two Pathways of Transparency — Obtaining and Publishing Transcripts
 The preceding sections established why transcripts are the bedrock of transparency and how the system currently fails to monitor them.  
 This chapter now undertakes a **practice-based examination** of two interdependent transparency pathways:  
@@ -295,13 +293,60 @@ Personal injustices remain private; collective learning never occurs.
 
 ---
 
-### The Fix: Publish Anonymised Transcripts  
-Publishing authorised, anonymised transcripts would transform this landscape.  
-It would turn individual casework into **institutional intelligence**, enabling:  
-- **Judicial accountability and precedent evolution** — verified reasoning available for scrutiny and improvement;  
-- **Cross-case pattern detection** — mapping trends such as regional variation in domestic-abuse responses;  
-- **Social and policy learning** — allowing services to see which family challenges are rising or receding;  
-- **Adaptive interventions** — designing targeted programmes where transcripts reveal clustering of emerging harms (e.g., digital coercion, debt-driven conflict).
+### The Fix: **Connect the Two Pathways** — Streamline Obtaining *and* Publication
+
+The solution is not publication alone.  
+It is **closing the loop** between **Pathway One (Obtaining)** and **Pathway Two (Publication)** — turning private, hard-won transcripts into a **public, adaptive knowledge system**.
+
+This requires **two interdependent reforms**, each enabling the other:
+
+---
+
+#### **1. Streamline the Obtaining Pathway**  
+Make transcripts **fast, reliable, and routine** — not a privilege, but a standard output of every hearing.
+
+- **Provisional release upon transcription** — available immediately to parties and judiciary, with simultaneous review during the appeal window.  
+- **Clear, enforceable timelines** — court-to-transcriber SLAs (e.g., 5 days for urgent, 14 days standard).  
+- **Standardised request forms** (EX107 reform) — one-click digital submission, auto-tracking, no judicial pre-approval for recorded hearings.  
+- **Cost transparency and public funding parity** — fixed tariffs, automatic legal aid coverage, no “recording issues” denials without remedy.
+
+→ **Result**: Transcripts cease to be scarce artifacts. They become **institutional memory by default**.
+
+---
+
+#### **2. Streamline the Publication Pathway**  
+Turn transcripts from **private files** into **anonymised public assets** — safely, systematically, at scale.
+
+- **Automatic anonymisation pipeline** — AI-assisted redaction (names, identifiers) with human oversight, integrated into transcription contracts.  
+- **Tiered publication framework**:  
+  - **Level 1**: Full anonymised transcript → judiciary, Cafcass, approved researchers  
+  - **Level 2**: Redacted summary + metadata → public dashboard (trends, regional variation)  
+  - **Level 3**: Full text (with consent or judicial order) → precedent library  
+- **Central, searchable repository** — TIG-managed, machine-readable, with metadata tags (e.g., *domestic abuse*, *gaming addiction*, *financial control*).  
+- **Opt-out, not opt-in** — publication presumed unless compelling privacy grounds.
+
+→ **Result**: The system gains **epidemiological vision** — tracking what families fight about, how judges decide, and where bias persists.
+
+---
+
+### The Combined Effect: **From Vanishing Data to Living Intelligence**
+
+| Without Connection | With Both Pathways Linked |
+|--------------------|---------------------------|
+| Transcript obtained → sits in a drawer | Transcript obtained → auto-anonymised → fed into system learning |
+| One family’s injustice stays private | One family’s case becomes precedent, training, policy signal |
+| Judicial reasoning dies with the hearing | Judicial reasoning is scrutinised, cited, improved |
+| Cafcass guesses at family needs | Cafcass sees real-time conflict maps |
+| Policy reforms blind | Policy reforms evidence-led |
+
+---
+
+### In Short  
+The *critical reform* is **not** “publish transcripts.”  
+It is **“make transcripts flow — from courtroom to public domain — with minimal friction and maximum insight.”**  
+
+**Streamline obtaining. Automate publication. Close the loop.**  
+That is how **personal justice becomes systemic justice**.
 
 ---
 
