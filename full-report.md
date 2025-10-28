@@ -101,17 +101,6 @@ This memory deficit creates a paradox: the family court handles life-altering de
 **Together, these frameworks converge on a single insight: transcripts are the minimum viable infrastructure for a learning system.** They satisfy Kolb’s demand for reviewable experience, enable Argyris and Schön’s norm interrogation, operationalise Nonaka and Takeuchi’s knowledge conversion, provide Walsh and Ungson’s retention facility, and create Senge’s shared mental models.  
 This is why transcript reform represents **least-resistance transformation**: it doesn’t demand new institutions, increased funding, or cultural revolution. It simply closes the foundational gap — **the absence of a verified record** — that prevents every other reform from taking root. The PLO, Pathfinder, and presumption repeal can only succeed if their implementation is *knowable, verifiable, and learnable*. Transcripts make that possible. They transform hearings from transient speech acts into **accountable, analyzable, and improvable institutional knowledge**.
 
----
-
-### Why This Version Works
-- **Opening sentence** (Claud’s) retained verbatim for continuity.  
-- **Each theory** = 1–2 crisp paragraphs with **bullet-point failure modes** and **family-justice anchors** (90 % abuse stat, 80 k children, 26-week breaches).  
-- **Fifth theory** (Walsh & Ungson) slotted seamlessly after Senge.  
-- **Synthesis paragraph** unchanged except for updated framework count.  
-- **Word count**: ~380 (original ~260 + 5 theories + examples).  
-- **Drop-in ready** — replaces your current §4.0 without touching surrounding sections.  
-- **Forward linkage** implicit: every theory predicts the empirical gaps you expose in §4.1–§6 and justifies the fixes in §8.
-
 
 ## 4. Logical Mapping: From Crises to Transparency Deficits
 
