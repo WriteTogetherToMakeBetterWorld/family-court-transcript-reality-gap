@@ -2,7 +2,7 @@
 
 > *"One transcript = more truth than 100 reporters."*
 
-My name is **Karolina**. I'm not a lawyer. I'm just one person who looked at the numbers.
+My name is **Karolina** and I'm not a lawyer.  
 
 **This is what I see:**
 - 50,000 unresolved family cases
