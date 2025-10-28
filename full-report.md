@@ -102,7 +102,7 @@ This memory deficit creates a paradox: the family court handles life-altering de
 This is why transcript reform represents **least-resistance transformation**: it doesn’t demand new institutions, increased funding, or cultural revolution. It simply closes the foundational gap — **the absence of a verified record** — that prevents every other reform from taking root. The PLO, Pathfinder, and presumption repeal can only succeed if their implementation is *knowable, verifiable, and learnable*. Transcripts make that possible. They transform hearings from transient speech acts into **accountable, analyzable, and improvable institutional knowledge**.
 
 
-## 4. Logical Mapping: From Crises to Transparency Deficits
+## 5. Logical Mapping: From Crises to Transparency Deficits
 
 Before mapping transparency deficits, it helps to clarify how the argument is structured.  
 **First**, this section explains *why* the family-court crises are rooted in opacity and how transcripts provide the visibility needed to repair them (macro level).  
@@ -112,7 +112,7 @@ Together, these steps build a logical bridge from theory to practice: from under
 
 ---
 
-### 4.1 Macro Logic: Mapping Transparency Deficits to Transcript Solutions
+### 5.1 Macro Logic: Mapping Transparency Deficits to Transcript Solutions
 
 The working assumption of this article is that the multiple crises of the family-justice system — delay, fragmentation, bias, and harm — are not merely accompanied by transparency deficits; they are driven by them. Each symptom of dysfunction is mirrored by an information failure: delayed judgments by missing transcripts, inconsistent practice by opaque governance, and inequitable outcomes by the absence of verifiable records.
 
@@ -136,7 +136,7 @@ They turn process into data, dialogue into evidence, and judgment into verifiabl
 
 ---
 
-### 4.2 Institutional Logic: Embedding Transparency in Governance
+### 5.2 Institutional Logic: Embedding Transparency in Governance
 
 Having established why transcripts matter conceptually, the next question is *where* this remedy can be operationalised.  
 The answer lies within the **Transparency Implementation Group (TIG)** — the body created by the President of the Family Division to translate transparency principles into day-to-day judicial practice.  
@@ -157,7 +157,7 @@ Where transcripts are missing or delayed, TIG’s goals — accurate reporting, 
 
 ---
 
-### 4.3 Empirical Validation: The Reality Gap
+### 5.3 Empirical Validation: The Reality Gap
 
 The mapping and institutional framework show what *should* work; empirical evidence shows why it still does not.  
 Freedom-of-Information disclosures and Ministry of Justice statements reveal a persistent **reality gap** — the disconnect between what is said in court and what is recorded, shared, or used.
@@ -174,7 +174,7 @@ The existence of these deficits underscores both the urgency and the feasibility
 
 The next section develops this methodological logic by analysing anecdotal user evidence, court-form structures, and transcript-processing data to identify precisely where and how these breakdowns occur.
 
-### 4.4 Beyond the Present Logic: Larger Paradigms and Least-Resistance Change
+### 5.4 Beyond the Present Logic: Larger Paradigms and Least-Resistance Change
 
 While this article focuses on practical reforms achievable within the current rules and infrastructure, it is important to recognise that more transformative paradigms of transparency are possible.  
 These approaches imagine deeper cultural and structural shifts in how justice itself is conceived — shifts that challenge not only practice but the underlying logic of how courts define truth, ownership, and participation.
@@ -193,12 +193,12 @@ These approaches imagine deeper cultural and structural shifts in how justice it
    - *Shift:* From *“court property”* to *“public resource.”*  
    - *Example:* The Transparency & Open Justice Board’s Key Objectives (2024) describe core documents — judgments, evidence, and transcripts — as a public resource, with TIG’s anonym
 
-## 5. Empirical Testing: The Data Void Exposed
+## 6. Empirical Testing: The Data Void Exposed
 
 Having built the logic that transparency depends on transcripts (§4.1), located that logic within the court system’s structures (§4.2), and revealed the empirical “reality gap” of missing transcription metrics (§4.3), we now move to the first stage of practical testing.  
 This section examines what the Ministry of Justice (MoJ) and associated court services actually hold in terms of transcript data — their availability, processing, refusal rates, and bottlenecks. The analysis is based on a Freedom of Information (FOI) request submitted by **J. Walker on 20 May 2025**, which sought aggregate statistics on transcript requests, funding types, processing times, denials, and technical issues for the period **April 2024–April 2025**.
 
-### 5.1 Findings: The FOI Data Void
+### 6.1 Findings: The FOI Data Void
 
 By **26 October 2025**, after initial processing and an internal review, the MoJ’s response was **partial and restrictive**:
 
@@ -209,7 +209,7 @@ By **26 October 2025**, after initial processing and an internal review, the MoJ
 
 This outcome exposes a **systemic transparency gap**: the absence of even basic statistical oversight over transcript processing. It directly contravenes the **Transparency Implementation Group (TIG)** data sub-group’s objectives and the **Justice Committee’s** 2022 recommendation that baseline metrics be collected and published for accountability (TIG Progress Report, 2022; House of Commons Justice Committee, 2022).
 
-### 5.2 Defining Transcripts in Family Law Proceedings
+### 6.2 Defining Transcripts in Family Law Proceedings
 
 Before analysing further, clarity is needed on what *“transcripts”* mean in this context.  
 In family proceedings, transcripts are **verbatim records of oral hearings** — the word-for-word account of what is said in court, including:
@@ -224,7 +224,7 @@ However, as the **Justice Committee (2022)** and **Transparency & Open Justice B
 
 For this article, the focus remains on **oral transcripts** because they capture the *dynamic and unfiltered reality of courtroom dialogue* — the precise arena where discrepancies between speech and record create the “reality gap.”
 
-### 5.3 Implications: The Absence of Foundational Data
+### 6.3 Implications: The Absence of Foundational Data
 
 The FOI’s revelation of a **data void** exposes a fundamental contradiction in current policy:  
 transparency reforms cannot succeed without basic, measurable data on the very instrument that enables transparency — the transcript itself.
@@ -249,7 +249,7 @@ The following analysis therefore extends this empirical lens through two interli
 2. how they are **published**.  
 Section 6 begins with the former; Section 6.2 examines the latter.
 
-## 6. Practice Analysis: Two Pathways of Transparency — Obtaining and Publishing Transcripts
+## 7. Practice Analysis: Two Pathways of Transparency — Obtaining and Publishing Transcripts
 
 The preceding sections established why transcripts are the bedrock of transparency and how the system currently fails to monitor them.
 
@@ -276,7 +276,7 @@ This dual perspective locates procedural choke points and structural disconnecti
 
 ---
 
-### 6.1.1 Search Strategy for Anecdotal User Evidence
+### 7.1.1 Search Strategy for Anecdotal User Evidence
 
 Because no national dataset exists on transcript accessibility (§5), this study incorporated systematically sourced anecdotal data from public legal forums to examine users’ lived experience of the transcript process.
 
@@ -328,7 +328,7 @@ By combining open, replicable user accounts with documentary corroboration, the 
 
 ---
 
-### 6.2 Documentary / Procedural Analysis (Rules, Forms, Guidance)
+### 7.2 Documentary / Procedural Analysis (Rules, Forms, Guidance)
 
 **Instruments analysed:** FPR 2010; PD 5A; PD 12G; EX107/EX107GN/EX105; local practice notes; Judiciary/HMCTS notices.
 
@@ -336,7 +336,7 @@ By combining open, replicable user accounts with documentary corroboration, the 
 (i) mandatory steps, (ii) discretionary steps, (iii) documents exchanged, (iv) time expectations (stated vs observed), (v) failure points.
 
 ---
-#### 6.2.A Forms & Guidance: What They Explicitly Say About Transcripts (E&W)
+#### 7.2.A Forms & Guidance: What They Explicitly Say About Transcripts (E&W)
 
 This sub-section audits the *official* documents that a court-user or practitioner actually touches when seeking a transcript. It extracts what is **explicitly stated** (deadlines/SLAs, who can apply, costs) and flags **hidden dependencies** (internal court handling; judicial approval) that the forms/guidance do not time-box but which directly affect appeal timetables.
 
@@ -386,7 +386,7 @@ This sub-section audits the *official* documents that a court-user or practition
 
 ---
 
-#### 6.2.B Appeal Clock vs. Transcript Chain (Why 48h ≠ 48h)
+#### 7.2.B Appeal Clock vs. Transcript Chain (Why 48h ≠ 48h)
 
 The **appeal deadline (21 days)** collides with a **multi-stage chain** that is **not end-to-end timed**:
 
@@ -404,7 +404,7 @@ Even **before** approval, the theoretical minimum already consumes **two thirds*
 
 ---
 
-#### 6.2.C Hidden Dependencies & Ambiguities (Design-by-Omission Map)
+#### 7.2.C Hidden Dependencies & Ambiguities (Design-by-Omission Map)
 
 - **Start-clock opacity:** No shared timestamp for **court → vendor** handover (T1); applicants cannot verify when the vendor’s SLA actually began.  
 - **Untimed approval gate:** **Judicial approval** is mandatory for judgment transcripts but has **no SLA**; excluded from vendor service bands.  
@@ -414,7 +414,7 @@ Even **before** approval, the theoretical minimum already consumes **two thirds*
 
 ---
 
-#### 6.2.D Low-Resistance Form Fixes (within current rules)
+#### 7.2.D Low-Resistance Form Fixes (within current rules)
 
 1. **Show the whole clock.** Add fields on EX107 for **T1 (court→vendor dispatch date/time)** and **T2 (vendor→court/judge)**; print a “**combined minimum timeline**” line that sums internal handling + service band (excludes approval).  
 2. **Time-box approval or declare estimate.** Add a **5–7 working day target** for judicial approval (or require a judge’s/office estimate on the EX107 clerk section).  
@@ -425,7 +425,7 @@ Even **before** approval, the theoretical minimum already consumes **two thirds*
 
 ---
 
-#### Figure 6.A (revised) — Transcript Chain with Checkpoints
+#### Figure 7.A (revised) — Transcript Chain with Checkpoints
 
 ```mermaid
 flowchart TD
@@ -441,7 +441,7 @@ flowchart TD
   classDef stop fill:#fee,stroke:#f66,color:#600;
   class X stop;
 
-#### 6.2.E Transcript Pipeline — Operational Chain (Court → Vendor → Judge → Applicant)
+#### 7.2.E Transcript Pipeline — Operational Chain (Court → Vendor → Judge → Applicant)
 
 The operational pathway for obtaining a court transcript is initiated by the applicant submitting **Form EX107 — Request for transcription of Court or Tribunal proceedings**. The pathway contains multiple checkpoints and untimed hand-offs that often conflict with short appeal deadlines (e.g., **21 days** to file an appellant’s notice).
 
@@ -539,7 +539,7 @@ Even the best-case **\(T_{\text{min}}\)** of **≈14 working days** nearly exhau
 
 ---
 
-###### Figure 6.A (pipeline checkpoints)
+###### Figure 7.A (pipeline checkpoints)
 
 ```mermaid
 flowchart TD
@@ -558,7 +558,7 @@ flowchart TD
   class X stop;
 
 
-#### 6.2.1 Confidentiality Rules Governing Publication  
+#### 7.2.1 Confidentiality Rules Governing Publication  
 *(AJA 1960 s.12; FPR 2010 rr.12.73–12.75; PD 12G)*
 
 Family proceedings are presumptively private, and this privacy extends to any *account of what transpired* in court — including **transcripts**, **notes of evidence**, and **judgments**.  
@@ -575,7 +575,7 @@ Importantly, possession of a transcript obtained via EX107 **does not confer a r
 
 ---
 
-#### 6.2.2 Practitioner & Advocacy Commentary (Blog Stream)
+#### 7.2.2 Practitioner & Advocacy Commentary (Blog Stream)
 
 **Purpose:** Complement user anecdotes with practitioner insight via **The Transparency Project** (England & Wales; Jan 2023 – Oct 2025).
 
@@ -594,7 +594,7 @@ Thus, the blog stream links **micro-barriers** to **meso-level practice culture*
 
 ---
 
-#### 6.2.3 Practitioner Commentary (Solicitors / Barristers)
+#### 7.2.3 Practitioner Commentary (Solicitors / Barristers)
 
 **Purpose:** Triangulate user frictions with practitioner-reported practice.  
 Corpus = 35 items (2023–2025) from solicitors, barristers, FLBA, Bar Council, Law Society, and chambers. Focus: **transcripts/EX107**, **recordings**, **transparency/TIG**, **delays/backlogs**.
@@ -613,7 +613,7 @@ Pre-2023 context items flagged `outside_window: true`.
 
 ---
 
-### 6.3 The Three Phases in Practice (with measurable checkpoints)
+### 7.3 The Three Phases in Practice (with measurable checkpoints)
 
 | Phase | What must happen | Documents / Actors | Typical time claims | Common failure points | Low-resistance fixes |
 |-------|------------------|--------------------|---------------------|-----------------------|----------------------|
@@ -623,7 +623,7 @@ Pre-2023 context items flagged `outside_window: true`.
 
 > **Observation:** Each phase contains opaque hand-offs (no shared clock, no “received” stamps) that make delay invisible and accountability diffuse.
 
-#### Figure 6.A — Transcript Pathways (Obtaining → Publication)
+#### Figure 7.A — Transcript Pathways (Obtaining → Publication)
 
 ```mermaid
 flowchart TD
@@ -639,7 +639,7 @@ flowchart TD
   classDef stop fill:#fee,stroke:#f66,color:#600;
   class X stop;
 
-### 6.4 Findings from the Anecdotal Dataset (concise synthesis)
+### 7.4 Findings from the Anecdotal Dataset (concise synthesis)
 
 Read together with the **Transparency Project** blog stream in §6.2.2, the user dataset shows the same choke points at three hand-offs (court→vendor, vendor→court, and judicial approval), with advocacy posts adding practical detail on **permission/“notice” gatekeeping**, **recording integrity**, and **anonymisation/publication norms**.
 
@@ -669,7 +669,7 @@ Read together with the **Transparency Project** blog stream in §6.2.2, the user
 2. *"Audio 'corrupt'—court says no recording. How appeal?"* (2023; recording_missing, approval)
 3. *"Transcriber quote £450 for 5 hours—LAA denied. Settled under pressure."* (2025; cost, settlement_pressure)
 
-   ### 6.4.1 Practitioner Findings (Concise Synthesis)
+   ### 7.4.1 Practitioner Findings (Concise Synthesis)
 
 Practitioner material **corroborates** user anecdotes and clarifies **publication mechanics**.  
 Chambers notes and Bar/Solicitor-body statements describe a **permissioned openness** model: publication proceeds under a **transparency order** with mandatory anonymisation; reporter attendance triggers judicial consideration of such an order.  
@@ -683,14 +683,14 @@ The shared remedy is procedural: **visible clocks** at T1 (authorisation), T2 (v
 **Stage focus:** `A_PreVendor` dominates for EX107 / recordings; `C_Approval_Publication` for transparency/order mechanics; `B_Vendor` appears in **inaudible/ping-pong** delay cases.
 
 
-### 6.5 Limitations
+### 7.5 Limitations
 
 - Self-selected posts skew negative; positives under-reported.
 - Timings user-reported (triangulated where possible).
 - N=12 limits generalisability, but saturation achieved on key themes.
 - Analysis practice-facing, not substitute for national stats (whose absence is a major finding).
 
-### 6.6 Immediate, Low-Resistance Process Improvements (derived from the above)
+### 7.6 Immediate, Low-Resistance Process Improvements (derived from the above)
 
 1. **EX107 form update**  
    Add: role tick-boxes; hearing ID helper; “check audio exists” banner; standard wording requesting provisional release on completion for appeal prep.
@@ -719,7 +719,7 @@ This model reframes *open justice* not as an abstract institutional reform but a
 
 *These recommendations are triangulated across user accounts (§6.4), advocacy/practitioner commentary (§6.2.2), and the governing rules/forms (§6.2–§6.2.1).*
 
-#### Box 6.P — Practitioner Playbook: Linking Obtaining → Publication
+#### Box 7.P — Practitioner Playbook: Linking Obtaining → Publication
 
 - **A1 Intake (EX107):** Add a role tick-box (party / journalist / legal blogger), hearing-ID helper, and an **audio-existence check before payment**.  
 - **A2 Permission:** Where required, include an order clause authorising both the transcript and its potential **post-approval anonymised publication** aligned with any Transparency Order (TO).  
@@ -739,7 +739,7 @@ This model reframes *open justice* not as an abstract institutional reform but a
 
 
 
-### 6.7 Conclusion
+### 7.7 Conclusion
 
 The JustAnswer dataset (N=12) confirms the **reality gap**: a median **77-day** transcript process, with **67%** of queries citing delays and **58%** cost barriers. Triangulated with Warners (47-week cases), Byline Times (50,000+ backlog), and FOI ("no data held"), it reveals **systemic opacity** — not malice, but **banal procedural friction**.
 
@@ -747,7 +747,7 @@ Anecdotes expose **LIP vulnerability**: users pay £180+ for records they cannot
 
 **Least-resistance reform** — clearer forms, visible SLAs, provisional release — can be delivered **now**, within existing frameworks, while laying groundwork for **presumptive openness**.
 
-## 7. Policy Implications: Transcripts as Drivers of Systemic Change
+## 8. Policy Implications: Transcripts as Drivers of Systemic Change
 
 Transcripts aren't ancillary; they're pivotal. Experts like those in NatCen's evaluation argue they underpin scrutiny, with TIG's data sub-group advancing collection for outcomes (NatCen, 2025). AI integration could slash costs/delays, per MoJ explorations (MoJ, 2025c). Repealing parental presumptions signals responsiveness, but without transcript metrics, biases persist unchecked (MoJ, 2025b).
 
