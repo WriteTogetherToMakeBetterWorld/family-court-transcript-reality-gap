@@ -65,8 +65,6 @@ Expert views reinforce transparency's catalytic role: NatCen's 2025 pilot evalua
 Challenges persist: inconsistent data, resistance, and a "data void" (House of Commons Justice Committee, 2023). Yet, transparency is evolving from peripheral to central philosophy, **with this article proposing it as the unifying force directly responding to the symptoms of crises** — though not yet fully harnessed in current policy frameworks.
 Even within the current system, those who already request and fund transcripts could — with minimal procedural change — become the system’s most powerful transparency engine (see Section 6 → 7).
 
-```markdown
-
 ### 4.0 Theoretical Grounding: Learning, Reflection,, and System Intelligence
 
 Several strands of organisational-learning theory illuminate why **transcripts** are not merely administrative outputs but the **essential infrastructure of system intelligence** in family justice. Without a verified record of what occurred in court, the system cannot learn from its failures, interrogate its biases, or implement evidence-based reform. Five complementary frameworks explain this mechanism.
