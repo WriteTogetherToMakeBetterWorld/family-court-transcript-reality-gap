@@ -254,27 +254,29 @@ The following analysis therefore extends this empirical lens through two interli
 2. how they are **published**.  
 Section 6 begins with the former; Section 6.2 examines the latter.
 
-## 7. From Transparency Principle to Transcript Practice: Operationalizing the Two Pathways
+## 7. From Transparency Principle to Transcript Practice: Operationalising the Two Pathways
 
 Transparency was established in Sections 2–3 as the unifying reform principle, and Section 4 showed why transcripts are its essential infrastructure.  
-The question now is **not whether** transparency is needed, but **how** to make it operational.  
+Section 6 exposed the data void surrounding transcription — no national metrics, no visibility of performance.  
+Section 7 therefore turns to practice itself, asking the **central research question of this article**:
 
-This chapter analyzes how transparency is **actually achieved** through transcripts — not as an abstract ideal, but as a **concrete, two-stage process**:  
+> **What reforms could be introduced with the least resistance yet the greatest systemic impact?**
 
-1. **Pathway One: Obtaining** — how transcripts are requested, produced, approved, and delivered to parties  
-2. **Pathway Two: Publishing** — how transcripts are anonymised, shared, and converted into systemic learning  
+In other words, *how can transparency be achieved by improving the existing machinery of transcription — without new legislation or institutional overhaul?*  
+
+The analysis that follows traces two interdependent pathways of transparency:  
+1. **The Obtaining Pathway** — how transcripts are requested, produced, and approved; and  
+2. **The Publication Pathway** — how transcripts are anonymised, shared, and converted into systemic learning.  
 
 Although distinct in procedure, these pathways are **functionally inseparable**.  
 Improving obtaining without enabling publication keeps knowledge private.  
 Enabling publication without reliable obtaining starves the system of data.  
 
-The analysis that follows examines how each pathway currently operates, where they fail, and how **connecting them** transforms transcripts from static legal artifacts into dynamic drivers of systemic change.
+The failure to connect these two pathways generates a **double transparency deficit**, producing two dimensions of systemic blindness:  
+- **Judicial Blindness** — the courts cannot see their own reasoning patterns.  
+- **Epidemiological Blindness** — the wider system cannot see what families are actually experiencing.  
 
----
-
-### 1. Judicial Blindness
-
----
+Together, these explain **why the least-resistance question matters**: they are the consequences that minimal reform could begin to reverse.
 
 ### 1. Judicial Blindness  
 Knowledge of judicial reasoning, error, and bias dies within the individual case.  
@@ -317,18 +319,32 @@ The system cannot learn from the society it serves — and therefore reforms **o
 
 ---
 
-### The Fix: **Connect the Two Pathways** — Close the Loop
+### 3. Methodological Note: Why “Least Resistance” Defines the Reform Strategy  
+The preceding analysis shows *why* reform is needed.  
+This section explains *how* it can succeed.  
 
+Family justice is a **complex adaptive system** — multi-agency, resource-constrained, and governed by procedural and cultural inertia.  
+In such environments, large-scale redesigns collapse under coordination costs, while *small, high-leverage adjustments* at structural bottlenecks can produce disproportionately wide effects.  
+
+- **Complexity theory** shows that change succeeds when it amplifies existing feedback loops rather than creating new hierarchies.  
+- **Systems-learning research** (Senge, 1990; Argyris & Schön, 1978) emphasises that the simplest intervention that generates reflection and feedback creates the greatest learning potential.  
+- **Institutional feasibility** matters: reforms that operate within existing legal authority and funding lines face the least resistance and gain rapid legitimacy.  
+
+**Transcript reform meets all three conditions.**  
+It requires no new legislation, draws on established procedures (FPR 27.9 / PD 27A), and converts everyday courtroom dialogue into verifiable, reusable knowledge.  
+This makes it the *minimum-resistance lever* with *maximum systemic reach.*  
+
+Thus, the foundational question that guides the operational analysis is:  
+> **How can change be achieved with the least resistance yet the greatest systemic impact?**  
+This is not a rhetorical flourish but a **methodological necessity** in complex-system reform.
+
+---
+
+### The Fix: **Connect the Two Pathways** — Close the Loop  
 The solution is not publication alone.  
-It is **closing the loop** between **Pathway One (Obtaining)** and **Pathway Two (Publication)** — turning private, hard-won transcripts into a **public, adaptive knowledge system**.
+It is **closing the loop** between **Pathway One (Obtaining)** and **Pathway Two (Publication)** — turning private, hard-won transcripts into a **public, adaptive knowledge system**.  
 
-This requires **two interdependent reforms**, each enabling the other:
-
-#### **1. Streamline the Obtaining Pathway**  
-Make transcripts **fast, reliable, and routine** — not a privilege, but a standard output of every hearing.
-
-#### **2. Streamline the Publication Pathway**  
-Turn transcripts from **private files** into **anonymised public assets** — safely, systematically, and at scale.
+In systems terms, linking the two pathways re-creates a broken feedback loop: information from individual hearings circulates, is analysed, and returns as improved practice.
 
 ---
 
@@ -346,7 +362,7 @@ Turn transcripts from **private files** into **anonymised public assets** — sa
 ---
 
 ### In Short  
-The *critical reform* is not “publish transcripts.”  
+The *critical reform* is not simply “publish transcripts.”  
 It is to **make transcripts flow** — from courtroom to public domain — with **minimal friction and maximum insight**.  
 
 **Streamline obtaining. Enable publication. Close the loop.**  
