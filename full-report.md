@@ -66,6 +66,7 @@ Challenges persist: inconsistent data, resistance, and a "data void" (House of C
 Even within the current system, those who already request and fund transcripts could — with minimal procedural change — become the system’s most powerful transparency engine (see Section 6 → 7).
 
 ```markdown
+
 ### 4.0 Theoretical Grounding: Learning, Reflection,, and System Intelligence
 
 Several strands of organisational-learning theory illuminate why **transcripts** are not merely administrative outputs but the **essential infrastructure of system intelligence** in family justice. Without a verified record of what occurred in court, the system cannot learn from its failures, interrogate its biases, or implement evidence-based reform. Five complementary frameworks explain this mechanism.
@@ -101,7 +102,6 @@ This memory deficit creates a paradox: the family court handles life-altering de
 
 **Together, these frameworks converge on a single insight: transcripts are the minimum viable infrastructure for a learning system.** They satisfy Kolb’s demand for reviewable experience, enable Argyris and Schön’s norm interrogation, operationalise Nonaka and Takeuchi’s knowledge conversion, provide Walsh and Ungson’s retention facility, and create Senge’s shared mental models.  
 This is why transcript reform represents **least-resistance transformation**: it doesn’t demand new institutions, increased funding, or cultural revolution. It simply closes the foundational gap — **the absence of a verified record** — that prevents every other reform from taking root. The PLO, Pathfinder, and presumption repeal can only succeed if their implementation is *knowable, verifiable, and learnable*. Transcripts make that possible. They transform hearings from transient speech acts into **accountable, analyzable, and improvable institutional knowledge**.
-```
 
 ---
 
