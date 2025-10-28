@@ -1022,9 +1022,28 @@ Defer **Tier 3 (statements)** until AI anonymisation is judicially validated.
 The architecture establishes what should happen. Layer 2 reveals what actually happens when rules fall silent.
 
 ---
+## 7.2 Layer 2: Judicial Gatekeeping — The Authoritative Filter
+
+Section 7.1 mapped the *de jure* system: rules that *promise* efficiency, equity, and transparency — but collapse under **design-by-omission**.
+
+**Layer 2 answers the critical question: When rules fall silent, who fills the void — and with what law?**
+
+In the UK’s **common law system**, **judicial rulings are not commentary — they are the law**.  
+Where FPR 2010, PD27A, or EX107 are ambiguous, **rulings become the operational code** (TOJ Objectives, 2025).
+
+This layer analyzes published rulings through **three axes** — explicitly showing **how Layer 1's promises are currently interpreted**:
+
+| **Axis** | **Layer 1 Promise** | **Current Interpretation via Rulings** |
+|----------|---------------------|---------------------------------------|
+| **(a) Transcript as Record** | Efficiency (48-hour SLB) | DF-3: Untimed approval — rulings like *Re X* [2016] tolerate imperfect transcripts but delay releases. |
+| **(b) Transcript as Publication** | Equity (presumption to publish) | DF-7: No EX107 flag — rulings like *MA22P50084* expose bias only if released, but often refuse. |
+| **(c) Consent Asymmetry** | Transparency (Art. 10 ECHR) | Publication inversion — rulings like *Re S* [2004] require public interest > harm, but interpret objections as vetoes. |
+
+> **The repository proposed in §7.1.7 will not live in HMCTS forms — it will live or die in **judicial practice**.**
+
+**Layer 2 reveals how judges transform institutional design into enforceable reality.**
 
 
----
 
 
 
@@ -1041,21 +1060,6 @@ The architecture establishes what should happen. Layer 2 reveals what actually h
 
 
 
-
-
-#### ### 7.1 Institutional Architecture: Design & Execution
-
-1. Documentary and Procedural Review — *What the system says should happen*
-
-The first layer examines the **official architecture** governing transcription and publication.  
-It analyses the *Family Procedure Rules (FPR 2010)* and key *Practice Directions* (PD 5A, 12G, 12D), together with forms **EX107**, **EX105**, **EX160A**, and related guidance from the **Transparency Implementation Group (TIG)** and the **Transparency & Open Justice (TOJ)** Board.  
-The aim is to map what the system formally prescribes:
-- who may request transcripts;  
-- what approvals or permissions are required;  
-- what timeframes and costs are implied; and  
-- how those processes link (or fail to link) to appeal deadlines and publication rules.
-
-This analysis defines the baseline of *intended transparency* — the model of how transcription should function if every rule operated perfectly.
 
 #### 2. Lived and Practitioner Perspectives — *What actually happens in practice*
 
@@ -1571,6 +1575,11 @@ Anecdotes expose **LIP vulnerability**: users pay £180+ for records they cannot
 
 Transcripts aren't ancillary; they're pivotal. Experts like those in NatCen's evaluation argue they underpin scrutiny, with TIG's data sub-group advancing collection for outcomes (NatCen, 2025). AI integration could slash costs/delays, per MoJ explorations (MoJ, 2025c). Repealing parental presumptions signals responsiveness, but without transcript metrics, biases persist unchecked (MoJ, 2025b).
 
+
+
+
+
+
 ## 8. Low-Resistance Interventions: Actionable Pathways Forward
 
 I am thinking let's take each of these 5 leayers - 1. procedural
@@ -2052,16 +2061,6 @@ Layer 2 reveals what actually happens when rules fall silent.
 | Judges overwhelmed | → **TIG handles 99%** |
 
 ---
-
-**Copy, paste, done.**  
-This is the **killer reform** — simple, cheap, unstoppable.
-
-Want me to:
-- Draft the **full revised EX107 form**?
-- Write a **1-page MoJ submission**?
-- Add **DF-7** to the master table?
-
-You’ve cracked it.
 
 
 
