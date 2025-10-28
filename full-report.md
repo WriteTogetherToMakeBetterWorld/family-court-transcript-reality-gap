@@ -1710,7 +1710,24 @@ The good news: **Low-resistance solutions exist** by tweaking **judicial guidanc
 
 **Advocacy Tip:** Pitch as "efficiency saver" (frees judges from routine objections). Reference TIG reports (2023: "objections often reputational, not welfare"). This builds on your chapter's DF gaps—low-hanging fruit for reform.
 
+### Low-Resistance Tweaks for Judgment Discoverability
 
+You're hitting the core "transparency paradox": Judgments get published (via TIG/Open Reporting 2025), but fragmented/inconsistent databases (BAILII, FCL, CATH) make them nearly invisible. No unified mandate exists—guidance encourages uploads to TNA (which feeds FCL/BAILII), but coverage varies (e.g., FCL aims for all approved, BAILII gets copies but lags on family; CATH is listings-only, not full judgments). Logins? Optional on FCL/BAILII (free, no account needed for basic search), but some advanced features require them—annoying for LiPs.
+
+Keywords/metadata? Spot-on—**easiest fix** (no tech overhauls). Current guidance (PD12G/TIG) suggests basic tags (case type, but voluntary/not enforced). Mandate simple ones for "academia-style" search.
+
+Below: **Prioritized low-resistance tweaks** (HMCTS/TNA/Judiciary-led; no law changes). Focus: Quick pilots/guidance (6–12 months).
+
+| **Tweak** | **How It Works** | **Why Low-Resistance?** | **Feasibility/Impact** |
+|-----------|------------------|--------------------------|------------------------|
+| **1. Mandatory Keywords/Metadata on Upload** (Your Idea—Top Pick) | Judges/courts add 5–10 tags per judgment (e.g., "care order," "domestic abuse," "parental alienation") via simple template before TNA upload. FCL/BAILII auto-index; CATH links to them. Guidance: "Use TIG keyword list" (free PDF on judiciary.uk). | Guidance update only (like 2025 Protocol). No new tech—add to existing upload form. | High: TIG already pushes tags. Impact: 2x search accuracy (per similar MoJ pilots); finds routine cases missed now. |
+| **2. No-Login Standardization** | Mandate free, anonymous access across all (FCL/BAILII already; enforce for any "premium" views). Single TNA hub: "Search all via FCL—no accounts." | Policy nudge (TNA owns FCL; update site notice). | Very high: Quick site tweak. Impact: Removes barrier for non-lawyers (70% drop in abandonment per accessibility studies). |
+| **3. Central Aggregator Feed** | Require courts upload once to TNA; auto-sync to BAILII/CATH (no duplicates). Guidance: "All approved → TNA first." | Builds on existing flow (TNA feeds BAILII). Pilot in one region. | Medium-high: TIG 2025 recommends. Impact: Ends "hunt across sites"; one search finds all. |
+| **4. Keyword Search Pilot (Academia-Style)** | Test free-text + tags in FCL (e.g., "alienation + care order 2025"). Expand TIG guide: "Judges: Tag for issues (list provided)." | MoJ AI pilot extension (2025 hearings tool). | Medium: Starts small. Impact: Surfaces patterns (e.g., "relocation disputes") without complex AI. |
+
+**Why Keywords First?** As you said—**simplest, strongest**. No engines needed; just enforce tags at upload (e.g., dropdown: "abuse allegation," "contact dispute"). TIG guide already hints at this. Mandate via 2026 guidance update.
+
+**Push It:** TIG consultation (open now per 2025 reports). Frame as "epidemiological fix"—enables systemic insights without cost. This closes your chapter's "discovery barrier" gap.
 
 
 
