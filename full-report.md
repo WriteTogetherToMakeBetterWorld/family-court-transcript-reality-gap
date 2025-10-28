@@ -1070,10 +1070,10 @@ Re X (A Child) [2016] EWFC B43 directly addressed approval delays: a local autho
 
 This appears protective — prioritizing timely access over perfection. But examine what the ruling doesn't do:  
 
-* No maximum approval timeframe specified  
-* No consequence for approval delay identified  
-* No enforcement mechanism created  
-* No guidance on who bears delay costs  
+* ❌ No maximum approval timeframe specified  
+* ❌ No consequence for approval delay identified  
+* ❌ No enforcement mechanism created  
+* ❌ No guidance on who bears delay costs  
 
 The ruling normalizes delay as inevitable rather than treating it as design defect. By focusing on "imperfect vs. delayed," it accepts that approval will take indefinite time — the question becomes only whether to release before perfection.  
 
@@ -1148,7 +1148,6 @@ If rulings normalize delay (§7.2.2), how long do parties actually wait?
 If rulings permit publication (§7.2.3), how often does it happen?  
 If rulings balance transparency against harm (§7.2.4), who decides what constitutes harm?  
 The gap between doctrine and experience is where institutional design failures become human costs.
-
 
 
 
