@@ -401,7 +401,20 @@ Triangulation strengthens validity by examining **transcript accessibility** thr
 This triangulated design moves from **prescribed design** → **professional pattern** → **individual pain** → **external meaning** — building **convergent evidence** for where least-resistance reforms can restore the feedback loop between courtroom dialogue and systemic learning.
 
 **Methodological stance:** This analysis adopts a **constructivist–interpretivist orientation**, treating all textual artefacts — whether official forms, user accounts, or practitioner commentary — as **evidence of institutional process** rather than individual psychology. What matters is **positional distance from the system**: who speaks from inside its design, who navigates its operation, who experiences its barriers, and who observes its effects.
-```
+
+### **7.1 Institutional Architecture: Design & Execution**
+
+This layer examines the **official architecture** governing transcript production through documentary analysis of **publicly accessible institutional sources**. It establishes what the system **formally prescribes** (rules, forms, procedures) and what it **officially claims** about processing (timelines, costs, workflows).
+
+**Critical methodological limitation:** This analysis can only document **stated design and official claims**. It cannot verify actual performance because:
+- FOI request (Walker 2025) revealed **"no data held"** on transcript processing times
+- No public performance monitoring exists
+- HMCTS does not publish transcript production metrics
+
+Therefore, Section 7.1 documents **intended transparency** - what should happen if the system operated as designed. Actual performance is assessed through practitioner observations (§7.2) and user experiences (§7.3).
+
+---
+
 ### 7.1 Institutional Architecture: Design & Execution
 
 This layer examines the **official architecture** governing transcript production through documentary analysis of **publicly accessible institutional sources**. It establishes what the system **formally prescribes** (rules, forms, procedures) and what it **officially claims** about processing (timelines, costs, workflows).
@@ -435,72 +448,220 @@ This analysis draws exclusively on **publicly accessible official documents**:
 
 ---
 
-#### 7.1.2 Formal Rules & Procedures
+#### 7.1.2 Formal Rules & Procedures: What the Forms Explicitly Prescribe
 
-[Your existing 7.2.A content - the tables analyzing each form]
+This sub-section audits the *official* documents that a court-user or practitioner actually touches when seeking a transcript. It extracts what is **explicitly stated** (deadlines/SLAs, who can apply, costs) and flags **hidden dependencies** (internal court handling; judicial approval) that the forms/guidance do not time-box but which directly affect appeal timetables.
 
-**Analytical focus:** What the forms explicitly state vs. what they omit; mandatory requirements vs. discretionary stages; stated timelines vs. silent gaps.
+> Jurisdiction: England & Wales. Sources: EX107, EX107 Guidance (EX107GN), EX105, EX160A (Help with Fees guidance), FP161 (Family Appellant's Notice) / N161 (Civil Appellant's Notice), Court of Appeal Guide (latest edition).
+
+##### FP161 / N161 — Appellant's Notice (Family / Civil)
+
+| Element | Quoted / paraphrased content | Explicit deadline | Hidden dependency | Clarity / Problem | Possible fix |
+|---|---|---:|---|---|---|
+| Required docs | "Transcript or note of judgment" to accompany the notice (or asap thereafter). | **21 days** to file appeal notice (Family/Civil). | Transcript must be ordered externally (EX107 chain), and may require **judge approval** before release. | Strict filing deadline vs. undefined transcript chain. | Add cross-reference note: "Order transcript **immediately** via EX107; approval and internal court handling may take **several weeks**." |
+| Missing transcript | "Do not delay filing… if you lack documents; apply for **extension/time directions** explaining steps taken to obtain transcript." | 21-day filing still bites. | Requires evidence of when transcript was ordered/paid and chasing steps. | LiPs often discover this too late. | Pre-print "evidence to attach if transcript pending" checklist. |
+
+##### EX160A — Help with Fees (Guidance)
+
+| Element | Quoted / paraphrased content | Explicit deadline | Hidden dependency | Clarity / Problem | Possible fix |
+|---|---|---:|---|---|---|
+| Third-party costs | "Help with Fees **does not cover** third-party charges such as **transcription**." | — | Users must pursue **EX105** (public expense) separately. | Frequent misunderstanding that HWF covers vendor fees. | Add banner in EX107: "HWF does not cover vendor costs; see EX105." |
+
+##### EX105 — Application for Transcript at Public Expense
+
+| Element | Quoted / paraphrased content | Explicit deadline | Hidden dependency | Clarity / Problem | Possible fix |
+|---|---|---:|---|---|---|
+| Scope | Apply for **judgment only / evidence / whole hearing**; provide means evidence. | — | Determination may take time; not linked to appeal clock. | Funding decision can lag the 21-day window. | Allow provisional order + later cost regularisation if public expense granted. |
+
+##### EX107 — Request for Transcription of Court/Tribunal Proceedings
+
+| Element | Quoted / paraphrased content | Explicit deadline | Hidden dependency | Clarity / Problem | Possible fix |
+|---|---|---:|---|---|---|
+| Vendor selection | Applicant must choose an **HMCTS-approved** company. | — | **Prices & SLAs vary** by vendor; quotes needed. | Price/turnaround info is in **guidance**, not the form. | Add mini table of service bands + reminder to compare vendors. |
+| Service bands | "Within **48 hours**" / "Within **12 working days**" (transcription time). | — | Clock starts **when vendor receives audio**. | Users misread bands as end-to-end. | Add fixed field: "Court → vendor handover date/time (T1)." |
+| Judicial approval | "Return to court for **judge approval**?" (tick box). | — | **Approval delay** excluded from service bands. | Silent SLA creates appeal risk. | Standardise a **5–7 working day** approval target (or require an estimate). |
+| Costs / liability | Requester pays vendor directly unless at public expense. | — | Public expense must be pre-authorised (EX105). | Clear on liability; unclear on timing. | Add "funding route chosen" tick-box + EX105 reference. |
+
+##### EX107 Guidance (EX107GN)
+
+| Element | Quoted / paraphrased content | Explicit deadline | Hidden dependency | Clarity / Problem | Possible fix |
+|---|---|---:|---|---|---|
+| Court processing | **2 working days** to log/process EX107; **~10 working days** average to locate audio and dispatch to vendor. | 2d (+) ~10d (internal). | These days **precede** vendor SLA; users rarely see them. | Creates the **48h illusion**. | Display **combined** minimum: "Internal 12d + vendor 2d = **14d+** (excl. approval)." |
+| Approval exclusion | "Service level excludes **judge approval** for judgments." | — | Adds open-ended tail after vendor step. | Critical for appeals; not time-boxed. | Prominent warning + approval target/estimate field. |
+| Permission (non-party) | Non-parties in Family must obtain permission (C2/D11) **before** EX107. | — | Extra form + fee + judicial discretion. | Multi-step path often unknown to journalists/researchers. | Insert simple flow in EX107GN for non-parties. |
+
+##### Court of Appeal Civil Division Guide (latest edition)
+
+| Element | Quoted / paraphrased content | Explicit deadline | Hidden dependency | Clarity / Problem | Possible fix |
+|---|---|---:|---|---|---|
+| Transcript for appeal | Order transcript **at the earliest possible opportunity**; file notice within time; seek **extension** if transcript delayed. | **21 days** to file; **14 days** post-sealing for core bundle. | Must show proof of order/payment + chasing. | Realistic about delay; onerous proof burden on LiPs. | Provide template "transcript-pending" letter + evidence list. |
 
 ---
 
-#### 7.1.3 Official Processing Claims (Stated but Unverified)
+#### 7.1.3 Official Processing Claims: The Transcript Pipeline (Stated but Unverified)
 
 **What official guidance states:**
 
-From EX107 Guidance Notes:
-- Court processing: **2 working days** to log and process EX107
-- Audio retrieval: **~10 working days average** to locate and dispatch to vendor
-- Vendor service bands: **48 hours** or **12 working days** (from when vendor receives audio)
+The operational pathway for obtaining a court transcript is initiated by the applicant submitting **Form EX107 — Request for transcription of Court or Tribunal proceedings**. According to official guidance (EX107GN), the pathway contains the following stages:
 
-**Critical limitation:** These are **stated in official guidance** but cannot be independently verified.
+##### Stage 1 — Submission & Court Triage
 
-FOI request to HMCTS (Walker 2025) sought data on:
-- Number of transcript requests processed
-- Actual processing times
-- Delays and refusals
+The applicant completes EX107 and sends it to the relevant court. Required details typically include case name, hearing date, judge, case reference, and **choice of approved transcription company**.
 
-Response: **"Information not held"** - HMCTS does not systematically collect or monitor transcript processing data.
+- **Non-parties (Family):** must first obtain permission (usually **C2** in children cases or **D11** in divorce) before EX107.
+- **Court processing:** EX107GN states staff have **2 working days** to process EX107 and initiate handling.
 
-**Therefore:** This analysis documents **official claims** about processing. Whether these timelines reflect reality is assessed through practitioner observations (§7.2) and user experiences (§7.3).
+##### Stage 2 — Audio Retrieval & Dispatch to Vendor
 
-[Your timeline calculation showing 2d + 10d + 2d = 14d minimum, excluding approval]
+EX107GN states that **locating and sending the audio** carries an average **~10 working-day** internal lead time before the vendor can start.
+
+> **Critical limitation:** This "~10 working days" figure is stated as an "average" in official guidance but cannot be independently verified. FOI request (Walker 2025) revealed HMCTS does not systematically collect or monitor these timelines ("information not held").
+
+##### Stage 3 — Vendor Work (Transcription Time)
+
+Once audio is received, vendors operate **Service Level Bands (SLBs)** such as **"within 48 hours"** and **"within 12 working days."**  
+Pricing is by **folio (72 words)** and **varies by vendor**. These SLBs are **vendor time only** and **exclude** internal court handling and judicial approval.
+
+##### Stage 4 — Judicial Approval (Untimed)
+
+For appeals, **judgment transcripts must be approved by the judge**. EX107 has an internal court section asking whether the transcript should be **returned for judicial approval prior to release**.  
+
+**Crucial:** The **service band explicitly excludes** the time taken for judge's approval. This stage is an **undefined delay**.
+
+##### Stage 5 — Release to Applicant
+
+After approval, the transcript is released to the applicant. Applicants usually **pay the vendor directly**, unless the court orders provision **at public expense** via **EX105**.
+
+##### Quantified Theoretical Minimum (Based on Official Claims)
+
+Let:
+- Court processing = 2 working days (EX107GN)  
+- Audio retrieval = 10 working days (EX107GN "average")  
+- Fastest vendor band = **48 hours** (= 2 working days)
+
+Then the **theoretical minimum** to reach a **draft transcript awaiting approval** is:
+
+$$
+T_{\text{min}} = 2 + 10 + 2 \approx \mathbf{14\ \text{working days}}
+$$
+
+The actual end-to-end time is:
+
+$$
+T_{\text{total}} = T_{\text{min}} + T_{\text{judicial\ approval}}
+$$
+
+Since **judicial approval time** is **untimed**, the end-to-end duration is unknown in advance.
+
+##### Conflict with the 21-Day Appeal Window
+
+A **21-day** appeal deadline equates to roughly **15–16 working days**.  
+Even the best-case theoretical minimum of **≈14 working days** nearly exhausts the window **before approval is factored in**.
+
+> **Implication:** The system's own documents create a **reasonable expectation** that 48h means "soon," while the same documents confirm that core portions of the pipeline are **untimed** and **invisible** (internal dispatch; judicial approval). This is a classic *design-by-omission* problem.
+
+##### Figure 7.1A — Transcript Pipeline with Official Timeline Claims
+```mermaid
+flowchart TD
+  A[EX107 submitted] --> P[Processing: 2 working days<br/><i>EX107GN claim</i>]
+  P --> R[Audio retrieval: ~10 working days<br/><i>EX107GN claim - unverified</i>]
+  R --> B{Audio exists?}
+  B -- No --> X[Record fault & retry path]
+  B -- Yes --> C[Court → Vendor T1]
+  C --> D[Vendor transcription<br/>48h or 12wd band<br/><i>Vendor SLA</i>]
+  D --> E[Judicial approval T2<br/><i>NO STATED TIMELINE</i>]
+  E --> F[Release to applicant]
+  F --> G{Publication permission?}
+  G -- Yes --> H[Anonymised publication within order]
+  G -- No --> I[Private release only]
+  classDef stop fill:#fee,stroke:#f66,color:#600;
+  classDef untimed fill:#ffa,stroke:#f90,color:#600;
+  class X stop;
+  class E untimed;
+```
 
 ---
 
 #### 7.1.4 The Untimed Judicial Approval Gate
 
-**Official requirement:** Judgment transcripts must be approved by the judge before release (EX107 form, PD 27A)
+**Official requirement:** Judgment transcripts must be approved by the judge before release (EX107 form, PD 27A).
+
+**What is stated:**
+- Approval is **mandatory** for judgment transcripts needed for appeals
+- The EX107 form has a tick-box: "Return to court for judge approval?"
+- EX107GN explicitly states: "Service level excludes judge approval for judgments"
 
 **What is NOT stated:**
 - How long approval takes
 - What approval entails (corrections? redactions? full review?)
 - Any target timeline or SLA
+- What happens if judge unavailable (holiday, caseload)
 
 **Impact:** EX107GN explicitly states that service level bands **exclude judicial approval time**. This creates an **untimed gate** in a time-sensitive process (21-day appeal window).
 
-**What cannot be known from official sources:** Actual approval timelines. This is assessed through practitioner accounts (§7.2).
+**Hidden dependencies identified:**
+- **Start-clock opacity:** No shared timestamp for **court → vendor** handover (T1); applicants cannot verify when the vendor's SLA actually began.
+- **Untimed approval gate:** **Judicial approval** is mandatory for judgment transcripts but has **no SLA**; excluded from vendor service bands.
+- **No escalation mechanism:** No guidance on what to do if approval is delayed beyond appeal deadline.
+
+**What cannot be known from official sources:** Actual approval timelines. This is assessed through practitioner accounts (§7.2) and user experiences (§7.3).
 
 ---
 
 #### 7.1.5 Vendor Infrastructure & Service Levels
 
 **What is publicly accessible:**
-- HMCTS approved transcriber list (current providers include [list from website])
-- Service Level Bands: "within 48 hours" / "within 12 working days" (EX107GN)
-- Some pricing information on vendor websites (per-folio rates range from £X-Y)
+
+HMCTS maintains an **approved transcriber list** publicly posted on its website. Current providers include commercial transcription companies operating under framework agreements.
+
+**Service Level Bands (from EX107GN):**
+- "Within 48 hours" (priority/urgent band)
+- "Within 12 working days" (standard band)
+
+**Pricing structure:**
+- Charged per **folio** (72 words)
+- Rates **vary by vendor** and must be obtained by quote
+- Some pricing information available on vendor websites
 
 **What is NOT publicly accessible:**
 - Actual HMCTS-vendor contracts
 - Performance monitoring or compliance data
 - Contract terms, renewal frequency, quality assurance procedures
+- Whether vendors actually meet stated SLAs
+- What happens when vendors miss deadlines
 
-**Key finding:** Vendor SLBs measure **only vendor time** (audio received → transcript delivered to court). All court processing (EX107 receipt → audio dispatch, judicial approval) is excluded.
+**Key finding:** Vendor SLBs measure **only vendor time** (audio received → transcript delivered to court). All court processing (EX107 receipt → audio dispatch, judicial approval) is excluded, creating the "48-hour illusion" where users expect end-to-end delivery in 48 hours but the system design requires 14+ working days minimum.
+
+**Funding path bifurcation:**
+- **Help with Fees (EX160A)** does **not** cover third-party vendor costs
+- Separate **EX105** (public expense) application required
+- This creates confusion and potential delay while appeal clock runs
 
 ---
 
 #### 7.1.6 Publication Framework & Confidentiality Rules
 
-[Your existing 7.2.1 content]
+*(AJA 1960 s.12; FPR 2010 rr.12.73–12.75; PD 12G)*
+
+Family proceedings are presumptively private, and this privacy extends to any *account of what transpired* in court — including **transcripts**, **notes of evidence**, and **judgments**.  
+Recent practice commentary notes that standard confidentiality warnings now state explicitly:
+
+> *"Until the conclusion of the proceedings no person shall publish … any material likely to identify the child(ren) … Further, during or after proceedings no person shall publish information related to the proceedings including accounts of what has gone on in front of the judge, documents filed, **transcripts or notes of evidence and submissions**, and **transcripts and notes of judgments** … Any person who does so may be in contempt of court."*
+
+The updated wording **clarifies** existing law rather than changing it.  
+Legal bases: **Children Act 1989 s.97** (child ID) and **AJA 1960 s.12** (private proceedings). "Publish" includes social-media sharing.  
+**FPR 2010** provides narrow exceptions (e.g., rr. 12.73, 12.75; PD 12G).  
+
+Importantly, possession of a transcript obtained via EX107 **does not confer a right to publish**. Publication requires **permission** and/or compliant **anonymisation**.
+
+**Implication:** Any transparency pathway must (i) build in anonymisation, and (ii) provide a permission route (standard wording/order templates) so that publication is lawful, not merely procedural.
+
+**What is NOT stated in official guidance:**
+- Standard anonymisation procedures or checklists
+- Template permission orders
+- Who reviews anonymisation for adequacy
+- How to obtain publication permission
+- Whether there's a standard process or it's entirely discretionary
 
 ---
 
@@ -508,13 +669,49 @@ Response: **"Information not held"** - HMCTS does not systematically collect or 
 
 Analyzing Components 1-6 reveals **five structural gaps** in the official design:
 
-1. **Fragmented timelines** - Each stage has a stated duration, but no end-to-end SLA exists
-2. **Untimed approval** - Judicial approval is mandatory but has no published timeline
-3. **Opaque handoffs** - Court-to-vendor transfer is not tracked or timestamped
-4. **Bifurcated funding** - HWF vs EX105 pathways create confusion
-5. **Publication vacuum** - No standard permission pathway or anonymization infrastructure
+**1. Fragmented timelines** - Each stage has a stated or claimed duration, but no end-to-end SLA exists:
+- Court processing: 2 working days (stated)
+- Audio retrieval: ~10 working days (stated as "average," unverified)
+- Vendor transcription: 48 hours or 12 working days (vendor SLA)
+- Judicial approval: **no timeline stated**
+- Total: Unknown
 
-[Rest of your synthesis from 7.2.C]
+**2. Untimed approval** - Judicial approval is mandatory but has no published timeline:
+- Excluded from vendor SLAs
+- No target or estimate required
+- No escalation mechanism if delayed
+- Creates open-ended bottleneck in time-sensitive appeals
+
+**3. Opaque handoffs** - Court-to-vendor transfer is not tracked or timestamped:
+- No T1 timestamp (when vendor actually receives audio)
+- Applicants cannot verify when vendor's SLA clock starts
+- No visibility into whether delay is court or vendor
+
+**4. Bifurcated funding** - Help with Fees vs EX105 pathways create confusion:
+- EX160A (HWF) doesn't cover vendor costs (not clearly stated on EX107)
+- EX105 (public expense) is separate application
+- Funding decision may take time while appeal clock runs
+- No provisional ordering mechanism
+
+**5. Publication vacuum** - No standard permission pathway or anonymization infrastructure:
+- Possession of transcript ≠ right to publish
+- No guidance on how to seek permission
+- No standard anonymisation procedures
+- No template orders or checklists
+- Entirely discretionary process
+
+**The combined effect:** The official system creates what appears to be a straightforward process (fill out EX107, choose vendor, get transcript) but embeds multiple untimed stages, opaque handoffs, and discretionary gates that make timely access for appeals structurally difficult.
+
+The "48-hour illusion" exemplifies this: a user seeing "within 48 hours" on EX107 reasonably expects rapid delivery, but the system design requires:
+- 2 days (court processing)
+- + 10 days (audio retrieval)  
+- + 2 days (vendor work for 48h band)
+- + X days (judicial approval - untimed)
+= **14+ working days minimum**, nearly exhausting a 21-day (≈15 working day) appeal window **before** the untimed approval stage.
+
+These gaps are not implementation failures - they are **design-by-omission**: the official architecture simply does not specify, track, or time-box critical stages of the process.
+
+---
 
 
 
