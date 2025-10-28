@@ -899,10 +899,28 @@ This creates a **70% blind spot** in institutional memory (TIG Evaluation, 2025)
 
 ---
 
+---
+
 ### 7.1.7.1 The Missing Inputs: Already Mandatory in Law and Practice
 
-UK family and appellate procedure **already requires** these documents in every core bundle:
+> **If we are building a repository to help the family justice system *learn from itself*, why stop at judgments and transcripts? Shouldn’t we also include the inputs that shaped them — sealed orders, skeleton arguments, and party statements — to close the full *reality gap*?**
 
+**Why “public interest” categories are not the answer:**  
+Current guidance (Munby 2014) targets **specific categories** like "serious fact-finding" or "novel points of law," where there's "public interest." This is **outcome-based selection**: publish *what* went wrong in high-profile cases.  
+But **systemic learning requires process-based inclusion**: publish *how* decisions unfold in the 80,000 *routine* private law cases (contact, residence) that form the bulk of the caseload.  
+
+| **“Public Interest” Approach** | **Full-Proceedings Approach** |
+|--------------------------------|-------------------------------|
+| Selects on **content/outcome** (abuse, novelty) | Selects on **process** (framing, evidence) |
+| Captures ~5% of cases (TIG 2025) | Captures ~60%+ |
+| Enables **anecdotal scrutiny** | Enables **pattern detection** (bias, delays) |
+| Informs **crisis fixes** | Informs **system reform** (policy, training) |
+| Misses **emerging harms** (digital abuse, neurodiversity) | Maps **conflict evolution** |
+
+> **Conclusion**: “Public interest” gives headlines on failures. Full inclusion gives diagnostics on the everyday.  
+> **You cannot fix a system by studying only its extremes.**
+
+UK family and appellate procedure **already requires** these documents in every core bundle:
 | Document | Legal Basis | Role in Proceedings |
 |----------|-------------|---------------------|
 | **Sealed Orders** | FPR 29.1; CPR PD52B §4.1 | Formal record of directions, compliance, and enforcement |
