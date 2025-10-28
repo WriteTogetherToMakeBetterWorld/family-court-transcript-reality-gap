@@ -101,6 +101,8 @@ This memory deficit creates a paradox: the family court handles life-altering de
 **Together, these frameworks converge on a single insight: transcripts are the minimum viable infrastructure for a learning system.** They satisfy Kolb’s demand for reviewable experience, enable Argyris and Schön’s norm interrogation, operationalise Nonaka and Takeuchi’s knowledge conversion, provide Walsh and Ungson’s retention facility, and create Senge’s shared mental models.  
 This is why transcript reform represents **least-resistance transformation**: it doesn’t demand new institutions, increased funding, or cultural revolution. It simply closes the foundational gap — **the absence of a verified record** — that prevents every other reform from taking root. The PLO, Pathfinder, and presumption repeal can only succeed if their implementation is *knowable, verifiable, and learnable*. Transcripts make that possible. They transform hearings from transient speech acts into **accountable, analyzable, and improvable institutional knowledge**.
 
+This integration of learning-system theories into justice-system analysis provides a new conceptual apparatus for measuring institutional learning capacity through transcript accessibility.
+
 
 ## 5. Logical Mapping: From Crises to Transparency Deficits
 
@@ -369,15 +371,19 @@ It is to **make transcripts flow** — from courtroom to public domain — with 
 That is how **personal justice becomes systemic justice**.
 
 **But how broken are the pathways today?**  
-The following analysis examines this question through **three complementary evidence layers** — documentary rules, lived experiences, and professional commentary — to reveal precisely where the system fails and how least-resistance reforms can fix it.
+To answer the primary research question — what reforms could be introduced with the least resistance yet the greatest systemic impact — this section first examines the system’s current condition, asking: how broken are each of these pathways — the Obtaining Pathway and the Publication Pathway?
+
+Mapping how and where these pathways fail establishes the baseline from which low-friction, high-impact reforms can be designed.
+
+The following analysis therefore investigates this question through three complementary evidence layers — documentary rules, lived experiences, and professional commentary — to show how systemic breakdowns become visible across these layers and to identify where least-resistance reforms can most effectively be applied.
 
 ---
 
 ### 7.0 Analytical Design and Evidence Logic
 
 
-To answer this question, the chapter integrates **three complementary evidence layers** that together reveal the gap between the *designed* and *lived* operation of the transcript system.  
-This sequence follows a logic of **progressive triangulation** — moving from formal design, through practical experience, to external evaluation.
+To answer this question "How broken the pathways are", the chapter integrates **three complementary evidence layers** aim to reveal the gaps between the *designed* and *lived* operation of the transcript system.  
+This sequence follows a logic of **progressive triangulation** — moving from formal design (i.e. court's forms, procedures), through practical experience (court's system's users, mothes/fathers), to external evaluation (observesa and advocators of chance, transparecy projct???. - and the solicitors barister? where tothe fall???? 
 
 #### 1. Documentary and Procedural Review — *What the system says should happen*
 
@@ -410,6 +416,8 @@ Their commentaries and reports provide a meta-level interpretation of:
 - how policy reform efforts (e.g., TIG pilots) are perceived from an accountability standpoint.
 
 This layer functions as **external validation**: it tests whether the procedural and experiential findings align with broader professional observations, thereby strengthening the reliability and generalisability of the conclusions.
+
+This study adopts a constructivist–interpretivist orientation, treating textual artefacts (forms, blogs, FOI replies) as evidence of institutional process rather than individual behaviour.
 
 ---
 
