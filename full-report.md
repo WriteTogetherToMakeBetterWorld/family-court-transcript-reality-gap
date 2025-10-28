@@ -379,30 +379,100 @@ The following analysis therefore investigates this question through three comple
 
 ---
 
-### 7.0 Analytical Design and Evidence Logic
+# 7.0 Analytical Design and Evidence Logic
 
-To answer the central question — **“How can change be achieved with the least resistance yet the greatest systemic impact?”** — this chapter employs **data triangulation** (Denzin, 1978), integrating **four complementary evidence sources** to expose the gap between the *designed* and *lived* operation of the transcript system.
+To answer **"How can change be achieved with the least resistance yet the greatest systemic impact?"**, this chapter employs **data triangulation** (Denzin, 1978), integrating **five complementary evidence sources** to expose the gap between the *designed*, *judicially filtered*, and *lived* operation of the family court transcript system.
 
-Triangulation strengthens validity by examining **transcript accessibility** through multiple lenses, each revealing dimensions the others cannot see.  
-**In the absence of national transcript data (§6), this approach reconstructs the transcript process through convergent evidence from those who design it, operate within it, experience it, and observe it:**
+In the absence of national transcript data (§6), the analysis reconstructs the process through **convergent evidence** from five positional vantage points:
 
-1. **Institutional Design & Operational Practice** — what the *rules prescribe* and *how courts and transcribers apply them* (FPR 2010, PD 27A, EX107, judicial approvals, transcription contracts, HMCTS workflows).  
-   **Purpose**: Establish the *intended process* and its *operational execution* — the baseline for measuring deviation.
+| **Layer** | **Perspective** | **Core Question** | **Key Sources** | **Analytical Function** |
+|---------|------------------|-------------------|------------------|-------------------------|
+| **1. Institutional Design** | Rule-makers | What does the system *promise*? | FPR 2010, PD 27A, EX107, HMCTS workflows | **Baseline**: intended transparency logic |
+| **2. Judicial Gatekeeping** | Judges (trial/appeal/publication) | How is transparency *filtered*? | *M (A Child)* [2025] EWCA Civ 440; *Re X (A Child)* [2016] EWFC B43; *MA22P50084* transcript | **Authoritative hinge**: enforceable gaps, procedural tolerance |
+| **3. Professional Practice** | Repeat users (lawyers) | What patterns emerge? | Legal blogs, Transparency Project, practitioner forums | **Systemic pattern recognition** |
+| **4. Direct User Experience** | Litigants in person | What does access *feel* like? | Case narratives, FOI responses, user complaints | **Human friction mapping** |
+| **5. External Observer Commentary** | Independent analysts | How is opacity *framed*? | Transparency Project, TIG reports, media | **Meta-validation & reform discourse** |
 
-2. **Professional Practice** — what *legal practitioners* observe across multiple cases (solicitors, barristers).  
-   **Purpose**: Reveal *systemic patterns* and *structural gaps* (e.g., untimed approvals, recording failures) invisible to individual users.
+---
 
-3. **Direct User Experience** — what *individual litigants* encounter (parents, litigants in person).  
-   **Purpose**: Expose *friction points* and *human cost* (e.g., costs, confusion) most acute for those without legal training.
+## 7.0.1 The Critical Role of Layer 2: Judicial Gatekeeping
 
-4. **External Observer Commentary** — what *independent analysts* conclude (Transparency Project, advocacy organisations).  
-   **Purpose**: Provide *meta-level validation* and connect findings to broader transparency reform discourse.
+Positioned **second**, judicial rulings are the **first translation** of abstract rules into practice. They operate on **three axes**:
 
-This triangulated design moves from **prescribed design** → **professional pattern** → **individual pain** → **external meaning** — building **convergent evidence** for where least-resistance reforms can restore the feedback loop between courtroom dialogue and systemic learning.
+| **Axis** | **Key Questions** | **Illustrative Evidence** |
+|----------|-------------------|---------------------------|
+| **(a) Transcript as Record** | What is *sufficient* for appeal? What tolerance exists for imperfect transcripts? | *M (A Child)*: appeal allowed due to missing reasons (FPR 3A.9); *Re X*: imperfect transcript *must* be sent to avoid delay |
+| **(b) Transcript as Publication** | When is release refused? How do courts balance privacy vs transparency? | *MA22P50084*: transcript exposed judicial bias *only because published*; anonymisation warnings routinely block release |
+| **(c) Consent Asymmetry** | What happens when parties split on publication? | Local authority objects → publication blocked; parent consents → still refused (anonymisation not guaranteed) |
 
-**Methodological stance:** This analysis adopts a **constructivist–interpretivist orientation**, treating all textual artefacts — whether official forms, user accounts, or practitioner commentary — as **evidence of institutional process** rather than individual psychology. What matters is **positional distance from the system**: who speaks from inside its design, who navigates its operation, who experiences its barriers, and who observes its effects.
+**Why Position Judicial Rulings Second?**
 
-### 7.1 Institutional Architecture: Design & Execution
+While court rulings often arise *reactively* (responding to individual disputes), they function *proactively* in shaping the system all other actors navigate. A 2016 ruling becomes the **interpretive framework** through which practitioners, courts, and users understand transcript rules from that point forward.
+
+Layer 2 captures judicial interpretation as the **operational filter** creating the environment Layers 3–5 document. When practitioners observe "untimed judicial approvals" (Layer 3), they are documenting the effects of how judges interpret FPR 27A (Layer 2). When users experience cost barriers (Layer 4), they encounter a system **already shaped** by rulings limiting public expense funding.
+
+---
+
+## 7.0.2 Analytical Progression & Convergence
+
+This triangulated design follows a logical sequence:
+```
+Prescribed design (Layer 1: what rules say)
+        ↓
+Judicial gatekeeping (Layer 2: how courts interpret/enforce)
+        ↓
+Professional pattern (Layer 3: what lawyers observe)
+        ↓
+Individual pain (Layer 4: what users experience)
+        ↓
+External meaning (Layer 5: how analysts frame opacity)
+```
+
+**Convergent gaps reveal where systemic failures appear consistently:**
+
+**Design → Gatekeeping Gap (1→2):**  
+FPR prescribes "objective record"; *Re X* tolerates imperfection — yet courts withhold transcripts until "perfected," creating months-long delays.
+
+**Gatekeeping → Practice Gap (2→3):**  
+*M (A Child)* requires reasons in orders (FPR 3A.9); practitioners report "no reasons recorded = no transcript available" — judicial interpretation becomes operational norm.
+
+**Practice → User Gap (3→4):**  
+Lawyers see "approval delays"; parents experience **appeal-killing inaccessibility** — what professionals recognize as "systemic" appears to individuals as "personal rejection."
+
+**User → External Gap (4→5):**  
+Individual refusal accounts aggregated into "systematic mismatch" (Transparency Project); *MA22P50084* transcript proves it via objective record of judicial bias.
+
+---
+
+## 7.0.3 Least-Resistance Reform Levers
+
+Convergent evidence across layers reveals targeted intervention points:
+
+| **Lever** | **Supporting Precedent** | **Systemic Impact** |
+|---------|--------------------------|---------------------|
+| **Provisional transcript release (14 days)** | *Re X (A Child)*: imperfect transcript must be sent | Prevents appellate delay; closes record-access gap |
+| **Default anonymised publication** | *MA22P50084* (rare transparency win) | Normalises accountability; reduces discretionary gatekeeping |
+| **Consent-asymmetry protocol** | Currently no precedent (gap identified) | Prevents local authority veto; restores parental transparency rights |
+
+---
+
+## 7.0.4 Methodological Stance
+
+This analysis adopts a **constructivist–interpretivist orientation**, treating all textual artefacts — official forms, court rulings (including refusals), user accounts, practitioner commentary — as **evidence of institutional process** rather than individual psychology.
+
+What matters is **positional distance from the system**:
+
+- Who **designs** it? (legislators, HMCTS)
+- Who **gates** it? (judiciary — the authoritative filter)
+- Who **navigates** it? (practitioners)
+- Who **suffers** it? (users)
+- Who **critiques** it? (independent analysts)
+
+Court rulings are weighted as **"emerging legislation"** — capturing evolving norms (e.g., post-2023 transparency reforms) without assuming exhaustiveness. Gaps in known cases (e.g., unpublished refusals) are flagged for future inquiry.
+
+This positioning reveals the **discretionary gap**: procedural rights exist on paper, but judicial gatekeeping determines whether they operate in practice — creating systematic patterns that individuals experience as barriers, which external analysts frame as systemic opacity requiring reform.
+
+### 7.1 Layer 1: Institutional Design
 
 This layer examines the **official architecture** governing transcript production through documentary analysis of **publicly accessible institutional sources**. It establishes what the system **formally prescribes** (rules, forms, procedures) and what it **officially claims** about processing (timelines, costs, workflows).
 
