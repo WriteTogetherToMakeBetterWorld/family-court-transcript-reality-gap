@@ -2165,6 +2165,121 @@ Layer 2 reveals what actually happens when rules fall silent.
 | Judges overwhelmed | → **TIG handles 99%** |
 
 ---
+### 7.2.7 Closing the Doctrine-Practice Gap: Least-Resistance Alignment
+
+**The constitutional asymmetry.** Layer 2 reveals that courts operate under two constitutions: the *procedural constitution* (rules, forms, PDs) codifies transparency as default; the *judicial constitution* (common law rulings) operationalizes opacity as practice. This is not judicial defiance—it is **decoupling** (Meyer & Rowan, 1977): formal structures display transparency ideals while practical operations follow different logic.
+
+| **Level** | **Source** | **What It Says** | **What Actually Happens** |
+|-----------|------------|------------------|---------------------------|
+| Procedural Constitution | EX107, PD27A, TIG guidance | "48-hour service," "publish unless harm," "transparency presumption" | Declares openness as normative goal |
+| Judicial Constitution | Rulings (*Re X*, *M and F*, *HHJ Haigh*, *Sara Sharif*) | Discretionary approval, proof-of-public-interest requirement, objection as veto | Operationalizes opacity as default |
+
+**The core problem:** Judicial discretion operates in a vacuum. Without structured guidance bridging procedural promises to judicial practice, each judge interprets "necessary," "public interest," and "harm" differently. Official policy says "presume publication"; judicial practice says "refuse if objected." This gap isn't individual judges' fault—**it's a design void where principles exist but operational standards don't**.
+
+**Least-resistance solution: Procedural-judicial convergence through operational standards**
+
+The minimal systemic correction is not legislative overhaul but **light-touch protocols** that operationalize transparency principles already stated in procedural law. Five interventions close specific gaps revealed in Layer 2:
+
+#### **(1) Default Publication with Evidence-Based Restriction**
+
+**Gap identified:** §7.2.4.1 shows judges require proof that common law should be visible—philosophically incoherent.
+
+**Intervention:** For final hearings, default to publication of anonymized transcript unless party applies to restrict with **specific, evidenced harm**. Application must:
+- Identify specific passages (not entire transcript)
+- Evidence actual jigsaw risk (not speculative concern)
+- Propose redactions (not wholesale suppression)
+
+**Implementation:** EX107 tick-box:
+> ☐ I may seek publication. Court will prepare anonymized version unless party applies within 14 days to restrict specific passages with evidenced harm.
+
+**Effect:** Operationalizes *Re B and G* [2015] principle ("transparency unless harm") by reversing burden from "prove law should be visible" to "prove specific restriction necessary."
+
+---
+
+#### **(2) Parity in Objection Standards**
+
+**Gap identified:** §7.2.4 shows objections function as vetoes—objector asserts concern; publisher must prove necessity.
+
+**Intervention:** **Parity standard**. Objections must:
+- Specify which aspects create harm
+- Evidence specific risk (not assert general privacy)
+- For institutional parties: evidence how **child** (not institution) harmed
+
+**Implementation:** Practice Direction amendment requiring objections follow C2 format with statement of facts, proposed alternative (redaction/partial release), evidence (not assertion).
+
+**Effect:** Prevents objections becoming automatic vetoes; aligns with consent architecture while requiring substantiation.
+
+---
+
+#### **(3) Institutional Accountability Standard**
+
+**Gap identified:** §7.2.5 Pattern 2 shows public bodies anonymized despite causing harm (*Re C* Newport).
+
+**Intervention:** **Public bodies named by default** unless specific evidence that naming enables jigsaw identification that redaction cannot prevent.
+
+**Implementation:** Practice Direction clarification:
+> Anonymization protects individuals, not institutions. Public bodies should be named unless specific evidence demonstrates naming would harm a child through jigsaw identification that targeted redaction cannot prevent.
+
+**Effect:** Restores accountability; enables pattern visibility across cases.
+
+---
+
+#### **(4) Judicial Accountability Threshold**
+
+**Gap identified:** §7.2.5 Pattern 3 shows judge anonymized to prevent criticism (*Sara Sharif*).
+
+**Intervention:** **Judges named by default** unless:
+- Specific, immediate, evidenced threat (not general social media concern)
+- Time-limited (6-month review)
+- Same threshold as witness protection
+
+**Implementation:** Senior judiciary guidance affirming judicial anonymization requires specific threat evidence.
+
+**Effect:** Maintains common law accountability—published reasoning subject to review.
+
+---
+
+#### **(5) Transparency of Refusals**
+
+**Gap identified:** §7.2.5 Pattern 4 shows refusal reasoning invisible (*HHJ Haigh* only visible via appeal + transcript).
+
+**Intervention:** When publication/access refused, judge provides brief written reasons:
+- Which ground applies (FPR 27.11)
+- What specific harm outweighs public interest
+- Why alternatives insufficient
+
+Reasons reported quarterly to TIG (anonymized) for pattern analysis.
+
+**Implementation:** Practice Direction requiring written reasons filed with court and reported to TIG.
+
+**Effect:** Makes refusal patterns visible; enables systemic learning.
+
+---
+
+#### **Why These Are "Least-Resistance"**
+
+**None require:**
+- New legislation
+- Additional funding
+- New infrastructure
+- Institutional restructuring
+
+**All require only:**
+- Practice Direction amendments (judicial process)
+- Form updates (EX107 tick-box)
+- Reporting protocols (existing TIG framework)
+
+**These interventions create procedural-judicial convergence** by translating transparency principles into operational standards. They don't coerce judges—they **clarify** what "necessary," "public interest," and "harm" mean in practice, removing voids that allow divergence between procedural promise and judicial practice.
+
+**Transparency Alignment Protocol:** Each standard creates explicit linkage between rulings and procedural transparency objectives (PD27A, TIG principles, TOJ framework). Over time, this feedback loop re-couples the two constitutions—procedure and practice—making divergence traceable rather than invisible.
+
+The repository proposed in §7.1.7 will work only if judicial practice supports publication. These interventions ensure doctrine and practice align, feeding into broader learning cycles (section 4) for sustained system improvement.
+
+
+
+
+
+
 
 
 
