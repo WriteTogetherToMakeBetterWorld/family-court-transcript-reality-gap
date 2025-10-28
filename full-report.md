@@ -1070,10 +1070,10 @@ Re X (A Child) [2016] EWFC B43 directly addressed approval delays: a local autho
 
 This appears protective — prioritizing timely access over perfection. But examine what the ruling doesn't do:  
 
-* ❌ No maximum approval timeframe specified  
-* ❌ No consequence for approval delay identified  
-* ❌ No enforcement mechanism created  
-* ❌ No guidance on who bears delay costs  
+* No maximum approval timeframe specified  
+* No consequence for approval delay identified  
+* No enforcement mechanism created  
+* No guidance on who bears delay costs  
 
 The ruling normalizes delay as inevitable rather than treating it as design defect. By focusing on "imperfect vs. delayed," it accepts that approval will take indefinite time — the question becomes only whether to release before perfection.  
 
@@ -1121,26 +1121,53 @@ Operational Reality: "Publish unless harm" inverts to "refuse if objected unless
 
 ### 7.2.5 The Void Persists: When Rulings Entrench Rather Than Resolve
 
-What Layer 2 reveals: Judicial rulings don't fill Layer 1's voids — they formalize them.  
+What Layer 2 reveals: Judicial rulings don't fill Layer 1's voids — they formalize them.
 
-* DF-3 (untimed approval) → Re X critiques delay but provides no enforcement → Delay becomes normal  
-* DF-7 (no publication flag) → Rulings allow publication but rarely applied → Selective visibility  
-* DF-6 (consent asymmetry) → Objections trigger proof requirements → Functional veto  
+* DF-3 (untimed approval) → Re X critiques delay but provides no enforcement → Delay becomes normal
+* DF-7 (no publication flag) → Rulings allow publication but rarely applied → Selective visibility
+* DF-6 (consent asymmetry) → Objections trigger proof requirements → Functional veto
 
-The scarcity of 2025 rulings on these issues proves the dysfunction: disputes over transcript access, approval delays, and publication should generate regular case law if the system is being actively used. Instead, we find:  
+The scarcity of 2025 rulings on these issues proves the dysfunction: disputes over transcript access, approval delays, and publication should generate regular case law if the system is being actively used. Instead, we find:
 
-* Most applicable ruling on approval delays: 2016 (9 years old)  
-* Foundational transparency ruling: 2015 (10 years old)  
-* No recent rulings on EX107 integration, SLA enforcement, or institutional vetoes  
+* Most applicable ruling on approval delays: 2016 (9 years old)
+* Foundational transparency ruling: 2015 (10 years old)
+* No recent rulings on EX107 integration, SLA enforcement, or institutional vetoes
 
-This is "judicial blindness" (TIG Report, 2021; Transparency Project, 2019) — not individual judges' fault, but system-level invisibility. Without routine publication of rulings addressing these disputes:  
+This is "judicial blindness" (TIG Report, 2021; Transparency Project, 2019) — not individual judges' fault, but system-level invisibility. Without routine publication of rulings addressing these disputes:
 
-* Each judge treats approval delays as case-specific rather than systemic  
-* Each publication dispute appears sui generis rather than pattern  
-* Each consent veto seems reasonable rather than structural barrier  
+* Each judge treats approval delays as case-specific rather than systemic
+* Each publication dispute appears sui generis rather than pattern
+* Each consent veto seems reasonable rather than structural barrier
 
-The repository proposed in §7.1.7 cannot succeed if judicial practice continues this pattern. TIG pilots will either produce published rulings that create new precedent — or they will perpetuate opacity under the guise of "discretion."  
+The repository proposed in §7.1.7 cannot succeed if judicial practice continues this pattern. TIG pilots will either produce published rulings that create new precedent — or they will perpetuate opacity under the guise of "discretion."
 
+#### 7.2.5.1 The Meta-Failure: Denying Common Law's Foundation
+
+Layer 2 reveals how judicial rulings operationalize Layer 1's voids. But it also reveals something more fundamental: The family court system operates in philosophical contradiction to common law itself.
+
+Common law's legitimacy rests on three pillars:
+
+1. Transparency - decisions must be knowable
+2. Precedent - like cases decided alike based on published reasoning
+3. Evolution - law develops through accumulated judicial wisdom
+
+Yet family courts invert this foundation by requiring parties to prove public interest in publishing common law decisions.
+
+This demand is incoherent in every other UK jurisdiction. No one must justify why a Supreme Court ruling on statutory interpretation should be published. No one must evidence public interest in a Court of Appeal judgment on negligence. Legal decisions ARE public interest axiomatically.
+
+But in family courts, publication becomes exception requiring justification. This creates impossible circularity: you must prove public interest using precedent you're forbidden to create.
+
+The consequence: Family law isn't common law - it's secret adjudication operating without common law's accountability mechanisms.
+
+The scarcity of 2025 rulings (§7.2.1) proves this. Where civil and criminal courts generate published case law as normal function, family courts treat publication as aberration. Each judge confronts transcript disputes, approval delays, consent vetoes as if novel - because prior rulings remain invisible.
+
+This explains why Layer 1's voids persist: Design failures cannot be corrected through judicial development when judicial development remains secret. Re X [2016] critiqued approval delays 9 years ago - yet DF-3's timing void remains. Re B and G [2015] established transparency presumption 10 years ago - yet publication remains rare.
+
+Rulings don't accumulate into doctrine. They don't create enforceable norms. They don't enable cross-case learning. They vanish into opacity, leaving each new case to reinvent responses to systemic failures.
+
+The repository proposed in §7.1.7 cannot fix this through infrastructure alone. If judicial practice continues requiring "proof of public interest" for publishing common law, the repository will remain empty - not because the system lacks technical capacity, but because it denies the philosophical foundation that makes common law legitimate.
+
+While this report focuses on least-resistance reforms, this paradox demands a fundamental flip: Default to publication of anonymised transcripts, with the burden on objectors to prove harm for non-publication. Objectors would need to evidence specific, irreparable harm (e.g., jigsaw identification risk) outweighing public interest in openness. This restores common law's presumption: secrecy must be justified, not publicity.
 ### 7.2.6 Handoff to Layer 3: From Doctrine to Desperation
 
 Layer 2 mapped what judges say the law is. Layer 3 asks: What do parties experience when they try to use that law?  
