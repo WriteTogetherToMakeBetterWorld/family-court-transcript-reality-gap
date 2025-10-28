@@ -250,25 +250,22 @@ The following analysis therefore extends this empirical lens through two interli
 Section 6 begins with the former; Section 6.2 examines the latter.
 
 
+```markdown
 ## 7. Practice Analysis: Two Pathways of Transparency — Obtaining and Publishing Transcripts
-
-The preceding sections established why transcripts are the bedrock of transparency and how the system currently fails to monitor them.
-
-This chapter now undertakes a **practice-based examination** of two interdependent transparency pathways:
-
+The preceding sections established why transcripts are the bedrock of transparency and how the system currently fails to monitor them.  
+This chapter now undertakes a **practice-based examination** of two interdependent transparency pathways:  
 1. **The Obtaining Pathway** — how transcripts are requested, produced, and approved; and  
-2. **The Publication Pathway** — how transcripts are anonymised, shared, and used to enable accountability and learning.
+2. **The Publication Pathway** — how transcripts are anonymised, shared, and used to enable accountability and learning.  
 
-Although conceptually distinct, these pathways are **functionally inseparable**.
-
-> **If reform stops at improving how transcripts are obtained, without enabling their publication, transparency remains private.**
+Although conceptually distinct, these pathways are **functionally inseparable**.  
+> **If reform stops at improving how transcripts are obtained, without enabling their publication, transparency remains private.**  
 
 The *critical reform* lies in connecting these two pathways — the point where **personal justice becomes systemic justice**.  
 At present, that bridge does not exist, and its absence creates a **double transparency deficit**: the system is blind both to its own judicial practice and to the changing realities of family life.
 
 ---
 
-### 1. Judicial Blindness
+### 1. Judicial Blindness  
 Knowledge of judicial reasoning, error, and bias dies within the individual case.  
 Each hearing is an unreviewable black box; each decision becomes institutional amnesia.  
 Patterns such as the persistent **pro-contact bias** identified in 90 % of private-law cases (Bureau of Investigative Journalism, 2025) cannot be studied, challenged, or trained against because there is **no verifiable record** of what was actually said when abuse allegations were dismissed or unsupervised contact ordered.  
@@ -276,14 +273,14 @@ Without cross-case visibility, the judiciary cannot learn from its own work, and
 
 ---
 
-### 2. Epidemiological Blindness
+### 2. Epidemiological Blindness  
 The system also lacks situational awareness of what families are actually experiencing.  
-Without transcripts capturing courtroom dialogue, it cannot map the *content* of conflict or identify shifts in family dysfunction — for example:
+Without transcripts capturing courtroom dialogue, it cannot map the *content* of conflict or identify shifts in family dysfunction — for example:  
 - Are **alcohol-related disputes** declining while **gaming-addiction** or **digital-coercion** cases surge?  
 - Are traditional **contact and residence battles** being replaced by conflicts rooted in **financial control**, **neurodiversity**, or **mental-health strain**?  
-- Are new patterns of **technology-enabled abuse** or **online exploitation** emerging?
+- Are new patterns of **technology-enabled abuse** or **online exploitation** emerging?  
 
-This absence of data cascades into structural failure:
+This absence of data cascades into structural failure:  
 - **Cafcass** and local authorities assess with outdated frameworks.  
 - **Social-care and therapeutic programmes** target legacy problems rather than emerging ones.  
 - **Policy-makers** legislate in the dark, addressing yesterday’s risks while missing today’s crises.  
@@ -291,16 +288,16 @@ This absence of data cascades into structural failure:
 
 ---
 
-### The Result: Personal Injustice → Systemic Stagnation
+### The Result: Personal Injustice → Systemic Stagnation  
 The family court processes more than **80 000 cases a year** (Law Society, 2023) yet retains less knowledge of its own activity than a small organisation keeps of customer feedback.  
 Each hearing produces rich diagnostic information — emotional dynamics, procedural handling, judicial reasoning — that vanishes the moment the gavel falls.  
 Personal injustices remain private; collective learning never occurs.
 
 ---
 
-### The Fix: Publish Anonymised Transcripts
+### The Fix: Publish Anonymised Transcripts  
 Publishing authorised, anonymised transcripts would transform this landscape.  
-It would turn individual casework into **institutional intelligence**, enabling:
+It would turn individual casework into **institutional intelligence**, enabling:  
 - **Judicial accountability and precedent evolution** — verified reasoning available for scrutiny and improvement;  
 - **Cross-case pattern detection** — mapping trends such as regional variation in domestic-abuse responses;  
 - **Social and policy learning** — allowing services to see which family challenges are rising or receding;  
@@ -308,20 +305,37 @@ It would turn individual casework into **institutional intelligence**, enabling:
 
 ---
 
-### In Summary
+### In Summary  
 Linking **access** (Pathway One) and **publication** (Pathway Two) does far more than improve transparency — it **closes the reality gap**.  
 It transforms transcripts from static legal artefacts into **dynamic diagnostic tools** that help the justice system, welfare services, and policymakers evolve **in step with the families they serve**.  
 Only when transcripts move beyond the private file into the public, anonymised domain can *personal justice* truly become *systemic justice*.
 
 ---
 
-This chapter now operationalises the central hypothesis of the article by analysing how transcripts are actually **obtained** and, where possible, **made public** in the family courts of England and Wales.  
-It returns to the foundational question of this research:
+**A Note on Method: Why "Least Resistance" Is the Right Question**  
 
+Before proceeding to the operational analysis, it is necessary to explain why this article frames reform through the lens of *least resistance, greatest systemic impact*.  
+
+Family justice is a **complex adaptive system**: multi-agency, resource-constrained, and governed by procedural and cultural inertia. In such environments, large-scale redesigns collapse under coordination costs, while *small, high-leverage adjustments* at structural bottlenecks can produce disproportionately wide effects.  
+
+- **Complexity theory** shows that change succeeds when it amplifies existing feedback loops rather than creating new hierarchies.  
+- **Systems-learning research** (Senge, 1990; Argyris & Schön, 1978) emphasises that the simplest intervention that generates reflection and feedback creates the greatest learning potential.  
+- **Institutional feasibility** matters: reforms that operate within existing legal authority and funding lines face the least resistance and gain rapid legitimacy.  
+
+**Transcript reform meets all three conditions.**  
+It requires no new legislation, draws on established procedures (FPR 27.9 / PD 27A), and converts everyday courtroom dialogue into verifiable, reusable knowledge. This makes it the *minimum-resistance lever* with *maximum systemic reach*.  
+
+Thus, the foundational question that follows—  
+> **How can change be achieved with the least resistance yet the greatest systemic impact?**  
+—emerges not as a rhetorical flourish but as a methodological necessity in complex-system reform.
+
+---
+
+This chapter now operationalises the central hypothesis of the article by analysing how transcripts are actually **obtained** and, where possible, **made public** in the family courts of England and Wales.  
+It returns to the foundational question of this research:  
 > **How can change be achieved with the least resistance yet the greatest systemic impact?**  
 > (a) in obtaining transcripts, and  
 > (b) in publishing them lawfully and safely.
-
 ---
 
 ### 7.0 Analytical Design and Evidence Logic
