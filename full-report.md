@@ -1012,8 +1012,6 @@ These layers will integrate user testimony, survey data, and access logs to reve
 
 ## 7.3 Layer 3: User Experience -  Evidence from JustAnswer as a Window into Lived Procedural Reality
 
-# 7.3 Layer 3: User Experience - Evidence from JustAnswer as a Window into Lived Procedural Reality
-
 ## 7.3.1 Data Collection and Sampling Strategy
 
 A targeted, iterative web-scraping approach was adopted, centered on JustAnswer.co.uk, identified via preliminary searches as the richest source of real-time, user-generated accounts of UK family court transcript access challenges. To achieve comprehensive temporal coverage, unrestricted and date-specific searches were conducted across Google and Ecosia, including pre-2020-targeted queries (e.g., `before:2020-01-01`) to capture threads from 2004 (JustAnswer.co.uk's UK launch) to the present (October 2025).
