@@ -2,15 +2,12 @@
 
 > *"One transcript = more truth than 100 reporters."*
 
-My name is **Karolina** and I'm not a lawyer.  
-
-**This is what I see:**
 - 50,000 unresolved family cases
 - 4,000 children waiting over 2 years for a decision
-- 90% of private law cases involve domestic abuse — but courts often don't act
+- 90% of private law cases involve domestic abuse 
 
 **Transcripts could change that.**  
-They show what really happens in court. They prove abuse. They stop delays.
+They show what really happens in court. They prove truth and let the truth and what we believe "justice" is - justice prevails.
 
 **Read the full report I put together:** [full-report.md](full-report.md)
 
@@ -21,4 +18,3 @@ They show what really happens in court. They prove abuse. They stop delays.
 
 **We don’t need a revolution. We need a transcript.**
 
-— Karolina
