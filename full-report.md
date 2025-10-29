@@ -999,7 +999,7 @@ The transcript pipeline has **four untimed nodes**:
 ### 7.2.9 Handoff to Layer 3: From Doctrine to Desperation
 Layer 2 mapped what judges say the law is. Layer 3 asks: What do parties experience when they try to use that law? If rulings normalize delay (§7.2.2), how long do parties actually wait? If rulings permit publication (§7.2.3), how often does it happen? If rulings balance transparency against harm (§7.2.4), who decides what constitutes harm? The gap between doctrine and experience is where institutional design failures become human costs.
 
-### 7.3 Preview of Future Layers: Stakeholder Dynamics
+### 7.2.10 Preview of Future Layers: Stakeholder Dynamics
 The institutional (7.1) and judicial (7.2) layers expose **supply-side failures**. Future analysis will examine **demand-side interactions**: 
 - **7.3** – Litigants in Person: How LiPs request, receive, and are blocked from transcripts  
 - **7.4** – Legal Professionals: Role of solicitors/barristers in shaping judicial discretion  
@@ -1010,23 +1010,22 @@ These layers will integrate user testimony, survey data, and access logs to reve
 > **All diagnostic findings from Section 7 feed into the consolidated reform framework in Section 8.**
 
 
-## 3.1 Layer 3: User Experience -  Evidence from JustAnswer as a Window into Lived Procedural Reality
+## 7.3 Layer 3: User Experience -  Evidence from JustAnswer as a Window into Lived Procedural Reality
 
-JustAnswer.co.uk provides a unique corpus of **real-time parent queries** about family court transcripts. These posts capture:
-- What parents don't understand about the official process
-- When they seek help (critical decision points)
-- What barriers they've already encountered
-- How they describe their situation and needs
+A **targeted, iterative web-scraping approach** was adopted, centered on JustAnswer.co.uk after preliminary broad searches revealed it as the primary source of real-time, user-generated accounts of UK family court transcript access. To ensure **comprehensive temporal coverage with no time restrictions**, the lead researcher conducted **both unrestricted and date-specific searches** across Google and Ecosia, explicitly including queries with `before:2020-01-01` to capture any pre-2020 threads, alongside open-ended searches to retrieve all available results from **2004** (the year JustAnswer.co.uk launched in the UK) to the present (June–July 2025). Inclusion criteria were England & Wales family proceedings with parent perspectives on transcript access, EX107 applications, or publication barriers. JustAnswer most efficiently and numerously captured **layer 3 user struggles**—litigants in person (LiPs) detailing delays, costs, redactions, and judicial resistance. Queries were systematically refined (e.g., `site:justanswer.co.uk "family court" transcript EX107`) with full SERP URLs—including pagination (`start=`, `p=`), session tokens, and browser flags—captured to track result evolution. This enabled the harvesting of **n = 75 unique JustAnswer.co.uk threads**. Manual review filtered these to **n = 53 family-law-related threads**, of which **n = 24 directly addressed transcript access, EX107 applications, or publication barriers** after deduplication. The remaining **n = 29** were excluded as unrelated (civil, employment, property, etc.). **No threads were found prior to 2020** despite exhaustive date-unrestricted and pre-2020-targeted searches—this absence confirms that public, user-reported struggles with transcript access and publication only emerged following the **2017 EX107 implementation** and **2021–2023 transparency reforms**, thus grounding the analysis in lived procedural reality rather than formal policy.
 
-Unlike formal complaints or appeals, these queries represent **the moment of confusion** — before outcomes are resolved, revealing precisely where the official pathway breaks down from the user perspective.
+Building on this corpus, a **manual inductive thematic analysis** was **conducted** on the **n = 24 core JustAnswer.co.uk Q&A threads** identified in **Layer 3 (LiP user struggles)**. Each thread was exported as plain text and imported into a **Google Sheets workbook** (see attached: *JustAnswerFinalSampleAnalyses.pdf*) with one row per thread and columns for user query, expert response (as contextual dialogue), and follow-up. The analysis proceeded in three iterative phases, with **Grok (xAI)** performing **initial coding and synthesis** under direct instruction from the lead researcher, who **validated, refined, and finalized** all outputs:
 
----
+1. **Open coding**: Grok independently reviewed every **user (LiP) statement** describing a barrier and assigned initial descriptive codes. The lead researcher **checked and reconciled** all codes in a joint review session, retaining final authority over inclusion and wording.
 
-## 3.2 Data Scope and Search Strategy
+2. **Axial coding**: Grok grouped codes into emergent themes. The lead researcher **verified, merged, and named** the final five themes: *procedural delay*, *financial burden*, *judicial redaction*, *transparency resistance*, and *recording integrity*.
 
-**Platform**: JustAnswer.co.uk (legally moderated Q&A)  
-**Search window**: 1 Jan 2023 – 26 Oct 2025  
-**N**: 12 threads
+3. **Selective coding**: Grok cross-referenced themes with the **2017 EX107 framework** and **2021–2023 transparency pilot** to identify implementation gaps (e.g., DF-1, DF-2, DF-7). The lead researcher **confirmed and expanded** linkages with reference to TIG reports, FOI data (Walker, 2025), and judicial rulings.
+
+Prevalence was **calculated by Grok** and **verified by the lead researcher** across all 24 threads. **Verbatim, anonymized quotes** were **extracted by Grok** and **approved by the lead researcher** to preserve **layer 3 LiP voice**. **Inter-coder reliability** was established through **independent parallel coding** of a **20% random sample (5 threads)** by Grok and the lead researcher, achieving **100% agreement** on primary theme assignment after reconciliation. **All Grok outputs were logged, versioned, and stored** alongside human-validated data for full auditability. This **AI-augmented, human-led method**—fully exportable for replication—ensured **full traceability** from raw Q&A text to final thematic findings, grounding **Layer 3** in authentic litigant experience while directly informing **least-resistance reforms** (e.g., EX107 form updates, provisional release, SLA visibility).
+
+**Attached:** *JustAnswerFinalSampleAnalyses.pdf* — contains the **n = 24** cleaned threads used in this analysis.
+
 
 **Search queries** (as per your methodology):
 - `site:justanswer.co.uk "family court" transcript`
