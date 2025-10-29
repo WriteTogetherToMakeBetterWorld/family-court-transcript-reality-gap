@@ -1070,7 +1070,7 @@ Prevalence was calculated as **presence/absence per thread (n=23)**.
 
 ---
 
-## 7.3.3 Thread Categorization and Classification
+## 7.3.3 Thread Categorisation and Classification
 The 23 threads categorized by primary issue (**overlaps noted; total >100%**):
 
 | Category                     | n  | %   | Description                                                                                           |
@@ -1089,7 +1089,7 @@ Triggers reveal confusion points (updated with pre-2020 verification—early que
 
 | Trigger Point                         | n | %   | Insight                                                                 |
 |---------------------------------------|---|-----|-------------------------------------------------------------------------|
-| After hearing, realizing transcript need | 7 | 30% | Retrospective discovery; pre-2020 examples show same issue              |
+| After hearing, realising transcript need | 7 | 30% | Retrospective discovery; pre-2020 examples show same issue              |
 | After EX107 filing, delay experienced | 7 | 30% | Mismatch vs. expected "48 hours"                                        |
 | Cost shock post-quote                 | 4 | 17% | Funding opacity                                                         |
 | Recording failure late-discovered     | 5 | 22% | No notifications                                                        |
@@ -1194,7 +1194,7 @@ weeks later navigate EX107
 
 ---
 
-## 7.3.6 Data Treatment and Anonymization
+## 7.3.6 Data Treatment and Anonymisation
 Each JustAnswer thread was:
 
 - **Logged**: URL, date/time, case context (anonymized)  
