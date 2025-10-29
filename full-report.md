@@ -1014,6 +1014,10 @@ These layers will integrate user testimony, survey data, and access logs to reve
 
 ## 7.4.1 Data Collection and Sampling Strategy
 
+## 7.4.1 Data Collection and Sampling Strategy
+
+Preliminary scoping identified three potential sources of user-generated procedural accounts: JustAnswer.co.uk, Mumsnet, and Reddit /r/LegalAdviceUK. However, systematic Google and Ecosia searches using core queries (`"family court" transcript`, `EX107`, `transcript AND ("cost" OR "Legal Aid")`) revealed that **JustAnswer generated the highest volume of procedurally detailed, legally moderated threads**. Search results consistently returned 8-10 JustAnswer threads per query compared to 1-2 scattered posts across other platforms. Given JustAnswer's advantages—verified legal expert responses, timestamped queries, and consistent procedural focus—the decision was made to concentrate analytical resources on this single, richest data source rather than pursue fragmentary coverage across multiple platforms.
+
 A targeted, iterative web-scraping approach was adopted, centered on JustAnswer.co.uk, identified via preliminary searches as the richest source of real-time, user-generated accounts of UK family court transcript access challenges. To achieve comprehensive temporal coverage, unrestricted and date-specific searches were conducted across Google and Ecosia, including pre-2020-targeted queries (e.g., `before:2020-01-01`) to capture threads from 2004 (JustAnswer.co.uk's UK launch) to the present (October 2025).
 
 Inclusion criteria focused on England & Wales family proceedings from parent/litigant-in-person (LiP) perspectives, emphasizing transcript access, EX107 applications, publication barriers, or related confidentiality/appeal issues. JustAnswer efficiently captured Layer 3 user struggles, such as delays, costs, redactions, and judicial hurdles. Queries were refined (e.g., `site:justanswer.co.uk "family court" transcript EX107`), with full SERP details (pagination, tokens) logged for traceability.
