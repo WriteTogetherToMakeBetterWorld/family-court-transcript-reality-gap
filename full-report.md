@@ -1265,10 +1265,6 @@ This triangulation **grounds reform recommendations in convergent evidence**.
 
 ---
 
-## 7.3.11 Expert vs. User Mismatch
-While users report **timeline confusion (61%)**, experts mention delays in only **13%** of responses and **never cite judicial approval SLAs**. This **advice asymmetry** leaves LiPs in limbo. Conversely, **appeal options** are over-represented in expert answers (**47.8%**) vs. user triggers (**39%**), suggesting JustAnswer experts **default to appellate remedies rather than prevention**.
-
----
 
 
 
