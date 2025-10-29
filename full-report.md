@@ -3107,7 +3107,7 @@ Balanced conclusion: I would characterise it as a conditional improvement — i.
 big proglem datese inssuficien - so what is we have obligation for this to appera in the judical dateset bgut also, peale themselves can publish??? othey could change pdf - so only approve datased would work - isn't
 
 
-
+###CONTROL BEHIND TRANSCRIPT/PUBLICATIONS HAVE TO BE SAVE -IS' LIKE - YES, LET'S PUBLISH BUT IT MUST BE SAFE
 
 
 
