@@ -2482,12 +2482,10 @@ Balanced conclusion: I would characterise it as a conditional improvement — i.
 
 
 
+### is another big noticing is failure of judges - they habve immpreect but still guidanc eand they create the law in opositon to it?????? - that is what layer 1 and layer 2 speaks of - isn't ???? it's like they cleaver people who do not get it????
 
 
-
-
-
-
+big proglem datese inssuficien - so what is we have obligation for this to appera in the judical dateset bgut also, peale themselves can publish??? othey could change pdf - so only approve datased would work - isn't
 
 
 
