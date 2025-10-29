@@ -427,6 +427,8 @@ This analysis adopts a **constructivist–interpretivist orientation**, treating
 
 Court rulings are weighted as **"emerging legislation"** — capturing evolving norms (e.g., post-2023 transparency reforms) without assuming exhaustiveness. Gaps in known cases (e.g., unpublished refusals) are flagged for future inquiry. This positioning reveals the **discretionary gap**: procedural rights exist on paper, but judicial gatekeeping determines whether they operate in practice — creating systematic patterns that individuals experience as barriers, which external analysts frame as systemic opacity.
 
+This research analyses publicly available materials: published judgments selected by judiciary as appropriate for public access, official guidance documents, and professional commentary in the public domain. No personal data or confidential case information was accessed.
+
 # 7.1 Layer 1: Institutional Design — The Prescribed Architecture of Transcript Production and Transparency
 **Purpose.** This layer establishes what the system *prescribes and officially claims* about transcript production and publication [FPR 2010; HMCTS Guidance Aug 2025]. 
 **Scope & limits.** It documents *design* (rules, forms, guidance, contracts) and *stated timings*, but cannot verify performance. 
