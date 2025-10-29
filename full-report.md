@@ -1001,8 +1001,8 @@ Layer 2 mapped what judges say the law is. Layer 3 asks: What do parties experie
 
 ### 7.2.10 Preview of Future Layers: Stakeholder Dynamics
 The institutional (7.1) and judicial (7.2) layers expose **supply-side failures**. Future analysis will examine **demand-side interactions**: 
-- **7.3** – Litigants in Person: How LiPs request, receive, and are blocked from transcripts  
-- **7.4** – Legal Professionals: Role of solicitors/barristers in shaping judicial discretion  
+- **7.3** – Legal Professionals: Role of solicitors/barristers in shaping judicial discretion 
+- **7.4** – Litigants in Person: How LiPs request, receive, and are blocked from transcripts  
 - **7.5** – Observers: Media, NGOs, and public access to family court outputs  
 
 These layers will integrate user testimony, survey data, and access logs to reveal **full-system asymmetry**. 
@@ -1010,9 +1010,9 @@ These layers will integrate user testimony, survey data, and access logs to reve
 > **All diagnostic findings from Section 7 feed into the consolidated reform framework in Section 8.**
 
 
-## 7.3 Layer 3: User Experience -  Evidence from JustAnswer as a Window into Lived Procedural Reality
+## 7.4 Layer 3: User Experience -  Evidence from JustAnswer as a Window into Lived Procedural Reality
 
-## 7.3.1 Data Collection and Sampling Strategy
+## 7.4.1 Data Collection and Sampling Strategy
 
 A targeted, iterative web-scraping approach was adopted, centered on JustAnswer.co.uk, identified via preliminary searches as the richest source of real-time, user-generated accounts of UK family court transcript access challenges. To achieve comprehensive temporal coverage, unrestricted and date-specific searches were conducted across Google and Ecosia, including pre-2020-targeted queries (e.g., `before:2020-01-01`) to capture threads from 2004 (JustAnswer.co.uk's UK launch) to the present (October 2025).
 
@@ -1040,7 +1040,7 @@ While sparse pre-2020 threads exist (e.g., a 2015 query on phone transcript admi
 
 ---
 
-## 7.3.2 Analytical Method: AI-Augmented, Human-Led Thematic Analysis
+## 7.4.2 Analytical Method: AI-Augmented, Human-Led Thematic Analysis
 
 Using the 23 threads, a structured inductive coding was applied to user queries (LiP statements) using predefined categories:
 
@@ -1056,7 +1056,7 @@ Expert responses were separately coded using a capped 6-theme binary framework (
 
 ---
 
-## 7.3.3 Thread Categorization and Classification
+## 7.4.3 Thread Categorization and Classification
 
 The 23 threads categorized by primary issue (overlaps noted; total >100%):
 
@@ -1069,9 +1069,9 @@ The 23 threads categorized by primary issue (overlaps noted; total >100%):
 
 ---
 
-## 7.3.4 Thematic Analysis: What Parents Ask About
+## 7.4.4 Thematic Analysis: What Parents Ask About
 
-### 7.3.4.1 Temporal Patterns: When Parents Seek Help
+### 7.4.4.1 Temporal Patterns: When Parents Seek Help
 
 Triggers reveal confusion points (updated with pre-2020 verification—early queries rarer but similar):
 
@@ -1086,7 +1086,7 @@ Triggers reveal confusion points (updated with pre-2020 verification—early que
 
 ---
 
-### 7.3.4.2 Knowledge Gaps: What Parents Don't Know
+### 7.4.4.2 Knowledge Gaps: What Parents Don't Know
 
 Theme prevalence:
 
@@ -1104,7 +1104,7 @@ Theme prevalence:
 
 ---
 
-### 7.3.4.3 Procedural Misconceptions (What Parents Think vs. Reality)
+### 7.4.4.3 Procedural Misconceptions (What Parents Think vs. Reality)
 
 Updated with PDF examples:
 
@@ -1120,7 +1120,7 @@ Updated with PDF examples:
 
 ---
 
-### 7.3.4.4 Emotional and Material Impacts
+### 7.4.4.4 Emotional and Material Impacts
 
 - **Financial:** "I've been quoted £450... this feels impossible" (composite from threads 5,6).
 - **Appeal jeopardy:** "My 21 days is nearly up" (thread 22).
@@ -1132,13 +1132,13 @@ Updated with PDF examples:
 
 ---
 
-### 7.3.4.5 LiP-Specific Disadvantages
+### 7.4.4.5 LiP-Specific Disadvantages
 
 LiPs lack tacit knowledge (e.g., "Who to chase for delays?" in thread 6), unlike solicitors who auto-order transcripts or know EX105.
 
 ---
 
-## 7.3.5 Failure Points Mapped to Official Pathway
+## 7.4.5 Failure Points Mapped to Official Pathway
 ```
 HEARING CONCLUDES
        ↓
@@ -1187,7 +1187,7 @@ weeks later       navigate EX107
 
 ---
 
-## 7.3.6 Data Treatment and Anonymization
+## 7.4.6 Data Treatment and Anonymization
 
 Each JustAnswer thread was:
 
@@ -1200,9 +1200,9 @@ No contact made with post authors or platform moderators. All data derives from 
 
 ---
 
-## 7.3.7 Triangulation Function: How User Queries Validate Layers 1–2
+## 7.4.7 Triangulation Function: How User Queries Validate Layers 1–2
 
-| Layer 1 finding (Documentary) | Layer 2 finding (Judicial rulings in proceedings) | Layer 3 validation (User queries) |
+| Layer 1 finding (Documentary) | Layer 2 finding (Judicial rulings in proceedings) | Layer 3 validation (User queries) | HERE LAYER 4 IS MISSING!!!!!!!!!
 |-------------------------------|---------------------------------------------------|-----------------------------------|
 | EX107 lists vendor service bands | Forms don't show combined timeline | Parents ask "how long?" — expect 48hrs, experience 77+ days (n=14) |
 | EX160A excludes vendor costs | Funding pathways unclear | Parents assume Help with Fees (HWF) covers transcripts (n=8) |
@@ -1211,11 +1211,10 @@ No contact made with post authors or platform moderators. All data derives from 
 | No documented recording failure protocol | Audio corruption recurs | Parents ask "what now?" when recording missing (n=5) |
 | EX107 silent on expert follow-up | Judges rarely tracked | Experts advise "gentle reminders" → no formal escalation path |
 
-**Meta-finding:** The convergence of what forms omit (Layer 1), what judicial rulings reveal (Layer 2), and what parents ask (Layer 3) creates triangulated evidence of specific systemic gaps.
-
+**Meta-finding:** The convergence of what forms omit (Layer 1), what judicial rulings reveal (Layer 2), what Professional Practice (Lawyers) observe (Layer 3) and what parents ask (Layer 4) creates triangulated evidence of specific systemic gaps futher strenghen through the analyes of upcoming Layer (5), i.e. External Commentary. 
 ---
 
-## 7.3.8 Limitations
+## 7.4.8 Limitations
 
 - **Small sample (n=23):** Limits generalizability but achieves saturation on core themes
 - **Selection bias:** Only captures parents who use JustAnswer (excludes those who give up)
@@ -1228,11 +1227,11 @@ Despite limitations, the corpus provides unique insight into procedural breakdow
 
 ---
 
-## 7.3.9 Implications for Least-Resistance Reforms
+## 7.4.9 Implications for Least-Resistance Reforms
 
 User query patterns support specific, low-friction interventions, leveraging existing forms (e.g., EX107, N161) to close knowledge gaps without new legislation.
 
-| User Question | Form/Guidance Failure | Proposed Fix (Layer 3) |
+| User Question | Form/Guidance Failure | Proposed Fix (Layer 4) |
 |---------------|----------------------|------------------------|
 | "How long will this take?" (n=14) | No combined timeline | Display full pipeline estimates on EX107 |
 | "Does HWF cover this?" (n=8) | EX160A exclusion buried | Banner: "HWF does not cover vendor costs" |
@@ -1243,9 +1242,9 @@ These address 61% timeline confusion and 26% publication gaps, reducing appeal r
 
 ---
 
-## 7.3.10 Layer 3 Contribution to the Three-Layer Analysis
+## 7.4.10 Layer 4 Contribution to the at the moment Four (out of Five)-Layer Analysis
 
-**Layer 3 adds:**
+**Layer 4 adds:**
 
 - **User voice** showing the system from the receiving end
 - **Problem timing** revealing when confusion occurs (post critical windows)
@@ -1253,13 +1252,14 @@ These address 61% timeline confusion and 26% publication gaps, reducing appeal r
 - **Material consequences** demonstrating harms (appeal jeopardy, forced settlement, financial exclusion)
 - **LiP vulnerability** quantifying disadvantage vs. represented parties
 
-**Combined with Layers 1–2, creates a 360-degree view:**
+**Combined with Layers 1–3, creates a 360-degree view:**
 
 - **Layer 1:** What the system prescribes (policy as written)
 - **Layer 2:** What happens in court proceedings (judicial rulings)
-- **Layer 3:** How parents encounter it (user lived experience)
+- **Layer 3:** How Professional Practice (Lawyers) observe
+- **Layer 4:** How parents encounter it (user lived experience)
 
-Layer 3's gaps (e.g., late discovery) directly inform section 8's procedural pilots. This triangulation grounds reform recommendations in convergent evidence.
+Layer 4's gaps (e.g., late discovery) directly inform section 8's procedural pilots. This triangulation grounds reform recommendations in convergent evidence.
 
 
 
