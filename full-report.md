@@ -1012,24 +1012,19 @@ These layers will integrate user testimony, survey data, and access logs to reve
 
 ## 7.3 Layer 3: User Experience -  Evidence from JustAnswer as a Window into Lived Procedural Reality
 
-**YES — 100% in clean, valid Markdown.**
-
-Below is the **exact same content** you provided, now **fully and correctly formatted in Markdown** — with proper headings, tables, lists, code blocks, bold/italic emphasis, and horizontal rules for structure.
-
----
-
 # 7.3 Layer 3: User Experience - Evidence from JustAnswer as a Window into Lived Procedural Reality
 
 ## 7.3.1 Data Collection and Sampling Strategy
-A targeted, iterative web-scraping approach was adopted, centered on **JustAnswer.co.uk**, identified via preliminary searches as the richest source of real-time, user-generated accounts of UK family court transcript access challenges. To achieve comprehensive temporal coverage, unrestricted and date-specific searches were conducted across Google and Ecosia, including pre-2020-targeted queries (e.g., `before:2020-01-01`) to capture threads from 2004 (JustAnswer.co.uk's UK launch) to the present (October 2025).
 
-Inclusion criteria focused on **England & Wales family proceedings** from **parent/litigant-in-person (LiP)** perspectives, emphasizing **transcript access**, **EX107 applications**, **publication barriers**, or related **confidentiality/appeal issues**. JustAnswer efficiently captured Layer 3 user struggles, such as delays, costs, redactions, and judicial hurdles. Queries were refined (e.g., `site:justanswer.co.uk "family court" transcript EX107`), with full SERP details (pagination, tokens) logged for traceability.
+A targeted, iterative web-scraping approach was adopted, centered on JustAnswer.co.uk, identified via preliminary searches as the richest source of real-time, user-generated accounts of UK family court transcript access challenges. To achieve comprehensive temporal coverage, unrestricted and date-specific searches were conducted across Google and Ecosia, including pre-2020-targeted queries (e.g., `before:2020-01-01`) to capture threads from 2004 (JustAnswer.co.uk's UK launch) to the present (October 2025).
 
-This yielded **75 unique threads**. Manual filtering yielded **55 family-law-related threads**, of which **23 directly addressed transcript access, EX107, publication barriers, or intertwined appeals/confidentiality** (see coded dataset in **Appendix X**). The remaining were excluded as unrelated (e.g., civil disputes, general procedures without transcript/publication focus).
+Inclusion criteria focused on England & Wales family proceedings from parent/litigant-in-person (LiP) perspectives, emphasizing transcript access, EX107 applications, publication barriers, or related confidentiality/appeal issues. JustAnswer efficiently captured Layer 3 user struggles, such as delays, costs, redactions, and judicial hurdles. Queries were refined (e.g., `site:justanswer.co.uk "family court" transcript EX107`), with full SERP details (pagination, tokens) logged for traceability.
 
-Although the primary focus is on family proceedings, threads from analogous civil contexts, such as **small claims** (e.g., thread 5), were included where the transcript request process via **EX107** mirrors that in family courts, highlighting shared procedural challenges across jurisdictions. For instance, small claims hearings in county courts use the same **EX107** form and face similar issues with **costs**, **delays**, and **approvals**, providing transferable insights into systemic barriers that affect family litigants.
+This yielded 75 unique threads. Manual filtering yielded 55 family-law-related threads, of which **23 directly addressed transcript access, EX107, publication barriers, or intertwined appeals/confidentiality** (see coded dataset in Appendix X). The remaining were excluded as unrelated (e.g., civil disputes, general procedures without transcript/publication focus).
 
-While sparse pre-2020 threads exist (e.g., a 2015 query on phone transcript admissibility in family court, a 2019 request for a family law transcript), the majority post-date 2020. This low early volume confirms that widespread user-reported struggles intensified after the **2017 EX107 rollout** and **2021–2023 transparency reforms**, grounding the analysis in evolving procedural realities rather than static policy.
+Although the primary focus is on family proceedings, threads from analogous civil contexts, such as small claims (e.g., thread 5), were included where the transcript request process via EX107 mirrors that in family courts, highlighting shared procedural challenges across jurisdictions. For instance, small claims hearings in county courts use the same EX107 form and face similar issues with costs, delays, and approvals, providing transferable insights into systemic barriers that affect family litigants.
+
+While sparse pre-2020 threads exist (e.g., a 2015 query on phone transcript admissibility in family court, a 2019 request for a family law transcript), the majority post-date 2020. This low early volume confirms that widespread user-reported struggles intensified after the 2017 EX107 rollout and 2021–2023 transparency reforms, grounding the analysis in evolving procedural realities rather than static policy.
 
 **Search queries employed:**
 
@@ -1041,134 +1036,133 @@ While sparse pre-2020 threads exist (e.g., a 2015 query on phone transcript admi
 - `site:justanswer.co.uk "family court" AND ("confidential" OR "publication")`
 - Variations with `before:2020-01-01` for historical check
 
-**Inclusion/exclusion criteria:**  
-England & Wales family proceedings; parent/litigant perspective; references to transcripts, recordings, publication restrictions, or forms (EX107, EX105); contains procedural detail; describes transcript/publication process stage.  
+**Inclusion/exclusion criteria:** England & Wales family proceedings; parent/litigant perspective; references to transcripts, recordings, publication restrictions, or forms (EX107, EX105); contains procedural detail; describes transcript/publication process stage.
+
 **Exclusions:** criminal matters, duplicates, generic complaints, non-transcript procedures.
 
 ---
 
 ## 7.3.2 Analytical Method: AI-Augmented, Human-Led Thematic Analysis
-Using the **23 threads**, a structured inductive coding was applied to **user queries** (LiP statements) using predefined categories:  
-- **Primary_Themes** (PD, FB, JR, TR, RI, AD)  
-- **Issue_Categories**  
-- **Temporal_Triggers**  
-- **Knowledge_Gaps** (KG1–KG5)  
-- and others  
 
-Multi-coding was allowed where applicable. All coding was **manually verified** against raw queries.
+Using the 23 threads, a structured inductive coding was applied to user queries (LiP statements) using predefined categories:
 
-**Expert responses** were separately coded using a **capped 6-theme binary framework**:  
-- Procedural Guidance  
-- Legal Entitlements  
-- Appeal/Challenge Options  
-- Delays/Obstacles Warnings  
-- Confidentiality Rules  
-- Funding/Cost Info  
+- **Primary_Themes** (PD, FB, JR, TR, RI, AD)
+- **Issue_Categories**
+- **Temporal_Triggers**
+- **Knowledge_Gaps** (KG1–KG5)
+- and others
 
-Prevalence was calculated as **presence/absence per thread (n=23)**.  
-**Procedural Guidance appeared in 95.7% of responses (22/23)**, indicating expert advice heavily focuses on **form-filling and process**, rarely addressing **systemic delays or funding gaps** — reinforcing **LiP knowledge deficits (KG1–KG5)**.
+Multi-coding was allowed where applicable. All coding was manually verified against raw queries.
+
+Expert responses were separately coded using a capped 6-theme binary framework (Procedural Guidance, Legal Entitlements, Appeal/Challenge Options, Delays/Obstacles Warnings, Confidentiality Rules, Funding/Cost Info). Prevalence was calculated as presence/absence per thread (n=23). Procedural Guidance appeared in 95.7% of responses (22/23), but delays were addressed in only 13% (3/23) — despite timeline confusion in 61% of user queries (KG1).
 
 ---
 
-## 7.3.3 Thread Categorisation and Classification
-The 23 threads categorized by primary issue (**overlaps noted; total >100%**):
+## 7.3.3 Thread Categorization and Classification
 
-| Category                     | n  | %   | Description                                                                                           |
-|------------------------------|----|-----|-------------------------------------------------------------------------------------------------------|
-| Transcript access procedures | 10 | 43% | EX107 applications, delays, partial transcripts, judicial blocking (e.g., threads 1–6)                |
-| Publication & confidentiality| 5  | 22% | Disclosure restrictions, sharing documents, AJA 1960 s.12 breaches (e.g., threads 12,21)             |
-| Appeal dependency            | 5  | 22% | Transcripts needed for appeals within deadlines (e.g., threads 22,24,26)                              |
-| Recording integrity          | 3  | 13% | Missing/inaudible/altered recordings (e.g., threads 4,7)                                              |
+The 23 threads categorized by primary issue (overlaps noted; total >100%):
+
+| Category | n | % | Description |
+|----------|---|---|-------------|
+| **Transcript access procedures** | 10 | 43% | EX107 applications, delays, partial transcripts, judicial blocking (e.g., threads 1–6) |
+| **Publication & confidentiality** | 5 | 22% | Disclosure restrictions, sharing documents, AJA 1960 s.12 breaches (e.g., threads 12,21) |
+| **Appeal dependency** | 5 | 22% | Transcripts needed for appeals within deadlines (e.g., threads 22,24,26) |
+| **Recording integrity** | 3 | 13% | Missing/inaudible/altered recordings (e.g., threads 4,7) |
 
 ---
 
 ## 7.3.4 Thematic Analysis: What Parents Ask About
 
 ### 7.3.4.1 Temporal Patterns: When Parents Seek Help
+
 Triggers reveal confusion points (updated with pre-2020 verification—early queries rarer but similar):
 
-| Trigger Point                         | n | %   | Insight                                                                 |
-|---------------------------------------|---|-----|-------------------------------------------------------------------------|
-| After hearing, realising transcript need | 7 | 30% | Retrospective discovery; pre-2020 examples show same issue              |
-| After EX107 filing, delay experienced | 7 | 30% | Mismatch vs. expected "48 hours"                                        |
-| Cost shock post-quote                 | 4 | 17% | Funding opacity                                                         |
-| Recording failure late-discovered     | 5 | 22% | No notifications                                                        |
+| Trigger Point | n | % | Insight |
+|---------------|---|---|---------|
+| **After hearing, realizing transcript need** | 7 | 30% | Retrospective discovery; pre-2020 examples show same issue |
+| **After EX107 filing, delay experienced** | 7 | 30% | Mismatch vs. expected "48 hours" |
+| **Cost shock post-quote** | 4 | 17% | Funding opacity |
+| **Recording failure late-discovered** | 5 | 22% | No notifications |
 
-**Layer 3 insight**: Queries peak post-procedural windows, exacerbating appeal risks.
+**Layer 3 insight:** Queries peak post-procedural windows, exacerbating appeal risks.
 
 ---
 
 ### 7.3.4.2 Knowledge Gaps: What Parents Don't Know
+
 Theme prevalence:
 
-| Theme                        | n  | %   | Example Query                                                                 |
-|------------------------------|----|-----|-------------------------------------------------------------------------------|
-| Timeline confusion           | 14 | 61% | "It's been stuck on final approval for over a month" (thread 3)               |
-| Cost/funding pathways        | 8  | 35% | "How can I receive a transcript... in a small claims case?" (thread 5)        |
-| Appeal deadline pressure     | 9  | 39% | "I need to appeal but don't have the transcript yet" (thread 22)              |
-| Recording missing/corrupt    | 5  | 22% | "Most of the recording was inaudible" (thread 4)                              |
-| Publication restrictions     | 6  | 26% | "My ex is sharing private information" (thread 12)                            |
+| Theme | n | % | Example Query |
+|-------|---|---|---------------|
+| **Timeline confusion** | 14 | 61% | "It's been stuck on final approval for over a month" (thread 3) |
+| **Cost/funding pathways** | 8 | 35% | "How can I receive a transcript... in a small claims case?" (thread 5) |
+| **Appeal deadline pressure** | 9 | 39% | "I need to appeal but don't have the transcript yet" (thread 22) |
+| **Recording missing/corrupt** | 5 | 22% | "Most of the recording was inaudible" (thread 4) |
+| **Publication restrictions** | 6 | 26% | "My ex is sharing private information" (thread 12) |
 
-> *Multi-coding applied; total >23. Expert responses address KG1 (timeline) in only 13% (Delays_Warnings), revealing advice lag.*
+*Multi-coding applied; total >23.*
 
-**Pattern**: Gaps align with omitted form details (e.g., real timelines, Help with Fees (HWF) limits).
+**Pattern:** Gaps align with omitted form details (e.g., real timelines, Help with Fees (HWF) limits).
 
 ---
 
 ### 7.3.4.3 Procedural Misconceptions (What Parents Think vs. Reality)
+
 Updated with PDF examples:
 
-| Parent Assumption                            | Reality                                | Gap Source                                      |
-|----------------------------------------------|----------------------------------------|-------------------------------------------------|
-| "48-hour service = quick delivery"           | 14+ days + approvals                   | EX107 buries court timelines                    |
-| "Help with Fees (HWF) covers all costs"      | Only court fees; EX105 separate        | EX160A unclear                                  |
-| "Paid transcript = free to share"            | AJA s.12 restricts                     | No confidentiality warnings on EX107            |
-| "Transcript auto-provided for appeals"       | Must request via EX107                 | FP161 mentions need, not process                |
-| "Failed recording = automatic alternative"   | Must apply for notes                   | No fallback protocol                            |
-| “Experts will tell me timelines”             | Only 13% mention delays; no SLA cited  | Expert advice assumes user knows to chase court |
+| Parent Assumption | Reality | Gap Source |
+|-------------------|---------|------------|
+| "48-hour service = quick delivery" | 14+ days + approvals | EX107 buries court timelines |
+| "Help with Fees (HWF) covers all costs" | Only court fees; EX105 separate | EX160A unclear |
+| "Paid transcript = free to share" | AJA s.12 restricts | No confidentiality warnings on EX107 |
+| "Transcript auto-provided for appeals" | Must request via EX107 after filing N161 | FP161 mentions need at end, not start — late discovery risks 21-day window |
+| "Failed recording = automatic alternative" | Must apply for notes | No fallback protocol |
 
-**Layer 3 insight**: Misconceptions stem from form design flaws, amplified for LiPs.
+**Layer 3 insight:** Misconceptions stem from form design flaws, amplified for LiPs. The "auto-provided" assumption — echoed in 30% of "after hearing" triggers — reflects N161's back-loaded guidance, forcing rushed EX107 filings.
 
 ---
 
 ### 7.3.4.4 Emotional and Material Impacts
-- **Financial**: "I've been quoted £450... this feels impossible" (composite from threads 5,6).  
-- **Appeal jeopardy**: "My 21 days is nearly up" (thread 22).  
-- **Opacity**: "Can't get any update" (thread 3).  
-- **Distrust**: "Suspect the judge altered the recording" (thread 4).  
 
-**Layer 3 insight**: Opacity leads to injustice (e.g., forced settlements in threads 20,26).
+- **Financial:** "I've been quoted £450... this feels impossible" (composite from threads 5,6).
+- **Appeal jeopardy:** "My 21 days is nearly up" (thread 22).
+- **Opacity:** "Can't get any update" (thread 3).
+- **Distrust:** "Suspect the judge altered the recording" (thread 4).
+- **Late realization:** "Parents learn transcript needs 'too late' for appeals, forcing rushed or abandoned challenges."
+
+**Layer 3 insight:** Opacity leads to injustice (e.g., forced settlements in threads 20,26).
 
 ---
 
 ### 7.3.4.5 LiP-Specific Disadvantages
+
 LiPs lack tacit knowledge (e.g., "Who to chase for delays?" in thread 6), unlike solicitors who auto-order transcripts or know EX105.
 
 ---
 
 ## 7.3.5 Failure Points Mapped to Official Pathway
-```text
+```
 HEARING CONCLUDES
        ↓
 Does parent know transcript needed?
-   ↓ ↓
-  NO (7 threads) YES
-   ↓ ↓
-Discovers need Attempts to
-weeks later navigate EX107
-⚠ LATE DISCOVERY ↓
+   ↓                    ↓
+  NO (7 threads)       YES
+   ↓                    ↓
+Discovers need    Attempts to
+weeks later       navigate EX107
+⚠ LATE DISCOVERY        ↓
                   Understands HWF vs EX105?
-                    ↓ ↓
-                   NO (4) YES
-                    ↓ ↓
-              Cost confusion Files EX107
-              ⚠ FUNDING GAP ↓
+                    ↓              ↓
+                   NO (4)         YES
+                    ↓              ↓
+              Cost confusion   Files EX107
+              ⚠ FUNDING GAP        ↓
                            Recording exists?
-                              ↓ ↓
-                             NO (5) YES
-                              ↓ ↓
-                     Recording missing Waits
-                     ⚠ NO RETRY PATH ↓
+                              ↓          ↓
+                             NO (5)     YES
+                              ↓          ↓
+                     Recording missing  Waits
+                     ⚠ NO RETRY PATH     ↓
                                    Delay exceeds
                                    expectations?
                                         ↓
@@ -1189,82 +1183,85 @@ weeks later navigate EX107
                                   ⚠ CONFIDENTIALITY UNCLEAR
 ```
 
-> **Expert says**: gentle reminder (cite thread 3)  
-> **Insight**: Problems concentrate at transitions and decision points where official forms provide insufficient guidance.
+*Expert says: gentle reminder (cite thread 3)*
+
+**Insight:** Problems concentrate at transitions and decision points where official forms provide insufficient guidance.
 
 ---
 
-## 7.3.6 Data Treatment and Anonymisation
+## 7.3.6 Data Treatment and Anonymization
+
 Each JustAnswer thread was:
 
-- **Logged**: URL, date/time, case context (anonymized)  
-- **Coded**: By stage (pre-request, requesting, waiting, failed, publication), barrier type, outcome  
-- **Mapped**: To official procedural steps and form guidance  
-- **Anonymized**: All identifying details removed; composite quotations used where themes recur
+- **Logged:** URL, date/time, case context (anonymized)
+- **Coded:** By stage (pre-request, requesting, waiting, failed, publication), barrier type, outcome
+- **Mapped:** To official procedural steps and form guidance
+- **Anonymized:** All identifying details removed; composite quotations used where themes recur
 
-No contact made with post authors or platform moderators. All data derives from **publicly available forum posts**.
+No contact made with post authors or platform moderators. All data derives from publicly available forum posts.
 
 ---
 
 ## 7.3.7 Triangulation Function: How User Queries Validate Layers 1–2
 
-| Layer 1 finding (Documentary)               | Layer 2 finding (Judicial rulings in proceedings) | Layer 3 validation (User queries)                                      |
-|---------------------------------------------|---------------------------------------------------|------------------------------------------------------------------------|
-| EX107 lists vendor service bands            | Forms don't show combined timeline                | Parents ask "how long?" — expect 48hrs, experience 77+ days (n=14)      |
-| EX160A excludes vendor costs                | Funding pathways unclear                          | Parents assume Help with Fees (HWF) covers transcripts (n=8)           |
-| No SLA for judicial approval                | Approval is untimed "black box"                   | Parents can't get updates after vendor completes work (n=7)            |
-| AJA 1960 s.12 restricts publication        | Confidentiality gatekeeping                        | Parents ask "Can I share this?" — rules not in EX107 (n=6)             |
-| No documented recording failure protocol    | Audio corruption recurs                           | Parents ask "what now?" when recording missing (n=5)                   |
-| EX107 silent on expert follow-up            | Judges rarely tracked                             | Experts advise “gentle reminders” → no formal escalation path          |
+| Layer 1 finding (Documentary) | Layer 2 finding (Judicial rulings in proceedings) | Layer 3 validation (User queries) |
+|-------------------------------|---------------------------------------------------|-----------------------------------|
+| EX107 lists vendor service bands | Forms don't show combined timeline | Parents ask "how long?" — expect 48hrs, experience 77+ days (n=14) |
+| EX160A excludes vendor costs | Funding pathways unclear | Parents assume Help with Fees (HWF) covers transcripts (n=8) |
+| No SLA for judicial approval | Approval is untimed "black box" | Parents can't get updates after vendor completes work (n=7) |
+| AJA 1960 s.12 restricts publication | Confidentiality gatekeeping | Parents ask "Can I share this?" — rules not in EX107 (n=6) |
+| No documented recording failure protocol | Audio corruption recurs | Parents ask "what now?" when recording missing (n=5) |
+| EX107 silent on expert follow-up | Judges rarely tracked | Experts advise "gentle reminders" → no formal escalation path |
 
-**Meta-finding**: The convergence of what forms omit (Layer 1), what judicial rulings reveal (Layer 2), and what parents ask (Layer 3) creates **triangulated evidence of specific systemic gaps**.
+**Meta-finding:** The convergence of what forms omit (Layer 1), what judicial rulings reveal (Layer 2), and what parents ask (Layer 3) creates triangulated evidence of specific systemic gaps.
 
 ---
 
 ## 7.3.8 Limitations
-- **Small sample (n=23)**: Limits generalizability but achieves saturation on core themes  
-- **Selection bias**: Only captures parents who use JustAnswer (excludes those who give up)  
-- **Retrospective**: Queries describe encountered problems, not prospective concerns  
-- **Platform constraints**: Public forum may deter sensitive disclosures; no follow-up  
-- **No outcome tracking**: We see questions, rarely resolutions  
-- **Temporal clustering**: Sparse pre-2020 may reflect platform usage and policy changes  
 
-Despite limitations, the corpus provides **unique insight into procedural breakdowns from the user perspective**.
+- **Small sample (n=23):** Limits generalizability but achieves saturation on core themes
+- **Selection bias:** Only captures parents who use JustAnswer (excludes those who give up)
+- **Retrospective:** Queries describe encountered problems, not prospective concerns
+- **Platform constraints:** Public forum may deter sensitive disclosures; no follow-up
+- **No outcome tracking:** We see questions, rarely resolutions
+- **Temporal clustering:** Sparse pre-2020 may reflect platform usage and policy changes
+
+Despite limitations, the corpus provides unique insight into procedural breakdowns from the user perspective.
 
 ---
 
 ## 7.3.9 Implications for Least-Resistance Reforms
-User query patterns support specific interventions:
 
-| User Question                          | Form/Guidance Failure               | Proposed Fix                                                                 |
-|----------------------------------------|-------------------------------------|------------------------------------------------------------------------------|
-| "How long will this take?" (n=14)      | No combined timeline                | Display full pipeline with estimates on EX107                               |
-| "Does Help with Fees (HWF) cover this?" (n=8) | EX160A exclusion buried             | Banner on EX107: "HWF does not cover vendor costs"                           |
-| "What if there's no recording?" (n=5)  | No retry pathway                    | Fallback protocol: judge's notes template in EX107                           |
-| "Can I share this transcript?" (n=6)   | Confidentiality rules not in EX107  | Add AJA 1960 s.12 summary + publication permission route (EX105A) to EX107   |
-| "How do I chase this?" (n=7)           | No status visibility                | Add tracking ID + court contact to EX107 receipt                             |
+User query patterns support specific, low-friction interventions, leveraging existing forms (e.g., EX107, N161) to close knowledge gaps without new legislation.
+
+| User Question | Form/Guidance Failure | Proposed Fix (Layer 3) |
+|---------------|----------------------|------------------------|
+| "How long will this take?" (n=14) | No combined timeline | Display full pipeline estimates on EX107 |
+| "Does HWF cover this?" (n=8) | EX160A exclusion buried | Banner: "HWF does not cover vendor costs" |
+| "What if no recording?" (n=5) | No retry pathway; poor quality standards | Fallback protocol + court recording audits (e.g., mandatory checks) |
+| "Can I share this?" (n=6) | Assumes paid = public | Form banner: "Transcripts confidential unless EX105 approved" + court-provided appeal copies? (Rethink: Shift cost to court for N161 filers, via TIG pilots) |
+
+These address 61% timeline confusion and 26% publication gaps, reducing appeal risks. See section 8 for TIG-integrated scaling.
 
 ---
 
 ## 7.3.10 Layer 3 Contribution to the Three-Layer Analysis
-Layer 3 adds:
 
-- User voice showing the system from the receiving end  
-- Problem timing revealing when confusion occurs (post critical windows)  
-- Knowledge gaps exposing form communication failures  
-- Material consequences demonstrating harms (appeal jeopardy, forced settlement, financial exclusion)  
-- LiP vulnerability quantifying disadvantage vs. represented parties  
+**Layer 3 adds:**
+
+- **User voice** showing the system from the receiving end
+- **Problem timing** revealing when confusion occurs (post critical windows)
+- **Knowledge gaps** exposing form communication failures
+- **Material consequences** demonstrating harms (appeal jeopardy, forced settlement, financial exclusion)
+- **LiP vulnerability** quantifying disadvantage vs. represented parties
 
 **Combined with Layers 1–2, creates a 360-degree view:**
 
-- **Layer 1**: What the system prescribes (policy as written)  
-- **Layer 2**: What happens in court proceedings (judicial rulings)  
-- **Layer 3**: How parents encounter it (user lived experience)  
+- **Layer 1:** What the system prescribes (policy as written)
+- **Layer 2:** What happens in court proceedings (judicial rulings)
+- **Layer 3:** How parents encounter it (user lived experience)
 
-This triangulation **grounds reform recommendations in convergent evidence**.
-
----
-
+Layer 3's gaps (e.g., late discovery) directly inform section 8's procedural pilots. This triangulation grounds reform recommendations in convergent evidence.
 
 
 
@@ -2609,8 +2606,21 @@ It becomes procedural routine — a shift from **discretionary openness** to **e
 
 Would you like me to now write that **8.2 reform proposal paragraph** — the one that shows *how your incremental model neutralises this fear* and turns publication into a low-resistance system habit?
 
+## 7.3.9 Implications for Least-Resistance Reforms
+User query patterns support specific interventions:
 
+| User Question                          | Form/Guidance Failure               | Proposed Fix                                                                 |
+|----------------------------------------|-------------------------------------|------------------------------------------------------------------------------|
+| "How long will this take?" (n=14)      | No combined timeline                | Display full pipeline with estimates on EX107                               |
+| "Does Help with Fees (HWF) cover this?" (n=8) | EX160A exclusion buried             | Banner on EX107: "HWF does not cover vendor costs"                           |
+| "What if there's no recording?" (n=5)  | No retry pathway                    | Fallback protocol: judge's notes template in EX107                           |
+| "Can I share this transcript?" (n=6)   | Confidentiality rules not in EX107  | Add AJA 1960 s.12 summary + publication permission route (EX105A) to EX107   |
+| "How do I chase this?" (n=7)           | No status visibility                | Add tracking ID + court contact to EX107 receipt                             |
 
+Specific Solution,Gap Addressed,Implementation (TIG Pilot)
+N161 Early Transcript Warning,Late realization (30% triggers),"Front-page banner: ""Appeals require transcript — request via EX107 now"" (3-month pilot in Liverpool courts)"
+Recording Quality Standards,Inaudible/altered (22% gaps),"Mandatory pre-hearing checks + transcription QA (e.g., 90% audibility threshold)"
+Court-Provided Appeal Transcripts?,Applicant burden assumption,Pilot: Auto-supply drafts to appeal judge; applicant reimburses if loses (tests equity vs. cost)
 
 
 
