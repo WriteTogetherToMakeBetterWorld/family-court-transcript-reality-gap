@@ -2457,7 +2457,126 @@ The repository proposed in §7.1.7 will work only if judicial practice supports 
 
 
 
+**UNDERLAYING LOGIG:**
 
+Yes — I’ve fully grasped it, and what you’re articulating here is **one of the sharpest observations in your whole transparency argument**.
+
+Let’s unpack and then reframe it clearly so you can use it directly in your article.
+
+---
+
+## 🧩 What you’re really identifying
+
+The **publication guidance**, with its seven bullet points ranking what kinds of judgments “should” be prioritised for publication, *looks* like it’s promoting transparency.
+But structurally, it does the opposite.
+
+It introduces *hierarchy* into what was supposed to be a *universal principle*.
+It says: “We believe in transparency — but only for these seven types of cases, and in this order.”
+
+That creates a **logical and policy contradiction**:
+
+| Level                                      | What it claims                                                                                                     | What it does in practice                |
+| ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------ | --------------------------------------- |
+| **Transparency Principle**                 | All justice should be open to scrutiny and learning.                                                               | Promotes universality.                  |
+| **Publication Guidance (7 bullet points)** | Only selected types of cases will be published first (e.g., significant appeals, complex issues, public interest). | Reintroduces selectivity and hierarchy. |
+
+So what looks like an “implementation guide” is actually **a filter mechanism** — a rebranding of secrecy as prioritisation.
+
+---
+
+## 💡 How to express this in your text
+
+You could insert this in **Section 7.2 (“Limitations of Current Logic”)** or even make it a short standalone subsection (e.g. *7.2.1 The Contradiction of Prioritisation*).
+
+Here’s a draft you could paste directly into your markdown:
+
+---
+
+### 7.2.1 The Contradiction of Prioritisation
+
+Although the publication guidance appears to operationalise the transparency agenda, its very structure contradicts the principle it seeks to advance.
+
+The list of seven publication priorities — identifying which judgments “should” be published first — was ostensibly introduced as an administrative aid. Yet, functionally, it reinstates hierarchy into what was meant to be a universal norm.
+
+If the goal of reform is to normalise openness, not ration it, then a document that begins “publish more” but proceeds to list selective conditions for publication transforms transparency into triage.
+
+In effect, the guidance performs a **reverse filtration**: instead of expanding visibility, it restricts it through bureaucratic prioritisation. Even if the intention was pragmatic — to help overwhelmed court staff identify starting points — the outcome is structural contradiction.
+
+If the system truly lived the transparency principle it proclaims, it would not require a ranked list of priorities at all. Each transcript produced, once anonymised, would be presumptively publishable by default.
+
+---
+
+## 🧭 Link to later reform (Chapter 8)
+
+Then, in **Chapter 8 (Solutions)**, you can pick this up as part of your *incremental improvement pathway*:
+
+> **Reform Proposal: Remove prioritisation lists from publication guidance.**
+>
+> The existence of a prioritisation list undermines the transparency agenda by treating openness as a scarce commodity rather than an operational default. As incremental reform, this list could be retired once procedural design enables automatic opt-in publication via transcript request forms (EX107 or equivalent). In such a model, publication would no longer rely on bureaucratic selection but on procedural habit — transparency by default, not by discretion.
+
+---
+
+## 🪞 In summary
+
+What you’ve identified is:
+
+1. **The contradiction:** prioritisation contradicts universality.
+2. **The epistemic cost:** it reintroduces discretion into what was supposed to be procedural.
+3. **The fix:** automation and default publication render prioritisation obsolete.
+
+---
+
+Would you like me to write the short *companion paragraph* for **Chapter 8**, phrased in the same academic tone, showing exactly how that incremental reform (“retiring the prioritisation list”) could be presented as a low-resistance system improvement?
+
+Exactly — you’ve nailed the underlying logic.
+Their *selectivity* (publishing only “important” or “successful” cases) isn’t necessarily ideological — it’s **defensive bureaucracy**.
+
+They’re afraid of *capacity overload*:
+
+* Anonymisation takes time.
+* Judges must approve transcripts.
+* Staff have no central database.
+* There’s no funding stream for large-scale publication.
+
+So, instead of reforming the system to handle more, they *shrink the funnel* by redefining what “matters.”
+
+---
+
+### 🧭 How to express this analytically
+
+You can add a short bridging paragraph — perhaps as a coda to your **7.2.1 “Contradiction of Prioritisation”** section — to show empathy for the rationale but still expose its conceptual flaw.
+
+Here’s how it could read:
+
+---
+
+**Administrative Logic Behind Selectivity**
+
+The current prioritisation framework may, in part, reflect pragmatic fear rather than conceptual blindness.
+Officials are acutely aware that every publication triggers additional workload: transcripts must be anonymised, approved, and hosted, often by already overstretched staff.
+From that perspective, narrowing publication to “important” or “successful” cases is a defensive measure against resource overload.
+
+Yet this logic, while operationally understandable, reproduces the very opacity it seeks to manage.
+By equating *capacity constraint* with *epistemic hierarchy*, the system protects itself from learning.
+In other words, scarcity has been mistaken for strategy.
+
+The incremental reforms proposed in Chapter 8 directly address this fear by embedding publication into existing workflows:
+if the publication option is selected automatically within the transcript-request process, and anonymisation is streamlined, transparency ceases to be an extra task.
+It becomes procedural routine — a shift from **discretionary openness** to **embedded transparency**.
+
+---
+
+### 🪜 How this fits your reform logic
+
+| Section         | Purpose                                                                              |
+| --------------- | ------------------------------------------------------------------------------------ |
+| **7.2.1**       | Expose the *contradiction* — prioritisation undermines transparency.                 |
+| **7.2.2 (new)** | Explain the *bureaucratic fear* — resource overload drives selectivity.              |
+| **8.2**         | Offer the *fix* — procedural integration (publication-by-default) removes that fear. |
+
+---
+
+Would you like me to now write that **8.2 reform proposal paragraph** — the one that shows *how your incremental model neutralises this fear* and turns publication into a low-resistance system habit?
 
 
 
