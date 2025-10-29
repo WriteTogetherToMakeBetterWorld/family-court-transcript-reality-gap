@@ -2835,3 +2835,165 @@ https://transparencyproject.org.uk/that-judgment-and-what-people-have-said-about
 https://transparencyproject.org.uk/no-means-no-jh-v-mf/
 https://transparencyproject.org.uk/experience-as-a-legal-blogger-at-the-tafida-raqeeb-case/
 https://transparencyproject.org.uk/orphans-from-syria/
+https://www.irwinmitchell.com/news-and-insights/expert-comment/post/102isze/recording-tribunal-hearings-a-new-chapter-in-legal-transparency
+→ Employment tribunal recording article (22.11.2023)
+https://www.lawgazette.co.uk/practice-points/no-such-thing-as-a-free-transcript/5119927.article
+→ "No such thing as a free transcript" by Julia Jensen (7 June 2024)
+https://www.dekachambers.com/2024/01/26/balancing-openness-and-confidentiality-the-transparency-reporting-pilot-in-the-family-courts/
+→ Transparency Reporting Pilot extension article
+https://barristermagazine.com/reporting-in-family-courts/
+→ "Reporting in Family Courts" by Stuart Barlow (28 Feb 2023)
+https://www.stewartslaw.com/news/greater-transparency-family-proceedings-court-of-appeal/
+→ Court of Appeal decision on transparency (17 May 2022)
+https://resolution.org.uk/the-review/archive/the-review-issue-215/the-presidents-transparency-review-what-it-means-for-family-lawyers/
+→ President’s Transparency Review article
+https://www.stewartslaw.com/news/leeds-judge-makes-first-transparency-order-allowing-reporting-of-family-court-case/
+→ First transparency order in Leeds (3 Feb 2023)
+https://resolution.org.uk/the-review/archive/the-review-issue-223/the-reporting-pilot-in-the-family-courts/
+→ The Reporting Pilot in Family Courts (duplicate content of barristermagazine)
+https://www.rainscourt.com/transcript/
+→ How to get a Family Court transcript + EX107 info
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/884704/ex107-static-eng.pdf
+→ Official HMCTS Form EX107 (transcript request form) – referenced in rainscourt.com article
+https://www.stewartslaw.com/news/move-towards-greater-transparency-in-family-law-proceedings-gathers-pace/
+→ Transparency trend article (18 Mar 2022)
+https://www.london-law.co.uk/court-transcript-access-costs/
+→ Court transcript costs and EX107 guide
+https://www.majorfamilylaw.co.uk/transparency-project-extended-to-16-new-courts/
+→ Transparency pilot extended to 16 courts (13 Feb 2024)
+https://www.localgovernmentlawyer.co.uk/child-protection/309-children-protection-features/59458-a-guide-to-transparency-orders
+→ Guide to Transparency Orders (18 Dec 2024)
+https://www.judiciary.uk/wp-content/uploads/2024/08/Reporting-Pilot-Guidance-2024.pdf
+→ Official Reporting Pilot Guidance 2024 (linked in localgovernmentlawyer)
+https://www.weightmans.com/insights/media-and-transparency-in-the-family-court/
+→ Open reporting from Jan 2025 (6 Feb 2025)
+https://www.drdpartnership.com/news/lifting-the-veil-on-proceedings-in-the-family-courts
+→ Transparency pilot extension analysis (29 Feb 2024)
+https://barcankirby.co.uk/media-reporting-now-allowed-in-family-courts/
+→ Media now allowed in family courts (29 Apr 2025)
+https://www.goodlawsolicitors.co.uk/insights/transparency-in-family-court/
+→ Can journalists attend family hearings? (2025)
+Search Results:
+https://www.justanswer.co.uk/law/p6cy4-made-appeal-time-family-court-went.html
+https://www.justanswer.co.uk/family-law/gu7s1-applied-court-waiting-hearing-early-next.html
+https://www.justanswer.co.uk/law/h3k4h-when-judge-makes-decision-supposed-receive.html
+https://www.justanswer.co.uk/law/oikzy-form-need-file-court-enforce-order.html
+https://www.justanswer.co.uk/family-law/t3hie-litigant-person-private-family-law.html
+https://www.justanswer.com/uk-law/nzzfi-ex-partner-sharing-private-confidential.html
+https://www.justanswer.com/uk-law/te7r2-family-court-witness-evidence-dispute.html
+https://www.justanswer.co.uk/family-law/rw8po-ex-states-not-comply-mediator.html
+https://www.justanswer.com/european-law/rhv99-one-party-parent-leaked-details-family-court.html
+https://www.justanswer.co.uk/family-law/oq8xp-received-c21-order-court-know.html
+https://www.justanswer.co.uk/family-law/p7bye-need-urgent-advice-ex-wife-filed.html
+https://www.justanswer.co.uk/law/pwgb7-solicitor-sends-email-information.html
+https://www.justanswer.co.uk/law/t72jb-need-ask-confidential-question-contains.html
+https://www.justanswer.co.uk/family-law/ofrk0-applied-child-arrangement-order-ex.html
+https://www.justanswer.co.uk/employment-law/qkyth-granted-permission-appeal-court.html
+https://www.justanswer.co.uk/law/rgeq4-waiting-disciplinary-hearing-relating-evidence.html
+https://www.justanswer.co.uk/law/nm21l-two-concurrent-cases-going-high-court.html
+https://www.justanswer.co.uk/law/njrgg-dear-district-judge-humphreys-write-regard.html
+https://www.justanswer.co.uk/family-law/eko64-laws-guidance-family-court.html
+https://www.justanswer.co.uk/family-law/qpkzt-disagree-final-order-made-family-judge.html
+https://www.justanswer.co.uk/law/ly5gu-family-court-judge-made-final-decision-writing.html
+https://www.justanswer.com/uk-family-law/rd9n7-looking-4-page-court-statement-review-family.html
+https://www.justanswer.co.uk/family-law/d8v4p-i-ve-received-court-judgment-divorce-judges.html
+https://www.justanswer.co.uk/law/tgi23-enquiring-just-consultation-second.html
+https://www.justanswer.com/family-law/s5uyn-private-family-law-england-wales.html
+https://www.justanswer.co.uk/family-law/kef6m-appeal-family-court-circuit.html
+https://www.justanswer.co.uk/law/p1xlb-i-ve-recused-district-judge-family-court-matter.html
+https://www.justanswer.co.uk/family-law/pnms0-court-proceeding-ongoing-next-hearing-it.html
+https://www.justanswer.co.uk/law/p1lmr-regarding-claim-judicial-review-anonymity-court.html
+https://www.justanswer.co.uk/family-law/qnbqd-contacted-solicitor-behalf-sons.html
+https://www.justanswer.co.uk/law/rtczr-question-advantageous-withdraw-appeal.html
+https://www.justanswer.co.uk/law/pgd5q-need-help-judicial-review-case-litingant.html
+https://www.justanswer.co.uk/family-law/d5rid-obtain-copy-court-judgement-no.html
+https://www.justanswer.co.uk/law/9hobq-won-case-asked-party-cost-order.html
+https://www.justanswer.co.uk/family-law/mb1tf-requested-transcription-recording-final.html
+https://www.justanswer.co.uk/family-law/qj3cr-information-require-litigant-person.html
+https://www.justanswer.co.uk/family-law/cjuhl-recently-requested-court-transcript-family-law.html
+https://www.justanswer.co.uk/law/crhwt-receive-transcript-whole-trial-small.html
+https://www.justanswer.co.uk/law/r3owo-appel-set-side-judgment-refused-judge.html
+https://www.justanswer.co.uk/family-law/orny5-requested-disclosure-transcripts.html
+https://www.justanswer.co.uk/law/m2mwd-small-claims-county-court-judgement-want.html
+https://www.justanswer.co.uk/law/qbbet-need-lawyer-civil-litigation-matter-relating.html
+https://www.justanswer.co.uk/law/qstim-know-apply-maintenance-order.html
+https://www.justanswer.co.uk/law/q2c2y-when-court-transcript-relating-oral-evidence.html
+https://www.justanswer.co.uk/law/fl0kt-crown-ct-judge-cvp-hearing-i-note-accused.html
+https://www.justanswer.co.uk/family-law/tdx3s-need-help-family-courts-administration-london.html
+https://www.justanswer.co.uk/law/acdjj-went-county-court-debt-moneyway-giving.html
+https://www.justanswer.co.uk/law/ocpbz-question-court-transcripts-party.html?utm_source=chatgpt.com
+https://www.justanswer.co.uk/law/nd771-court-hearing-transcriptions-aware-ex107-form.html
+https://www.justanswer.co.uk/law/leew9-wish-know-appeal-outcome-fact-finding.html
+https://www.justanswer.co.uk/law/mg2qd-need-appeal-court-decision-re-children-custody.html
+https://www.justanswer.co.uk/law/qbwpw-appeal-court-decision.html
+https://www.justanswer.co.uk/family-law/puoch-family-court-directions-hearing-yesterday.html
+https://www.justanswer.co.uk/law/868mc-judge-hear-new-evidence-final-hearing-judgement.html
+https://www.justanswer.co.uk/family-law/c9moq-need-part-25-application-independent.html
+https://www.justanswer.co.uk/family-law/bcfiw-happens-when-disagree-th-contents-court.html
+https://www.justanswer.co.uk/family-law/b3ny9-judge-question.html
+https://www.justanswer.co.uk/family-law/b4mti-question-claire-family-solicitor-claire-don-t-appear.html
+https://www.justanswer.co.uk/law/d64yg-claimant-produced-last-minute-new-evidence.html
+https://www.justanswer.co.uk/property-law/anse3-made-county-court-claim-landlord-court-sent.html
+https://www.justanswer.co.uk/law/cw8sd-present-email-correspondence-evidence-court.html
+https://www.justanswer.co.uk/law/8bzpq-prepare-trial-send-documents-recorded.html
+https://www.justanswer.co.uk/family-law/c1nkb-know-apply-family-court.html
+https://www.justanswer.co.uk/law/c22yj-charged-failing-inform-change.html
+https://www.justanswer.co.uk/law/829pg-disclosure-scotland-pvg-scheme-record.html
+https://www.justanswer.co.uk/law/cbvrs-son-supposedly-issued-152-notice.html
+https://www.justanswer.co.uk/law/ceb02-workman-says-owe-money-and-know-don-t-does.html
+https://www.justanswer.co.uk/law/cv4ys-bailiff-visited-property-looking-someone-else-s.html
+https://www.justanswer.co.uk/law/a911x-car-damaged-ncp-car-park-due-negligent.html
+https://www.justanswer.co.uk/bankruptcy-law/ajcqo-sued-hifx-europe-ltd-money-transfer.html
+https://www.justanswer.co.uk/law/9zbe9-took-vehicle-automatic-car-wash-bp-express.html
+https://www.justanswer.co.uk/uk-law/5c4d1-possible-copy-999-call-i-trying.html
+https://www.justanswer.co.uk/topics-humiliation/
+https://www.justanswer.co.uk/law/cswaz-go-court-without-not-having-charged.html
+
+Final Links:
+1.https://www.justanswer.co.uk/family-law/orny5-requested-disclosure-transcripts.html  
+   *(EX107 transcript request in family proceedings)*
+2.https://www.justanswer.co.uk/law/nd771-court-hearing-transcriptions-aware-ex107-form.html  
+   *(EX107 for family hearing transcription)*
+3. https://www.justanswer.co.uk/family-law/cjuhl-recently-requested-court-transcript-family-law.html  
+   *(Family law court transcript application)*
+4. https://www.justanswer.co.uk/family-law/mb1tf-requested-transcription-recording-final.html  
+   *(Transcription of final family hearing recording)*
+5. https://www.justanswer.co.uk/law/crhwt-receive-transcript-whole-trial-small.html  
+   *(Transcript of family trial proceedings)*
+6. https://www.justanswer.co.uk/law/ocpbz-question-court-transcripts-party.html  
+   *(EX107 processing and access denial in family context)*
+7 https://www.justanswer.co.uk/law/q2c2y-when-court-transcript-relating-oral-evidence.html  
+   *(Transcript for oral evidence in family court)*
+8. https://www.justanswer.co.uk/family-law/d5rid-obtain-copy-court-judgement-no.html  
+   *(Obtaining family judgment/transcript copy)*
+9. https://www.justanswer.co.uk/law/p6cy4-made-appeal-time-family-court-went.html  
+   *(Appeal requiring family court transcript)*
+10. https://www.justanswer.co.uk/family-law/gu7s1-applied-court-waiting-hearing-early-next.html  
+    *(Transcript for upcoming family hearing)*
+11 https://www.justanswer.co.uk/family-law/t3hie-litigant-person-private-family-law.html  
+    *(LiP transcript access in private family law)*
+12 https://www.justanswer.com/uk-law/nzzfi-ex-partner-sharing-private-confidential.html  
+    *(Disclosure/redaction of confidential family details)*
+13 https://www.justanswer.com/uk-law/te7r2-family-court-witness-evidence-dispute.html  
+    *(Evidence/transcript dispute in family court)*
+14 https://www.justanswer.co.uk/family-law/oq8xp-received-c21-order-court-know.html  
+    *(C21 order and family transcript implications)*
+15 https://www.justanswer.co.uk/family-law/qnbqd-contacted-solicitor-behalf-sons.html  
+    *(Transcript for child-related family disclosure)*
+16 https://www.justanswer.co.uk/family-law/pnms0-court-proceeding-ongoing-next-hearing-it.html  
+    *(Ongoing family proceedings transcript needs)*
+17 https://www.justanswer.co.uk/family-law/puoch-family-court-directions-hearing-yesterday.html  
+    *(Directions hearing transcript in family court)*
+18 https://www.justanswer.co.uk/family-law/eko64-laws-guidance-family-court.html  
+    *(Family court guidance on transcripts/disclosure)*
+19 https://www.justanswer.co.uk/family-law/qpkzt-disagree-final-order-made-family-judge.html  
+    *(Disputing family order via transcript review)*
+20 https://www.justanswer.co.uk/law/ly5gu-family-court-judge-made-final-decision-writing.html  
+    *(Written decision/transcript from family judge)*
+21 https://www.justanswer.co.uk/family-law/d8v4p-i-ve-received-court-judgment-divorce-judges.html  
+    *(Divorce judgment transcript issues)*
+22 https://www.justanswer.co.uk/family-law/kef6m-appeal-family-court-circuit.html  
+    *(Circuit family court appeal transcript)*
+https://www.justanswer.co.uk/law/mg2qd-need-appeal-court-decision-re-children-custody.html  
+    *(Custody appeal requiring family transcript/EX107)*
+
