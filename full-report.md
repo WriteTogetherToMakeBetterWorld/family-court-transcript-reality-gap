@@ -3176,6 +3176,45 @@ big proglem datese inssuficien - so what is we have obligation for this to apper
 
 ###CONTROL BEHIND TRANSCRIPT/PUBLICATIONS HAVE TO BE SAVE -IS' LIKE - YES, LET'S PUBLISH BUT IT MUST BE SAFE
 
+### 7.1.4A The Constitutional Question: Is Rule 27.10 Valid?
+
+The analysis above assumes FPR 27.10 (private proceedings by default) is valid law. But in *Taylor v Alcott* [2023] CA-2023-000462, appellants raised a fundamental challenge: **Rule 27.10 may be ultra vires the Courts Act 2003**.
+
+**The historical argument** (summarized from appellants' skeleton §§15-24):
+
+Pre-2003, family proceedings could lawfully be held in private because rule-making powers traced back through a preserved chain of authority to the **Master in Chancery Abolition Act 1852**. That Act authorized chambers hearings **with a critical safeguard**:
+
+> Hearings could only be private "without Detriment to the Public Advantage arising from the Discussion of Questions in open Court" (1852 Act, s.XI)
+
+Every subsequent rule-making power—from the Rules of the Supreme Court 1883 through to the Matrimonial and Family Proceedings Act 1984—**preserved** previous powers, carrying forward the 1852 Act's authorization *and its limitations*.
+
+**The break**: Courts Act 2003 ss.75-76 created new Family Procedure Rules but **did not expressly preserve** the authority to depart from open justice. The Act's general words allow rules governing "practice and procedure" but say nothing about private hearings.
+
+Under the **Principle of Legality** (*R v Secretary of State for Home Department ex parte Simms* [2000] 2 AC 115), fundamental rights cannot be overridden by general or ambiguous words:
+
+> "Parliament must squarely confront what it is doing and accept the political cost. Fundamental rights cannot be overridden by general or ambiguous words." (Lord Hoffmann, *Simms* at 341E)
+
+**The implication**:
+
+If Rule 27.10 is ultra vires, then:
+- Family proceedings should be in **open court by default** (like civil proceedings)
+- Privacy would require **specific justification case-by-case**
+- Transcript access would not require permission—transcripts would be **automatically public** (subject to anonymisation)
+- The entire architecture of permission-based access collapses
+
+**Why this matters for transcript reform**:
+
+- **If Rule 27.10 is valid** → transcript reform must work within permission-based system (as proposed in Section 8)
+- **If Rule 27.10 is invalid** → transcript reform could be far more radical (automatic provision, presumptive publication)
+
+**This article takes the conservative position**: Rule 27.10 is *likely* valid. Courts Act 2003 s.76(3) allows modification of evidence rules, which courts might interpret as including procedural privacy. The 2003 Act's silence on open justice might be read as *implicitly* authorizing continuation of previous practice.
+
+But the constitutional question deserves fuller examination. The appellants in *Taylor v Alcott* identified a **63-year chain of rule-making authority** (1852-1925-1981-1984-2003) that arguably broke in 2003 when the enabling safeguards were not expressly preserved.
+
+**The Court of Appeal has not yet ruled on this argument (as of October 2025).** If the appeal succeeds on ultra vires grounds, it would **invalidate the entire private-by-default regime**, not merely require better transcript access. That would be a constitutional earthquake—but one that restores the common law baseline of open justice that prevailed for centuries before the 1852 Act.
+
+Whether or not that outcome is likely, the *existence* of the argument reveals how precarious the current system's legal foundation is. Transparency reform shouldn't wait for constitutional litigation to resolve what could be fixed by procedural rules today.
+
 
 
 
