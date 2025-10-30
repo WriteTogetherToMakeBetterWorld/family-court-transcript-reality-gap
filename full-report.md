@@ -3841,6 +3841,30 @@ https://www.justanswer.co.uk/law/mg2qd-need-appeal-court-decision-re-children-cu
 [^4]: Transparency Project blog posts documenting C2 application experiences: [specific URLs]. Examples include journalists seeking transcripts from published judgments involving allegations of bias or systemic abuse minimization, refused on grounds of "welfare concerns" or "unnecessary intrusion" despite robust anonymization proposed. Refusal decisions themselves typically not published.
 
 [^5]: *Taylor v Alcott* [CA-2023-000462], Appellants' Skeleton Argument dated 16 March 2023, §§50-59 (detailing six EX107 applications and refusals). Available: [URL where skeleton argument is hosted—e.g., appellant's website or document repository].
+PRIMARY SOURCES: Transparency Project Materials
+The Transparency Project (2019) Media Guide: Attending and reporting family law cases (Version 2). London: The Transparency Project. Available at: https://transparencyproject.org.uk/media/
+The Transparency Project (2019) Publication of Family Court Judgments: A guidance note for families & professionals (Revised edition). London: The Transparency Project. [Original version June 2017, revised March 2019]. Funded by The Legal Education Foundation.
+The Transparency Project (n.d.) Core Principles and Mission Statement. Available at: https://transparencyproject.org.uk/core-principles-mission-statement/ [Accessed: 30 October 2025]
+The Transparency Project (n.d.) Current Projects. Available at: https://transparencyproject.org.uk/projects/ [Accessed: 30 October 2025]
+The Transparency Project (n.d.) Legal Blogging and the Open Reporting Provisions. Available at: https://transparencyproject.org.uk/legalbloggers/ [Accessed: 30 October 2025]
+The Transparency Project (n.d.) Resources and Guidance Notes. Available at: https://transparencyproject.org.uk/resources/ [Accessed: 30 October 2025]
+The Transparency Project (2025) 'Journalists and legal bloggers attending family courts - A Workshop for lawyers', Event listing. Available at: https://www.eventbrite.co.uk/e/journalists-and-legal-bloggers-attending-family-courts-a-workshop-for-lawyers-tickets-58068374070 [Accessed: 30 October 2025]
+SECONDARY SOURCES: Referenced in TP Materials
+Judiciary of England and Wales (2011) The Family Courts: Media Access and Reporting. Available at: https://www.judiciary.gov.uk/wp-content/uploads/JCO/Documents/Guidance/family-courts-media-july2011.pdf
+Judiciary of England and Wales (2015, revised 2016) Reporting Restrictions in the Criminal Courts. Available at: https://www.judiciary.gov.uk/wp-content/uploads/2015/07/reporting-restrictions-guide-may-2016-2.pdf
+Family Procedure Rules 2010 (FPR), Rule 27(11) and Practice Direction 27B. Available at: https://www.justice.gov.uk/courts/procedure-rules/family/parts/part_27
+Family Procedure Rules 2010 (FPR), Rule 12.73 and Practice Direction 12G – Communication of information
+HMCTS (n.d.) Guidance on obtaining court transcripts (Form EX107). Available at: https://formfinder.hmctsformfinder.justice.gov.uk/ex107-info-eng-20160121.pdf
+HMCTS (n.d.) Jurisdictional guidance to support media access to courts and tribunals – Family courts guide. Available at: https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/746853/HMCTS_media_guidance_-_Family_Courts_Guide.pdf
+Practice Direction 36J (Legal Blogging Pilot)
+CASE LAW: Cited in TP Publication Guidance
+R (C) v The Secretary of State for Justice [2016] UKSC 2
+Re S (A Child) (Identification: Restrictions on Publication) [2005] 1 AC 593
+Re: J (Reporting Restriction: Internet: Video) [2013] EWHC 2694 (Fam); [2014] 1 FLR 523
+Re W (Children) [2016] EWCA Civ 113; [2016] 4 WLR 39
+Re X (A Child) (No 2) [2016] EWHC 1668 (Fam)
+METHODOLOGY SOURCES
+Stake, R.E. (1995) The Art of Case Study Research. Thousand Oaks, CA: Sage Publications.
 
 [^6]: *Ibid.*, §35, reproducing three versions at §35(i)-(iii): (i) draft order 27/6/22 by Mother's counsel; (ii) judge's approved judgment 21/2/23, §34; (iii) sealed order 13/7/22.
 
