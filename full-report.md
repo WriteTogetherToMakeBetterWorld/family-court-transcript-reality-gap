@@ -5206,3 +5206,22 @@ Stake, R.E. (1995) The Art of Case Study Research. Thousand Oaks, CA: Sage Publi
 
 [^7]: *Ibid.*, §35 (describing events at hearing 20 February 2023 where judge questioned about discrepancies).
 
+### REFERENCES
+
+Law Society (2023) 'Family court backlogs: Over 80,000 children awaiting decisions', 
+Press Release, 15 March. Available at: https://www.lawsociety.org.uk/... 
+(Accessed: 30 October 2025).
+
+Ministry of Justice (2025) Family Court Statistics Quarterly, April to June 2025. 
+London: Ministry of Justice. Available at: 
+https://www.gov.uk/government/statistics/family-court-statistics-quarterly-
+april-to-june-2025 (Accessed: 30 October 2025).
+
+Transparency Project (2023) Annual Report 2022-2023: Transparency in Family Justice. 
+Bristol: The Transparency Project. Available at: 
+https://www.transparencyproject.org.uk/... (Accessed: 30 October 2025).
+
+Women's Aid (2024) The Domestic Abuse Report 2024: The Annual Audit. Bristol: 
+Women's Aid Federation of England. Available at: 
+https://www.womensaid.org.uk/... (Accessed: 30 October 2025).
+
