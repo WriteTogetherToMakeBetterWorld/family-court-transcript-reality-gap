@@ -3579,6 +3579,22 @@ This is how transparency enables correction without harming those it should prot
 ## 9. Conclusion: 
 ### conclusions
 
+## 9 The Missing Roadmap
+
+When viewed from a systemic perspective, one structural absence explains the persistence of the reality gap: **there is no roadmap**.  
+
+The five-layer analysis in this report reveals not merely isolated failures but a vacuum of direction. Transparency lacks:
+
+- **Why**: No articulated purpose beyond rhetorical commitment — institutional design (Layer 1) omits statutory objectives linking openness to appeals, accountability, or public understanding.  
+- **What**: No defined minimum outputs — the 70 % visibility deficit (Layers 2–3) persists without mandated deliverables (e.g., audio + transcript + redaction metadata).  
+- **How**: No standardized workflow — judicial gatekeeping variations (Layer 2) and ad-hoc publication (Layer 4) fragment the two-pathway model into local experiments.  
+- **When**: No enforceable timelines — the 48-hour aspiration remains illusory across all layers.  
+- **Who**: No clear assignment of responsibility — parents diagnose, practitioners gatekeep, reporters amplify, yet no actor owns the system.
+
+Any effective transparency framework must supply these coordinates. Until it does, reform will remain aspirational, not operational.
+
+> *“The family court does not lack will. It lacks a map.”*
+
 ### References
 
 Bureau of Investigative Journalism (2025) *Domestic Abuse in 90% of Family Court Cases*. London: Bureau of Investigative Journalism.
