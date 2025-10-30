@@ -3539,30 +3539,37 @@ And that? That’s governance at scale—by the many, not the few.
 
 Would you like to explore how this could be built (technically, legally, ethically)?
 
-### 8A.4 Transparency as the Space Where Rightness Can Be Questioned 
+### 8A.4 Transparency as the Space Where Rightness Can Be Questioned
+
 Promise and risk. Transparency disciplines argument (claims must meet evidence) and can chill vulnerable voices. The question is not “how much transparency?” but “what kind, for whom, under what safeguards, and to what end?”
 
 Diagnostic logic. Family cases are private by default and most participants accept that. When a parent pays for a transcript and seeks publication despite social costs, that departure from privacy is information:
 
-- either a serious error occurred, or
+* either a serious error occurred, or  
+* they believe one did and internal correction felt inadequate.
 
-- they believe one did and internal correction felt inadequate.
-
-Chapter 7 showed how the system responds: untimed approvals, consent vetoes, cost barriers—treating this signal as unwanted disturbance, sometimes even perhaps threat, rather than feedback.
-
+Chapter 7 showed how the system responds: untimed approvals, consent vetoes, cost barriers—treating this signal as unwanted disturbance, sometimes even perhaps threat, rather than feedback.  
 A confident system treats this as diagnostic feedback, not defiance.
 
 Design principle. Transparency is not an end; it’s the condition for moral questioning: Can we ask, without punishment, “Did we get this right?” A just system permits challenge and learns from it.
 
-Responsive equilibrium (not maximalism).
-
-- When a party seeks a transcript/publication: prioritise timelines and examine objections for child-welfare substance vs. institutional self-protection.
-
-- When bloggers seek documents or attend: enable accurate reporting under proportionate limits and log decisions for accountability.
+Responsive equilibrium (not maximalism).  
+* When a party seeks a transcript/publication: prioritise timelines and examine objections for child-welfare substance vs. institutional self-protection.  
+* When bloggers seek documents or attend: enable accurate reporting under proportionate limits and log decisions for accountability.  
 
 This is how transparency enables correction without harming those it should protect. In this equilibrium, user signals (from parents) and blogger amplification form the circulation that prevents systemic stagnation.
 
-(Cross-refs: mechanics in §7.1–§7.3; dataset signals in Layer 5; safeguards catalogue in §8B.)
+**Self-Regulation as the Ultimate Design Flaw**  
+This responsive equilibrium assumes competent, reflective actors. But transparency is only as good as the individuals who gatekeep it. Judicial discretion—whether in approving publication, drafting transparency orders, or logging refusals—remains a **self-regulated system**. No SLA, no metric, no dashboard can override a judge who believes secrecy *is* child protection. The intelligence, knowledge, values, and beliefs of each gatekeeper become the final layer of design-by-omission.  
+
+**→ Policy must therefore target *training* and *culture*, not just process:**  
+- Mandatory annual transparency training (with refusal-log case studies)  
+- Peer benchmarking: publish % of publication applications granted per judge/court  
+- Values audit: embed “Did we get this right?” as a standard closing question in every judgment  
+
+Without this, PD12R and transcript reforms remain **tools in the hands of the same system**—open in theory, closed in practice.
+
+*(Cross-refs: mechanics in §7.1–§7.3; dataset signals in Layer 5; safeguards catalogue in §8B.)*
 
 #### 8B.3 Transcript-Specific Reforms for Responsive Equilibrium
 - **SLA**: 10 working days to approve/deny publication applications; reasons logged.
