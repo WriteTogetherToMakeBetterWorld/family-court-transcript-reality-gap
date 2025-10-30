@@ -252,6 +252,17 @@ These engines are value-aligned (both are motivated by rightness), but role-dist
 
 Operational takeaway: Treat voluntary transparency attempts (transcript + publication) as diagnostic, not adversarial. See §7.2 (publication pathway) and §8A.4 (normative basis).
 
+#### Figure 5.3: Micro-Framework for Dual Engines Interaction
+User Signal (Transcript/Publication)
+↓
+Court Triage (Timelines + Safeguards)
+↓
+Blogger Verification & Reporting (PD12R)
+↓
+Public/Institutional Feedback (Patterns, Corrections)
+↓
+Guidance / PD Updates / Practice Change
+
 #### 5.3.2 Practical distinctions (so roles don’t get blurred)
 
 - Parents are parties; they can request transcripts (EX107) and seek publication.
@@ -974,6 +985,7 @@ Current design focuses on outputs (judgments), omitting inputs like orders and s
 ---
 
 **Layer 2 (Judicial Gatekeeping) will test how judges respond to this expansion** — will they treat skeleton arguments as routine uploads, or resist as "extra work"? The answer determines whether least-resistance reform succeeds. **Layer 2 examines how judges fill these voids** — interpreting ambiguity toward transparency or toward restriction, using untimed approval discretion to expedite urgent appeals or allowing delays to accumulate unmonitored, honoring publication presumptions or treating objections as automatic vetoes. Judicial practice transforms institutional design into operational reality. The architecture establishes what should happen. Layer 2 reveals what actually happens when rules fall silent.
+**Requests by parties to obtain transcripts are diagnostic signals. Absence of decision SLAs converts diagnostics into suppressed feedback.**
 
 ---
 
@@ -1409,6 +1421,7 @@ Layer 2 mapped what judges say the law is—the "visible law" captured in publis
 **The gap between doctrine and lived reality** is where institutional design failures (Layer 1) and judicial interpretation (Layer 2) transform into human costs. Layer 4 will document those costs through user testimony, revealing whether the "progressive principles" Layer 2 identified translate into accessible practice—or remain theoretical promises that operational barriers prevent parties from realizing.
 
 The handoff is complete: from what the system promises (Layer 1), through how judges interpret those promises (Layer 2), to what users experience when attempting to claim those rights (Layer 4).
+Where a party sacrifices privacy to seek publication, courts should presume serious review and record reasons for any refusal grounded in welfare-specific (not institutional) concerns.
 
 ---
 # 7.3 Layer 3: Professional Practice — Solicitors and Barristers as System Stabilizers
@@ -3550,6 +3563,13 @@ Responsive equilibrium (not maximalism).
 This is how transparency enables correction without harming those it should protect. In this equilibrium, user signals (from parents) and blogger amplification form the circulation that prevents systemic stagnation.
 
 (Cross-refs: mechanics in §7.1–§7.3; dataset signals in Layer 5; safeguards catalogue in §8B.)
+
+#### 8B.3 Transcript-Specific Reforms for Responsive Equilibrium
+- **SLA**: 10 working days to approve/deny publication applications; reasons logged.
+- **Trigger**: If a party pays for a transcript, court lists a short publication directions hearing by default.
+- **Record**: Publish an anonymised order summarising the decision on publication (even if refusal).
+- **Access**: Standardised reporter document packs (skeletons, orders, anonymised notes) on request; log grants/refusals.
+- **Metrics**: Count voluntary publication attempts, time-to-decision, and grounds for refusal (child safety vs. administrative).
 
 
 
