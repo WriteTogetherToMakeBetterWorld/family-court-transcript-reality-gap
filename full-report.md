@@ -3526,7 +3526,7 @@ And that? That’s governance at scale—by the many, not the few.
 
 Would you like to explore how this could be built (technically, legally, ethically)?
 
-### 8A.4 Keep: Transparency as the Space Where Rightness Can Be Questioned (tight edit)
+### 8A.4 Transparency as the Space Where Rightness Can Be Questioned 
 Promise and risk. Transparency disciplines argument (claims must meet evidence) and can chill vulnerable voices. The question is not “how much transparency?” but “what kind, for whom, under what safeguards, and to what end?”
 
 Diagnostic logic. Family cases are private by default and most participants accept that. When a parent pays for a transcript and seeks publication despite social costs, that departure from privacy is information:
