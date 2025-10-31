@@ -4471,6 +4471,9 @@ Such transcripts shall be provided at public expense and approved within 10 work
 
 **Benefit**: Prevents *Taylor v Alcott* scenario where parties subject to adverse findings cannot access the record
 
+###THIS IMPROMVENT IF FOR LAYER 1 - PART RELATED TO OBRAINIGN TRANSCRIPTS:
+This actually leads me to another idea for improvement of the system that might relate to the process of recording, cataloguing the proceedings itself. Reviewing the process of recording and cataloguing the recordings might be another least resistance improvement that needs to be changed. This has to be clearly noted and then added to Chapter 8 as the idea for least resistance improvement. Do we know anything? Is there anything known about actually how this system exists within the judicial  - this point relates only to the mechanical way in which recordings happen and the mechanical way of, at the moment, cataloguing those recordings. Because improvements there would speed up how quickly you can access that recording system? 
+
 
 
 ### CHAPTER 9 - HAIRY AUDTIOAS THINKING
