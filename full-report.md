@@ -3804,7 +3804,7 @@ textWhich Service Level Band do you require?
 Why This Works
 
 
-
+Annother idea about how long it take to get the recording to the transcription compnay????? n that structure here, if you know what I mean, because it's not only about the retrieval. It's like, do they actually deal with this in two days time? Imagine how quickly this could be solved if there is a database system and this database system is shared across the agencies. For example, those who want the contract do not wait for the recording to be sent to them. They have access to it as soon as they hear yes. That would be brilliant, isn't it?
 
 
 
