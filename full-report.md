@@ -504,7 +504,7 @@ This positioning reveals the **discretionary gap**: procedural rights exist on p
 
 
 
-# 7.1 Layer 1: Institutional Design — The Prescribed Architecture of Transcript Production and Transparency
+# OLD VERSION 7.1 Layer 1: Institutional Design — The Prescribed Architecture of Transcript Production and Transparency
 **Purpose.** This layer establishes what the system *prescribes and officially claims* about transcript production and publication [FPR 2010; HMCTS Guidance Aug 2025]. 
 **Scope & limits.** It documents *design* (rules, forms, guidance, contracts) and *stated timings*, but cannot verify performance. 
 **Handoff.** Deviations from this design are tested against **judicial gatekeeping (§7.2)**, **professional practice (§7.3)**, **user experience (§7.4)**, and **external commentary (§7.5)**. 
