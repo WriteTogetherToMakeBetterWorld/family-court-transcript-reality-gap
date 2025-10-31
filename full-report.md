@@ -437,7 +437,7 @@ The Obtaining and Publication Pathways are functionally interdependent, yet thei
 | Untimed approvals | Veto culture | Patterns invisible |
 | Funding barriers | Discovery voids | Reforms lag reality |
 
-This disconnection turns personal records into isolated artifacts, preventing the visibility needed for accountability. This chapter examines transparency barriers affecting both oral court records (proceedings and judgments requiring transcription) and written court documents (skeleton arguments, position statements, orders already in publishable form). The following analysis maps these failures through five evidence layers.
+This disconnection turns personal records into isolated artifacts, preventing the visibility needed for accountability. This chapter examines transparency barriers affecting both: oral court records (proceedings and judgments requiring transcription) and written court documents (skeleton arguments, position statements, orders already in publishable form). The following analysis maps these failures through five evidence layers.
 
 ---
 
