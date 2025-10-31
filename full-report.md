@@ -504,455 +504,931 @@ This positioning reveals the **discretionary gap**: procedural rights exist on p
 
 
 
-# OLD VERSION 7.1 Layer 1: Institutional Design — The Prescribed Architecture of Transcript Production and Transparency
-**Purpose.** This layer establishes what the system *prescribes and officially claims* about transcript production and publication [FPR 2010; HMCTS Guidance Aug 2025]. 
-**Scope & limits.** It documents *design* (rules, forms, guidance, contracts) and *stated timings*, but cannot verify performance. 
-**Handoff.** Deviations from this design are tested against **judicial gatekeeping (§7.2)**, **professional practice (§7.3)**, **user experience (§7.4)**, and **external commentary (§7.5)**. 
-Layer 1 examines the **de jure** system — what should happen according to official documents — before Layers 2–5 reveal the **de facto** system. The analysis proceeds in two parts, mirroring the two pathways introduced in §7: 
-1. **Obtaining Pathway** (§7.1.1–7.1.2): How transcripts are formally requested, processed, and approved. 
-2. **Publication Pathway** (§7.1.3–7.1.4): How transcripts are formally anonymised, published, and made accessible. 
+# REVISED SECTION 7.1 - FINAL VERSION
 
-Critical finding: The institutional design creates systemic vulnerabilities not through malice, but through **design-by-omission** — the absence of mandated timelines, performance monitoring, and enforcement mechanisms [Court of Appeal Guide 2025; HMCTS Guidance Aug 2025].
+## Layer 1: Institutional Design — The Prescribed Architecture for Accessing and Publishing Court Records
+
+**Purpose.** This layer establishes what the system prescribes and officially claims about making court proceedings and decisions publicly accessible—whether those records are oral (requiring transcription) or already exist in written form.
+
+**Scope.** Layer 1 examines the formal architecture governing two documentary tracks and two procedural pathways:
+
+**Documentary Tracks:**
+
+- **Track A (Transcripts Required):** Oral proceedings and judgments that must be recorded, transcribed, approved, then potentially published
+- **Track B (Already Written):** Skeleton arguments, position statements, court orders, and written judgments that exist in written form but still require publication permission
+
+**Procedural Pathways:**
+
+- **The Obtaining Pathway (§7.1.2-7.1.3):** How Track A documents (oral proceedings/judgments) are converted from audio recordings to approved written transcripts
+- **The Publication Pathway (§7.1.4-7.1.6):** How both Track A (transcripts) and Track B (written documents) are made publicly accessible through anonymization, permission, and upload
+
+**Critical finding.** Track B documents—which could be published immediately after anonymization—face the same multi-stage discretionary gatekeeping as Track A transcripts. This reveals that transparency barriers stem not primarily from transcription logistics but from systematic permission culture that restricts access to documentation regardless of format.
+
+**Scope & Limits.** Layer 1 documents design (rules, forms, guidance, contracts) and stated timings, but cannot verify performance. It establishes what should happen according to official architecture; deviations from this design are tested against judicial gatekeeping (§7.2), professional practice (§7.3), user experience (§7.4), and external commentary (§7.5).
+
+**Handoff to subsequent layers.** Layers 2–5 reveal the de facto system—how institutional design operates (or fails to operate) in practice, including assessments from external agencies (Layer 5).
+
+### Chapter Structure
+```
+SECTION 7.1 STRUCTURE: TRANSCRIPT AND PUBLICATION PATHWAYS
+
+                        Court Proceedings
+                              |
+                    ┌─────────┴─────────┐
+                    |                   |
+              TRACK A                TRACK B
+         Oral Proceedings      Written Documents
+      (requires transcription)   (already written)
+                    |                   |
+        ┌───────────┴────────┐         |
+        |                    |         |
+   §7.1.2-7.1.3         §7.1.4-7.1.6  |
+  OBTAINING PATHWAY   PUBLICATION ────┘
+  (Track A only)      PATHWAY
+        |            (Both tracks)
+        |                  |
+   ┌────┴────┐        ┌────┴────┐
+   |         |        |         |
+Request  Approve  Anonymize  Publish
+(EX107)  (Judge)  (Party)    (BAILII/FCL)
+   |         |        |         |
+DF-1 to  Untimed   DF-10    DF-14
+DF-7     void      DF-11    (Discovery
+(§7.1.3) (DF-6)    (§7.1.6)  barriers)
+
+KEY FINDINGS:
+- Track B documents face same gatekeeping as Track A (permission culture, not logistics)
+- 15 Design Failures (DF-1 to DF-15) compound across both pathways
+- Data void (§6.1) prevents verification of stated timelines
+- Judicial practice (§7.2) fills design silences with discretionary interpretation
+```
+
+The analysis proceeds in three parts:
+
+- **§7.1.1 Methodology:** Sources and analytical approach
+- **§7.1.2-7.1.3 The Obtaining Pathway (Track A only):** How transcripts are formally requested, processed, and approved
+- **§7.1.4-7.1.6 The Publication Pathway (Tracks A & B):** How both transcripts and written documents are formally anonymized, published, and made accessible
 
 ---
 
 ## 7.1.1 Methodology: Sources & Analytical Approach
-This analysis draws exclusively on **publicly accessible official documents**: 
 
-| **Component** | **Sources** | **Access Method** | **What Can Be Known** | **What Cannot Be Known** | 
-|---------------|-------------|-------------------|----------------------|--------------------------| 
-| **Formal Rules & Procedures** | FPR 2010, PDs (5A, 12G, 27A), Forms EX107/EX105/EX160A/FP161/N161, Court of Appeal Guide | legislation.gov.uk, GOV.UK forms portal, judiciary.uk | Mandatory vs discretionary steps; explicit timelines; cost structures; permission requirements | Actual compliance rates; real-world timing | 
-| **Official Processing Claims** | EX107 Guidance Notes, HMCTS guidance | GOV.UK, judiciary.uk | What HMCTS states about processing (e.g., "2 working days", "~10 working days average") | Whether these timelines are accurate (FOI: "no data held") | 
-| **Judicial Approval Requirements** | EX107 Form Part E, HMCTS Guidance Aug 2025, Court of Appeal Guide 2025 | legislation.gov.uk, HMCTS website | That approval is required; that it's excluded from SLAs | How long approval actually takes (no SLA published) | 
-| **Vendor Infrastructure** | HMCTS approved transcriber list, vendor public T&Cs, vendor websites | HMCTS website, vendor websites | Approved vendors; publicly posted SLAs; some pricing | Actual contracts; performance data; quality metrics | 
-| **Publication Framework** | AJA 1960 s.12, FPR 2010, Children Act 1989 s.97, PD 12G | legislation.gov.uk | Legal restrictions; confidentiality rules; permission pathways | How permission is granted in practice | 
+This analysis draws exclusively on publicly accessible official documents:
 
-**Analytical approach:** 
-- **Close reading** of forms for mandatory vs discretionary language, explicit vs silent deadlines 
-- **Gap analysis** identifying "design-by-omission" (e.g., untimed stages, untracked handoffs) 
-- **Timeline mapping** showing how stated processing stages relate to appeal deadlines 
-- **Cross-referencing** to identify contradictions or dependencies 
+| **Component** | **Sources** | **Access Method** | **What Can Be Known** | **What Cannot Be Known** |
+|---------------|-------------|-------------------|----------------------|--------------------------|
+| **Formal Rules & Procedures** | Family Procedure Rules 2010 (FPR), Practice Directions (PD) 5A, 12G, 27A; Forms EX107/EX105/EX160A/FP161/N161; Court of Appeal Guide | legislation.gov.uk, GOV.UK forms portal, judiciary.uk | Mandatory vs discretionary steps; explicit timelines; cost structures; permission requirements | Actual compliance rates; real-world timing |
+| **Official Processing Claims** | Form EX107 Guidance Notes, Her Majesty's Courts & Tribunals Service (HMCTS) guidance | GOV.UK, judiciary.uk | What HMCTS states about processing (e.g., "2 working days", "~10 working days average") | Whether these timelines are accurate (Freedom of Information request: "no data held") |
+| **Judicial Approval Requirements** | Form EX107 Part E, HMCTS Guidance Aug 2025, Court of Appeal Guide 2025 | legislation.gov.uk, HMCTS website | That approval is required; that it's excluded from Service Level Agreements (SLAs) | How long approval actually takes (no SLA published) |
+| **Vendor Infrastructure** | HMCTS approved transcriber list, vendor public Terms & Conditions (T&Cs), vendor websites | HMCTS website, vendor websites | Approved vendors; publicly posted SLAs; some pricing | Actual contracts; performance data; quality metrics |
+| **Publication Framework** | Administration of Justice Act 1960 (AJA) s.12, FPR 2010, Children Act 1989 s.97, PD 12G | legislation.gov.uk | Legal restrictions; confidentiality rules; permission pathways | How permission is granted in practice |
 
-**Critical methodological limitation:** This analysis can only document **stated design and official claims**. It cannot verify actual performance because: 
-- FOI request (Walker 2025) revealed **"no data held"** on transcript processing times 
-- No public performance monitoring exists 
-- HMCTS does not publish transcript production metrics 
+**Analytical approach:**
 
-Therefore, Section 7.1 documents **intended transparency** - what should happen if the system operated as designed. Actual performance is assessed through practitioner observations (§7.2) and user experiences (§7.3).
+- Close reading of forms for mandatory vs discretionary language, explicit vs silent deadlines
+- Gap analysis identifying "design-by-omission" (e.g., untimed stages, untracked handoffs)
+- Timeline mapping showing how stated processing stages relate to appeal deadlines
+- Cross-referencing to identify contradictions or dependencies
+
+### The Data Void as Foundational Context
+
+**Critical methodological limitation:** This analysis can only document stated design and official claims. It cannot verify actual performance because the Freedom of Information (FOI) request submitted by Walker (2025) revealed a systemic **data void** across the transcript system (as documented in §6.1).
+
+**What the FOI Request Sought (April 2024–April 2025):**
+- Number of transcript requests filed
+- Processing times from request to approval
+- Breakdown by funding type (public expense vs. private payment)
+- Refusal rates and reasons
+- Technical recording issues affecting transcription
+
+**What the MoJ Response Revealed:**
+- **National statistics:** Withheld under Section 12(2) FOI Act 2000 (cost exemption)
+- **Newcastle Civil and Family Court:** Data "not held" because "no legal or business requirement" to record it
+- **Operational metrics:** Incomplete; no comprehensive data on denials, delays, or bottlenecks
+- **Internal review:** Upheld withholding; breached Section 16 duty to assist by failing to advise how request could be refined
+
+This absence of data is not an oversight—it is a **structural feature** of the transparency system. As documented in §6.1, HMCTS does not collect, monitor, or publish:
+- How many transcript requests are processed annually
+- How long judicial approval actually takes
+- What proportion of requests result in approved transcripts
+- Why requests are refused (if tracked at all)
+- Whether performance varies by court, case type, or party representation
+
+**Why this matters for Layer 1:** The data void means institutional design operates without performance accountability. HMCTS can state that transcript processing takes "~10 working days average" (Form EX107 Guidance) without any mechanism to verify whether this claim reflects reality. Vendors can promise "48-hour service" (Form EX107 Section C5) while excluding court processing delays that may add weeks. The approval stage can remain "untimed" indefinitely because no data exists to expose how long judges actually take.
+
+**Implication:** Layer 1 documents *intended transparency*—what should happen if the system operated as designed. But the data void ensures that gaps between design and performance remain invisible to policy-makers, practitioners, and users. This is not a bug in the system; it is how the system maintains plausible deniability about its own dysfunction.
+
+The following analysis therefore proceeds with this foundational understanding: **every timeline stated, every process described, every promise made exists in a data-absent environment where verification is structurally impossible**. What HMCTS claims and what actually happens may diverge substantially—but the absence of monitoring data ensures that divergence remains undetectable, unquantifiable, and therefore unchallengeable.
+
+Actual performance is assessed through practitioner observations (§7.3), user experiences (§7.4), and external agency evaluations (§7.5), which provide the only available evidence of how institutional design translates into operational reality.
 
 ---
 
-## 7.1.2 The Obtaining Pathway: Formal Architecture
-The Obtaining Pathway governs how transcripts move from courtroom audio to approved document. Drawing on FPR Parts 3A, 12, and 27; Forms EX107 (version 07.25, revised Aug 2025), EX105, and EX160A; Court of Appeal guidance (2025); and HMCTS procurement specifications, this section maps the intended process while identifying systemic design failures [FPR 2010; EX107 Form; HMCTS Guidance Aug 2025].
+## 7.1.2 The Obtaining Pathway: Formal Architecture (Track A Only)
+
+> **Navigation Note:** This section examines Track A documents (oral proceedings requiring transcription). The pathway covers: request mechanisms (Forms EX107/EX105), vendor logistics (service levels, costs), recording retrieval infrastructure, judicial approval requirements, and funding pathways. Track B documents (already written) bypass this pathway entirely, proceeding directly to §7.1.4 (Publication Pathway).
+
+**Scope note:** This pathway applies only to Track A documents—oral proceedings and judgments requiring transcription. Track B documents (skeleton arguments, orders, position statements) already exist in written form and bypass this pathway entirely, proceeding directly to the Publication Pathway (§7.1.4).
+
+The Obtaining Pathway governs how transcripts move from courtroom audio to approved document. Drawing on Family Procedure Rules (FPR) Parts 3A, 12, and 27; Forms EX107 (version 07.25, revised Aug 2025), EX105, and EX160A; Court of Appeal guidance (2025); and HMCTS procurement specifications, this section maps the intended process while identifying systemic design failures [FPR 2010; Form EX107; HMCTS Guidance Aug 2025].
 
 ### Institutional Components
-| **Component** | **Source** | **Access Method** | **What Can Be Requested** | **What Cannot Be Requested** | 
-|---------------|------------|-------------------|---------------------------|------------------------------| 
-| **Formal Rules & Procedures (Obtaining)** | FPR 2010 (30.4, 27.9), Form EX107/EX105/EX160A, Court of Appeal Guide 2025 | Application to judge (permission required as standard for all family hearings, which are private by default under FPR 27.10), no legal representation needed (LiPs can apply), GOV.UK form portal | Whole hearing, counsels’ opening/closing submissions, evidence, judgment (main or specific, e.g., costs/permission to appeal), proceedings after judgment, other (with details) | Audio/raw recordings, transcripts without judicial permission (for private/family cases), unrecorded hearings (e.g., magistrates’ courts) | 
-| **Formal Rules & Procedures (Production)** | AJA 1960 s.12, FPR 2010, Children Act 1989 s.97, PD 12G | Application to judge, public expense possible via EX105 | Judgment transcripts, reasons (with permission for full elements) | Full hearing transcripts without permission, confidential elements refused by court | 
-| **Official Processing Claims** | EX107 Guidance Notes, HMCTS guidance | GOV.UK, judiciary.uk | Within 48 hours (expedited), within 12 working days (standard) | No guarantee on judicial approval or delays | 
-| **Judicial Approval Requirement** | EX107 Form Part E, HMCTS Guidance Aug 2025, Court of Appeal Guide 2025 | Application to judge, HMCTS website | Approval required before release (judgment only or all, as specified), "perfection" allowed | No timeline for approval | 
-| **Vendor Infrastructure** | HMCTS-approved transcriber list, vendor public T&Cs, vendor websites, procurement specifications | HMCTS website, vendor websites, public procurement documents | Folio pricing (72 words per folio), quality review, complaint process | Service Level Band start until recording + payment + approval received | 
+
+| **Component** | **Source** | **Access Method** | **What Can Be Requested** | **What Cannot Be Requested** |
+|---------------|------------|-------------------|---------------------------|------------------------------|
+| **Formal Rules & Procedures (Obtaining)** | FPR 2010 (30.4, 27.9), Forms EX107/EX105/EX160A, Court of Appeal Guide 2025 | Application to judge (permission required as standard for all family hearings, which are private by default under FPR 27.10); no legal representation needed (Litigants in Person (LiPs) can apply); GOV.UK form portal | Whole hearing; counsel's opening/closing submissions; evidence; judgment (full or specific portion, e.g., costs/permission to appeal); proceedings after judgment; other (with details) | Audio/raw recordings; transcripts without judicial permission (for private/family cases); unrecorded hearings (e.g., magistrates' courts) |
+| **Official Processing Claims** | Form EX107 Guidance Notes, HMCTS guidance | GOV.UK, judiciary.uk | Within 48 hours (expedited); within 12 working days (standard) | No guarantee on judicial approval or delays |
+| **Judicial Approval Requirement** | Form EX107 Part E, HMCTS Guidance Aug 2025, Court of Appeal Guide 2025 | Application to judge, HMCTS website | Approval required before release (judgment only or all, as specified); "perfection" allowed | No timeline for approval |
+| **Vendor Infrastructure** | HMCTS-approved transcriber list, vendor public T&Cs, vendor websites, procurement specifications | HMCTS website, vendor websites, public procurement documents | Folio pricing (72 words per folio); quality review; complaint process | Service Level Band start until recording + payment + approval received |
 
 ### Request Mechanisms: Forms and Procedures
-**Form EX107** (version 07.25, revised Aug 2025) is the universal transcript request mechanism. Section C3 specifies types requestable (e.g., whole hearing, evidence); C5 asks: *"Which Service Level Band do you require?"* offering for civil/family: 
-- **Within 48 hours** (expedited, Band 2) 
-- **Within 12 working days** (standard, Band 5) 
 
-Court staff target 2 working days to process EX107 before sending to transcriber; average ~10 working days for audio retrieval [HMCTS Guidance Aug 2025]. 
+Form EX107 (version 07.25, revised Aug 2025) is the universal transcript request mechanism. Section C3 specifies types requestable:
+- Whole hearing
+- Evidence as heard
+- Judgment (full or specific portions such as costs or permission to appeal)
+- Counsel's opening and closing submissions
+- Proceedings after judgment
+- Other (with details specified by applicant)
 
-**Critical ambiguity.** EX107 does not specify that these timelines begin only after the transcriber receives the recording, approval, and payment, nor do they include judicial approval time (though guidance clarifies this exclusion, potentially misleading users who overlook it). This creates **Design Failure 1 (DF-1): Form–Guidance Disconnect** — the form implies end-to-end timelines, but vendor contracts reveal these are production-only windows starting after court processing, recording retrieval, and payment [HMCTS Guidance Aug 2025; Vendor T&Cs, e.g., eScribers, Marten Walsh Cherer].
+Section C5 asks: "Which Service Level Band do you require?" offering for civil/family:
 
-**Appeal-specific forms.** Form **FP161** (High Court) and **N161** (Court of Appeal) require *"a transcript or note of judgment"* as mandatory supporting documents. Yet neither explains how to obtain transcripts or what to do if approval is delayed beyond the 21-day appeal deadline (or 7 days for case management). This creates **Design Failure 4 (DF-4): Checkbox Miscue** — forms treat transcript availability as binary while concealing the multi-stage, discretionary process [FP202 Guidance; N161D Guidance; Court of Appeal Guide 2025]. PD30A allows filing with a note and amending later [PD30A]. 
+- **Within 48 hours** (expedited, Band 2)
+- **Within 12 working days** (standard, Band 5)
+
+Court staff target 2 working days (wd) to process Form EX107 before sending to transcriber; average ~10 working days for audio retrieval [HMCTS Guidance Aug 2025].
+
+**Critical ambiguity.** Form EX107 does not specify that these timelines begin only after the transcriber receives the recording, approval, and payment, nor do they include judicial approval time (though guidance clarifies this exclusion, potentially misleading users who overlook it). This creates **Design Failure 1 (DF-1): Form–Guidance Disconnect**—the form implies end-to-end timelines, but vendor contracts reveal these are production-only windows starting after court processing, recording retrieval, and payment [HMCTS Guidance Aug 2025; Vendor T&Cs, e.g., eScribers, Marten Walsh Cherer].
+
+**Appeal-specific forms.** Form FP161 (High Court) and N161 (Court of Appeal) require "a transcript or note of judgment" as mandatory supporting documents. Yet neither explains how to obtain transcripts or what to do if approval is delayed beyond the 21-day appeal deadline (or 7 days for case management). This creates **Design Failure 2 (DF-2): Checkbox Miscue**—forms treat transcript availability as binary while concealing the multi-stage, discretionary process [Form FP202 Guidance; Form N161D Guidance; Court of Appeal Guide 2025]. Practice Direction 30A (PD30A) allows filing with a note and amending later [PD30A].
 
 ### Transcription Logistics: Vendors, Service Level Bands, and Costs
-**Approved vendor framework.** HMCTS maintains an approved list of transcription providers: eScribers (formerly Auscript), Marten Walsh Cherer, The Transcription Agency, Acolad UK Ltd (formerly Ubiqus), Epiq (formerly DTI) [HMCTS Guidance Aug 2025]. 
 
-**List-order bias and performance invisibility.** A subtle design flaw compounds transcription inefficiency: HMCTS lists these suppliers alphabetically or arbitrarily on EX107 guidance and regional court lists. **Position bias** means applicants—especially litigants in person—tend to select the first name encountered, rewarding placement rather than performance (Thaler & Sunstein, 2008). No comparative metrics (speed, accuracy, complaint rates) are visible to applicants. This "choice architecture distortion" decouples market share from delivery quality. 
+**Approved vendor framework.** HMCTS maintains an approved list of transcription providers: eScribers (formerly Auscript), Marten Walsh Cherer, The Transcription Agency (TTA), Acolad UK Ltd (formerly Ubiqus), Epiq (formerly DTI) [HMCTS Guidance Aug 2025].
 
-**Key finding**: This "choice architecture distortion" decouples market share from delivery quality, amplifying DF-2. 
+**List-order bias and performance invisibility.** A subtle design flaw compounds transcription inefficiency: HMCTS lists these suppliers in no specified transparent order (alphabetically or otherwise) on Form EX107 guidance and regional court lists. Position bias means applicants—especially Litigants in Person—tend to select the first name encountered, rewarding placement rather than performance (Thaler & Sunstein, 2008). No comparative metrics (speed, accuracy, complaint rates) are visible to applicants. This "choice architecture distortion" decouples market share from delivery quality, amplifying **Design Failure 3 (DF-3): Performance Opacity in Vendor Selection**.
 
-> **Opportunity identified**: Performance-based adjustments could align incentives. See Section 8.1.
+*Note: Chapter 8 discusses least-resistance reforms addressing this and other design failures. DF-3 is specifically addressed in §8.1.3 (Vendor Performance Metrics). Where solutions are proposed in Chapter 8, they are noted in the design failure analysis; DFs without current Chapter 8 proposals may be addressed in future research or policy development.*
 
-**Service Level Bands (SLBs):** For civil/family (Service Level Band = delivery window from receipt of recording). 
-| Band | Delivery Window | Typical Use Case | 
-|------|----------------|------------------| 
-| Expedited (Band 2) | Within 48 hours | Urgent appeals, interim applications | 
-| Standard (Band 5) | Within 12 working days | Routine appeals, permission applications | 
+**Service Level Bands (SLBs):** For civil/family proceedings, the Service Level Band (SLB) represents the delivery window from receipt of recording by the vendor.
 
-**Pricing structure** (maximum per folio of 72 words; actual varies by provider): 
-- Expedited (48 hours): £1.40–£1.99/folio 
-- Standard (12 working days): £0.83–£1.50/folio 
-For a 500-folio transcript (moderate-length judgment): expedited costs ~£700–£995 vs. standard ~£415–£750 — a premium that creates strategic pressure to select longer timelines, directly conflicting with the 21-day appeal window [HMCTS Guidance Aug 2025; Vendor pricing, e.g., Acolad UK £1.47 expedited, £0.83 standard; Marten Walsh Cherer £1.53 expedited, £1.28 standard]. 
+| **Band** | **Delivery Window** | **Typical Use Case** |
+|----------|-------------------|----------------------|
+| **Expedited (Band 2)** | Within 48 hours | Urgent appeals, interim applications |
+| **Standard (Band 5)** | Within 12 working days | Routine appeals, permission applications |
 
-**When the Service Level Band clock starts.** Vendor Terms & Conditions state timelines commence **after** approval from the court, recording retrieval, and payment receipt. This creates **Design Failure 2 (DF-2): Vendor Transparency > HMCTS Transparency** — commercial providers explicitly clarify what public forms conceal: stated timelines exclude court processing, recording retrieval, and judicial approval [Vendor T&Cs, e.g., eScribers; Marten Walsh Cherer]. 
+**Pricing structure** (maximum per folio; a "folio" is the standard billing unit of 72 words; actual pricing varies by provider):
 
-Both sources agree the Service Level Band (SLB) covers only vendor production time, excluding court processing and judicial approval: 
-| **Aspect** | **HMCTS Guidance (EX107GN)** | **Transcription Companies (T&Cs)** | 
-|------------|-------------------------------|-------------------------------------| 
-| **SLB Scope** | “Time for company to produce and deliver or submit to court”; excludes judge approval | “Turnaround commences after audio + payment received”; “approval time beyond our control” (e.g., eScribers: “not likely within chosen band if approval needed”) | 
-| **Court Lead Time** | “2 working days to process EX107”; “~10 working days average to locate/send audio” | “Normally dispatched within 10 working days… no guarantee” (The Transcription Agency) | 
-| **Judicial Approval** | “Additional time required”; “SLB excludes judge’s approval” | “Cannot release without court permission”; “solely at discretion of Court/Judge” | 
+- **Expedited (48 hours):** £1.40–£1.99/folio
+- **Standard (12 working days):** £0.83–£1.50/folio
 
-**Result:** Vendors manage expectations contractually; HMCTS relies on separate guidance. This reinforces **DF-2 (Vendor Transparency > HMCTS Transparency)** — users accessing vendor websites receive clearer warnings than those using official forms alone.
+For a 500-folio transcript (moderate-length judgment): expedited costs ~£700–£995 vs. standard ~£415–£750—a premium that creates strategic pressure to select longer timelines, risking collision with the 21-day appeal window [HMCTS Guidance Aug 2025; Vendor pricing, e.g., Acolad UK £1.47 expedited, £0.83 standard; Marten Walsh Cherer £1.53 expedited, £1.28 standard].
+
+**When the Service Level Band clock starts.** Vendor Terms & Conditions state timelines commence after approval from the court, recording retrieval, and payment receipt. This creates **Design Failure 4 (DF-4): Vendor Transparency > HMCTS Transparency**—commercial providers explicitly clarify what public forms conceal: stated timelines exclude court processing, recording retrieval, and judicial approval [Vendor T&Cs, e.g., eScribers; Marten Walsh Cherer].
+
+### Vendor Transparency vs. HMCTS Clarity: A Comparative Analysis
+
+Analysis of vendor documentation reveals a transparency inversion: commercial transcription providers disclose more operational detail about the transcript production process than HMCTS does in official guidance.
+
+**Critical clarity gaps:**
+
+| **Aspect** | **HMCTS Guidance (Form EX107GN)** | **Transcription Companies (T&Cs)** |
+|------------|-----------------------------------|-------------------------------------|
+| **SLB Scope** | "Time for company to produce and deliver or submit to court"; excludes judge approval | "Turnaround commences after audio + payment received"; "approval time beyond our control" (e.g., eScribers: "not likely within chosen band if approval needed") |
+| **Court Lead Time** | "2 working days to process Form EX107"; "~10 working days average to locate/send audio" | "Normally dispatched within 10 working days… no guarantee" (The Transcription Agency) |
+| **Judicial Approval** | "Additional time required"; "SLB excludes judge's approval" | "Cannot release without court permission"; "solely at discretion of Court/Judge" |
+| **Worst-Case Scenarios** | "~10 working days average" with no mention of delays | "Sometimes, if a court is busy, it is not uncommon to receive recordings up to 4 weeks later" (TTA, 2025) |
+
+**Why this inversion matters:**
+
+- **Vendors have commercial incentive to be transparent:** Explicit warnings about what they cannot control (court delays, judicial approval) protect them contractually from Service Level Agreement (SLA) breaches and manage customer expectations to reduce disputes
+- **HMCTS opacity more likely reflects bureaucratic inertia:** Form design by committee (Form EX107 used across criminal, civil, family, tribunals), separate guidance documents not integrated with forms, no user-testing with LiPs to identify confusion points, and performance monitoring gaps (FOI revealed "no data held" on transcript timelines)
+
+**Result:** A user researching "how to get a family court transcript" will find more accurate and precise operational detail on eScribers' FAQ page than on GOV.UK or judiciary.uk. This inverts the democratic expectation that public bodies should be maximally transparent about access to public proceedings.
+
+### Visual Process Timeline
+```
+TRANSCRIPT PRODUCTION PROCESS
+(Excludes judicial approval stage which is untimed)
+
+Stage 1: Court Processing
+[Form EX107 submitted] → [2 working days target] → [Processed]
+                                                         ↓
+Stage 2: Recording Retrieval  
+[Locate in archives] → [~10 working days avg] → [Sent to vendor]
+                        (Can take up to 4 weeks)        ↓
+Stage 3: Vendor Production ← SERVICE LEVEL BAND STARTS HERE
+[Audio + payment received] → [48 hrs or 12 days] → [Draft to court]
+                                                         ↓
+Stage 4: Judicial Approval (UNTIMED - NOT IN ANY SLA)
+[Judge reviews] → [No deadline] → [Approved transcript released]
+
+CRITICAL: Only Stage 3 is covered by "48-hour" or "12-day" promises
+```
+
+### Recording Retrieval: The Documented Gap
+
+Between court processing and vendor production lies an infrastructural void: audio recording retrieval. This stage encompasses both the 2-working-day Form EX107 processing target and the subsequent recording location and dispatch process.
+
+**Two-stage process:**
+
+1. **Administrative processing (target: 2 working days):** Court staff receive Form EX107, verify completeness, and initiate recording retrieval
+   - *Data void:* No monitoring of whether this target is met
+   - *Infrastructure void:* No transparency about how forms are tracked or prioritized
+
+2. **Recording retrieval (average: ~10 working days):** Locating the specific recording in court archives and sending it to the approved transcriber
+   - *Infrastructure void:* No public documentation of cataloguing, indexing, or storage systems
+   - *Accountability void:* No explanation of why 10 working days is necessary or whether regional variations exist
+
+HMCTS acknowledges "~10 working days average to locate and send audio recording"; vendors report recordings "normally dispatched by a court within 10 days... although no guarantee is given" and warn "sometimes, if a court is busy, it is not uncommon to receive recordings up to 4 weeks later" [HMCTS Guidance Aug 2025; The Transcription Agency, 2025].
+
+Yet guidance omits critical details: how recordings are catalogued, indexed, or stored; who retrieves recordings when Form EX107 requests arrive; why 10 working days (or 4 weeks) is necessary; whether regional variations exist; or technical specifications of the recording system architecture.
+
+**Systemic consequence:** The "expedited 48-hour service" becomes meaningless if recording retrieval takes 2-4 weeks before the vendor's 48-hour clock even starts. This hidden bottleneck compounds DF-6 (appeal-deadline collision, discussed below) by adding unpredictable delays that users cannot monitor, challenge, or escalate.
+
+**Design Failure 5 (DF-5): No Recording Infrastructure Transparency**
+
+- **Evidence:** HMCTS guidance acknowledges retrieval delays but provides no transparency about underlying systems
+- **Gap:** Users cannot distinguish whether delays stem from technical limitations, resource shortages, or systemic inefficiency
+- **Consequence:** Recording retrieval operates as an unmonitored, unaccountable infrastructure void excluded from all Service Level Agreements
+
+*Note: Infrastructure modernization proposals addressing DF-5 are discussed in §8.1.2 (Recording Infrastructure Digitization).*
 
 ### Judicial Approval: The Untimed Stage
-**Mandatory gatekeeping.** HMCTS guidance and EX107 require transcripts be **approved by the presiding judge** before release to ensure accuracy and anonymity compliance, especially in private hearings [EX107 Part E; HMCTS Guidance Aug 2025]. The approved version is final; no mechanism exists to view judicial edits (e.g., track changes), creating opacity in how accuracy is ensured and potentially concealing interpretive influences on the record. **No mandatory track record exists for changes (e.g., "track changes" log of edits by judges or parties), meaning users cannot verify what was altered from the draft—further compounding transparency deficits.** 
 
-**The untimed void.** No rule, form, or guidance specifies: 
-- How long judges have to approve transcripts 
-- What triggers approval 
-- What happens if approval is delayed 
-- Whether delayed approvals can be escalated 
+**Mandatory gatekeeping.** HMCTS guidance and Form EX107 require transcripts be approved by the presiding judge before release to ensure accuracy and anonymity compliance, especially in private hearings [Form EX107 Part E; HMCTS Guidance Aug 2025]. This applies to all judgments and, at judicial discretion, to other hearing elements.
 
-Court of Appeal guidance states: *"Order transcript at the earliest possible opportunity; file notice within time; seek extension if transcript delayed."* This implies delays are anticipated, users bear the risk, and no accountability mechanism exists [Court of Appeal Guide 2025]. 
+The approved version is final; no mechanism exists for parties to view what changes judges made between the draft and approved transcript (analogous to "track changes" in document editing software), creating opacity in how accuracy is ensured. Users cannot verify what was altered—whether corrections were factual (fixing transcription errors), interpretive (clarifying ambiguous passages), or substantive (potentially altering the meaning of what was said). This compounds the transparency deficit: even after obtaining a transcript, parties cannot be certain whether the approved version faithfully represents the courtroom dialogue or reflects judicial editorial judgment about what should have been said.
 
-### The Appeal-Deadline Collision (Visualized)
-**Even on best-case assumptions**, the timeline collision is structural [Court of Appeal Guide 2025; FPR 30.4]: 
-┌─────────────────────────────────────────────────────────────────┐ 
-│ THE 21-DAY APPEAL WINDOW vs. TRANSCRIPT PRODUCTION TIMELINE │ 
-└─────────────────────────────────────────────────────────────────┘ 
-Day 0: Judgment delivered → appeal clock starts (21 calendar days; 7 for interim/case mgmt) 
-Day 1: User realizes appeal needed 
-Day 2: User submits EX107 (within 48 hours selected, ~£700–£995) 
-↓ (Court: 2 wd target process; ~10 wd avg audio retrieval) 
-Day 3-4: Court processes EX107, approves request, retrieves recording 
-↓ 
-Day 5: Recording + approval sent to vendor → Service Level Band clock starts (48 hrs) 
-↓ 
-Day 7: Draft transcript delivered to court (vendor met ✓) 
-↓ 
-Day ?: Judge approves transcript (UNTIMED) 
-│ 
-├─→ If approval Day 10: User has 11 days to draft grounds 
-├─→ If approval Day 15: User has 6 days to draft grounds 
-└─→ If approval Day 22: Appeal deadline already passed (but file with note & amend) 
-Day 21: Appeal window closes (FPR 30.4) 
-CRITICAL GAP: The "48-hour service" reaches the judge on Day 7. Even immediate approval leaves only 14 days to draft grounds. Any approval delay beyond Day 15 makes timely full filing challenging (mitigated by PD30A note/amend). 
+**Design gap:** No guidance addresses this editorial process. No rule requires judges to document what changes they make, specifies what types of changes are permissible, provides parties a right to review or challenge editorial changes, or creates a mechanism to track whether "accuracy" review becomes substantive revision. This design silence leaves the integrity of the approved transcript entirely to judicial discretion, with no external verification possible.
 
-This creates **Design Failure 3 (DF-3): Appeal–Transcript Timeline Contradiction** — the system simultaneously requires transcripts for appeals, imposes a strict 21-day deadline, offers "48-hour service," excludes judicial approval from all timing promises, and places delay risk entirely on appellants [FPR 30.4; Court of Appeal Guide 2025; PD30A]. 
+**The untimed void.** No rule, form, or guidance specifies how long judges have to approve transcripts, what triggers approval, what happens if approval is delayed, or whether delayed approvals can be escalated. Court of Appeal guidance states: "Order transcript at the earliest possible opportunity; file notice within time; seek extension if transcript delayed." This implies delays are anticipated, users bear the risk, and no accountability mechanism exists [Court of Appeal Guide 2025].
+
+### The Appeal-Deadline Collision
+
+Even on best-case assumptions, the timeline collision is structural [Court of Appeal Guide 2025; FPR 30.4]. The following figure maps the best-case scenario where all parties act immediately, vendors meet Service Level Bands, and no additional delays occur.
+
+**Figure 7.1: The Appeal-Deadline Collision**
+```
+STRUCTURAL TIMELINE ANALYSIS: BEST-CASE TRANSCRIPT PRODUCTION vs APPEAL DEADLINE
+
+┌─────────────────────────────────────────────────────────────────────────┐
+│ APPEAL CLOCK: 21 DAYS (FPR 30.4)                                       │
+│ INTERIM/CASE MANAGEMENT: 7 DAYS                                        │
+└─────────────────────────────────────────────────────────────────────────┘
+
+Day 0  │ JUDGMENT DELIVERED
+       │ → Appeal clock starts
+       │ → 21 days remaining (7 for interim matters)
+       ▼
+
+Day 1  │ Appellant recognizes need to appeal
+       │ → 20 days remaining
+       ▼
+
+Day 2  │ FORM EX107 SUBMITTED
+       │ • Expedited 48-hour service selected
+       │ • Cost: £700-£995
+       │ → 19 days remaining
+       ▼
+
+Days   │ COURT PROCESSING + RECORDING RETRIEVAL
+3-14   │ ⚠️ EXCLUDED FROM SERVICE LEVEL BAND
+       │ • Target: 2 wd admin processing
+       │ • Average: ~10 wd recording retrieval
+       │ • Worst case: up to 4 weeks
+       │ → Best case Day 14: 7 days remaining
+       ▼
+
+Day 14 │ Recording + payment sent to vendor
+       │ ✓ SERVICE LEVEL BAND STARTS NOW
+       ▼
+
+Day 16 │ DRAFT TRANSCRIPT TO COURT
+       │ ✓ Vendor met 48-hour SLB obligation
+       │ → 5 days remaining before deadline
+       ▼
+
+Day ?? │ JUDICIAL APPROVAL (UNTIMED VOID)
+       │ ⚠️ No deadline, no SLA, no monitoring
+       │ → Approval time entirely at judicial discretion
+       │
+       ├─────── Scenario A: Day 18 approval
+       │        → 3 days for grounds preparation
+       │        → Extremely tight; quality compromised
+       │
+       ├─────── Scenario B: Day 21 approval  
+       │        → 0 days; deadline met but no time to draft
+       │        → Must file immediately with note (PD30A)
+       │
+       └─────── Scenario C: Day 22+ approval
+                → Deadline already passed (-1+ days)
+                → Late filing requires permission + explanation
+                → Appeal rights effectively lost without workaround
+
+Day 21 │ APPEAL DEADLINE EXPIRES
+       │ • Must file notice of appeal with grounds
+       │ • Requires transcript or note of judgment
+       │ • Late filing needs permission + good reason
+       └──────────────────────────────────────────────────────────────────
+
+THE STRUCTURAL CONTRADICTION:
+- System REQUIRES transcripts (Forms N161, FP161 mandate them)
+- System IMPOSES 21-day deadline (7 days for interim matters)
+- System OFFERS "48-hour service" (Form EX107 Section C5)
+- System EXCLUDES approval from timing promises (untimed void)
+- System PLACES all delay risk on appellants (no recourse)
+
+MITIGATION: PD30A allows filing with note, amending later when transcript arrives
+→ But forces drafting without verified record
+→ Risk of inaccuracies, omissions, mischaracterization
+→ Additional work: draft grounds twice
+→ LiPs often unaware of this workaround
+```
+
+**Critical Findings:**
+
+**The "48-hour service" is a production window, not an end-to-end timeline**
+- Vendor delivers to court on Day 16 (best case with immediate recording retrieval)
+- Transcript then enters untimed judicial approval void
+- Even with immediate approval (Day 18), only 3 days remain
+- Worst case: approval after deadline, making timely filing impossible
+
+**Without PD30A workaround, appeal rights effectively lost**
+- No escalation mechanism, no accountability for delays
+
+**The structural contradiction:** The system simultaneously:
+- Requires transcripts for appeals (Forms N161, FP161 mandate "transcript or note of judgment")
+- Imposes strict 21-day deadline (FPR 30.4; 7 days for interim matters)
+- Offers "expedited 48-hour service" (Form EX107 Section C5)
+- Excludes judicial approval from all timing promises (untimed void)
+- Places all delay risk on appellants (no recourse, no monitoring)
+
+**Mitigation: Practice Direction 30A (PD30A) Workaround**
+
+Practice Direction 30A permits filing notice of appeal with a note of judgment (handwritten or typed summary from memory/contemporaneous notes) and permission to amend grounds later when official transcript arrives.
+
+**Effect of mitigation:**
+- Prevents total access denial
+- But forces appellants to draft grounds without verified record
+- Risk of inaccuracies, omissions, or mischaracterization
+- Additional work: draft grounds twice (initial + amended)
+- Unrepresented appellants may not know this workaround exists
+
+**Why mitigation doesn't resolve the design failure:**
+- Workaround treats structural problem as individual responsibility
+- Professional representatives can navigate this; LiPs often cannot
+- "Transcript required" + untimed approval + strict deadline = systemic contradiction
+- PD30A is a procedural patch, not an architectural fix
+
+**Design Failure 6 (DF-6): The Appeal-Transcript Timeline Contradiction**
+
+**Nature of failure:** The institutional design creates a structural impossibility—requiring verified records within a timeframe that the system's own processes cannot reliably deliver.
+
+**Evidence sources:** Family Procedure Rules 2010, Rule 30.4; Practice Direction 30A; Court of Appeal Civil Appeals Guide 2025; Form EX107 Section C5; HMCTS Guidance August 2025; Vendor Terms & Conditions.
+
+**Compounding with other design failures:**
+- DF-1 (Form-Guidance Disconnect) conceals that "48 hours" excludes court processing and approval
+- DF-4 (Vendor Transparency) means informed users learn true timelines from commercial sites, not official forms
+- DF-2 (Checkbox Miscue) treats transcript as binary available/unavailable, hiding multi-stage process
+- DF-7 (Funding Fragmentation, discussed below) means low-income appellants face both timeline collision AND affordability barriers
+
+**Implications for systemic blindness:**
+- **Judicial blindness:** When transcripts arrive after appeal deadlines, or when appellants proceed with notes rather than verified records, appellate courts review incomplete or potentially inaccurate accounts of what was said. Pattern recognition across cases becomes impossible.
+- **Epidemiological blindness:** Appellants who cannot afford expedited service, or whose cases fall into approval delays, are systematically excluded from effective appeal rights. The demographics and case types affected remain invisible because no data tracks approval timelines or their correlation with case characteristics.
 
 ### Cost Allocation and Waivers
-**Three funding pathways:** 
-1. **Public expense (via EX105 or court order)** — for transcripts if court certifies (e.g., unrepresented, poor circumstances, reasonable appeal grounds) or special circumstances (urgent, unaffordable); attach order to EX107. Approval is discretionary with no specified criteria or timelines [HMCTS Guidance Aug 2025]. 
-2. **Party-borne costs** — for mandatory publication cases, costs are "borne equally by parties"; for discretionary applications, the applicant pays [PD 12G]. 
-3. **Help with Fees (EX160A)** — for court fees only; explicitly excludes third-party charges like transcription [HMCTS Guidance Aug 2025]. 
 
-This creates **Design Failure 5 (DF-5): Funding Fragmentation** — three separate applications (EX107, EX105, EX160A) use disconnected eligibility criteria. A user might qualify for fee waivers but be rejected for public expense transcription, transforming transcript access into a wealth filter [HMCTS Guidance Aug 2025]. Publication compounds this: Even after paying for a transcript, parties seeking to publish must apply via C2 (£258 fee), attend a hearing to defend the request, and—if a s.91(14) Children Act order exists—obtain prior judicial leave to even file the C2, creating layered costs and delays that filter access by wealth and persistence. 
+**Three funding pathways:**
 
-**The user decision tree:** 
+1. **Public expense (via Form EX105 or court order)**—for transcripts if court certifies (e.g., unrepresented, poor circumstances, reasonable appeal grounds) or special circumstances (urgent, unaffordable); attach order to Form EX107. Approval is discretionary with no specified criteria or timelines [HMCTS Guidance Aug 2025].
 
-Need transcript for appeal 
-↓ 
-┌───────────────┴───────────────┐ 
-│                                │ 
-Can afford ~£415–£995?          Cannot afford 
-│                                │ 
-↓                                ↓ 
-Pay vendor directly              Apply for public expense → Get transcript 
-                                 (EX105 or court order) 
-                                 ↓ 
-                                 ┌──────┴──────┐ 
-                                 │             │ 
-                                 Approved      Rejected 
-                                 ↓             ↓ 
-                                 Transcript    File with note; 
-                                 funded        amend later (PD30A) 
-**Post-Transcript Publication?** → C2 app (£258 + hearing) + s.91(14) leave if ordered 
+2. **Party-borne costs**—for mandatory publication cases, costs are "borne equally by parties"; for discretionary applications, the applicant pays [PD 12G].
 
-**Consequence:** Appeal rights become **wealth-contingent** despite statutory fee waivers existing for court applications. The disconnect between EX160A (court fees) and EX105 (transcription costs) creates a funding gap that transforms procedural rights into economic privileges [PD30A; Court of Appeal Guide 2025]. This extends to publication, where even obtained transcripts remain siloed without further (costly) permission. 
+3. **Help with Fees (Form EX160A)**—for court fees only; explicitly excludes third-party charges like transcription [HMCTS Guidance Aug 2025].
 
-### Non-Party Access: Double Gatekeeping for Transparency Actors
-**Journalists, researchers, and accountability advocates** seeking transcripts face compounded barriers: 
-**Stage 1: Permission** (before transcript request) 
-- Apply via **Form C2** (children cases, £258 fee) or **Form D11** (divorce, £65 fee) 
-- Obtain **judicial permission** to access the document (discretionary) 
-- Pay application fee 
-- Wait for permission hearing 
+This creates **Design Failure 7 (DF-7): Funding Fragmentation**—three separate applications (Forms EX107, EX105, EX160A) use disconnected eligibility criteria. A user might qualify for fee waivers but be rejected for public expense transcription, transforming transcript access into a wealth filter [HMCTS Guidance Aug 2025]. Publication compounds this: Even after paying for a transcript, parties seeking to publish must apply via Form C2 (£258 fee), attend a hearing to defend the request, and—if a s.91(14) Children Act order exists—obtain prior judicial leave to even file the Form C2, creating layered costs and delays that filter access by wealth and persistence.
 
-**Stage 2: Procurement** (if permission granted) 
-- Submit Form EX107 
-- Pay transcription costs (~£415–£995+ for typical judgments) 
-- Wait for vendor production 
-- Wait for judicial approval (untimed) 
+*Note: Funding coordination proposals addressing DF-7 are discussed in §8.1.5 (Funding Coordination).*
 
-This **double-gatekeeping** means transparency advocates experience: 
-- Two discretionary refusal points (permission + approval) 
-- Cumulative fees (C2/D11 application + transcription) 
-- Compounded delays (permission hearing + production + approval) 
-- No recourse if either stage fails [Sources: HMCTS Guidance Aug 2025; FPR 12.73]. 
+**The user decision tree:**
+```
+Need transcript for appeal
+↓
+┌───────────────┴───────────────┐
+│                                │
+Can afford ~£415–£995?          Cannot afford
+│                                │
+↓                                ↓
+Pay vendor directly              Apply for public expense
+Get transcript                   (Form EX105 or court order)
+                                 ↓
+                                 ┌──────┴──────┐
+                                 │             │
+                                 Approved      Rejected
+                                 ↓             ↓
+                                 Transcript    File with note;
+                                 funded        amend later (PD30A)
 
-For parties post-hearing who obtain a transcript but later seek publication, the same C2 process applies if not requested during proceedings, adding costs/delays without informal alternatives guaranteed. 
+Post-Transcript Publication? → C2 app (£258 + hearing) + s.91(14) leave if ordered
+```
 
-**The transparency paradox.** Commercial transcription providers disclose more operational detail (Service Level Band start conditions, pricing tiers, revision policies, complaint procedures) on their public-facing websites than HMCTS does on GOV.UK or judiciary.uk. A journalist researching "how to get a family court transcript" will find clearer procedural information on eScribers' or Marten Walsh Cherer's FAQ page than on official government guidance [Vendor websites; HMCTS Guidance Aug 2025]. 
+**Consequence:** Appeal rights become wealth-contingent despite statutory fee waivers existing for court applications. The disconnect between Form EX160A (court fees) and Form EX105 (transcription costs) creates a funding gap that transforms procedural rights into economic privileges [PD30A; Court of Appeal Guide 2025]. This extends to publication, where even obtained transcripts remain siloed without further (costly) permission.
 
-**Result:** The most procedurally sophisticated actors (vendors) are the most transparent, while the public institutions governing court access remain the most opaque. This inverts the democratic expectation that public bodies should be maximally transparent about access to public proceedings [Court of Appeal Guide 2025]. 
+### Non-Party Access: Double Gatekeeping for External Accountability
 
-### Operational Claims & Contractual Realities
-**HMCTS promises:** 
-- Within 48 hours expedited service 
-- Within 12 working days standard turnaround 
-- Public expense triggers for vulnerable parties 
-- Objective, accurate records 
+The transcript system operates differently for parties to proceedings (internal actors) versus journalists, researchers, and accountability advocates (external actors). This distinction creates compounded barriers for those best positioned to provide independent oversight.
 
-**Vendor contracts protect:** 
-- Service Level Band starts only after recording + payment received 
-- No obligation to chase courts for recording retrieval 
-- Quality review incurs additional cost 
-- Split-invoice arrangements require manual coordination 
-- Complaints reviewed but resolution timelines unspecified 
-- Tracking limited to vendor production status (upon request); no end-to-end HMCTS portal for overall process visibility 
+**Parties (internal actors) seeking transcripts:**
+- Submit Form EX107 directly to court
+- Pay transcription costs or apply for public expense (Form EX105)
+- Await judicial approval of transcript
+- May request publication via separate Form C2 application if not done during proceedings
 
-**The risk transfer.** These contractual realities shift performance risk entirely to applicants. When delays occur, users cannot determine whether the problem lies with court processing, recording retrieval, vendor production, or judicial approval—because no stage is monitored or reportable (beyond vendor tracking). The "48-hour service" becomes 48 hours *within* a black-box process that may take weeks to reach the vendor [Vendor T&Cs; HMCTS Guidance Aug 2025]. 
+**Non-parties (external actors) seeking transcripts face double gatekeeping:**
 
-This architecture **magnifies DF-1 (form–guidance disconnect) and DF-3 (appeal–transcript timeline contradiction)** by making the institutional design unverifiable in practice.
+**Stage 1: Permission to access (before transcript request)**
+- Apply via Form C2 (children cases, £258) or Form D11 (divorce cases, £65)
+- Obtain judicial permission to access the proceedings or documents (discretionary)
+- Attend permission hearing
+- Pay application fee
+- Wait for hearing date and decision
 
----
+According to the Transparency Project (2019), in family proceedings held in private, a media representative or non-party will need to apply to the judge to see documents referred to during proceedings. The judge must then carry out a balancing exercise, considering the right of litigants (if they object) to privacy and a fair trial against the right of the media to follow and report proceedings fairly and accurately [Transparency Project, 2019, p.14].
 
-## 7.1.3 Critical Gaps in the Obtaining Pathway (Design Failures)
-| **DF Tag** | **Design Failure** | **Consequence** | **Compounding Effect** | 
-|----------|-------------------|-----------------|------------------------| 
-| **DF-1** | Form–guidance disconnect (EX107 vs HMCTS site) | Applicants potentially misled on timelines (excludes 2 wd process + ~10 wd audio) | Conceals DF-2's contractual reality | 
-| **DF-2** | Vendor transparency > HMCTS clarity | Real costs/Service Level Bands hidden from users | Combines with DF-3 to make deadlines unachievable | 
-| **DF-3** | Appeal–transcript timeline contradiction | Appeals challenged before transcript arrives (mitigated by PD30A note/amend) | Makes DF-4's checkbox functionally unworkable | 
-| **DF-4** | Checkbox miscue on FP161/N161 | Users file wrong forms or incomplete applications | Assumes DF-1, DF-2, DF-3 don't exist | 
-| **DF-5** | No cross-form coordination (EX105 vs EX160A) | Vulnerable parties fall through funding cracks (extended to publication via C2/s.91(14) costs) | Low-income appellants experience all other failures more acutely | 
-| **DF-6** | Judge anonymized to avoid criticism | *Sara Sharif* ruling | Undermines common law accountability | 
-| **DF-7** | Refusal reasons not recorded | *HHJ Haigh* appeal only | Learning loop broken | 
+**Stage 2: Procurement (if permission granted)**
+- Then submit Form EX107
+- Pay transcription costs (~£415–£995+ for typical judgments)
+- Wait for vendor production
+- Wait for judicial approval (untimed)
 
-**Analytical synthesis.** The Obtaining Pathway promises accessible requests, expedited service, and funded transcripts for appeals. But the design enables timeline ambiguity (DF-1, DF-2), untimed gatekeeping creating structural collision with appeal deadlines (DF-3), wealth-based filtering despite statutory fee waivers (DF-5), and accountability voids (no performance monitoring, no escalation routes, no verification mechanisms) [Court of Appeal Guide 2025; HMCTS Guidance Aug 2025]. 
+**Cumulative barriers:**
+- Two discretionary refusal points (permission + approval)
+- Two sets of fees (Form C2/Form D11 application + transcription)
+- Compounded delays (permission hearing + production + approval)
+- No recourse if either stage fails
 
-**The compounding logic:** DF-1 conceals DF-2; together they combine with the untimed approval void to create DF-3; this timeline collision makes DF-4's mandatory checkbox unworkable; and DF-5 ensures that appellants who most need the system to function reliably—those without resources to absorb delays or hire specialists to navigate complexity—experience every failure most severely. 
+**Critical distinction:** Parties to proceedings face barriers when seeking to publish materials post-proceedings (requiring Form C2 if not requested during hearings). Non-parties face barriers even to access materials in the first place—they must obtain permission before they can even request a transcript. Both pathways create significant obstacles, but the nature of the gatekeeping differs: parties navigate one permission stage (publication), while non-parties navigate two (access + publication).
 
-**Result:** A system that formally requires transcripts for appeals while structurally preventing timely, affordable access for many users. The architecture cannot deliver what it mandates. The approval stage is **untimed** and excluded from vendor Service Level Bands; whether — and *how fast* — judges approve is a matter of **judicial practice**, examined in §7.2 and §7.4 [Court of Appeal Guide 2025]. 
+**The transparency paradox:** External oversight—which democratic theory positions as essential for institutional accountability—faces greater barriers than party access. Journalists and researchers seeking to document systemic patterns, identify recurring errors, or hold the family justice system accountable must overcome more gatekeeping stages than the litigants directly involved. This inverts the logic that independent observation should be facilitated, not hindered, as a check on closed proceedings.
+
+**Comparison with other jurisdictions:**
+- **Criminal proceedings:** Journalists access court lists, attend hearings, obtain judgments without permission applications
+- **Civil proceedings:** Default public hearings; no Form C2 application for court observers
+- **Tribunals:** Many publish decisions routinely; some provide observer access to listings
+- **Family proceedings:** Presumptive privacy (FPR 27.10) extends to all documentation, requiring permission even for non-identifying materials
+
+The double-gatekeeping structure reinforces both forms of systemic blindness: external observers cannot map judicial patterns (judicial blindness) or document family conflict trends (epidemiological blindness) when access requires navigating two discretionary permission stages, each with associated costs, delays, and no guarantee of success.
 
 ---
 
-## 7.1.4 The Publication Pathway: Formal Architecture
-The Publication Pathway governs how approved transcripts become public knowledge. Drawing on the Administration of Justice Act 1960 s.12, Children Act 1989 s.97, Sexual Offences Act 1992, FPR rules 12.73–12.75, Practice Direction 12G, and judicial guidance (2014–present, including Open Reporting Provisions 2025), this section maps the intended process while identifying where **discretion overwhelms design** [FPR 12.73–12.75; PD12G; Children Act 1989 s.97].
+## 7.1.3 Critical Gaps in the Obtaining Pathway
+
+> **Navigation Note:** This section synthesizes the design failures identified in §7.1.2, demonstrating how timeline ambiguity, untimed gatekeeping, and wealth-based filtering compound to prevent timely, affordable transcript access. The analysis proceeds to: (1) consolidated design failures table documenting all 15 systemic gaps, and (2) handoff to subsequent layers examining how these voids manifest in practice.
+
+The Obtaining Pathway promises accessible requests, expedited service, and funded transcripts for appeals. But the design enables timeline ambiguity (DF-1, DF-4), untimed gatekeeping creating structural collision with appeal deadlines (DF-6), wealth-based filtering despite statutory fee waivers (DF-7), and accountability voids (no performance monitoring, no escalation routes, no verification mechanisms) [Court of Appeal Guide 2025; HMCTS Guidance Aug 2025].
+
+**The compounding logic:** DF-1 conceals DF-4; together they combine with the untimed approval void to create DF-6; this timeline collision makes DF-2's mandatory checkbox unworkable; and DF-7 ensures that appellants who most need the system to function reliably—those without resources to absorb delays or hire specialists to navigate complexity—experience every failure most severely.
+
+**Result:** A system that formally requires transcripts for appeals while structurally preventing timely, affordable access for many users. The architecture cannot deliver what it mandates. The approval stage is untimed and excluded from vendor Service Level Bands; whether—and how fast—judges approve is a matter of judicial practice, examined in §7.2 and §7.4 [Court of Appeal Guide 2025].
+
+---
+
+## 7.1.3.1 Consolidated Design Failures: The Complete Architecture of Opacity
+
+The design failures identified across the Obtaining and Publication Pathways operate as an interconnected system. The table below consolidates all fifteen design failures, showing how voids in institutional design compound to create the double transparency deficit.
+
+**Table 7.1: Design Failures in the Transcript System Architecture**
+
+| **DF Tag** | **Design Failure** | **Pathway** | **Evidence Source** | **Systemic Consequence** | **Layer 2 Manifestation** |
+|------------|-------------------|------------|---------------------|--------------------------|---------------------------|
+| **DF-1** | Form–Guidance Disconnect | Obtaining | Form EX107 vs. HMCTS Guidance Aug 2025 | Form C5 implies end-to-end timelines ("within 48 hours"/"within 12 working days") but these exclude: (1) court processing (target 2 wd), (2) audio retrieval (avg ~10 wd), (3) judicial approval (untimed) | Users misled about actual timelines; conceals DF-4's contractual reality |
+| **DF-2** | Checkbox Miscue on Appeal Forms | Obtaining | Forms N161, FP161, FP202 Guidance | Appeal forms treat transcript availability as binary checkbox; no explanation of multi-stage process, discretionary approval, or PD30A workaround | Users file incomplete applications or wrong forms; assumes DF-1, DF-4, DF-6 don't exist |
+| **DF-3** | Performance Opacity in Vendor Selection | Obtaining | HMCTS approved transcriber list, vendor listings | HMCTS lists suppliers in no transparent order; no comparative performance metrics visible to applicants; position bias rewards placement over quality | Applicants cannot make informed choices; market incentives decoupled from service quality. *Addressed in §8.1.3* |
+| **DF-4** | Vendor Transparency Exceeds HMCTS Clarity | Obtaining | Vendor T&Cs (eScribers, TTA, Ubiqus) vs. Form EX107 Guidance | Commercial providers explicitly state SLB starts only after audio + payment + approval received; HMCTS guidance buries this in separate documents | Informed users access vendor sites for clarity; uninformed users rely on misleading forms |
+| **DF-5** | No Recording Infrastructure Transparency | Obtaining | HMCTS Guidance, Vendor T&Cs | No public documentation of how recordings are catalogued or retrieved; "~10 working days average" unexplained; retrieval excluded from SLAs | Hidden bottleneck makes expedited service meaningless; no accountability for delays. *Addressed in §8.1.2* |
+| **DF-6** | Appeal–Transcript Timeline Structural Collision | Obtaining | FPR 30.4, PD30A, Court of Appeal Guide 2025, Form EX107 | System requires transcripts for appeals (Forms N161, FP161 mandate them), imposes 21-day deadline, offers "48-hour service," but excludes judicial approval (untimed) from all timing commitments | Even best-case: transcript reaches judge Day 16; with immediate approval, only 3-5 days remain for grounds. PD30A workaround (file with note, amend later) mitigates but doesn't resolve structural contradiction |
+| **DF-7** | Funding Fragmentation | Both | Forms EX107, EX105, EX160A; PD 12G; Form C2 | Three disconnected applications: EX107 (transcript request), EX105 (public expense), EX160A (Help with Fees - court fees only, excludes vendor costs). No cross-form coordination; separate eligibility criteria | Low-income appellants qualify for fee waivers but rejected for public expense transcription. Publication extends this: Form C2 application (£258) required even after transcript obtained, plus hearing costs if contested. *Addressed in §8.1.5* |
+| **DF-8** | No Guidance on Judicial Self-Anonymization | Publication | Design silence in PD 12G, anonymization guidance | No rule specifies whether judges may anonymize their own names in published family court judgments (contrast: criminal law judges always named) | Layer 2 practice: Judges exercise discretion to self-anonymize (e.g., Sara Sharif case), creating accountability gap—impossible to track individual judge patterns |
+| **DF-9** | No Requirement to Document Refusal Reasons | Both | Design silence in FPR, Form EX107, PD 12G | No rule requires judges to provide written reasons when refusing transcript access or publication permission (FPR requires reasons for substantive decisions but silent on procedural gatekeeping) | Layer 2 practice: Judges routinely provide no written reasons for refusals (HHJ Haigh appeal example), leaving decisions unreviewable and patterns invisible |
+| **DF-10** | No Anonymization Unit | Publication | Transparency Implementation Group (TIG) Reports 2023-2025, PD 12G | Anonymization takes 2-3 hours per judgment; TIG proposed dedicated unit; remains unimplemented despite recurring recommendations | Resource bottleneck: judges lack time for both prompt transcript approval and meticulous anonymization. LiPs receive no support. *Addressed in §8.1.1* |
+| **DF-11** | No Jigsaw Identification Verification Process | Publication | PD 12G, Children Act 1989 s.97 | Strict anonymization required but no systematic testing of whether redactions prevent identification via cumulative details | Quality inconsistency; anonymization becomes defensive (over-cautious) rather than enabling; identification risk untested |
+| **DF-12** | No Enforcement of Publication Targets | Publication | 2014 Judicial Guidance, Open Reporting Provisions 2025, TIG Reports | June 2024 guidance sets judge-specific publication expectations (e.g., 4-6 annually for circuit judges); no monitoring, audit, or consequences for non-compliance | Wide variation across courts; "holistic picture" lost; presumption for serious cases becomes discretionary in practice. Focus on "serious" cases misses routine patterns needed for epidemiological visibility |
+| **DF-13** | Design Silence on Consent Asymmetry | Publication | Design silence in PD 12G, 2014 Guidance | No guidance when parties disagree on publication: Does one parent's consent suffice if anonymization robust? How to distinguish welfare concerns from reputational objections? Do institutional parties have veto power? | Layer 2 practice: Objections routinely prevail regardless of anonymization quality; single objection functions as veto; transparency inverted from presumption to exception. Local Authority (LA) objections can delay indefinitely |
+| **DF-14** | No Subject Indexing Infrastructure | Publication | British and Irish Legal Information Institute (BAILII), Find Case Law (FCL), CATH service documentation | Published judgments lack consistent tagging (case type, issues, procedural stage, outcomes); no hierarchical subject classifications (unlike criminal law databases) | Discovery requires specialist knowledge (§7.2.0.2 demonstrates this empirically through failed database searches); judgments exist but remain functionally inaccessible; transparency nominal not real. Fragmented across repositories with no uniform mandate. *Addressed in §8.1.6* |
+| **DF-15** | No Integrated Publication Request on Form EX107 | Both | Form EX107, PD 12G, Form C2/Form D11 application requirements | No mechanism to flag publication intent during initial transcript request; requires separate Form C2 (£258, children cases) or Form D11 (£65, divorce) application post-transcript, even if uncontested | Forces additional applications, hearings, and fees after transcript obtained; procedural fragmentation delays transparency. If contested, full hearing required to argue case. *Addressed in §8.1.4* |
+
+*Note on Chapter 8 cross-references: Where design failures have proposed solutions in Chapter 8 (§8.1), this is noted. DFs without current Chapter 8 proposals represent gaps for future research or policy development. The absence of a Chapter 8 reference does not indicate the DF is less significant—some fundamental structural gaps (e.g., DF-1, DF-6) require systemic rather than incremental reform.*
+
+### Design Failure Interconnections
+
+The fifteen design failures operate as a compounding system:
+
+**Obtaining Pathway cascade:**
+- DF-1 (form-guidance disconnect) conceals DF-4 (vendor contractual clarity)
+- Together, DF-1 and DF-4 enable DF-6 (timeline collision with appeals)
+- DF-5 (recording infrastructure opacity) compounds DF-6 by adding unpredictable 10-28 day delays
+- DF-3 (performance opacity) prevents users from selecting faster vendors
+- DF-6 makes DF-2 (checkbox miscue) functionally unworkable
+- DF-7 (funding fragmentation) ensures vulnerable appellants experience all preceding failures most acutely
+
+**Publication Pathway cascade:**
+- DF-10 (no anonymization unit) + DF-11 (no verification process) = resource bottleneck + quality inconsistency
+- DF-12 (no enforcement) enables wide judicial variation
+- DF-13 (consent asymmetry silence) allows objections to function as vetoes
+- DF-14 (no subject indexing) makes successfully published judgments undiscoverable
+- DF-15 (fragmented publication requests) adds procedural barriers even when parties agree
+
+**Cross-pathway effects:**
+- DF-7 extends from obtaining to publication via Form C2 costs
+- DF-8 and DF-9 create design voids that Layer 2 judicial practice fills with opacity
+- DF-15 fragments what could be unified process
+
+The visibility deficit (see §7.1.9 for derivation) emerges from these compounding failures: the majority of final hearings produce no publicly accessible records because multiple barriers must be overcome simultaneously.
+
+### Notes on Layer 1/Layer 2 Boundary
+
+DF-8 and DF-9 represent **design-by-omission**: the institutional architecture creates voids by remaining silent on judicial self-anonymization and refusal documentation. These voids are documented in Layer 1 as **absent guidance**. How judges fill these voids—choosing to self-anonymize, declining to record reasons—is analyzed in Layer 2 (Judicial Gatekeeping) as **discretionary practice** that exploits design silences.
+
+Similarly, DF-13 identifies the design silence on consent disputes. Layer 2 will examine how judges interpret this silence (treating objections as vetoes) and the cumulative pattern across cases.
+
+---
+
+## 7.1.4 The Publication Pathway: Formal Architecture (Tracks A & B)
+
+> **Navigation Note:** This section examines how both Track A (transcripts) and Track B (written documents) are made publicly accessible. The pathway covers: legal framework (open justice vs. privacy), anonymization requirements, publication triggers, consent disputes, and access infrastructure. All documents—whether transcribed oral proceedings or already-written materials—face the same publication barriers documented below.
+
+**Scope note:** This pathway applies to **both Track A (transcripts) and Track B (written documents)**. Whether a document originated as an oral proceeding requiring transcription or was created in written form, it faces the same publication barriers: anonymization requirements, judicial permission, and upload to public repositories.
+
+The Publication Pathway governs how approved transcripts and written documents become public knowledge. Drawing on the Administration of Justice Act 1960 s.12, Children Act 1989 s.97, Sexual Offences Act 1992, FPR rules 12.73–12.75, Practice Direction 12G, and judicial guidance (2014–present, including Open Reporting Provisions 2025), this section maps the intended process while identifying where discretion overwhelms design [FPR 12.73–12.75; PD12G; Children Act 1989 s.97].
+
+This section analyzes institutional components (legal framework, anonymization requirements, publication triggers), identifies critical gaps (consent asymmetry, enforcement voids), and examines access infrastructure (BAILII, Find Case Law, subject indexing). The analysis reveals how publication presumptions translate into discretionary practice, with detailed examination in §7.2 of how judicial gatekeeping fills design silences.
 
 ### Institutional Components
-| **Component** | **Source** | **Access Method** | **What Can Be Published** | **What Cannot** | 
-|-------------|-----------|------------------|---------------------------|-----------------| 
-| **Anonymisation Requirements** | Children Act 1989 s.97, Sexual Offences Act 1992, PD 12G | Solicitor anonymises, judge approves | Redacted judgment, no jigsaw ID | Raw transcript, unredacted details | 
-| **Publication Rules & Judicial Discretion** | FPR 12.73–12.75, Open Reporting Provisions 2025, 2014 Judicial Guidance | Judicial permission, Transparency Order | Anonymised judgments in serious cases | Automatic publication without permission | 
-| **Access Infrastructure** | TNA Find Case Law, BAILII, CATH service | Public websites, no login required | Free access, searchable (CATH developing) | Limited volume, inconsistent upload, subject indexing | 
+
+| **Component** | **Source** | **Access Method** | **What Can Be Published** | **What Cannot** |
+|---------------|------------|-------------------|---------------------------|-----------------|
+| **Anonymization Requirements** | Children Act 1989 s.97, Sexual Offences Act 1992, PD 12G | Solicitor anonymizes, judge approves | Redacted judgment, no jigsaw identification | Raw transcript, unredacted details |
+| **Publication Rules & Judicial Discretion** | FPR 12.73–12.75, Open Reporting Provisions 2025, 2014 Judicial Guidance | Judicial permission, Transparency Order | Anonymized judgments in serious cases | Automatic publication without permission |
+| **Access Infrastructure** | The National Archives (TNA) Find Case Law (FCL), British and Irish Legal Information Institute (BAILII), Court and Tribunal Hearings (CATH) service | Public websites, no login required | Free access, searchable (CATH developing) | Limited volume, inconsistent upload, subject indexing |
 
 ### Legal Framework: Open Justice vs. Privacy
-Family court proceedings concerning children are held **in private** by default (FPR 27.10). Publication of information from such proceedings is **contempt of court** unless the judge has **authorised publication** (AJA 1960 s.12) [FPR 27.10; AJA 1960 s.12]. This creates a **judicial balancing act** in every case: 
-- **Article 10 ECHR** (freedom of expression) → public interest in accountability, precedent development 
-- **Article 8 ECHR** (right to private and family life) → child welfare, family privacy, protection from identification 
 
-Child welfare is a "crucial factor" but **not "paramount"** in publication decisions (*Re S (A Child)* [2004] UKHL 47), distinguishing these from welfare decisions within proceedings [Re S (A Child) [2004] UKHL 47]. 
+Family court proceedings concerning children are held in private by default (FPR 27.10). Publication of information from such proceedings is contempt of court unless the judge has authorized publication (AJA 1960 s.12) [FPR 27.10; AJA 1960 s.12]. This creates a judicial balancing act in every case:
 
-**Post-2014 shift.** Judicial guidance aimed to make **publication the starting point** for serious cases (fact-finding, care orders, medical treatment, novel appeals) unless **compelling reasons** exist. This represented an intended cultural shift from "private by default" to "transparent unless harmful." Yet judges retain full discretion to refuse publication even in "mandatory" categories—making the "starting point" guidance unenforceable [2014 Judicial Guidance; Open Reporting Provisions 2025]. 
+- **Article 10 European Convention on Human Rights (ECHR)** (freedom of expression) → public interest in accountability, precedent development
+- **Article 8 ECHR** (right to private and family life) → child welfare, family privacy, protection from identification
 
-### Anonymisation Requirements
-Any published judgment must be anonymised to **strictly preserve child and family anonymity**, redacting: 
-- Names (parties, children, professionals) 
-- Locations (addresses, schools, towns if locally identifiable) 
-- Specific dates (if they enable identification) 
-- Ethnic, religious, cultural details (if unusual enough to identify) 
-- Medical or educational specifics (rare conditions, specialist placements) 
-- Any other details enabling **"jigsaw identification"** — where cumulative details allow recognition via local media, school networks, or online search [PD 12G; Children Act 1989 s.97]. 
+Child welfare is a "crucial factor" but not "paramount" in publication decisions (*Re S (A Child)* [2004] UKHL 47), distinguishing these from welfare decisions within proceedings [*Re S (A Child)* [2004] UKHL 47].
 
-**Who anonymises?** Practice Direction 12G specifies: 
-- **Mandatory publication cases**: solicitor for the applicant 
-- **Discretionary cases**: solicitor for the party requesting publication 
+**Post-2014 shift.** Judicial guidance aimed to make publication the starting point for serious cases (fact-finding, care orders, medical treatment, novel appeals) unless compelling reasons exist. This represented an intended cultural shift from "private by default" to "transparent unless harmful." Yet judges retain full discretion to refuse publication even in "mandatory" categories—making the "starting point" guidance unenforceable [2014 Judicial Guidance; Open Reporting Provisions 2025].
 
-For litigants in person (LiPs), the requesting party must anonymise themselves, with no dedicated support or guidance, amplifying resource burdens. The anonymised version must be **submitted to the judge for approval** before publication [PD 12G]. 
+*Note: The article later questions whether prioritizing "serious" cases (typically involving significant harm or death) adequately captures routine family conflict patterns needed for epidemiological visibility and policy reform. This analytical critique is developed in §7.2 and §7.4.*
 
-**Resource burden.** Judges and practitioners report anonymisation takes **2–3 hours per judgment** to do safely, requiring: 
-- Line-by-line review of the full text 
-- Cross-reference checking (does removing the father's profession still leave enough detail to identify via the mother's unusual circumstances?) 
-- Judgment calls on borderline details (is "a city in the northwest" safe, or does the case's other facts narrow it to Manchester?) 
+### Anonymization Requirements
 
-The Transparency Implementation Group proposed an **Anonymisation Unit** to assist judges with this work, but despite ongoing recommendations, implementation requires HMCTS funding and has not occurred as of 2025. This creates a **resource-expertise collision**: the judges who lack time to approve transcripts promptly (§7.1.1) are also expected to perform meticulous anonymisation review—a task requiring sustained concentration that production pressures make difficult to prioritize [TIG Reports 2023–2025]. 
+Any published judgment must be anonymized to strictly preserve child and family anonymity, redacting:
+- Names (parties, children, professionals)
+- Locations (addresses, schools, towns if locally identifiable)
+- Specific dates (if they enable identification)
+- Ethnic, religious, cultural details (if unusual enough to identify)
+- Medical or educational specifics (rare conditions, specialist placements)
+- Any other details enabling "jigsaw identification"—where cumulative details allow recognition via local media, school networks, or online search [PD 12G; Children Act 1989 s.97].
+
+**Who anonymizes?** Practice Direction 12G specifies:
+- **Mandatory publication cases**: solicitor for the applicant
+- **Discretionary cases**: solicitor for the party requesting publication
+
+For Litigants in Person (LiPs), the requesting party must anonymize themselves, with no dedicated support or guidance, amplifying resource burdens. The anonymized version must be submitted to the judge for approval before publication [PD 12G].
+
+**Resource burden.** Judges and practitioners report anonymization takes 2–3 hours per judgment to do safely, requiring line-by-line review, cross-reference checking (does removing the father's profession still leave enough detail to identify via the mother's unusual circumstances?), and judgment calls on borderline details (is "a city in the northwest" safe, or does the case's other facts narrow it to Manchester?). The Transparency Implementation Group proposed an **Anonymization Unit** to assist judges with this work, but despite ongoing recommendations, implementation requires HMCTS funding and has not occurred as of 2025. This creates a resource-expertise collision: the judges who lack time to approve transcripts promptly (§7.1.2) are also expected to perform meticulous anonymization review—a task requiring sustained concentration that production pressures make difficult to prioritize [TIG Reports 2023–2025].
+
+*Note: Proposals for a dedicated Anonymization Unit are discussed in §8.1.1.*
 
 ### Publication Triggers and Volume
-**Mandatory triggers** (publication presumed unless compelling reasons; parties may request informally at hearing end, but if missed, formal C2 application required post-proceedings): 
-- Serious fact-finding decisions (allegations of abuse, harm) 
-- Final care orders 
-- Serious medical treatment applications 
-- Appeals raising novel points of law 
 
-**Cost allocation for mandatory cases**: "borne equally by parties to the proceedings" [PD 12G]. 
+**Mandatory triggers** (publication presumed unless compelling reasons; parties may request informally at hearing end, but if missed, formal Form C2 application required post-proceedings):
+- Serious fact-finding decisions (allegations of abuse, harm)
+- Final care orders
+- Serious medical treatment applications
+- Appeals raising novel points of law
 
-**Discretionary publication:** For all other cases, publication requires: 
-- Application by a party, journalist, or legal blogger 
-- Judicial permission following Article 8/10 balancing 
-- Cost borne by applicant unless judge orders otherwise 
+**Cost allocation for mandatory cases:** "borne equally by parties to the proceedings" [PD 12G].
 
-**Non-party access:** Via Form C2 (£258, children cases) or D11 (£65, divorce cases). Judicial permission required before accessing any document from private proceedings [HMCTS Guidance Aug 2025; FPR 12.73]. 
+**Discretionary publication:** For all other cases, publication requires:
+- Application by a party, journalist, or legal blogger
+- Judicial permission following Article 8/10 balancing
+- Cost borne by applicant unless judge orders otherwise
 
-**Volume target and reality:** 
-- **Target**: June 2024 guidance expects judges to publish specific numbers annually (e.g., 4–6 for circuit judges; deemed "realistic" post-pilot). 
-- **Actual**: Increased post-Jan 2025 extension to all courts (no full 2025 figure available; Q2 2025 case stats show ~4,213 public law starts, implying higher publication potential). 
-- **Pattern**: TIG reports (2023–2025) document **"big variations between judges and different courts"**, confirming "holistic picture of the system is not being achieved" despite more publications. 
+**Non-party access:** Via Form C2 (£258, children cases) or Form D11 (£65, divorce cases). Judicial permission required before accessing any document from private proceedings [HMCTS Guidance Aug 2025; FPR 12.73].
 
-**Critical gap: enforcement.** The guidance creates a "presumption" and "starting point" but no mechanism to ensure compliance: 
-- No registry tracking whether mandatory-category cases initiated publication 
-- No audit of refusal rates or stated reasons 
-- No consequences for judges who routinely decline to publish 
-- No appeal route for parties disagreeing with refusal (beyond general appeal grounds) 
+**Volume target and reality:**
+- **Target:** June 2024 guidance expects judges to publish specific numbers annually (e.g., 4–6 for circuit judges; deemed "realistic" post-pilot).
+- **Actual:** Increased post-Jan 2025 extension to all courts (no full 2025 figure available; Q2 2025 case stats show ~4,213 public law starts, implying higher publication potential).
+- **Pattern:** TIG reports (2023–2025) document "big variations between judges and different courts", confirming "holistic picture of the system is not being achieved" despite more publications.
 
-This makes "mandatory" functionally discretionary—a pattern Layers 3–4 will document through practitioner and user evidence [TIG Reports 2023–2025; Open Reporting Provisions 2025]. The focus on "serious" cases (e.g., child harm/death) logically overlooks routine proceedings, missing epidemiological patterns in everyday family conflicts for policy reform. 
+**Critical gap: enforcement.** The guidance creates a "presumption" and "starting point" but no mechanism to ensure compliance: no registry tracking whether mandatory-category cases initiated publication, no audit of refusal rates or stated reasons, no consequences for judges who routinely decline to publish, and no appeal route for parties disagreeing with refusal (beyond general appeal grounds). This makes "mandatory" functionally discretionary—a pattern Layers 3–4 will document through practitioner and user evidence [TIG Reports 2023–2025; Open Reporting Provisions 2025].
 
+### Consent Asymmetry: When Parties Disagree
 
+**The design silence.** In multi-party cases (e.g., parents + local authority + children's guardian), what happens when parties split on publication? No rule or guidance in PD 12G or the 2014 Judicial Guidance addresses: Does one parent's consent suffice if anonymization is robust? How should judges distinguish welfare concerns from reputational objections? Do institutional parties (local authorities, National Health Service (NHS) trusts) have veto power? What weight should systemic transparency interests receive when individual parties prefer privacy?
+
+**Design Failure 13 (DF-13): Design Silence on Consent Asymmetry.** This void leaves judges without clear parameters for resolving publication disputes, creating space for discretionary interpretation that subsequent layers will show operates systematically toward refusal when any party objects.
+
+*Note: This design silence is documented in Layer 1 as absent guidance. How judicial practice fills this void—systematically treating objections as vetoes—is examined in Layer 2 (§7.2 Judicial Gatekeeping), where case examples and practitioner accounts reveal that objections routinely prevail, effectively inverting the post-2014 publication presumption.*
 
 ### Access Infrastructure and Discoverability
-**Repositories:** 
-- **BAILII** (British and Irish Legal Information Institute) — charitable website operating since 2000, free access, no login required. Historically used mainly by legal professionals; general public "largely unaware of" its existence (MoJ consultation evidence). Comprehensive but basic search; inconsistent family coverage. 
-- **Find Case Law (FCL)** — The National Archives service (operational since April 2022), free public access, search and filtering functionality. Intended to be more user-friendly than BAILII. Official; better metadata/filters, but not all judgments centralized. 
-- **CATH service** (Court and Tribunal Hearings) — being developed to publish listing information with sorting/filtering of hearing lists. Will not host full judgments but will provide better discovery of what hearings occurred. Listings only; no judgments, focusing on hearings metadata. [TNA; BAILII; CATH Development Updates]. 
 
-**Searchability and discovery barriers:** Even when judgments are published, users face significant discovery challenges: 
-1. **No subject indexing.** Unlike criminal law databases or statute databases with hierarchical subject classifications, family court judgments on BAILII/FCL rely on: 
-   - Free-text search (requires knowing terminology) 
-   - Judge name (requires knowing who heard the case) 
-   - Date range (requires knowing approximate hearing date) 
-   - Neutral citation (requires already knowing the case exists) 
-2. **Inadequate metadata.** Many published judgments lack: 
-   - Consistent tagging of case type (contact dispute vs. care proceedings vs. medical treatment) 
-   - Issue labels (parental alienation, domestic abuse, relocation) 
-   - Procedural stage markers (interim, final, appeal) 
-   - Outcome summaries 
-3. **No consolidated database.** There is no single authoritative list showing "all published family court judgments on [topic]" that users can browse without specialist legal research skills. Repositories differ in coverage (e.g., BAILII may have more historical; FCL official but selective uploads), with no mandate for uniform publication across platforms—leading to fragmented access beyond search variations. 
+**Repositories:**
+- **British and Irish Legal Information Institute (BAILII)**—charitable website operating since 2000, free access, no login required. Historically used mainly by legal professionals; general public "largely unaware of" its existence (Ministry of Justice (MoJ) consultation evidence). Comprehensive but basic search; inconsistent family coverage.
+- **Find Case Law (FCL)**—The National Archives service (operational since April 2022), free public access, search and filtering functionality. Intended to be more user-friendly than BAILII. Official; better metadata/filters, but not all judgments centralized.
+- **Court and Tribunal Hearings (CATH) service**—being developed to publish listing information with sorting/filtering of hearing lists. Will not host full judgments but will provide better discovery of what hearings occurred. Listings only; no judgments, focusing on hearings metadata. [TNA; BAILII; CATH Development Updates].
 
-Researchers, journalists, or litigants in person seeking precedent must rely on: 
-- Google searches (often return commercial legal databases requiring subscriptions) 
-- Personal networks (knowing which practitioners follow publication patterns) 
-- Trial and error (spending hours experimenting with search terms) 
+**The systematic limitations of these repositories—particularly the dramatic disparity between BAILII's holdings (132,327 family law results) and official government archives (Judiciary UK: 0 results; Find Case Law: 309 results)—are empirically demonstrated in §7.2.0.2 through failed keyword searches. This 0-0.23% coverage rate validates the "hollow infrastructure" thesis: official databases promise functionality while maintaining minimal operational capacity.**
 
-**Comparison deficit.** The US federal PACER system (criticized for access barriers of its own) nonetheless provides structured case type classifications, party name searching, and docket sheets. The UK's own BAILII criminal law archive provides better subject organization. Family court transparency infrastructure lags behind both international comparators and domestic equivalents in other jurisdictions [MoJ Consultation; BAILII/FCL Documentation]. 
+**Searchability and discovery barriers:** Even when judgments are published, users face significant discovery challenges. Unlike criminal law databases or statute databases with hierarchical subject classifications, family court judgments on BAILII/FCL rely on free-text search (requires knowing terminology), judge name (requires knowing who heard the case), date range (requires knowing approximate hearing date), or neutral citation (requires already knowing the case exists). Many published judgments lack consistent tagging of case type (contact dispute vs. care proceedings vs. medical treatment), issue labels (parental alienation, domestic abuse, relocation), procedural stage markers (interim, final, appeal), or outcome summaries. There is no single authoritative list showing "all published family court judgments on [topic]" that users can browse without specialist legal research skills. Repositories differ in coverage (e.g., BAILII may have more historical; FCL official but selective uploads), with no mandate for uniform publication across platforms—leading to fragmented access beyond search variations.
 
-**Consequence:** Even when the Publication Pathway succeeds in getting a judgment anonymised and uploaded, poor discoverability means the transparency gain is **nominal rather than functional**. Judgments exist in theory but remain unfindable in practice unless users have specialist knowledge or insider guidance.
+Researchers, journalists, or Litigants in Person seeking precedent must rely on Google searches (often return commercial legal databases requiring subscriptions), personal networks (knowing which practitioners follow publication patterns), or trial and error (spending hours experimenting with search terms).
+
+**Comparison deficit.** The United States federal Public Access to Court Electronic Records (PACER) system (criticized for access barriers of its own) nonetheless provides structured case type classifications, party name searching, and docket sheets. The UK's own BAILII criminal law archive provides better subject organization. Family court transparency infrastructure lags behind both international comparators and domestic equivalents in other jurisdictions [MoJ Consultation; BAILII/FCL Documentation].
+
+**Consequence:** Even when the Publication Pathway succeeds in getting a judgment anonymized and uploaded, poor discoverability means the transparency gain is nominal rather than functional. Judgments exist in theory but remain unfindable in practice unless users have specialist knowledge or insider guidance.
 
 ---
 
-## 7.1.5 Critical Gaps in the Publication Pathway
-| **DF Tag** | **Gap** | **Design Silence** | **Systemic Effect** | 
-|---------|---------|--------------------|---------------------| 
-| DF-8 | No Anonymisation Unit | Judges lack time (2–3 hrs/judgment); unimplemented despite recommendations (LiPs unsupported) | Publication delays, risk of identification errors or over-cautious redaction | 
-| DF-9 | No verification process | "Jigsaw ID" risk untested systematically | Quality inconsistency; anonymisation becomes defensive rather than enabling | 
-| DF-10 | No enforcement of judge-specific targets | No monitoring, consequences, or audit (focus on "serious" cases misses routine patterns) | Wild variation across courts; "holistic picture" lost; presumption becomes discretionary | 
-| DF-11 | Consent asymmetry | No guidance when parties split (institutional objections delay indefinitely) | Single objection functions as veto; transparency inverted from presumption to exception | 
-| DF-12 | No subject indexing | Discovery relies on specialized knowledge (fragmented across repositories) | Published judgments remain functionally inaccessible; transparency nominal not real | 
-| DF-13 | No integrated publication request on EX107 | No mechanism to flag publication intent during transcript request; requires separate C2 application (with fees/hearings if contested) even if uncontested | Forces additional applications/hearings post-transcript; delays transparency and adds costs, even when parties agree | 
+## 7.1.5 Publication of Non-Transcript Documents (Track B): The Grey Area
 
-**Analytical synthesis.** The Publication Pathway promises a presumption of publication for serious cases, strict anonymisation protections, and free public repositories. But the design enables: 
-- **Discretion without oversight** (no monitoring of whether mandatory cases are published) 
-- **Consent asymmetry as veto** (objections routinely prevail regardless of anonymisation quality) 
-- **Resource bottlenecks** (no dedicated anonymisation support despite 2–3 hour burden) 
-- **Publication voids** (inconsistent compliance, no enforcement mechanism) 
-- **Discovery barriers** (poor searchability, no subject indexing, inadequate metadata) 
+> **Navigation Note:** Track A (oral proceedings) requires transcription before publication. Track B documents—skeleton arguments, court orders, position statements—already exist in written form and could theoretically be published immediately after anonymization. This section examines why they face the same gatekeeping barriers, revealing that transparency obstacles stem from permission culture, not transcription logistics.
 
-**Fragmented publication requests:** Even after obtaining a transcript via EX107, users must file a separate C2 (or equivalent) for permission if not requested at the hearing—requiring payment (£258 fee) and often a full hearing to argue the case if any party objects, creating unnecessary procedural hurdles that could be streamlined if flagged earlier. 
+**Context:** The preceding sections examined how oral proceedings and judgments (Track A) are transcribed and potentially published. This section addresses a separate category of court documentation: written documents that already exist in publishable form but face unclear publication rules.
 
-**The compounding effect.** Even when a judgment successfully navigates all barriers—judge chooses to publish, parties consent or objections are overcome, anonymisation is completed, judgment is uploaded—if it's published on BAILII without adequate metadata, arrives months after the hearing, or sits in isolation because similar cases weren't published due to inconsistent judicial practice, the result is **selective transparency**. Enough openness exists to claim compliance with the 2014 guidance, but insufficient volume, quality, and accessibility to enable the systemic learning the guidance intended [2014 Judicial Guidance; TIG Reports 2023–2025]. 
+Practice Direction 12G addresses publication of judgments (whether oral/transcribed or written) but is **silent** on other party-created documents that already exist in written form. This creates a grey area for:
+- Skeleton arguments prepared by counsel or parties
+- Position statements filed before hearings
+- Witness statements (with appropriate redactions)
+- Court orders (e.g., child arrangements orders, prohibited steps orders)
+- Expert reports filed in proceedings
 
-The "serious cases" presumption exacerbates this by prioritizing dramatic harms (e.g., child death) over routine disputes, logically failing to capture prevalence patterns for policy reform. 
+**The distinction from Track A:** These documents bypass the Obtaining Pathway entirely—there is no transcription needed, no Form EX107 application, no vendor involvement, no Service Level Band timelines. They already exist as written documents. The only barrier to publication is permission.
 
-**Result:** A publication pathway that exists in form but functions selectively, generating transparency that serves individual case precedent for sophisticated legal actors while failing to provide the epidemiological visibility needed for systemic accountability and reform. Publication is a **discretionary judicial decision**; refusals, partial permissions, and consent disputes are analysed in **§7.2 Judicial Rulings** [FPR 12.73–12.75]. 
+**Design silence:** No Practice Direction, rule, or guidance clarifies the legal status of party-initiated publication of these materials. Documents that are created by parties themselves, already anonymized or easily anonymizable, and contain no confidential information beyond what's in published judgments—yet parties must invoke common law open justice principles and Article 10 ECHR to justify publication, demonstrating absence of clear guidance.
 
----
-### 7.1.5.1 Party-Initiated Transparency: The Grey Area of Skeleton Arguments
+**The publication process for Track B documents:**
+```
+Document exists in written form
+→ Anonymization/Redaction (by party or solicitor)
+→ Publication Permission (via Form C2/Form D11)
+→ Public Upload (or party publishes on own platforms if permitted)
+```
 
-Practice Direction 12G addresses publication of **judgments** but is silent on **skeleton arguments and procedural documents** created by parties. This creates uncertainty about what parties can publish without court permission.
+**Critical questions left unanswered:**
 
-**Taylor v Alcott as case study:**
+1. **Do parties need judicial permission to publish their own skeleton arguments after proceedings conclude?** If the judgment is already published (anonymized), can parties publish their own advocacy materials referencing the same case?
+
+2. **What about anonymized court orders?** Child arrangements orders, prohibited steps orders, and other final orders are written documents. Could they be published (anonymized) to show how courts structure parenting arrangements? Or does Children Act 1989 s.97 prohibit this even when fully anonymized? *Note: Publication of both oral judgments (Track A) and written orders (Track B) together could reveal translation gaps between what was said and what was ordered—potentially exposing misalignment between reasoning and outcome.*
+
+3. **Can parties publish their own position statements or witness statements?** These are party-created documents filed with the court. If anonymized, do they require permission or can parties rely on open justice principles?
+
+**The regulatory void:** Without clear guidance, parties must either seek judicial permission proactively (Form C2 application, £258, hearing) even when unsure if permission is legally required, publish without permission and risk contempt proceedings, or avoid publication entirely due to legal uncertainty.
+
+This grey area is significant because **Track B documents could provide immediate transparency without transcription logistics**—yet remain largely unpublished due to legal uncertainty and permission culture.
+
+### 7.1.5.1 Case Example: *Taylor v Alcott* and Constitutional Arguments for Routine Transparency
 
 In *Taylor v Alcott* [CA-2023-000462], appellants published their Court of Appeal skeleton argument online, stating:
 
-> "We do not consider the publication of the Judgment [sic—skeleton argument] on the Intervention and Open Court issues can possibly be a contempt of court and **we rely on our Common law rights and Article 10 ECHR and the public interest** in so publishing the Judgment."
+> "We do not consider the publication of the Judgment [sic—skeleton argument] on the Intervention and Open Court issues can possibly be a contempt of court and we rely on our Common law rights and Article 10 ECHR and the public interest in so publishing the Judgment."
 
-> "If it is right to publish the Judgment then of course it must be equally right to exercise in a free and democratic society which believes in the Rule of Law **the right to criticise that Judgment**."[^taylor-pub]
+> "If it is right to publish the Judgment then of course it must be equally right to exercise in a free and democratic society which believes in the Rule of Law the right to criticise that Judgment."
 
-**What this reveals:**
+**What this reveals:** Parties must invoke constitutional arguments—common law open justice and Article 10 ECHR—to justify publishing their own legal arguments (documents they created, containing detailed procedural information about transcript access procedures). This reliance on foundational principles to justify routine transparency demonstrates absence of clear procedural guidance.
 
-Parties must invoke **common law open justice principles** and **Article 10 ECHR** to justify publishing their own legal arguments—documents they created, which contain no confidential family details beyond what's in published judgments. This reliance on constitutional arguments for routine transparency demonstrates **absence of clear guidance**.
+**Important context:** The *Taylor v Alcott* skeleton argument was published in non-anonymized form. The research process for this article did not locate a published judgment in *Taylor v Alcott* through searches of BAILII, Find Case Law, and Judiciary UK databases, raising questions about whether judicial determinations in that case were ever made publicly available. This pattern—party advocacy published while judicial determinations remain inaccessible—inverts transparency priorities: characterizations become visible while verified records remain invisible.
 
-The transparency inversion: parties' characterizations (skeletons) may be publishable via common law arguments, but verified records (transcripts) require judicial permission rarely granted. **Advocacy visible; evidence invisible.**
+**The transparency inversion:** Parties' characterizations of events (skeleton arguments, position statements) may be publishable by invoking constitutional rights, while verified records of what actually occurred (hearing transcripts, verbatim evidence) remain behind multiple gatekeeping barriers requiring judicial permission rarely granted. Advocacy becomes visible; evidence remains invisible.
 
-**Policy gap:** No Practice Direction clarifies whether anonymised skeleton arguments, position statements, or applications can be published by parties without permission. Compare:
-- **Criminal/civil proceedings**: Skeletons routinely published with case reports
-- **Tribunals**: Full bundles often accessible online
-- **Family proceedings**: Parties publish at uncertain legal risk
+**Policy gap:** No Practice Direction clarifies whether anonymized skeleton arguments, position statements, or applications can be published by parties without permission. Compare:
+
+- **Criminal/civil proceedings:** Skeletons routinely published with case reports
+- **Tribunals:** Full bundles often accessible online
+- **Family proceedings:** Parties publish at uncertain legal risk
 
 This grey area chills transparency even for non-confidential procedural material, forcing parties to choose between opacity and potential contempt risk.
 
-[^taylor-pub]: Fathers4Justice website statement accompanying skeleton argument publication [URL]. The skeleton enabled this article's analysis of transcript access procedures—a use falling within F4J's stated "public interest" and "democratic right to criticise" justification.
+**Methodological note:** The *Taylor v Alcott* skeleton argument (accessible despite non-anonymization) contained detailed procedural information about transcript access that proved valuable for this research, demonstrating the public value of Track B document accessibility. However, the absence of certainty about whether this publication was legally compliant illustrates the regulatory void this section documents. Without clear guidance, even documents serving legitimate public interest purposes exist in legal uncertainty.
 
-## 7.1.6 Layer 1 Summary: The Promise vs. The Void
-The institutional design promises: 
-**Obtaining Pathway:** 
-- **Efficiency**: Within 48 hours expedited service for urgent needs 
-- **Equity**: Public expense pathways (EX105 or court order) and fee waivers (EX160A) 
-- **Objectivity**: Judicial approval ensures transcript accuracy 
-- **Accessibility**: Clear request forms (EX107) and transparent pricing 
-
-**Publication Pathway:** 
-- **Accountability**: Judge-specific publication expectations, presumption for serious cases 
-- **Accessibility**: Free public repositories (BAILII/FCL), no login required 
-- **Protection**: Strict anonymisation protocols (PD 12G) 
-- **Balance**: Article 8/10 ECHR balancing protects both privacy and transparency 
-
-But the design is undermined by **critical voids**: 
-| **Obtaining Pathway Voids** | **Publication Pathway Voids** | 
-|------------------------------|-------------------------------| 
-| No mandated timelines for judicial approval | No verification that "mandatory" cases are published | 
-| No performance monitoring of vendor turnaround | No Anonymisation Unit (resource bottleneck, unimplemented) | 
-| No accountability when transcripts delayed | No enforcement when judges decline to publish | 
-| Funding fragmentation (EX105/EX160A disconnect) | Consent asymmetry enables objection-as-veto | 
-| Timeline collision (appeal window vs. approval void) | No subject indexing (discovery barrier) | 
-| Form–guidance disconnect (EX107 vs. reality) | Inconsistent judicial practice (targets unmet) | 
-
-These are not oversights. They are **spaces where rules fall silent**, leaving outcomes to judicial discretion, resource availability, individual party leverage, and institutional inertia [Court of Appeal Guide 2025; TIG Reports 2023–2025]. The seven design failures in the Obtaining Pathway (DF-1 through DF-7) compound to create structural collision with appeal deadlines—the system formally requires what it procedurally prevents. The discretionary gaps in the Publication Pathway enable judges to honor the 2014 presumption when they choose while routinely refusing publication when they prefer—with no mechanism to distinguish principled welfare concerns from administrative convenience or institutional self-protection [2014 Judicial Guidance]. 
-
-**The double transparency deficit.** Together, these pathways create two forms of systemic blindness: 
-1. **Judicial Blindness** — courts cannot see patterns in their own reasoning because transcripts are hard to obtain and rarely published. Each hearing becomes unreviewable; each decision becomes institutional amnesia. Cross-case learning is impossible without cross-case visibility. 
-2. **Epidemiological Blindness** — the system cannot see what families are experiencing because procedural records remain inaccessible. Without transcripts capturing courtroom dialogue, the system cannot map conflict evolution, detect emerging harms (digital coercion, gaming addiction, post-pandemic mental health crises), or distinguish persistent problems from newly dominant ones. Policy reforms one generation behind reality. 
-
-**Critical question.** If the design contains these systematic failures—built-in timeline collisions, untimed approval voids, unenforceable presumptions, and accountability gaps—why does the system persist? How do judges, practitioners, and users navigate architecture that cannot deliver what it formally requires? The answer lies in how **judicial interpretation fills these voids**. Design-by-omission creates discretionary space; judicial gatekeeping determines whether that space functions as flexibility enabling justice or as opacity enabling unaccountability. 
-
-### 7.1.6 Summary of Institutional Design Failures
-| **DF** | **Failure** | **Evidence** | **Impact on Reality Gap** | 
-|-------|-------------|------------|----------------------------| 
-| DF-1 | Untimed judicial approval | EX107 guidance, FOI #47 | Delays access by 3–6 weeks | 
-| DF-2 | Hidden audio retrieval dependency | HMCTS internal memos | 40% of requests stalled | 
-| DF-3 | No default publication flag | TIG pilot data | Only 30% of judgments visible | 
-| DF-4 | Consent treated as veto | *Re X* [2023] | Asymmetry in high-conflict cases | 
-| DF-5 | Anonymization protects institutions | *Re C (Newport)* | Hides systemic patterns | 
-| DF-6 | Judge anonymized to avoid criticism | *Sara Sharif* ruling | Undermines common law accountability | 
-| DF-7 | Refusal reasons not recorded | *HHJ Haigh* appeal only | Learning loop broken | 
-
-> This table crystallizes the **70% reality gap** — procedural tools exist, but design voids render them ineffective. See Section 8 for interventions.
-
-### 7.1.7 Analytical Synthesis: The 70% Reality Gap and Need for Tiered Inputs
-The seven design failures above converge into a **70% visibility deficit**: only ~30% of final hearings result in publicly accessible records (judgments or transcripts). This is not incidental but **structurally embedded** — untimed steps, veto culture, and institutional shielding prevent the data flow required for double-loop learning (Section 4). 
-
-**Analytical insight**: Without tiered, inclusive data inputs (e.g., anonymized transcripts, LiP submissions, institutional metadata), the system cannot self-correct. Current TIG pilots and Pathfinder courts demonstrate feasibility — but only if scaled beyond symbolic publication. 
-
-> **Opportunity identified**: A centralized, tiered repository could close the gap. **Detailed protocol and implementation are proposed in Section 8.3.**
-
-### 7.1.7.1 Analytical Insight: Missing Inputs and Learning Hierarchy
-Current design focuses on outputs (judgments), omitting inputs like orders and statements — mandatory in bundles but discarded. This creates DF-8: Input–Output Disconnect. 
-
-| **Document Type** | **Captures** | **Gap Effect** |  
-|-------------------|--------------|----------------|  
-| Judgments | Decision | Misses process |  
-| Orders | Directions | No compliance visibility |  
-
-> This limits to single-loop learning. See Section 8.3 for opportunities.
+**Significance for this research:** The availability of detailed transcript access procedures in the *Taylor v Alcott* skeleton enabled analysis throughout this article. Yet this accessibility depended on parties' willingness to navigate legal uncertainty—not on clear procedural pathways ensuring routine availability of such materials.
 
 ---
 
-**Layer 2 (Judicial Gatekeeping) will test how judges respond to this expansion** — will they treat skeleton arguments as routine uploads, or resist as "extra work"? The answer determines whether least-resistance reform succeeds. **Layer 2 examines how judges fill these voids** — interpreting ambiguity toward transparency or toward restriction, using untimed approval discretion to expedite urgent appeals or allowing delays to accumulate unmonitored, honoring publication presumptions or treating objections as automatic vetoes. Judicial practice transforms institutional design into operational reality. The architecture establishes what should happen. Layer 2 reveals what actually happens when rules fall silent.
-**Requests by parties to obtain transcripts are diagnostic signals. Absence of decision SLAs converts diagnostics into suppressed feedback.**
+## 7.1.6 Critical Gaps in the Publication Pathway
+
+> **Navigation Note:** This section identifies eight design failures (DF-10 through DF-15 plus cross-pathway DF-7 and DF-15) that enable discretion without oversight, resource bottlenecks without support, and publication voids despite formal presumptions. The analysis demonstrates how these gaps compound with Obtaining Pathway failures to create systemic opacity.
+
+The Publication Pathway formally promises: presumption of publication for serious cases, strict anonymization protections, and free public repositories. But the design enables discretion without oversight (no monitoring of whether mandatory cases are published), consent asymmetry as veto (examined in §7.2 through judicial practice), resource bottlenecks (no anonymization support), publication voids (inconsistent compliance, no enforcement mechanism), and discovery barriers (poor searchability, no subject indexing, inadequate metadata).
+
+| **DF Tag** | **Gap** | **Design Silence** | **Systemic Effect** |
+|------------|---------|--------------------|--------------------|
+| **DF-10** | No Anonymization Unit | Judges lack time; LiPs unsupported | Publication delays, risk of identification errors or over-cautious redaction. *Addressed in §8.1.1* |
+| **DF-11** | No verification process | "Jigsaw identification" risk untested systematically | Quality inconsistency; anonymization becomes defensive rather than enabling |
+| **DF-12** | No enforcement of judge-specific targets | No monitoring, consequences, or audit | Wide variation across courts; "holistic picture" lost; presumption becomes discretionary |
+| **DF-13** | Design silence on consent asymmetry | No guidance when parties split; institutional objections can delay indefinitely | Single objection functions as veto (judicial practice examined in §7.2); transparency inverted from presumption to exception |
+| **DF-14** | No subject indexing | Discovery relies on specialized knowledge; fragmented across repositories | Published judgments remain functionally inaccessible; transparency nominal not real. *Addressed in §8.1.6* |
+| **DF-15** | No integrated publication request on Form EX107 | Requires separate Form C2 application post-transcript, even if uncontested | Forces additional applications and hearings; procedural fragmentation delays transparency. *Addressed in §8.1.4* |
+
+**The compounding effect.** Even when a judgment successfully navigates all barriers—judge chooses to publish, parties consent or objections are overcome, anonymization is completed, judgment is uploaded—if it's published on BAILII without adequate metadata, arrives months after the hearing, or sits in isolation because similar cases weren't published due to inconsistent judicial practice, the result is selective transparency. Enough openness exists to claim compliance with the 2014 guidance, but insufficient volume, quality, and accessibility to enable the systemic learning the guidance intended [2014 Judicial Guidance; TIG Reports 2023–2025].
+
+**Result:** A publication pathway that exists in form but functions selectively, generating transparency that serves individual case precedent while failing to provide the epidemiological visibility needed for systemic accountability and reform. Publication is a discretionary judicial decision; refusals, partial permissions, and consent disputes are analyzed in §7.2 Judicial Rulings [FPR 12.73–12.75].
 
 ---
 
-## 7.2 Layer 2: Judicial Gatekeeping — The Authoritative Filter
+## 7.1.7 Cross-Pathway Design Failures
+
+> **Navigation Note:** Two design failures—funding fragmentation (DF-7) and lack of integrated publication requests (DF-15)—operate across both the Obtaining and Publication Pathways, fragmenting what could be unified processes. This section demonstrates how procedural disconnection compounds access barriers even when parties successfully navigate individual stages.
+
+Two design failures operate across **both** the Obtaining and Publication Pathways, fragmenting what could be unified processes:
+
+### Design Failure 7 (DF-7): Funding Fragmentation
+
+As documented in §7.1.2, three disconnected applications govern transcript and publication costs:
+
+- **Form EX107:** Transcript request (vendor costs ~£415–£995)
+- **Form EX105:** Public expense application for transcription
+- **Form EX160A:** Help with Fees (court fees only; excludes transcription)
+- **Form C2/Form D11:** Publication permission application (£258/£65 fees)
+
+**The cross-pathway extension:** DF-7's funding fragmentation extends from obtaining (transcripts) to publication. Even after successfully obtaining a transcript at public expense or via Form EX105, parties seeking publication must:
+
+1. File separate Form C2 application (£258 for children cases)
+2. Pay application fee (may qualify for Form EX160A fee waiver, but this is separate eligibility)
+3. Attend hearing to defend publication request (additional time/costs)
+4. If s.91(14) Children Act order exists, obtain prior judicial leave to file Form C2 (another application, another fee)
+
+**Result:** Layered costs and delays create wealth-filtering even for parties who successfully navigated the Obtaining Pathway. Publication becomes contingent on ability to afford or qualify for multiple disconnected fee waiver applications.
+
+*Note: Funding coordination proposals addressing DF-7 are discussed in §8.1.5.*
+
+### Design Failure 15 (DF-15): No Integrated Publication Request
+
+**The fragmentation:** No mechanism exists on Form EX107 to flag publication intent during initial transcript request. Users must:
+
+1. Submit Form EX107 (transcript request)
+2. Wait for transcript production and approval
+3. Submit separate Form C2/Form D11 (publication permission)
+4. Wait for permission hearing
+5. If granted, submit anonymized document for judicial approval
+6. Wait for final publication approval
+
+Even when all parties agree on publication, they must navigate this multi-stage process with separate applications, fees, and approval stages.
+
+**Current consequence of DF-15:** Procedural fragmentation delays transparency even in cases where parties agree, creating unnecessary barriers that could be eliminated through better form design.
+
+*Note: Proposals for integrated publication flagging are discussed in §8.1.4, including a hypothetical Form EX107 Section F that would allow parties to indicate publication intent at the transcript request stage, streamlining the process for uncontested cases.*
+
+---
+
+## 7.1.8 Layer 1 Summary: The Promise vs. The Void
+
+The institutional design promises:
+
+**Obtaining Pathway (Track A):**
+
+- **Efficiency:** Within 48 hours expedited service for urgent needs
+- **Equity:** Public expense pathways (Form EX105 or court order) and fee waivers (Form EX160A)
+- **Objectivity:** Judicial approval ensures transcript accuracy
+- **Accessibility:** Clear request forms (Form EX107) and transparent pricing
+
+**Publication Pathway (Tracks A & B):**
+
+- **Accountability:** Judge-specific publication expectations, presumption for serious cases
+- **Accessibility:** Free public repositories (BAILII/FCL), no login required
+- **Protection:** Strict anonymization protocols (PD 12G)
+- **Balance:** Article 8/10 ECHR balancing protects both privacy and transparency
+
+But the design is undermined by critical voids:
+
+| **Obtaining Pathway Voids** | **Publication Pathway Voids** |
+|------------------------------|-------------------------------|
+| No mandated timelines for judicial approval | No verification that "mandatory" cases are published |
+| No performance monitoring of vendor turnaround | No Anonymization Unit (resource bottleneck, unimplemented) |
+| No accountability when transcripts delayed | No enforcement when judges decline to publish |
+| Funding fragmentation (Forms EX105/EX160A disconnect) | Design silence on consent asymmetry |
+| Timeline collision (appeal window vs. approval void) | No subject indexing (discovery barrier) |
+| Form–guidance disconnect (Form EX107 vs. reality) | Inconsistent judicial practice (targets unmet) |
+
+**Cross-pathway voids:**
+
+| **Affects Both Pathways** |
+|---------------------------|
+| Funding fragmentation extends to publication (Form C2 fees post-transcript) |
+| No integrated publication request mechanism |
+| Design silences on refusal documentation (DF-9) and judicial self-anonymization (DF-8) |
+
+These are not oversights. They are spaces where rules fall silent, leaving outcomes to judicial discretion, resource availability, individual party leverage, and institutional inertia [Court of Appeal Guide 2025; TIG Reports 2023–2025].
+
+**Track A vs Track B revelation:** The distinction between transcripts requiring production (Track A) and documents already in written form (Track B) reveals that transparency barriers stem not primarily from transcription logistics but from systematic permission culture. Track B documents could be published immediately after anonymization, yet face the same multi-stage gatekeeping as Track A. This demonstrates that institutional resistance to transparency operates regardless of document format or production complexity.
+
+The seven design failures in the Obtaining Pathway (DF-1 through DF-7) compound to create structural collision with appeal deadlines—the system formally requires what it procedurally prevents. The eight design failures in the Publication Pathway (DF-8 through DF-15) enable judges to honor the 2014 presumption when they choose while routinely refusing publication when they prefer—with no mechanism to distinguish principled welfare concerns from administrative convenience or institutional self-protection [2014 Judicial Guidance].
+
+### The Double Transparency Deficit
+
+Together, these pathways create two forms of systemic blindness:
+
+1. **Judicial Blindness**—courts cannot see patterns in their own reasoning because transcripts are hard to obtain and rarely published. Each hearing becomes unreviewable; each decision becomes institutional amnesia. Cross-case learning is impossible without cross-case visibility.
+
+2. **Epidemiological Blindness**—the system cannot see what families are experiencing because procedural records remain inaccessible. Without transcripts capturing courtroom dialogue, the system cannot map conflict evolution, detect emerging harms (digital coercion, gaming addiction, post-pandemic mental health crises), or distinguish persistent problems from newly dominant ones. Policy reforms lag one generation behind reality.
+
+### The Monitoring Void
+
+Underlying all these design failures is the fundamental data void documented in §6.1—HMCTS holds no statistics on transcript processing times, approval delays, or refusal rates. This absence of performance data makes the design voids unverifiable and enables dysfunction to persist undetected. Without monitoring, there is no accountability; without accountability, voids become permanent features rather than correctable failures.
+
+The data void is not separate from the design failures—it is what allows them to persist. When HMCTS can claim "~10 working days average" for recording retrieval without any mechanism to verify this claim, when vendors can promise "48-hour service" while excluding weeks of court processing, when judges can take indefinite time for approval with no visibility into whether delays are routine or exceptional—the absence of data transforms architectural problems into invisible, unchallengeable realities.
+
+**Critical question.** If the design contains these systematic failures—built-in timeline collisions, untimed approval voids, unenforceable presumptions, and accountability gaps—why does the system persist? How do judges, practitioners, and users navigate architecture that cannot deliver what it formally requires?
+
+The answer lies in how judicial interpretation fills these voids. Design-by-omission creates discretionary space; judicial gatekeeping determines whether that space functions as flexibility enabling justice or as opacity enabling unaccountability.
+
+**Handoff to Layer 2:** Layer 2 (Judicial Gatekeeping) examines how judges fill these voids—interpreting ambiguity toward transparency or toward restriction, using untimed approval discretion to expedite urgent appeals or allowing delays to accumulate unmonitored, honoring publication presumptions or treating objections as automatic vetoes. Judicial practice transforms institutional design into operational reality. The architecture establishes what should happen. Layer 2 reveals what actually happens when rules fall silent.
+
+---
+
+## 7.1.9 Analytical Synthesis: Toward Quantifying the Reality Gap
+
+The fifteen design failures identified in this layer compound to create what subsequent layers will demonstrate is a substantial visibility deficit. While comprehensive national data on transcript and publication rates does not exist (the absence itself indicative of systemic blindness), triangulated evidence from judicial practice (Layer 2), practitioner observations (Layer 3), user experiences (Layer 4), and external agency evaluations (Layer 5) will establish that the majority of family court hearings produce no publicly accessible record beyond the court order itself.
+
+**The measurement challenge (as discussed in §6.1):** In the absence of official data, the following estimate draws on available proxies. No official data exists on:
+
+- How many transcript requests are filed annually
+- What proportion of requests result in approved transcripts
+- How long judicial approval actually takes (excluded from all Service Level Agreements)
+- What percentage of "mandatory publication" cases result in published judgments
+- How often publication requests are refused (and why)
+- How many Track B documents (skeleton arguments, orders) are published vs. created
+
+This data void is itself a manifestation of the double transparency deficit: the system cannot monitor its own transparency performance because monitoring mechanisms were never built into the institutional design.
+
+**Preliminary estimate:** Based on available evidence, we can establish parameters:
+
+**Track A (Transcripts) - The Obtaining Pathway:**
+
+- ~260,000 new family cases annually (Ministry of Justice, 2025)
+- Unknown proportion reach final hearing requiring transcript for appeals
+- Freedom of Information request revealed "no data held" on transcript processing times (Walker, 2025, as documented in §6.1)
+- No data on approval timelines, refusal rates, or public expense applications
+
+**Track A & B (Publication) - The Publication Pathway:**
+
+- June 2024 guidance: 4-6 publications expected annually per circuit judge
+- If ~150 circuit judges handle family cases, target ~600-900 publications/year
+- Actual publications post-Jan 2025: increased but "big variations between judges and courts" (TIG Reports 2023-2025)
+- Q2 2025: ~4,213 public law cases started (MoJ statistics)
+- If only "serious" cases published (care orders, fact-finding, medical treatment), and only fraction of these published, gap substantial
+
+**Conservative calculation:**
+
+- Assume 30% of 260,000 cases (78,000) reach final hearing
+- If mandatory publication applies to 10% (7,800 cases)
+- And actual publications ~1,000-2,000/year
+- Then ~75% of mandatory-category cases produce no published record
+
+This suggests a visibility deficit exceeding 70% even for cases where publication is presumed, before accounting for:
+
+- Routine cases outside mandatory categories
+- Track B documents (skeleton arguments, orders) almost never published
+- Transcripts obtained but not published
+- Hearings where transcripts never requested
+
+**Hypothesis for testing in Layers 2-5:**
+
+The convergence of design failures creates a compound visibility deficit where:
+
+- Most hearings produce no transcript (DF-1 through DF-7 create barriers)
+- Most transcripts remain unpublished (DF-8 through DF-15 enable discretionary refusal)
+- Published judgments remain undiscoverable (DF-14)
+- Track B transparency almost nonexistent (design silence, DF-13, legal uncertainty)
+
+**Result:** The family justice system processes a quarter-million cases annually while retaining publicly accessible records for perhaps 1-2% of proceedings—creating the double deficit where neither judicial reasoning nor family conflict patterns are visible for systemic learning.
+
+Layers 2-5 will test this hypothesis by examining:
+
+- How judges exercise discretion within design voids (Layer 2)
+- What patterns solicitors, barristers, and other professionals serving the system (including social services, Cafcass, and other institutional actors) observe repeatedly (Layer 3)
+- How users experience these barriers in practice (Layer 4)
+- How external analysts and oversight agencies frame and quantify the opacity (Layer 5)
+
+**Critical note:** This preliminary estimate should be treated as hypothesis, not fact, until empirical research establishes definitive publication rates. The absence of such data—itself a consequence of design failures DF-8, DF-9, and DF-12's lack of monitoring—makes precise quantification impossible. What can be stated definitively is that systematic design failures create conditions for substantial visibility deficits, and subsequent layers will demonstrate how these conditions manifest in practice.
+
+The substantive question is not the precise percentage but the mechanisms by which design-by-omission enables opacity to persist despite formal transparency commitments. Layers 2-5 map those mechanisms across judicial interpretation, professional navigation, user experience, and external critique.
+
+---
+
+## END OF SECTION 7.1
+
+**Handoff to Layer 2:** The institutional design documented in Layer 1 establishes what should happen according to rules, forms, and guidance. Layer 2 examines what actually happens when judges interpret these rules, fill design silences, exercise discretion within untimed voids, and transform formal architecture into operational reality.
+
+---
+### 7.2 Layer 2: Judicial Gatekeeping — The Authoritative Filter
+---
 
 
 moved from layer 1 - have to be checked/ incoprated it the section 
