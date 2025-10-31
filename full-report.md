@@ -437,7 +437,7 @@ The Obtaining and Publication Pathways are functionally interdependent, yet thei
 | Untimed approvals | Veto culture | Patterns invisible |
 | Funding barriers | Discovery voids | Reforms lag reality |
 
-This disconnection turns personal records into isolated artifacts, preventing the visibility needed for accountability. The following analysis maps these failures through five evidence layers.
+This disconnection turns personal records into isolated artifacts, preventing the visibility needed for accountability. This chapter examines transparency barriers affecting both oral court records (proceedings and judgments requiring transcription) and written court documents (skeleton arguments, position statements, orders already in publishable form). The following analysis maps these failures through five evidence layers.
 
 ---
 
@@ -798,31 +798,7 @@ The Transparency Implementation Group proposed an **Anonymisation Unit** to assi
 
 This makes "mandatory" functionally discretionary—a pattern Layers 3–4 will document through practitioner and user evidence [TIG Reports 2023–2025; Open Reporting Provisions 2025]. The focus on "serious" cases (e.g., child harm/death) logically overlooks routine proceedings, missing epidemiological patterns in everyday family conflicts for policy reform. 
 
-### Consent Asymmetry: When Parties Disagree
-**The problem.** In multi-party cases (e.g., parents + local authority + children's guardian), **what happens when parties split on publication**? 
 
-**Typical scenario:** 
-- One parent consents to anonymised publication (seeking precedent, accountability, or systemic awareness) 
-- The other parent or local authority objects (citing child welfare concerns, reputational harm, or "unnecessary intrusion") 
-
-**Current practice** (documented in practitioner accounts and case law): 
-- Judge treats objection as **significant factor against publication** 
-- Publication typically refused unless public interest is "sufficiently compelling" to override objector's concerns 
-- **No presumption that one parent's consent suffices** even when anonymisation is robust 
-- Local authority objections carry particular weight (given their statutory child protection role) and can practically veto via delays in balancing hearings, extending timelines indefinitely 
-
-**The inversion effect.** This practice inverts the post-2014 presumption in mandatory categories. What should be "publish unless compelling reasons" becomes "refuse if anyone objects," regardless of: 
-- Whether the judgment is already fully anonymised (so identification risk is minimal) 
-- Whether the consenting party has legitimate accountability interests 
-- Whether the objecting party's true concern is welfare (child protection) or reputation (avoiding scrutiny of their own conduct or institutional practice) 
-
-**Design void.** No rule or guidance addresses: 
-- Whether one parent's consent should suffice if anonymisation is robust and the other parent's objection is reputationally motivated 
-- How judges should distinguish between genuine welfare concerns and strategic objections 
-- Whether institutional parties (local authorities, NHS trusts) should have veto power when parents consent 
-- What weight to give systemic transparency interests when individual parties prefer privacy 
-
-This discretionary gap enables **consent asymmetry to function as a veto mechanism**, blocking transparency even in cases where publication would serve accountability interests without compromising child welfare [2014 Judicial Guidance; Case Law e.g., Re S [2004]; Open Reporting Provisions 2025]. 
 
 ### Access Infrastructure and Discoverability
 **Repositories:** 
@@ -977,6 +953,113 @@ Current design focuses on outputs (judgments), omitting inputs like orders and s
 ---
 
 ## 7.2 Layer 2: Judicial Gatekeeping — The Authoritative Filter
+
+
+moved from layer 1 - have to be checked/ incoprated it the section 
+Point 1: Design Failures Consolidation & DF-6/DF-7 Placement
+Decision Support: Where do DF-6 and DF-7 belong?
+Let me analyze the nature of these design failures:
+DF-6: Judge anonymized to avoid criticism (Sara Sharif ruling)
+
+Nature: This is a judicial decision about how to apply anonymization rules in published judgments
+Source: Case law (Sara Sharif ruling) - not forms, guidance, or procedural rules
+Function: Judges interpreting discretionary power to anonymize their own identity
+Evidence type: Published judgment showing judicial practice
+
+DF-7: Refusal reasons not recorded (HHJ Haigh appeal)
+
+Nature: This concerns what happens when judges refuse transcript/publication requests - absence of documented reasoning
+Source: Case law (appeal concerning lack of reasons for refusal)
+Function: Judicial gatekeeping behavior - how judges exercise discretion without accountability
+Evidence type: Appellate judgment about lower court practice
+
+My recommendation: Both belong in Layer 2 (Judicial Gatekeeping)
+Rationale:
+
+Layer 1 examines institutional design = rules, forms, guidance, contracts, stated procedures
+Layer 2 examines judicial interpretation = how judges fill silences, exercise discretion, create norms through decisions
+DF-6 and DF-7 are not "design failures" in the architectural sense - they are discretionary practices that emerge when design is silent
+The design failure in Layer 1 is the silence itself (no rule about judge anonymization; no requirement to record refusal reasons)
+The manifestation of how that silence operates belongs in Layer 2
+
+What Layer 1 should say instead:
+
+DF-6 becomes: "No guidance on judicial self-anonymization in published judgments" (design void)
+DF-7 becomes: "No requirement to document refusal reasons for transcript/publication requests" (design void)
+
+Then Layer 2 shows how judges fill those voids (choosing self-anonymization; declining to record reasons).
+
+Holding Note for Layer 2 Revision
+INTEGRATION NOTE FOR §7.2 (JUDICIAL GATEKEEPING)
+When revising Layer 2, incorporate the following two judicial practices that exploit design voids identified in Layer 1:
+Judicial Self-Anonymization (former DF-6)
+Design void from Layer 1: No rule specifies whether judges may anonymize their own names in published family court judgments (contrast with criminal law where judges are always named).
+Judicial practice manifestation: In the Sara Sharif case, the judge's name was anonymized in the published judgment. This reflects emerging judicial practice where judges exercise discretion to remove their own identifying details when publishing sensitive cases.
+Analytical significance:
+
+Creates accountability gap - impossible to track patterns in individual judges' reasoning across cases
+Inverts common law transparency principle that judicial office-holders are publicly identifiable
+Transforms publication from institutional accountability mechanism into selective information release
+No published guidance explains when/why judicial self-anonymization is appropriate
+Practice appears motivated by avoiding public criticism rather than child welfare concerns
+
+Evidence sources for Layer 2:
+
+Sara Sharif judgment (showing practice)
+Common law principles on judicial accountability (contrast)
+Any Transparency Project commentary on this practice
+Compare: criminal/civil judgments where judges always named
+
+Refusal Reasons Not Recorded (former DF-7)
+Design void from Layer 1: No rule requires judges to document reasons when refusing transcript access or publication permission applications. FPR requires reasoned judgments for substantive decisions but is silent on procedural gatekeeping.
+Judicial practice manifestation: The HHJ Haigh appeal revealed that when judges refuse transcript/publication requests, they routinely provide no written reasons - leaving applicants unable to challenge the decision or understand the basis for refusal.
+Analytical significance:
+
+Breaks accountability loop - refusals become unreviewable
+Prevents pattern recognition across cases (systematic vs. isolated refusals)
+Creates differential access - legally sophisticated parties may obtain informal explanations; LiPs receive bare refusals
+No mechanism to distinguish welfare-based refusals from convenience-based or reputation-protective ones
+Amplifies DF-1 through DF-5 by making their impact invisible to appellate oversight
+
+Evidence sources for Layer 2:
+
+HHJ Haigh appeal case details
+FPR requirements for reasoned decisions (showing the gap)
+Practitioner accounts of unreasoned refusals
+Appeal success rates when refusal reasons absent vs. present
+
+Cross-layer analysis: These practices demonstrate how design-by-omission (Layer 1) enables discretion-as-opacity (Layer 2). The institutional architecture creates voids; judicial interpretation fills them in ways that amplify rather than mitigate the double transparency deficit.
+
+and another one moved from Layer 1: ### Consent Asymmetry: When Parties Disagree
+**The problem.** In multi-party cases (e.g., parents + local authority + children's guardian), **what happens when parties split on publication**? 
+
+**Typical scenario:** 
+- One parent consents to anonymised publication (seeking precedent, accountability, or systemic awareness) 
+- The other parent or local authority objects (citing child welfare concerns, reputational harm, or "unnecessary intrusion") 
+
+**Current practice** (documented in practitioner accounts and case law): 
+- Judge treats objection as **significant factor against publication** 
+- Publication typically refused unless public interest is "sufficiently compelling" to override objector's concerns 
+- **No presumption that one parent's consent suffices** even when anonymisation is robust 
+- Local authority objections carry particular weight (given their statutory child protection role) and can practically veto via delays in balancing hearings, extending timelines indefinitely 
+
+**The inversion effect.** This practice inverts the post-2014 presumption in mandatory categories. What should be "publish unless compelling reasons" becomes "refuse if anyone objects," regardless of: 
+- Whether the judgment is already fully anonymised (so identification risk is minimal) 
+- Whether the consenting party has legitimate accountability interests 
+- Whether the objecting party's true concern is welfare (child protection) or reputation (avoiding scrutiny of their own conduct or institutional practice) 
+
+**Design void.** No rule or guidance addresses: 
+- Whether one parent's consent should suffice if anonymisation is robust and the other parent's objection is reputationally motivated 
+- How judges should distinguish between genuine welfare concerns and strategic objections 
+- Whether institutional parties (local authorities, NHS trusts) should have veto power when parents consent 
+- What weight to give systemic transparency interests when individual parties prefer privacy 
+
+This discretionary gap enables **consent asymmetry to function as a veto mechanism**, blocking transparency even in cases where publication would serve accountability interests without compromising child welfare [2014 Judicial Guidance; Case Law e.g., Re S [2004]; Open Reporting Provisions 2025]. 
+
+
+
+
+
 
 Section 7.1 mapped the de jure system: rules that promise efficiency, equity, and transparency—but collapse under design-by-omission (DF-1 to DF-7). Layer 2 answers: When institutional design creates voids, how do judges fill them—and with what consequences?
 
@@ -5235,3 +5318,102 @@ Women's Aid (2024) The Domestic Abuse Report 2024: The Annual Audit. Bristol:
 Women's Aid Federation of England. Available at: 
 https://www.womensaid.org.uk/... (Accessed: 30 October 2025).
 
+## QUESTION 2: Bibliography Entries Needed
+
+Here are all the sources cited in the introduction that need bibliography entries:
+
+### **BOOKS/REPORTS:**
+
+1. **Argyris, C., & Schön, D. A. (1978).** *Organizational learning: A theory of action perspective.* Reading, MA: Addison-Wesley.
+
+2. **Denzin, N. K. (1978).** *The research act: A theoretical introduction to sociological methods* (2nd ed.). New York: McGraw-Hill.
+
+3. **Kolb, D. A. (1984).** *Experiential learning: Experience as the source of learning and development.* Englewood Cliffs, NJ: Prentice-Hall.
+
+4. **Law Society (2024).** [Title of report about 103,676 children in backlogs]. London: Law Society. [**NOTE: You need to verify the exact title and publication details**]
+
+5. **Senge, P. M. (1990).** *The fifth discipline: The art and practice of the learning organization.* New York: Doubleday.
+
+---
+
+### **GOVERNMENT PUBLICATIONS:**
+
+6. **Ministry of Justice (2025).** *Family Court Statistics Quarterly: October to December 2024.* London: Ministry of Justice. Available at: https://www.gov.uk/government/statistics/family-court-statistics-quarterly-october-to-december-2024/family-court-statistics-quarterly-october-to-december-2024 [Accessed 31 October 2025]
+
+7. **McFarlane, A. (2021).** *Transparency Review.* [**NOTE: Full citation needed - published by?**]
+
+---
+
+### **CASE LAW:**
+
+8. **M (A Child: Intermediaries) [2025] EWCA Civ 440**
+
+9. **Re X (A Child) [2016] EWFC B43**
+
+---
+
+### **LEGISLATION/RULES:**
+
+10. **Family Procedure Rules 2010 (FPR 2010).** SI 2010/2955. Available at: https://www.legislation.gov.uk/uksi/2010/2955/contents
+
+11. **Practice Direction 27A** [Family Procedure Rules]
+
+---
+
+### **ORGANIZATIONAL SOURCES:**
+
+12. **Transparency Project (2023).** [**NOTE: You cite this for "precedent development relies on recollection rather than record" - which specific TP publication? Need exact citation**]
+
+13. **Transparency Implementation Group (TIG)** [**NOTE: Multiple references to TIG reports - need specific report citations if you're referencing particular findings**]
+
+---
+
+### **FOI REQUEST:**
+
+14. **Walker, K. (2025).** [FOI request to Ministry of Justice regarding transcript processing data]. [**NOTE: Need proper citation format for FOI - typically: "Freedom of Information Request [Reference Number], Ministry of Justice, [Date]"**]
+
+---
+
+## CRITICAL GAPS TO FILL:
+
+You have **FOUR sources that need more complete information**:
+
+### 1. **Law Society (2024) - 103,676 children figure**
+- What is the exact title of this report?
+- Publication date (month)?
+- URL if available online?
+
+### 2. **Transparency Project (2023) - "recollection rather than record"**
+- Which TP publication states this?
+- Is it a blog post, report, guidance document?
+- Author(s)?
+- URL?
+
+### 3. **McFarlane Transparency Review (2021)**
+- Full title?
+- Published by whom? (Judiciary? MoJ?)
+- URL?
+
+### 4. **Walker FOI Request (2025)**
+- FOI reference number?
+- Date submitted/responded?
+- Exact wording of response ("no data held")?
+
+---
+
+## BIBLIOGRAPHY FORMAT RECOMMENDATION:
+
+Since this appears to be academic writing, I suggest **OSCOLA (Oxford Standard for Citation of Legal Authorities)** or **Harvard** style. Which do you prefer?
+
+**Example in OSCOLA:**
+```
+Ministry of Justice, Family Court Statistics Quarterly: October to December 2024 
+(Ministry of Justice 2025) <https://www.gov.uk/government/statistics/...> 
+accessed 31 October 2025
+```
+
+**Example in Harvard:**
+```
+Ministry of Justice (2025) Family Court Statistics Quarterly: October to December 2024. 
+London: Ministry of Justice. Available at: https://www.gov.uk/government/statistics/... 
+(Accessed: 31 October 2025)
