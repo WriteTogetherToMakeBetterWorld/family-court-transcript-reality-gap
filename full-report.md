@@ -3813,6 +3813,12 @@ Hypothetical EX107 Section F: Publication Intent
 ☐ Tick here if you intend to seek publication of this transcript
 ☐ All parties consent to anonymised publication
 ☐ Publication is contested (separate C2 hearing required)
+Why integration matters:
+
+Reduces procedural duplication: One application, one set of fees, coordinated approval
+Accelerates transparency: Publication decision made alongside transcript approval
+Lowers costs: No separate C2 application fee when uncontested
+Enables planning: Parties know publication timeline from outset
 
 
 
