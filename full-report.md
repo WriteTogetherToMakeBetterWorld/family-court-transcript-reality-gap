@@ -1070,6 +1070,13 @@ This layer analyzes how key rulings operationalize Layer 1's promises—revealin
 The Critical Role of Layer 2: Judicial Gatekeeping
 Positioned second, judicial rulings are the first translation of abstract rules into practice. They operate on three axes:
 AxisKey QuestionsIllustrative Evidence(a) Transcript as RecordWhat is sufficient for appeal? What tolerance exists for imperfect transcripts?M (A Child) [2025] EWCA Civ 440: appeal allowed due to missing reasons (FPR 3A.9); Re X [2016] EWFC B43: imperfect transcript must be sent to avoid delay(b) Transcript as PublicationWhen is release refused? How do courts balance privacy vs transparency?MA22P50084: transcript exposed judicial bias only because published; anonymisation warnings routinely block release(c) Consent AsymmetryWhat happens when parties split on publication?Local authority objects → publication blocked; parent consents → still refused (anonymisation not guaranteed)
+Content moving to Layer 2:
+
+DF-6 judicial practice: How judges exercise self-anonymization discretion (Sara Sharif analysis)
+DF-7 judicial practice: How refusals occur without documented reasons (HHJ Haigh analysis)
+DF-11 judicial practice: How consent asymmetry operates as veto mechanism in practice
+
+Layer 2 will reveal whether judicial gatekeeping operates to enable transparency or to amplify the opacity embedded in institutional design.
 
 ### 7.2.0 Methodological Note: Identifying Transparency Case Law
 
