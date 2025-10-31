@@ -3597,6 +3597,34 @@ Open questions for Section 8: Can least-resistance reforms be redirected toward 
 
 # Chapter 8: Low-Resistance Interventions — Actionable Pathways Forward
 
+* Note - I think this chapter has to be constructed again the Layers 1-5 and DF they each point to i.e. priority is to respong do each DF found e.g. in layer 1: Section 8.1 Content in Current Draft:
+
+8.1.1: Anonymization Unit (addresses DF-10)
+8.1.2: Recording Infrastructure Digitization (addresses DF-5)
+8.1.3: Vendor Performance Metrics (addresses DF-3)
+8.1.4: Integrated Publication Flagging (addresses DF-15)
+8.1.5: Funding Coordination (addresses DF-7)
+8.1.6: Subject Indexing Infrastructure (addresses DF-14)
+Cross-Reference Accuracy Check:DF in 7.1Reference to Ch 8Actually in Ch 8?StatusDF-3"See Section 8.1"✅ Yes (8.1.3)✅ AccurateDF-5"See Section 8.1 for infrastructure proposals"✅ Yes (8.1.2)✅ AccurateDF-10"See Section 8.1"✅ Yes (8.1.1)✅ AccurateDF-15"See Section 8.1 for specific proposals"✅ Yes (8.1.4)✅ AccurateMissing Opportunities (DFs without Ch 8 solutions yet):
+
+DF-1 (Form-Guidance Disconnect)
+DF-2 (Checkbox Miscue)
+DF-4 (Vendor Transparency > HMCTS)
+DF-6 (Appeal-Transcript Timeline Collision)
+DF-7 (Funding Fragmentation) - Has solution in 8.1.5
+DF-8 (No Guidance on Judicial Self-Anonymization)
+DF-9 (No Requirement to Document Refusal Reasons)
+DF-11 (No Jigsaw Identification Verification)
+DF-12 (No Enforcement of Publication Targets)
+DF-13 (Design Silence on Consent Asymmetry)
+DF-14 (No Subject Indexing) - Has solution in 8.1.6
+
+
+
+
+
+
+
 ## 8.0 Introduction: From Diagnosis to Design
 
 Chapters 1-7 diagnosed a **70% reality gap** between transparency principles and operational practice. This chapter translates those findings into **actionable interventions** organized by:
@@ -9012,3 +9040,5 @@ BAILII (British and Irish Legal Information Institute): https://www.bailii.org
 Find Case Law (The National Archives): https://caselaw.nationalarchives.gov.uk
 Transparency Project: https://www.transparencyproject.org.uk
 HMCTS guidance: https://www.gov.uk
+Transparency Project (2019). *Media Guide: Reporting Family Cases*. 
+Available at: https://www.transparencyproject.org.uk/press/wp-content/uploads/Media-Guide-Mar-19.pdf
