@@ -3717,6 +3717,13 @@ Transcripts aren't ancillary; they're pivotal. Experts like those in NatCen's ev
 
 ## 8. Low-Resistance Interventions: Actionable Pathways Forward
 
+
+HOW TO STRUCTURE IT: 
+Work on something systematically and focus only on the structure - how one logic follows to another. And this is a little bit disjointed, but basically at the moment what I am working on is something which I call the list of resistance tiny changes. And then if that's the leading question, how this would be constructed. You go through each layer's structure, one to layer five, and look at the structure through the pathway A and pathway B. Pathway A is obtaining transcripts (anything that's orally spoken), that's pathway A. Pathway B is anything connected with what is already written. And then what you look at is through those two pathways, you look at each of the layers and what the gaps have been located as the problems there. So that's where you start. 
+
+LAYERS 1:
+pAYTWAY A), PATHWAY B)
+
 I am thinking let's take each of these 5 leayers - 1. procedural
 hhere we would have
 
