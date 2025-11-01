@@ -1458,8 +1458,6 @@ This layer examines how judges interpret and apply the institutional design from
 
 ## Scope
 
-## Scope
-
 Layer 2 examines how judicial interpretation addresses **six of fifteen design failures** identified in Layer 1, revealing why progressive doctrine cannot resolve infrastructure and resource deficits beyond judicial authority. Published case law engages only **DF-6** (untimed approval), **DF-8** (self-anonymization), **DF-9** (unreasoned refusals), **DF-12** (no enforcement), **DF-13** (consent asymmetry), and **DF-15** (no integration). The remaining nine design failures—encompassing form design flaws (**DF-1, DF-2**), infrastructure voids (**DF-3, DF-4, DF-5, DF-14**), and resource deficits (**DF-7, DF-10, DF-11**)—receive zero judicial attention because they never generate appealable disputes or fall outside judicial authority to mandate funding and administrative reform.
 
 This selective engagement pattern exposes structural limits of judge-led transparency reform: even well-intentioned judicial rulings can only critique dysfunction, not resolve it, when systemic problems require executive action (HMCTS), budgetary allocation (Ministry of Justice), and rule amendments (Family Procedure Rule Committee).
