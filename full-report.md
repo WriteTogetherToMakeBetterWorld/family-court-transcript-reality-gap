@@ -14,89 +14,35 @@ These **least-resistance reforms** leverage existing infrastructure (TIG pilots,
 
 ## Figure 1. Article Structure Overview (Visual Mindmap)
 
-*This schematic shows the flow: diagnosis → theory → mapping → testing → multi-layer analysis → reforms. Click any node to jump to that section.*
+*High-level overview: from crises → mapping → multi-layer analysis → reforms.*
 
 ```mermaid
 mindmap
   root((Family Court Transparency: The Reality Gap))
-    ["[Abstract & Overview](#abstract--overview-problem-statement--hypothesis)"]
-    ["[Section 1: Diagnosing the Crises](#section-1-diagnosing-the-crises)"]
-      ["[1.1: Delays & Timeliness Deficit](#11-delays--timeliness-deficit)"]
-      ["[1.2: Fragmented Governance](#12-fragmented-governance)"]
-      ["[1.3: Data Deficit & Evidence Gaps](#13-data-deficit--evidence-gaps)"]
-    ["[Section 2: Evolution of Transparency Frameworks](#section-2-evolution-of-transparency-frameworks)"]
-    ["[Section 3: Transparency as a Catalyst for Reform](#section-3-transparency-as-a-catalyst-for-reform)"]
-    ["[Section 4: Theoretical & Learning Foundations](#section-4-theoretical--learning-foundations)"]
-    ["[Section 5: From Crises to Deficits – The Logic Map](#section-5-from-crises-to-deficits--the-logic-map)"]
-      ["[5.1: Systemic Symptom–Deficit Mapping](#51-systemic-symptomdeficit-mapping)"]
-      ["[5.2: Institutional Embedding (TIG Framework)](#52-institutional-embedding-tig-framework)"]
-      ["[5.3: Empirical Evidence of the 'Reality Gap'](#53-empirical-evidence-of-the-reality-gap)"]
-      ["[5.4: Paradigm Shift Toward Openness](#54-paradigm-shift-toward-openness)"]
-    ["[Section 6: Empirical Findings – The Data Void](#section-6-empirical-findings--the-data-void)"]
-      ["[6.1: FOI Evidence (Quantitative Deficit)](#61-foi-evidence-quantitative-deficit)"]
-      ["[6.2: Defining 'Transcript' as Policy Object](#62-defining-transcript-as-policy-object)"]
-      ["[6.3: Implications for Accountability](#63-implications-for-accountability)"]
-    ["[Section 7: From Principle to Practice – Multi-Layer Analysis](#section-7-from-principle-to-practice--multi-layer-analysis)"]
-      ["[Analytical Design (Triangulation & Complexity)](#analytical-design-triangulation--complexity)"]
-      ["[Layer 1: Institutional Design (Forms & Procedures)](#layer-1-institutional-design-forms--procedures)"]
-      ["[Layer 2: Judicial Gatekeeping (Rulings & Discretion)](#layer-2-judicial-gatekeeping-rulings--discretion)"]
-      ["[Layer 3: System Users (Litigant Experiences)](#layer-3-system-users-litigant-experiences)"]
-      ["[Layer 4: Legal Professionals (Practices & Discourses)](#layer-4-legal-professionals-practices--discourses)"]
-      ["[Layer 5: External Observers (Media, NGOs, Children’s Voices)](#layer-5-external-observers-media-ngos-childrens-voices)"]
-      ["[7.6–7.7: Limitations, Convergence, and Synthesis](#76–77-limitations-convergence-and-synthesis)"]
-    ["[Section 8: Policy Implications & Low-Resistance Reforms](#section-8-policy-implications--low-resistance-reforms)"]
-      ["[8.1: Cost & AI Transcription Pathways](#81-cost--ai-transcription-pathways)"]
-      ["[8.2: Judicial Approval & Anonymization Burden](#82-judicial-approval--anonymization-burden)"]
-      ["[8.3: Publication Veto Culture](#83-publication-veto-culture)"]
-      ["[8.4: Judgment Discoverability & Metadata](#84-judgment-discoverability--metadata)"]
-      ["[8.5: One-Form Reform (Integrated Transcript Request)](#85-one-form-reform-integrated-transcript-request)"]
-    ["[Section 9: Conclusions & Future Directions](#section-9-conclusions--future-directions)"]
-    ["[References & Appendices](#references--appendices)"]
+    ["Abstract & Overview"]
+    ["1–3: Diagnosing the Crises"]
+    ["4–5: Theoretical & Logical Mapping"]
+    ["6: Empirical Testing (Data Void)"]
+    ["7: Multi-Layer Analysis (Practice Gap)"]
+    ["8: Policy & Low-Resistance Reforms"]
+    ["9: Conclusion & Call to Action"]
 
-> Tip: the code fence is **```mermaid** (not plain code). Keep the outer triple-backticks exactly as above.
+Then immediately under it, keep the HTML collapsible outline I gave you earlier.  
+That way readers see the small interactive map **plus** a full navigable index that doesn’t break rendering.
 
 ---
 
-## Paste Block B — Fallback outline (works even if Mermaid doesn’t)
+## 🧩 Option 2 (Advanced, if you want the big map)
 
-```html
-<details open>
-  <summary><strong>Interactive Outline (click to expand/collapse)</strong></summary>
+If you want the full nested diagram, you’ll need to **host it externally** using [https://mermaid.live](https://mermaid.live):
 
-- <a href="#abstract--overview-problem-statement--hypothesis">Abstract & Overview</a>
-- <a href="#section-1-diagnosing-the-crises">Section 1: Diagnosing the Crises</a>
-  - <a href="#11-delays--timeliness-deficit">1.1: Delays & Timeliness Deficit</a>
-  - <a href="#12-fragmented-governance">1.2: Fragmented Governance</a>
-  - <a href="#13-data-deficit--evidence-gaps">1.3: Data Deficit & Evidence Gaps</a>
-- <a href="#section-2-evolution-of-transparency-frameworks">Section 2: Evolution of Transparency Frameworks</a>
-- <a href="#section-3-transparency-as-a-catalyst-for-reform">Section 3: Transparency as a Catalyst for Reform</a>
-- <a href="#section-4-theoretical--learning-foundations">Section 4: Theoretical & Learning Foundations</a>
-- <a href="#section-5-from-crises-to-deficits--the-logic-map">Section 5: From Crises to Deficits – The Logic Map</a>
-  - <a href="#51-systemic-symptomdeficit-mapping">5.1: Systemic Symptom–Deficit Mapping</a>
-  - <a href="#52-institutional-embedding-tig-framework">5.2: Institutional Embedding (TIG Framework)</a>
-  - <a href="#53-empirical-evidence-of-the-reality-gap">5.3: Empirical Evidence of the 'Reality Gap'</a>
-  - <a href="#54-paradigm-shift-toward-openness">5.4: Paradigm Shift Toward Openness</a>
-- <a href="#section-6-empirical-findings--the-data-void">Section 6: Empirical Findings – The Data Void</a>
-  - <a href="#61-foi-evidence-quantitative-deficit">6.1: FOI Evidence (Quantitative Deficit)</a>
-  - <a href="#62-defining-transcript-as-policy-object">6.2: Defining 'Transcript' as Policy Object</a>
-  - <a href="#63-implications-for-accountability">6.3: Implications for Accountability</a>
-- <a href="#section-7-from-principle-to-practice--multi-layer-analysis">Section 7: From Principle to Practice – Multi-Layer Analysis</a>
-  - <a href="#analytical-design-triangulation--complexity">Analytical Design (Triangulation & Complexity)</a>
-  - <a href="#layer-1-institutional-design-forms--procedures">Layer 1: Institutional Design (Forms & Procedures)</a>
-  - <a href="#layer-2-judicial-gatekeeping-rulings--discretion">Layer 2: Judicial Gatekeeping (Rulings & Discretion)</a>
-  - <a href="#layer-3-system-users-litigant-experiences">Layer 3: System Users (Litigant Experiences)</a>
-  - <a href="#layer-4-legal-professionals-practices--discourses">Layer 4: Legal Professionals (Practices & Discourses)</a>
-  - <a href="#layer-5-external-observers-media-ngos-childrens-voices">Layer 5: External Observers (Media, NGOs, Children’s Voices)</a>
-  - <a href="#76–77-limitations-convergence-and-synthesis">7.6–7.7: Limitations, Convergence, and Synthesis</a>
-- <a href="#section-8-policy-implications--low-resistance-reforms">Section 8: Policy Implications & Low-Resistance Reforms</a>
-  - <a href="#81-cost--ai-transcription-pathways">8.1: Cost & AI Transcription Pathways</a>
-  - <a href="#82-judicial-approval--anonymization-burden">8.2: Judicial Approval & Anonymization Burden</a>
-  - <a href="#83-publication-veto-culture">8.3: Publication Veto Culture</a>
-  - <a href="#84-judgment-discoverability--metadata">8.4: Judgment Discoverability & Metadata</a>
-  - <a href="#85-one-form-reform-integrated-transcript-request">8.5: One-Form Reform (Integrated Transcript Request)</a>
-- <a href="#section-9-conclusions--future-directions">Section 9: Conclusions & Future Directions</a>
-- <a href="#references--appendices">References & Appendices</a>
-</details>
+1. Go to **https://mermaid.live**.  
+2. Paste your full `mindmap` code there.  
+3. Click “Export → PNG” or “Export → SVG”.  
+4. In your Markdown, replace the broken diagram with an embedded image link:  
+
+   ```md
+   ![Figure 1: Article Mindmap](path/to/exported-diagram.svg)
 
 
 ## 1. The Crises: Symptoms of Systemic Failure
