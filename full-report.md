@@ -1441,11 +1441,13 @@ Layer 2 examines how judicial interpretation addresses six of fifteen design fai
 
 This absence may reflect several possibilities: (1) such rulings exist but remain unpublished or undiscoverable through available methods (the database validation test in §7.2.0.3 revealed official archives contain only 0-0.23% of BAILII's holdings), (2) disputes arise but are resolved informally, (3) refusals to engage these issues go unpublished (meta-opacity problem documented throughout this layer), or (4) courts treat these as non-justiciable matters beyond judicial authority. While definitive causation cannot be established, the structural characteristics of the nine unaddressed failures—requiring form redesign, infrastructure investment, budget allocation, and administrative coordination—suggest they likely exceed remedies courts can provide even if disputes arose.
 
-This selective engagement pattern exposes structural limits of judge-led transparency reform: even well-intentioned judicial rulings can only critique dysfunction, not resolve it, when systemic problems require executive action (HMCTS), budgetary allocation (Ministry of Justice), and rule amendments (Family Procedure Rule Committee).
+This selective engagement pattern exposes structural limits of judge-led transparency reform: even well-intentioned judicial rulings can only critique dysfunction, not resolve it, when systemic problems require executive action (HMCTS), budgetary allocation (Ministry of Justice), and rule amendments (Family Procedure Rule Committee). This selective engagement pattern exposes structural limits of judge-led transparency  reform: even well-intentioned judicial rulings can only critique dysfunction, not resolve it, when systemic problems require executive action (HMCTS), budgetary allocation (Ministry of Justice), and rule amendments (Family Procedure Rule Committee). 
 
-**Analytical structure:** Three axes document gatekeeping mechanisms where judges accommodate rather than resolve dysfunction:
+**Section 7.2.6.4 examines why judicial authority stops at interpretive resolution—establishing what rules mean—and cannot provide structural resolution—changing how systems operate.**
 
-* **Axis (a): Transcript as Record** — How efficiency promises become discretionary delays despite *Re X*'s critique of untimed approval (**DF-6**, §7.1.2)
+**Analytical structure:** Three axes document gatekeeping mechanisms where judges accommodate rather than resolve dysfunction. **Judicial rulings provide interpretive resolution** (establishing doctrine about what rules mean) **but cannot provide structural resolution** (changing how systems operate):
+
+* **Axis (a): Transcript as Record** — How efficiency promises become discretionary delays
 
 * **Axis (b): Transcript as Publication** — How transparency presumptions become selective visibility despite *Re B and G*'s doctrinal framework (**DF-12, DF-15**, §7.1.6, §7.1.7)
 
