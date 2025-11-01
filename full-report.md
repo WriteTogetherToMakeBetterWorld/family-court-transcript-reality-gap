@@ -1431,58 +1431,35 @@ The substantive question is not the precise percentage but the mechanisms by whi
 ---
 # 7.2 Layer 2: Judicial Gatekeeping — The Authoritative Filter
 
-## Purpose
+**Purpose.** This layer examines how judges interpret and apply institutional design from Layer 1, revealing a critical gap: judges acknowledge structural problems in individual cases but do not signal these problems to bodies positioned to implement systemic reforms (HMCTS, Ministry of Justice, Family Procedure Rule Committee). Where Layer 1 identified design voids (untimed approval stages, fragmented publication pathways, consent asymmetry silences), Layer 2 analyzes how judicial rulings critique dysfunction without triggering institutional review—establishing what this chapter terms the "accommodation dynamic." Problems get resolved case-by-case rather than aggregated and escalated, ensuring their persistence regardless of judicial awareness.
 
-This layer examines how judges interpret and apply the institutional design from Layer 1, filtering transparency through discretion at trial, appeal, and publication stages. Where Layer 1 identified design voids (untimed approval stages, fragmented publication pathways, consent asymmetry silences), Layer 2 analyzes how judicial rulings and discretionary practices fill—or fail to fill—these voids.
+**Scope.** Layer 2 examines how judicial interpretation addresses six of fifteen design failures identified in Layer 1. Judicial rulings identified through practitioner-curated sources and database searches engage only **DF-6** (untimed approval), **DF-8** (self-anonymization), **DF-9** (unreasoned refusals), **DF-12** (no enforcement), **DF-13** (consent asymmetry), and **DF-15** (no integration). This research identified no case law addressing nine design failures—**DF-1, DF-2** (form design flaws), **DF-3, DF-4, DF-5, DF-14** (infrastructure voids), **DF-7, DF-10, DF-11** (resource deficits). Whether this absence reflects that such failures fall outside judicial authority, that parties do not frame them as justiciable issues, that courts treat them as administrative matters beyond judicial review, or that relevant rulings exist but remain unpublished cannot be definitively established. What can be observed is that these failures persist unchanged while the six failures that have generated case law receive only accommodation (critique without enforcement) rather than resolution.
 
-## Scope
+Analysis proceeds through three axes and one supplementary dimension:
 
-Layer 2 examines how judicial interpretation addresses six of fifteen design failures identified in Layer 1, revealing why progressive doctrine cannot resolve infrastructure and resource deficits beyond judicial authority. Judicial rulings identified through practitioner-curated sources and database searches (methodology documented in §7.2.0) engage only **DF-6** (untimed approval), **DF-8** (self-anonymization), **DF-9** (unreasoned refusals), **DF-12** (no enforcement), **DF-13** (consent asymmetry), and **DF-15** (no integration). This research identified no case law addressing the remaining nine design failures—encompassing form design flaws (**DF-1, DF-2**), infrastructure voids (**DF-3, DF-4, DF-5, DF-14**), and resource deficits (**DF-7, DF-10, DF-11**).
+**Axes:**
+* **Axis (a): Transcript as Record** — How efficiency promises become discretionary delays despite *Re X*'s critique of untimed approval (DF-6)
+* **Axis (b): Transcript as Publication** — How transparency presumptions become selective visibility despite *Re B and G*'s doctrinal framework (DF-12, DF-15)
+* **Axis (c): Consent Architecture** — How objections function as practical vetoes despite *Griffiths v Tickle*'s "right to tell her story" (DF-13)
 
-This absence may reflect several possibilities: (1) such rulings exist but remain unpublished or undiscoverable through available methods (the database validation test in §7.2.0.3 revealed official archives contain only 0-0.23% of BAILII's holdings), (2) disputes arise but are resolved informally, (3) refusals to engage these issues go unpublished (meta-opacity problem documented throughout this layer), or (4) courts treat these as non-justiciable matters beyond judicial authority. While definitive causation cannot be established, the structural characteristics of the nine unaddressed failures—requiring form redesign, infrastructure investment, budget allocation, and administrative coordination—suggest they likely exceed remedies courts can provide even if disputes arose.
+**Dimension:**
+* **Dimension (d): Design Void Filling** — How judges create operational norms where Layer 1 remains silent: self-anonymization enabling accountability gaps (DF-8) and unreasoned refusals preventing effective appeals (DF-9)
 
-This selective engagement pattern exposes structural limits of judge-led transparency reform: even well-intentioned judicial rulings can only critique dysfunction, not resolve it, when systemic problems require executive action (HMCTS), budgetary allocation (Ministry of Justice), and rule amendments (Family Procedure Rule Committee). This selective engagement pattern exposes structural limits of judge-led transparency  reform: even well-intentioned judicial rulings can only critique dysfunction, not resolve it, when systemic problems require executive action (HMCTS), budgetary allocation (Ministry of Justice), and rule amendments (Family Procedure Rule Committee). 
+**Critical findings.** Analysis reveals two patterns explaining why the "reality gap" persists despite reform announcements:
 
-**Section 7.2.6.4 examines why judicial authority stops at interpretive resolution—establishing what rules mean—and cannot provide structural resolution—changing how systems operate.**
+**(1) The Accommodation Dynamic** — Judges critique problems in individual cases (*Re X* acknowledges approval delays; *Re B and G* establishes transparency presumption) but rulings do not produce enforcement mechanisms, monitoring systems, or resource allocation. Critically, this research identified no evidence of judges systematically signaling structural failures to bodies positioned to remedy them. When approval delays prejudice appeals repeatedly, judges handle each case individually; no formal notifications to HMCTS requesting systemic review were identified. When consent asymmetry creates Article 8/10 conflicts across cases, judges resolve disputes individually; no referrals to Family Procedure Rule Committee for guidance development were found. Whether this absence reflects lack of signaling mechanisms, judges not seeing such action as within their role, practical barriers (time, resources), or informal signaling that leaves no public record cannot be determined from available evidence. What can be established is the outcome: judicial observation of recurring dysfunction does not trigger administrative response.
 
-**Analytical structure:** Three axes document gatekeeping mechanisms where judges accommodate rather than resolve dysfunction. **Judicial rulings provide interpretive resolution** (establishing doctrine about what rules mean) **but cannot provide structural resolution** (changing how systems operate):
+**(2) The Hollow Infrastructure Finding** — Official systems promise functionality while maintaining minimal operational capacity. Policy announcements create reform illusions (transparency presumptions, publication targets, TIG pilots) while operational barriers documented in Layer 1 remain unchanged. No institutional feedback loop is observable between judicial encounter with system failure and administrative action to remedy it—whether such a loop is structurally absent, functionally broken, or simply unused cannot be definitively determined.
 
-* **Axis (a): Transcript as Record** — How efficiency promises become discretionary delays
+Together, these patterns demonstrate that approximately 60% of design failures (9 of 15 based on case law identified in this research) have generated no judicial engagement, and the remaining 40% receive only accommodation rather than resolution. This explains the persistence of the double transparency deficit (§7.0.1): problems visible to judges remain invisible to system designers because judicial observation does not flow back to bodies positioned to implement reforms.
 
-* **Axis (b): Transcript as Publication** — How transparency presumptions become selective visibility despite *Re B and G*'s doctrinal framework (**DF-12, DF-15**, §7.1.6, §7.1.7)
+**Scope & Limits.** Analysis is limited to published precedents and practitioner-curated guidance representing "visible law." Unpublished refusals create "meta-opacity"—where judges refuse publication, those refusals themselves rarely generate public records. Layer 2 therefore cannot capture comprehensive practice across all judicial officers, patterns in unpublished refusals (addressed through Layer 4 user testimony), informal judicial guidance not documented in written rulings, or regional variations in judicial interpretation. The scarcity of recent case law addressing transcript procedures and publication disputes is itself diagnostic evidence: if systems functioned as designed, regular precedent from disputes over delays, approval enforcement, and consent resolution would exist. Instead, the absence suggests parties abandon challenges rather than pursue them, refusals go unpublished (meta-opacity), or judges treat issues as case-specific rather than systemic.
 
-* **Axis (c): Consent Architecture** — How objections function as practical vetoes despite *Griffiths v Tickle*'s "right to tell her story" (**DF-13**, §7.1.4, §7.1.6)
-
-**Supplementary dimension:** Design void filling through discretionary practice:
-
-* **Dimension (d)**: How judges create operational norms where Layer 1 remains silent—self-anonymization enabling accountability gaps (**DF-8**, §7.1.3.1) and unreasoned refusals preventing effective appeals (**DF-9**, §7.1.3.1)
-
-**Cross-cutting diagnostic findings:** Analysis across all axes reveals two systemic patterns explaining why the "reality gap" persists despite reform announcements:
-
-1. **The Accommodation Dynamic** (§7.2.6.3): Progressive doctrine critiques dysfunction without resolving structural causes—rulings acknowledge problems but provide no enforcement mechanisms, monitoring systems, or resource allocation
-
-2. **The Hollow Infrastructure Finding** (§7.2.0.3, §7.2.5): Official systems promise functionality while maintaining minimal operational capacity—policy announcements create reform illusions while operational barriers documented in Layer 1 remain unchanged
-
-Together, these patterns demonstrate why approximately 60% of design failures appear beyond judicial reach (9 of 15 based on case law identified in this research), and why judges can only accommodate rather than resolve the remaining 40%. This explains the persistence of the double transparency deficit (§7.0.1) despite progressive judicial philosophy: judges interpret rules but cannot write them, critique delays but cannot impose timelines, establish presumptions but cannot mandate compliance monitoring, or authorize transparency but cannot fund operational capacity.
-
-## Scope & Limits
-
-Analysis is limited to published precedents and practitioner-curated guidance representing "visible law." Unpublished refusals create "meta-opacity" beyond this layer's reach—where judges refuse publication, those refusals themselves rarely generate public records. This means Layer 2 cannot capture:
-
-* Comprehensive practice across all judicial officers or case types
-* Patterns in unpublished refusals (addressed through Layer 4 user testimony)
-* Informal judicial guidance not documented in written rulings
-* Regional variations in judicial interpretation
-
-**Critical methodological finding:** The scarcity of recent case law addressing transcript procedures and publication disputes is itself diagnostic evidence. If systems functioned as designed, regular precedent from disputes over delays, approval enforcement, and consent resolution would exist. Instead, the absence of recent case law suggests parties abandon challenges rather than pursue them, refusals go unpublished (meta-opacity), or judges treat issues as case-specific rather than systemic.
-
-## Handoff
-
-Judicial interpretations documented here are tested against professional practice (§7.3), user experience (§7.4), and external commentary (§7.5). Where all layers converge on the same barrier—untimed approval creates delays, objections function as vetoes, refusals lack documentation—the pattern is established despite sparse published case law.
+**Handoff to subsequent layers.** Judicial interpretations documented here are tested against professional practice (§7.3), user experience (§7.4), and external commentary (§7.5). Where all layers converge on the same barrier—untimed approval creates delays, objections function as vetoes, refusals lack documentation—the pattern is established despite sparse published case law.
 
 ---
 
-## 7.2.0 Why Judicial Gatekeeping Is the Authoritative Filter
+## 7.2.1 Why Judicial Gatekeeping Is the Authoritative Filter
 
 Layer 1 documented fifteen design failures that create discretionary voids in the Obtaining and Publication Pathways. But institutional architecture does not determine outcomes—**judicial interpretation does**. When rules fall silent (untimed approvals, consent asymmetry, refusal documentation), judges fill these voids through precedent and practice. These interpretations become operationally binding: practitioners cite them, parties navigate them, subsequent judges replicate them. Where design creates possibility space, judicial gatekeeping determines which possibilities actualize. 
 
@@ -1503,22 +1480,23 @@ This layer therefore examines not what rules permit, but what judicial authority
 
 Table 7.2.1 maps judicial responses to six design failures—revealing what it omits: this research identified no case law addressing nine design failures documented in Layer 1 (**DF-1, DF-2, DF-3, DF-4, DF-5, DF-7, DF-10, DF-11, DF-14**).
 
-**Methodological note:** This absence reflects searches conducted using practitioner-curated sources (Transparency Project, legal firm analysis, professional commentary published 2023-2025) and systematic database queries (methodology documented in §7.2.0). While the database validation test (§7.2.0.3) revealed that official archives contain only 0-0.23% of judgments available through BAILII, and even BAILII's comprehensive holdings proved largely unsearchable using transparency-related keywords, this analysis cannot definitively claim no case law exists on these nine design failures. The absence may reflect: (1) such rulings exist but remain unpublished or undiscoverable through available search methods, (2) disputes arose but were resolved informally without generating precedent, (3) refusals to engage these issues remain unpublished (meta-opacity), or (4) these issues fall outside judicial authority. The structural characteristics of these nine failures (form design, infrastructure deficits, resource allocation) suggest the fourth explanation most probable, but this remains a reasoned hypothesis rather than verified fact.
+**Methodological note:** This absence reflects searches conducted using practitioner-curated sources (Transparency Project, legal firm analysis, professional commentary published 2023-2025) and systematic database queries (methodology documented in §7.2.3). While the database validation test (§7.2.3) revealed that official archives contain only 0-0.23% of judgments available through BAILII, and even BAILII's comprehensive holdings proved largely unsearchable using transparency-related keywords, this analysis cannot definitively claim no case law exists on these nine design failures. The absence may reflect: (1) such rulings exist but remain unpublished or undiscoverable through available search methods, (2) disputes arose but were resolved informally without generating precedent, (3) refusals to engage these issues remain unpublished (meta-opacity), or (4) these issues fall outside judicial authority. The structural characteristics of these nine failures (form design, infrastructure deficits, resource allocation) suggest the fourth explanation most probable, but this remains a reasoned hypothesis rather than verified fact.
 
 **The nine design failures absent from identified case law:**
 
 | Design Failure Category | Specific DFs | Probable Explanation for Absence from Identified Case Law |
 |------------------------|--------------|---------------------------|
 | **Form Design Flaws** | **DF-1**: Form-Guidance Disconnect (§7.1.2)<br>**DF-2**: Checkbox Miscue (§7.1.2) | **Most likely:** Parties work around confusion rather than challenge form design; no clear grounds for appeal when forms simply omit information rather than misstating law. Dysfunction absorbed individually through workarounds (PD30A notes, solicitor guidance) rather than litigated systemically. |
-| **Infrastructure Voids** | **DF-3**: Performance Opacity in Vendor Selection (§7.1.2)<br>**DF-4**: Vendor Transparency Exceeds HMCTS (§7.1.2)<br>**DF-5**: No Recording Infrastructure Transparency (§7.1.2)<br>**DF-14**: No Subject Indexing (§7.1.6) | **Most likely:** Do not create individual rights violations courts can remedy. Recording retrieval delays and database hollowness (0-0.23% coverage, §7.2.0.3) affect system functioning but parties lack standing to challenge infrastructure deficits. Researchers experience discovery barriers but cannot bring claims. **Possible:** Courts treat as administrative matters beyond judicial review. |
-| **Resource Deficits** | **DF-7**: Funding Fragmentation (§7.1.2, §7.1.7)<br>**DF-10**: No Anonymization Unit (§7.1.6)<br>**DF-11**: No Jigsaw Identification Verification (§7.1.6) | **Most likely:** Fall outside judicial power to mandate even if disputes arose. Courts cannot order HMCTS to coordinate fee structures, fund Anonymization Units (proposed repeatedly by TIG without judicial mandate), or create verification systems. Budget allocation requires Ministry of Justice executive action. **Possible:** Parties do not frame funding fragmentation as appealable issue; judges acknowledge resource strain informally without creating precedent. |
+| **Infrastructure Voids** | **DF-3**: Performance Opacity in Vendor Selection (§7.1.2)<br>**DF-4**: Vendor Transparency Exceeds HMCTS (§7.1.2)<br>**DF-5**: No Recording Infrastructure Transparency (§7.1.2)<br>**DF-14**: No Subject Indexing (§7.1.6) | **Most likely:** Do not create individual rights violations courts can remedy. Recording retrieval delays and database hollowness (0-0.23% coverage, §7.2.3) affect system functioning but parties lack standing to challenge infrastructure deficits. Researchers experience discovery barriers but cannot bring claims. **Possible:** Courts treat as administrative matters beyond judicial review. |
+| **Resource Deficits** | **DF-7**: Funding Fragmentation (§7.1.2, §7.1.7)<br>**DF-10**: No Anonymization Unit (§7.1.6)<br>**DF-11**: No Jigsaw Identification Verification (§7.1.6) | **Most likely:** Individual judges cannot mandate budget allocation (constitutional separation of powers) or direct executive operational decisions (HMCTS form design, vendor contracts). Whether senior judiciary could trigger institutional review through formal recommendations, Practice Directions, or judicial review proceedings has not been tested in identified case law. **Possible:** Parties do not frame funding fragmentation as appealable issue; judges acknowledge resource strain informally without creating precedent. |
 
 **What this selective engagement reveals:**
 
 **Category 1: Judicially addressable but only partially** (DF-6, DF-12, DF-13, DF-15)
 - Judges establish doctrine (*Re X*, *Re B and G*, *Griffiths v Tickle*) critiquing dysfunction
-- But cannot impose enforcement mechanisms, compliance monitoring, or timeline mandates
-- **Result:** Accommodation dynamic—recognition without resolution
+- But rulings do not produce enforcement mechanisms, compliance monitoring, or timeline mandates
+- Judges do not signal these patterns to bodies positioned to implement systemic reforms
+- **Result:** Accommodation dynamic—recognition without resolution or escalation
 
 **Category 2: Judicially fillable through discretion** (DF-8, DF-9)
 - Judges create operational norms where rules remain silent
@@ -1526,16 +1504,18 @@ Table 7.2.1 maps judicial responses to six design failures—revealing what it o
 - **Result:** Discretion-as-opacity—practice develops without accountability
 
 **Category 3: Appears beyond judicial reach** (DF-1, DF-2, DF-3, DF-4, DF-5, DF-7, DF-10, DF-11, DF-14)
-- Nine design failures (60% of Layer 1's documented problems based on this research) likely require executive, budgetary, or administrative action beyond judicial authority
+- Nine design failures (60% of Layer 1's documented problems based on this research) likely require executive action (HMCTS operational decisions), budgetary allocation (Ministry of Justice/Parliamentary appropriation), or Family Procedure Rule Committee collective action
+- Individual judges cannot mandate such changes due to constitutional separation of powers
+- Whether senior judiciary could trigger institutional review through signaling mechanisms has not been tested
 - **Result:** Hollow infrastructure persists regardless of judicial philosophy
 
-**The implication:** Even maximally transparency-supportive judges (Munby P establishing publication presumptions, Lieven J promoting Transparency Orders, Harris J permitting publication over objections) cannot address infrastructure voids, resource deficits, and form design flaws. These judicially-unreachable failures create the operational barriers that make accommodation inevitable: when recording retrieval takes 10-28 days (**DF-5**), when funding is fragmented across disconnected forms (**DF-7**), when judges lack time and resources for anonymization (**DF-10**)—no amount of progressive doctrine can deliver the efficiency and transparency Layer 1's architecture formally promises.
+**The implication:** Even maximally transparency-supportive judges (Munby P establishing publication presumptions, Lieven J promoting Transparency Orders, Harris J permitting publication over objections) have not remedied infrastructure voids, resource deficits, and form design flaws. Whether this reflects constitutional limits on judicial authority, absence of mechanisms for judges to signal systemic problems to administrative bodies, judges not seeing such signaling as within their role, or practical barriers (time, resources) cannot be definitively established. What can be observed is that these failures persist unchanged, and no evidence was identified of judges systematically notifying HMCTS, Ministry of Justice, or Family Procedure Rule Committee that recurring patterns require institutional attention.
 
-This explains why the accommodation dynamic characterizes even well-intentioned judicial responses: judges cannot resolve structural causes requiring resources, monitoring systems, and administrative reform. The following analysis examines the six addressable design failures through three axes and one dimension, demonstrating how even these limited engagements produce accommodation rather than resolution—and why the nine apparently unreachable failures guarantee hollow infrastructure regardless of judicial efforts.
+This explains why the accommodation dynamic characterizes even well-intentioned judicial responses: judges resolve individual cases without aggregating patterns or signaling to bodies positioned to implement structural remedies. The following analysis examines the six addressable design failures through three axes and one dimension, demonstrating how even these limited engagements produce accommodation rather than resolution—and why the nine apparently unreachable failures guarantee hollow infrastructure regardless of judicial efforts.
 
 ---
 
-## 7.2.0.3 The Hollow Infrastructure Finding: Diagnosis Through Database Failure
+## 7.2.2 The Hollow Infrastructure Finding: Diagnosis Through Database Failure
 
 **The research challenge:** What rulings exist on transcript access, publication permission, consent disputes, and approval delays in family proceedings? Standard legal research would involve systematic database searching. However, the research process revealed this approach was ineffective—a finding with diagnostic significance for understanding the transparency architecture overall.
 
@@ -1562,19 +1542,19 @@ Zero of the eleven practitioner-identified transparency cases appeared in the 10
 * Even BAILII's comprehensive holdings proved unsearchable—landmark cases cited as transparency framework guidance did not surface using logical transparency-related keywords
 * The cases about transparency aren't transparently accessible
 
-This validates both the practitioner-source methodology (professional curation was necessary, not optional) and the article's **"hollow infrastructure"** thesis: official systems promise functionality while maintaining minimal operational capacity. The pattern extends beyond databases to the transparency architecture overall—policy announcements and doctrinal progress create illusions of reform while operational systems remain unchanged due to resource and enforcement voids (a dynamic §7.2.5 examines in detail).
+This validates both the practitioner-source methodology (professional curation was necessary, not optional) and the article's **"hollow infrastructure"** thesis: official systems promise functionality while maintaining minimal operational capacity. The pattern extends beyond databases to the transparency architecture overall—policy announcements and doctrinal progress create illusions of reform while operational systems remain unchanged due to resource and enforcement voids (a dynamic §7.2.8 examines in detail).
 
 **Evidence sources and methodology:** This analysis draws on published case law and practitioner-curated guidance representing what legal professionals recognize as authoritative frameworks. Cases were identified through systematic analysis of solicitor and barrister professional commentary published 2023-2025, including Transparency Project guidance, legal firm analysis (Stewart's Law, Irwin Mitchell, Deka Chambers), Barrister Magazine articles, chambers practice notes, and Resolution publications. Detailed methodological notes including case identification procedures, terminology fragmentation analysis, and limitations are available upon request but omitted here to maintain focus on substantive judicial gatekeeping patterns.
 
 ---
 
-## 7.2.1 Axis (a): Transcript as Record — How Efficiency Becomes Discretion
+## 7.2.3 Axis (a): Transcript as Record — How Efficiency Becomes Discretion
 
 **Layer 1 established:** **DF-6** (§7.1.2) creates an untimed approval void within the nominally "48-hour" Service Level Band process. While Form EX107 promises expedited transcripts within 48 hours and standard delivery within 12 working days, these timelines exclude judicial approval—which has no deadline, no monitoring, and no enforcement mechanism. This creates structural collision with the 21-day appeal deadline (FPR 30.4), where even best-case scenarios leave only 3-5 days for grounds preparation after transcript approval.
 
 **This axis examines:** How do judicial rulings address—or accommodate—the gap between efficiency promises and untimed approval reality?
 
-### 7.2.1.1 The *Re X* Precedent: Critique Without Remedy
+### 7.2.3.1 The *Re X* Precedent: Critique Without Remedy
 
 *Re X (A Child)* [2016] EWFC B43 directly addressed approval delays: a local authority delayed transcript approval, prejudicing a party's appeal preparation. The court held that "an imperfect transcript should be sent rather than causing further delay."
 
@@ -1599,12 +1579,13 @@ This validates both the practitioner-source methodology (professional curation w
 * **No guidance on who bears delay costs** — appellant absorbs all risks
 * **No definition of "imperfect" threshold** — how inaccurate is acceptable?
 * **No remedy when critique comes too late** — recognition of prejudice doesn't restore lost appeal time
+* **No signal to HMCTS** — judgment does not notify HMCTS that approval timeline voids require institutional review
 
-**Critical analysis:** The ruling normalizes delay as inevitable rather than treating it as design defect. By focusing on "imperfect vs. delayed," it accepts that approval will take indefinite time—the question becomes only whether to release before perfection. This judicial accommodation entrenches **DF-6** (§7.1.2) rather than resolving it.
+**Critical analysis:** The ruling normalizes delay as inevitable rather than treating it as design defect. By focusing on "imperfect vs. delayed," it accepts that approval will take indefinite time—the question becomes only whether to release before perfection. This judicial accommodation entrenches **DF-6** (§7.1.2) rather than resolving it. The judgment critiques delay in the specific case but does not signal to HMCTS that systemic review is needed.
 
 **Cross-reference to Layer 1:** **DF-6** (§7.1.2) documented the structural timeline collision through Figure 7.1 showing how even best-case transcript production leaves only 3-5 days for grounds preparation. *Re X* acknowledges the problem but provides no enforcement mechanism to prevent it—transforming a design failure into an operational norm parties must navigate.
 
-### 7.2.1.2 The *M (A Child)* Extension: Participation Without Access
+### 7.2.3.2 The *M (A Child)* Extension: Participation Without Access
 
 *M (A Child: Intermediaries)* [2025] EWCA Civ 440 extended efficiency principles to vulnerable parties: courts must provide intermediaries to ensure "sufficient participation" under FPR 3A.9, emphasizing that procedural rights are hollow if parties cannot meaningfully engage with proceedings.
 
@@ -1620,7 +1601,7 @@ This validates both the practitioner-source methodology (professional curation w
 
 **Gap analysis:** While *M (A Child)* strengthens participation rights during hearings, it doesn't extend those rights to post-hearing transcript access. This creates differential access: parties who can rapidly process transcripts gain advantage; those requiring accommodations face additional barriers **DF-6**'s untimed void makes worse.
 
-### 7.2.1.3 Operational Reality: Delay as Default
+### 7.2.3.3 Operational Reality: Delay as Default
 
 Despite *Re X*'s critique (2016) and *M (A Child)*'s participation principle (2025), operational reality documented across Layers 3-4 shows:
 
@@ -1631,12 +1612,12 @@ Despite *Re X*'s critique (2016) and *M (A Child)*'s participation principle (20
 
 The "48-hour service" transforms into discretionary approval without timeline.
 
-**The pattern:** Rulings critique delay but don't prevent it. By accepting untimed approval as inevitable, judicial precedent normalizes the dysfunction Layer 1 identified as systemic failure. *Re X* provides language for complaint ("this delay is problematic") but no mechanism for remedy ("and therefore approval must occur within X days").
+**The pattern:** Rulings critique delay but don't prevent it. By accepting untimed approval as inevitable, judicial precedent normalizes the dysfunction Layer 1 identified as systemic failure. *Re X* provides language for complaint ("this delay is problematic") but no mechanism for remedy ("and therefore approval must occur within X days") and no signal to HMCTS that systemic review is required.
 
 **Cross-layer significance:**
 
 * **Layer 1 (DF-6):** Design creates untimed void
-* **Layer 2 (***Re X***):** Judicial ruling critiques delay but provides no enforcement
+* **Layer 2 (***Re X***):** Judicial ruling critiques delay but provides no enforcement and does not signal need for institutional review
 * **Layer 3 (professional practice):** Solicitors advise clients to "order transcript immediately" and "file with note if delayed" (PD30A workaround)
 * **Layer 4 (user experience):** Parties experience delays, miss deadlines, forced to draft grounds without verified records
 
@@ -1646,7 +1627,7 @@ The convergence across all layers establishes the pattern: efficiency promises e
 
 ---
 
-## 7.2.2 Axis (b): Transcript as Publication — How Equity Becomes Selection
+## 7.2.4 Axis (b): Transcript as Publication — How Equity Becomes Selection
 
 Where Axis (a) examined how efficiency promises become discretionary delays, Axis (b) analyzes how transparency presumptions translate into selective visibility through judicial discretion.
 
@@ -1654,7 +1635,7 @@ Where Axis (a) examined how efficiency promises become discretionary delays, Axi
 
 **This axis examines:** How do judicial rulings operationalize the post-2014 transparency presumption, and what patterns emerge in publication practice?
 
-### 7.2.2.1 The Foundational Framework: *Re B and G*
+### 7.2.4.1 The Foundational Framework: *Re B and G*
 
 *Re B and G (Children) (No 2)* [2015] EWFC 3 established the post-2014 transparency principle: "transparency unless specific harm shown." Munby P ruled that one party's objection does not automatically veto publication if proper anonymization protects privacy.
 
@@ -1679,10 +1660,11 @@ Where Axis (a) examined how efficiency promises become discretionary delays, Axi
 * **No process for appealing publication refusals**—decisions largely unreviewable
 * **No enforcement mechanism if judges simply don't publish**—guidance without accountability
 * **No integration with EX107 transcript pathway** (**DF-15**, §7.1.7 cross-pathway fragmentation)—publication and transcript access remain disconnected processes requiring separate Form C2 applications (£258) even for uncontested requests
+* **No signal mechanism**—when judges decline publication, no notification to relevant bodies that patterns require review
 
 **Cross-reference to Layer 1:** **DF-12** (§7.1.6) documented that judge-specific publication targets exist but lack enforcement. *Re B and G* establishes the doctrinal presumption, but **DF-12** ensures no mechanism exists to verify whether judges actually apply it.
 
-### 7.2.2.2 Sensitive Context Application: *Re M (Intimate Images)*
+### 7.2.4.2 Sensitive Context Application: *Re M (Intimate Images)*
 
 *Re M (A Child: Private Law Children Proceedings: Intimate Images)* [2022] EWHC 986 (Fam) applied the transparency presumption in difficult context: publication permitted despite intimate content and split consent, finding public interest outweighed privacy concerns when properly anonymized.
 
@@ -1704,7 +1686,7 @@ Where Axis (a) examined how efficiency promises become discretionary delays, Axi
 * Others treat publication as exceptional rather than starting point
 * No enforcement mechanism distinguishes principled refusals from administrative convenience
 
-### 7.2.2.3 Recent Application: *M and F* [2025]
+### 7.2.4.3 Recent Application: *M and F* [2025]
 
 *M and F* [2025] EWHC 801 (Fam) shows current practice: Harris J allowed publication over father's objection, but required mother to evidence public interest. The burden shifted from "publish unless harm" to "publish if justified."
 
@@ -1726,7 +1708,7 @@ Where Axis (a) examined how efficiency promises become discretionary delays, Axi
 
 **Cross-reference to Layer 1:** **DF-13** (§7.1.4, §7.1.6, consent asymmetry silence) documented design silence on resolving multi-party publication disputes. *M and F* shows how judges fill that void: by requiring publication requesters to justify transparency rather than requiring objectors to justify secrecy.
 
-### 7.2.2.4 The Self-Fulfilling Problem: Publication Refusals Remain Unpublished
+### 7.2.4.4 The Self-Fulfilling Problem: Publication Refusals Remain Unpublished
 
 **Critical methodological limitation:** Cases involving publication refusals on grounds of bias, error, or institutional failure remain unpublished. Layer 2 can only analyze published precedents—meaning the very problems this axis examines remain structurally invisible to case law analysis.
 
@@ -1740,6 +1722,7 @@ This creates **meta-opacity**—where refusals of transparency themselves remain
 * None create mechanisms for flagging bias during transcript production
 * None integrate publication consideration into transcript request processes
 * None address what happens when publication would reveal institutional failings (judges, local authorities, Cafcass errors)
+* None signal to HMCTS, MoJ, or FPRC that systemic barriers require institutional review
 
 **The visibility paradox:** The transparency framework operates selectively:
 
@@ -1747,7 +1730,7 @@ This creates **meta-opacity**—where refusals of transparency themselves remain
 * Judges can decline publication when it might reveal institutional dysfunction
 * No mechanism exists to distinguish principled welfare refusals from institutional self-protection
 
-### 7.2.2.5 Operational Reality: Selective Visibility
+### 7.2.4.5 Operational Reality: Selective Visibility
 
 Convergent evidence from practitioner sources (Transparency Project analysis 2023-2025) and TIG reports documents:
 
@@ -1761,7 +1744,7 @@ Convergent evidence from practitioner sources (Transparency Project analysis 202
 **Cross-layer significance:**
 
 * **Layer 1 (DF-12, DF-15):** Design creates no enforcement, no integrated publication mechanism
-* **Layer 2 (***Re B and G***):** Judicial ruling establishes presumption but rare application limits effectiveness
+* **Layer 2 (***Re B and G***):** Judicial ruling establishes presumption but rare application limits effectiveness; no signaling to bodies that could monitor compliance
 * **Layer 3 (professional practice):** Solicitors advise clients publication is possible but resource-intensive
 * **Layer 4 (user experience):** Parties encounter objections functioning as practical vetoes despite doctrinal framework supporting transparency
 
@@ -1769,7 +1752,7 @@ The convergence establishes the pattern: transparency presumptions exist in doct
 
 **How this perpetuates the double transparency deficit (§7.0.1):** Axis (b)'s selective publication directly enables both forms of systemic blindness. **Judicial blindness** persists because cross-case patterns remain invisible when only exceptional cases generate published records—preventing precedent development and error recognition. **Epidemiological blindness** persists because routine cases documenting family conflict patterns, emerging social problems (digital coercion, gaming addiction, pandemic mental health impacts), and institutional responses never enter the public record. The system processes 260,000 cases annually while publishing perhaps 1-2%, creating comprehensive situational unawareness.
 
-### 7.2.2.6 Track B Documents: The Publication Gap for Written Materials
+### 7.2.4.6 Track B Documents: The Publication Gap for Written Materials
 
 While Axes (a) and (b) have focused primarily on Track A documents (oral proceedings requiring transcription), judicial gatekeeping extends equally to Track B documents—skeleton arguments, court orders, position statements, and written judgments that already exist in publishable form.
 
@@ -1783,7 +1766,7 @@ While Axes (a) and (b) have focused primarily on Track A documents (oral proceed
 
 ---
 
-## 7.2.3 Axis (c): Consent Architecture — How Balance Becomes Veto
+## 7.2.5 Axis (c): Consent Architecture — How Balance Becomes Veto
 
 Where Axis (b) examined how transparency presumptions become selective visibility, Axis (c) analyzes how rights balancing operates when parties disagree on publication.
 
@@ -1796,7 +1779,7 @@ Where Axis (b) examined how transparency presumptions become selective visibilit
 
 **This axis examines:** How do judicial rulings resolve consent disputes, and what operational norms emerge?
 
-### 7.2.3.1 The ECHR Framework: *Re S*
+### 7.2.5.1 The ECHR Framework: *Re S*
 
 *Re S (A Child)* [2004] UKHL 47 established the foundational balancing framework: publication requires demonstrating "public interest outweighs harm" under Articles 8 and 10 ECHR. Neither transparency nor privacy automatically prevails—courts must conduct case-specific balancing.
 
@@ -1814,10 +1797,11 @@ Where Axis (b) examined how transparency presumptions become selective visibilit
 * No framework for multi-party disputes—what happens when some parties consent, others object?
 * No presumption hierarchy—does transparency or privacy start with advantage?
 * No distinction between privacy and reputation concerns—are they weighed equally?
+* No signal mechanism—when consent disputes recur, no pathway to notify FPRC that guidance needed
 
 **Cross-reference to Layer 1:** **DF-13** (§7.1.4, §7.1.6) documented that no guidance exists for resolving party disagreements. *Re S* provides the balancing framework but doesn't specify how to apply it when consent is asymmetric.
 
-### 7.2.3.2 The *Griffiths v Tickle* Paradigm: "Right to Tell Her Story"
+### 7.2.5.2 The *Griffiths v Tickle* Paradigm: "Right to Tell Her Story"
 
 *Griffiths v Tickle* [2022] EWCA Civ 1630 provides the highest authority on publication over objection. The Court of Appeal permitted publication of a family court judgment finding domestic and sexual abuse against former MP Andrew Griffiths, despite his objection, emphasizing Kate Griffiths' (current MP) "right to tell her story."
 
@@ -1870,11 +1854,11 @@ The case does not solve **DF-13** (§7.1.4, §7.1.6, consent asymmetry as veto)�
 **Cross-layer significance:**
 
 * **Layer 1 (DF-13):** Design creates consent asymmetry void
-* **Layer 2 (***Griffiths v Tickle***):** Judicial ruling permits publication but requires exceptional circumstances and substantial resources
+* **Layer 2 (***Griffiths v Tickle***):** Judicial ruling permits publication but requires exceptional circumstances and substantial resources; does not signal to FPRC that general guidance needed
 * **Layer 3 (professional practice):** Solicitors cite *Griffiths* when advising but caution it's fact-specific
 * **Layer 4 (user experience):** Parties without MP status, legal teams, and NGO support encounter objections as effective vetoes
 
-### 7.2.3.3 Application Pattern: Objection as Heightened Barrier
+### 7.2.5.3 Application Pattern: Objection as Heightened Barrier
 
 Reviewing published precedents (*Re S* [2004], *Re B and G* [2015], *Re M* [2022], *M and F* [2025], *Griffiths v Tickle* [2022]) reveals consistent pattern:
 
@@ -1895,8 +1879,9 @@ Reviewing published precedents (*Re S* [2004], *Re B and G* [2015], *Re M* [2022
 * No analysis of objection motivation (welfare vs. reputation vs. institutional self-protection)
 * No precedents on consent parity (should one parent's consent suffice if other objects on non-welfare grounds?)
 * No framework for assessing whether objections are substantiated (mere assertion vs. evidenced harm)
+* No signal mechanism—when consent disputes recur, no notification to FPRC that guidance needed
 
-### 7.2.3.4 The Inversion Effect
+### 7.2.5.4 The Inversion Effect
 
 While *Re B and G* [2015] established "transparency unless harm shown," practical application documented across published precedents and practitioner accounts suggests:
 
@@ -1913,7 +1898,7 @@ While *Re B and G* [2015] established "transparency unless harm shown," practica
 
 **Cross-reference to Layer 1:** **DF-13** (§7.1.4, §7.1.6) created the design void. Layer 2 shows how judges fill it: not by establishing consent parity (one parent's consent suffices if anonymization robust), but by treating objections as significant obstacles requiring exceptional justification to overcome.
 
-### 7.2.3.5 What Layer 2 Cannot Capture
+### 7.2.5.5 What Layer 2 Cannot Capture
 
 The most critical gaps are what doesn't generate published rulings:
 
@@ -1936,13 +1921,13 @@ Only when parties have resources to appeal (like Kate Griffiths) do publication-
 
 ---
 
-## 7.2.4 Dimension (d): Judicial Practice Filling Design Voids
+## 7.2.6 Dimension (d): Judicial Practice Filling Design Voids
 
 The preceding three axes examined published case law establishing doctrinal frameworks for transcript efficiency, publication presumptions, and consent balancing. This section analyzes how judges fill specific design silences identified in Layer 1 (**DF-8** and **DF-9**), creating operational norms through discretionary practice rather than formal precedent.
 
 **Critical distinction:** Axes (a)-(c) analyzed what judges say the law is through published rulings. This dimension examines what judges do when rules are silent—revealing how design-by-omission (Layer 1) enables discretion-as-opacity (Layer 2).
 
-### 7.2.4.1 Judicial Self-Anonymization (DF-8 Manifestation)
+### 7.2.6.1 Judicial Self-Anonymization (DF-8 Manifestation)
 
 **Design void from Layer 1:** No rule specifies whether judges may anonymize their own names in published family court judgments (**DF-8**, §7.1.3.1 Table 7.1). This contrasts starkly with:
 
@@ -2008,7 +1993,7 @@ None of these motivations relate to child welfare—the stated justification for
 
 **What Layer 2 reveals:** In absence of guidance, practice emerges through judges' individual comfort levels with public scrutiny—creating inconsistent norms that favor opacity over accountability.
 
-### 7.2.4.2 Unreasoned Refusals (DF-9 Manifestation)
+### 7.2.6.2 Unreasoned Refusals (DF-9 Manifestation)
 
 **Design void from Layer 1:** No rule requires judges to document reasons when refusing transcript access or publication permission applications (**DF-9**, §7.1.3.1 Table 7.1). The Family Procedure Rules require reasoned judgments for substantive decisions (FPR 30.9 requires reasons for orders; appellate courts regularly remit inadequately reasoned judgments), but remain silent on procedural gatekeeping decisions like transcript approval or publication permission.
 
@@ -2111,7 +2096,7 @@ All appear identical without documented reasoning—making principled refusals i
 
 **What Layer 2 reveals:** In absence of requirement, judges routinely decline to document reasoning—transforming procedural decisions into unreviewable discretion that operates invisibly across the system.
 
-### 7.2.4.3 Consent Asymmetry as Operational Veto (DF-13 Manifestation)
+### 7.2.6.3 Consent Asymmetry as Operational Veto (DF-13 Manifestation)
 
 **Design void from Layer 1:** **DF-13** (§7.1.4, §7.1.6) identifies that no rule or guidance addresses multi-party publication disputes. When parties split on publication—one parent consents, another objects—no Practice Direction or judicial guidance specifies:
 
@@ -2120,7 +2105,7 @@ All appear identical without documented reasoning—making principled refusals i
 * Whether institutional parties (local authorities, NHS trusts) should have veto power
 * What weight systemic transparency interests receive when individuals prefer privacy
 
-**Judicial practice manifestation:** Current practice, documented through case law analysis (§7.2.3) and practitioner accounts, reveals operational norms.
+**Judicial practice manifestation:** Current practice, documented through case law analysis (§7.2.5) and practitioner accounts, reveals operational norms.
 
 **Default response to objections:**
 
@@ -2163,7 +2148,7 @@ Both treated equally seriously despite different legitimacy—welfare concerns a
 * **Burden-shifting:** Requiring publication requester to prove exceptional circumstances rather than requiring objector to prove genuine welfare risk
 * **Institutional privilege:** Giving particular weight to local authority, NHS, Cafcass objections based on statutory authority rather than scrutinizing whether objections are welfare-based or self-protective
 
-**Resource asymmetry in practice:** As *Griffiths v Tickle* [2022] demonstrated (analyzed in §7.2.3.2), overcoming an objection requires:
+**Resource asymmetry in practice:** As *Griffiths v Tickle* [2022] demonstrated (analyzed in §7.2.5.2), overcoming an objection requires:
 
 * **Legal representation:** Navigating Article 8/10 balancing arguments requires sophisticated legal analysis—self-represented parties struggle to articulate public interest justifications
 * **Guardian support:** Kate Griffiths succeeded partly because child's guardian supported publication—but private law cases often lack guardian appointments, removing this supporting voice
@@ -2202,7 +2187,7 @@ For ordinary litigants, these factors are absent—transforming the theoretical 
 **Cross-layer significance:**
 
 * **Layer 1 (DF-13):** Design creates consent asymmetry void—no guidance on resolving party disagreements
-* **Layer 2 (judicial practice):** Judges fill void by treating objections as serious obstacles requiring exceptional justification to overcome
+* **Layer 2 (judicial practice):** Judges fill void by treating objections as serious obstacles requiring exceptional justification to overcome; no signaling to FPRC that guidance needed
 * **Layer 3 (professional practice):** Solicitors advise clients objections function as practical vetoes despite doctrinal framework theoretically supporting transparency
 * **Layer 4 (user experience):** Parties encounter resource asymmetry where overcoming objections requires legal sophistication, external support, and appellate persistence most cannot afford
 
@@ -2240,9 +2225,9 @@ The convergence across all layers establishes the pattern: consent asymmetry ope
 
 ---
 
-## 7.2.5 The Hollow Infrastructure Finding: Diagnosis Through Database Failure
+## 7.2.7 The Hollow Infrastructure Finding: Diagnosis Through Database Failure Extended
 
-The database validation test (§7.2.0.3) revealed that official government archives contain 0-0.23% of judgments available through the independent charity BAILII (0 results on Judiciary UK; 309 results on Find Case Law vs. 132,327 on BAILII). This dramatic disparity demonstrates **"hollow infrastructure"**—institutional architecture promising functionality while maintaining systems with minimal operational capacity.
+The database validation test (§7.2.2) revealed that official government archives contain 0-0.23% of judgments available through the independent charity BAILII (0 results on Judiciary UK; 309 results on Find Case Law vs. 132,327 on BAILII). This dramatic disparity demonstrates **"hollow infrastructure"**—institutional architecture promising functionality while maintaining systems with minimal operational capacity.
 
 The pattern extends beyond databases to the transparency architecture overall:
 
@@ -2268,7 +2253,7 @@ The pattern extends beyond databases to the transparency architecture overall:
 
 **Result:** Reform efforts produce formal frameworks without enforcement mechanisms, guidance documents without compliance monitoring, and presumptions without operational translation.
 
-### 7.2.5.1 Connection to Judicial Precedent
+### 7.2.7.1 Connection to Judicial Precedent
 
 The case law exhibits the same hollow infrastructure pattern:
 
@@ -2300,7 +2285,7 @@ The case law exhibits the same hollow infrastructure pattern:
 * Framework without operationalization (*Re S* on balancing)
 * Rights without resources (*Griffiths* shows possibility but requires exceptional circumstances)
 
-### 7.2.5.2 The Transparency Paradox
+### 7.2.7.2 The Transparency Paradox
 
 The very tools meant to create visibility (published judgments establishing norms) are themselves subject to the opacity they're meant to cure:
 
@@ -2309,7 +2294,7 @@ The very tools meant to create visibility (published judgments establishing norm
 * **The system's documented failures generate no documented remedies**—problems identified in case law (delays, objection-as-veto, unreasoned refusals) persist because identifying problems doesn't create solutions
 * **Meta-opacity compounds**—the cases we can analyze (Layer 2 published precedents) represent only the visible tip; the majority of transparency disputes resolve invisibly, creating structural blindness to system patterns
 
-### 7.2.5.3 Why "Hollow Infrastructure" Matters for Transparency Analysis
+### 7.2.7.3 Why "Hollow Infrastructure" Matters for Transparency Analysis
 
 **Distinguishes reform theater from operational change:**
 
@@ -2336,20 +2321,20 @@ The very tools meant to create visibility (published judgments establishing norm
 
 ---
 
-## 7.2.6 Summary of Judicial Gatekeeping Effects
+## 7.2.8 Summary of Judicial Gatekeeping Effects
 
 This section synthesizes findings across the three axes and supplementary dimension, demonstrating how judicial interpretation translates Layer 1 design voids into operational reality.
 
-### 7.2.6.1 Cross-Axis Synthesis Table
+### 7.2.8.1 Cross-Axis Synthesis Table
 
 | Axis/Dimension | Layer 1 Design Void | Judicial Interpretation | Operational Reality | Evidence Sources |
 |----------------|---------------------|------------------------|---------------------|------------------|
-| **(a) Transcript as Record** | **DF-6:** Untimed approval void (§7.1.2) | *Re X* [2016]: "imperfect > delay"<br>*M (A Child)* [2025]: participation requires accommodation | Delay normalized; no enforcement; accessibility gaps for vulnerable parties | Court of Appeal Guide 2025; practitioner reports (Layer 3); user testimony (Layer 4) |
-| **(b) Transcript as Publication** | **DF-15:** No integrated publication flag (§7.1.7)<br>**DF-12:** No enforcement of targets (§7.1.6) | *Re B and G* [2015]: "publish unless harm"<br>*Re M* [2022]: permits sensitive content<br>*M and F* [2025]: burden-shifted | Selective visibility; rare application restricts systemic learning; "starting point" honored in principle, declined in practice | TIG Reports 2023-2025; publication rate data (§7.1.9) |
-| **(c) Consent Architecture** | **DF-13:** Consent asymmetry silence (§7.1.4, §7.1.6) | *Re S* [2004]: Article 8/10 balancing<br>*Griffiths v Tickle* [2022]: "right to tell her story" requires resources | Objections function as practical vetoes; resource asymmetry determines outcomes; institutional objections privileged | Kate Griffiths needed MP status + legal team + NGO + guardian support + Court of Appeal |
+| **(a) Transcript as Record** | **DF-6:** Untimed approval void (§7.1.2) | *Re X* [2016]: "imperfect > delay"<br>*M (A Child)* [2025]: participation requires accommodation | Delay normalized; no enforcement; accessibility gaps for vulnerable parties; no signaling to HMCTS | Court of Appeal Guide 2025; practitioner reports (Layer 3); user testimony (Layer 4) |
+| **(b) Transcript as Publication** | **DF-15:** No integrated publication flag (§7.1.7)<br>**DF-12:** No enforcement of targets (§7.1.6) | *Re B and G* [2015]: "publish unless harm"<br>*Re M* [2022]: permits sensitive content<br>*M and F* [2025]: burden-shifted | Selective visibility; rare application restricts systemic learning; "starting point" honored in principle, declined in practice; no signaling mechanisms | TIG Reports 2023-2025; publication rate data (§7.1.9) |
+| **(c) Consent Architecture** | **DF-13:** Consent asymmetry silence (§7.1.4, §7.1.6) | *Re S* [2004]: Article 8/10 balancing<br>*Griffiths v Tickle* [2022]: "right to tell her story" requires resources | Objections function as practical vetoes; resource asymmetry determines outcomes; institutional objections privileged; no signaling to FPRC | Kate Griffiths needed MP status + legal team + NGO + guardian support + Court of Appeal |
 | **(d) Design Void Filling** | **DF-8:** No self-anonymization guidance (§7.1.3.1)<br>**DF-9:** No refusal reasons requirement (§7.1.3.1) | Judges exercise discretion without published norms:<br>Sara Sharif: self-anonymization<br>HHJ Haigh: unreasoned refusal | Self-anonymization spreads; accountability gap (cannot track judge patterns); refusals unreviewable; decisions operate invisibly | Sara Sharif judgment; HHJ Haigh appeal; practitioner accounts |
 
-### 7.2.6.2 Convergent Findings Across All Dimensions
+### 7.2.8.2 Convergent Findings Across All Dimensions
 
 Analysis across all four dimensions reveals consistent dynamics:
 
@@ -2382,7 +2367,14 @@ Analysis across all four dimensions reveals consistent dynamics:
 * Framework without operationalization (*Re S* on balancing—no guidance on consent parity)
 * Rights without resources (*Griffiths* shows possibility but requires exceptional circumstances)
 
-### 7.2.6.3 The Accommodation Dynamic
+**5. No systematic signaling** (problems acknowledged but not escalated):
+
+* Judges do not notify HMCTS when approval delays recur
+* Judges do not refer consent disputes to FPRC for guidance development
+* Judges do not flag resource deficits to MoJ for budget review
+* Patterns remain visible to individual judges but invisible to system designers
+
+### 7.2.8.3 The Accommodation Dynamic
 
 **Critical finding:** Judicial rulings don't fill Layer 1's voids—they **accommodate** them. This pattern—where progressive doctrine critiques dysfunction without resolving structural causes—is what this analysis terms the **"accommodation dynamic."**
 
@@ -2396,6 +2388,7 @@ Analysis across all four dimensions reveals consistent dynamics:
 * No compliance monitoring ensures publication presumption applied
 * No consent parity guidance resolves asymmetry disputes
 * No resource allocation supports operational capacity
+* **No signaling mechanisms** connect judicial observation to institutional review
 
 **Result:** Dysfunction persists despite progressive doctrine because:
 
@@ -2403,18 +2396,19 @@ Analysis across all four dimensions reveals consistent dynamics:
 * Presumptions operate without monitoring
 * Rights proclaimed without resource allocation
 * Critique offered without structural reform
+* **Problems visible to judges remain invisible to system designers**
 
 **Example progression:**
 
 1. **Layer 1 design:** **DF-6** creates untimed approval void
 2. **Layer 2 doctrine:** *Re X* says "imperfect transcript better than delay"
-3. **Layer 2 practice:** Judges continue taking weeks/months for approval (no enforcement)
+3. **Layer 2 practice:** Judges continue taking weeks/months for approval (no enforcement); no notification to HMCTS that systemic review needed
 4. **Layer 3 mediation:** Solicitors advise "order transcript immediately; file with note if delayed" (workaround, not solution)
 5. **Layer 4 experience:** Parties miss appeal deadlines despite expedited service (system cannot deliver what it promises)
 
-The progression shows accommodation at each layer—recognizing problems, developing workarounds, but never resolving structural failures.
+The progression shows accommodation at each layer—recognizing problems, developing workarounds, but never resolving structural failures or signaling to bodies positioned to implement reforms.
 
-### 7.2.6.4 Why Judicial Gatekeeping Cannot Fix Design Failures
+### 7.2.8.4 Why Judicial Gatekeeping Cannot Fix Design Failures
 
 **Structural limitation:** Judges interpret rules; they don't write them. Where Layer 1 creates voids through design-by-omission, judicial rulings face boundaries.
 
@@ -2425,13 +2419,29 @@ The progression shows accommodation at each layer—recognizing problems, develo
 * Authorize publication over objection (*Griffiths v Tickle*)
 * Require participation accommodations (*M (A Child)*)
 
-**What judges CANNOT do:**
+**What judges CANNOT do (constitutional separation of powers):**
 
 * Impose timeline deadlines on approval process (requires rule change)
 * Mandate compliance monitoring (requires HMCTS data collection)
 * Fund Anonymization Units (requires budget allocation)
 * Create integrated publication mechanisms (requires form redesign)
 * Enforce refusal reason documentation (requires FPR amendment)
+
+**What judges DON'T do (but potentially could):**
+
+* Signal to HMCTS when approval delays prejudice appeals repeatedly
+* Notify FPRC when consent disputes create Article 8/10 conflicts across cases
+* Flag to MoJ when resource deficits prevent publication system functioning
+* Aggregate patterns and escalate to bodies positioned to implement reforms
+
+**Whether this absence reflects:**
+- Constitutional limits on signaling authority
+- Absence of formal notification mechanisms
+- Judges not seeing signaling as within their role
+- Practical barriers (time, resources)
+- Informal signaling that leaves no public record
+
+**...cannot be determined from available evidence.**
 
 Individual judges can exercise discretion toward transparency (publish more, approve faster, scrutinize objections). But systemic problems require systemic solutions—rule changes, resource allocation, enforcement mechanisms, and operational capacity.
 
@@ -2440,18 +2450,19 @@ Individual judges can exercise discretion toward transparency (publish more, app
 * Rule amendments (timelines, reason requirements, consent parity)
 * Resource allocation (Anonymization Unit, recording infrastructure)
 * Enforcement mechanisms (monitoring, compliance auditing)
+* **Signaling pathways** (connecting judicial observation to institutional review)
 
 ...the gap between doctrine and practice persists.
 
-**The 60% unreachable threshold.** This analysis examined six design failures where judicial rulings engage transparency barriers. But Layer 1 identified fifteen design failures total. The nine not addressed in this layer—**DF-1, DF-2, DF-3, DF-4, DF-5, DF-7, DF-10, DF-11, DF-14**—remain structurally beyond judicial reach because they require form redesign, infrastructure investment, budget allocation, and administrative coordination that courts cannot mandate. Even if every judge in England and Wales adopted maximally transparency-supportive positions on the six addressable design failures, **60% of the systemic dysfunction would persist unchanged**. This mathematical reality—that judicial reform can theoretically address at most 40% of documented problems, and practically achieves only accommodation rather than resolution even within that 40%—explains why successive transparency initiatives produce hollow infrastructure. Reform announcements generate progressive doctrine without operational capacity, creating the illusion of change while the majority of barriers remain untouched. Chapter 8 therefore focuses reforms on the nine judicially-unreachable design failures, recognizing that transparency cannot be achieved through judicial leadership alone.
+**The 60% threshold:** This analysis examined six design failures where judicial rulings engage transparency barriers. But Layer 1 identified fifteen design failures total. The nine not addressed—**DF-1, DF-2, DF-3, DF-4, DF-5, DF-7, DF-10, DF-11, DF-14**—have generated no identified case law. Whether this reflects that such failures fall outside judicial authority, that parties don't frame them as justiciable issues, or that relevant rulings exist but remain unpublished cannot be definitively established from available evidence. What can be observed is that these failures—requiring form redesign (DF-1, DF-2), infrastructure investment (DF-3, DF-4, DF-5, DF-14), and resource allocation (DF-7, DF-10, DF-11)—persist unchanged despite the existence of judicial awareness of transparency barriers documented in cases addressing the other six failures. Even if every judge in England and Wales adopted maximally transparency-supportive positions on the six addressable design failures, approximately 60% of the systemic dysfunction would persist unchanged (based on case law identified in this research). This mathematical reality—that judicial reform can theoretically address at most 40% of documented problems, and practically achieves only accommodation rather than resolution even within that 40%—explains why successive transparency initiatives produce hollow infrastructure. Reform announcements generate progressive doctrine without operational capacity, creating the illusion of change while the majority of barriers remain untouched. Chapter 8 therefore focuses reforms on the nine apparently unreachable design failures, recognizing that transparency cannot be achieved through judicial leadership alone.
 
 ---
 
-## 7.2.7 The Self-Referential Trap: Appealing Transcript Refusals Without Transcripts
+## 7.2.9 The Self-Referential Trap: Appealing Transcript Refusals Without Transcripts
 
 A peculiar structural problem emerges when transcript access itself becomes the subject of dispute: **How do you appeal a refusal of transcript access without the transcript?**
 
-### 7.2.7.1 The *Taylor v Alcott* Paradigm
+### 7.2.9.1 The *Taylor v Alcott* Paradigm
 
 In *Taylor v Alcott* [CA-2023-000462], appellants identified 12 separate grounds of appeal that required the transcript of proceedings on 20 February 2023 to prove—including allegations that the judge had:
 
@@ -2466,10 +2477,9 @@ To prove these allegations, appellants needed the verbatim record of what was sa
 
 **The result:** Appeals premised on "what was actually said" cannot be verified because "what was actually said" is withheld by the very decision-maker whose conduct is challenged.
 
-### 7.2.7.2 The Logical Impossibility
+### 7.2.9.2 The Logical Impossibility
 
 This creates a **self-referential impossibility**:
-
 ```
 Transcript access denied
          ↓
@@ -2495,7 +2505,7 @@ To show grounds → need transcript as evidence
 
 **The arbiter problem:** Without the transcript, there is no neutral arbiter of what was actually said. Each party has their own version; the judge's version (in the approved judgment) becomes dispositive by default—yet that version is precisely what appellants challenge as inaccurate.
 
-### 7.2.7.3 The Aggravating Conflict of Interest
+### 7.2.9.3 The Aggravating Conflict of Interest
 
 In *Taylor v Alcott*, the self-referential trap compounds into a conflict of interest: one of the grounds of appeal concerned allegations of **judicial misconduct at the Pre-Trial Review on 8 February 2023**. The Father's skeleton (filed 9 February 2023) made "very serious allegations about the Learned Judge's procedural conduct."
 
@@ -2518,9 +2528,9 @@ This creates:
 * Cannot obtain transcript without judge's consent
 * Judge asked to authorize release of evidence potentially incriminating themselves
 
-### 7.2.7.4 Layer 2 Implication: Judicial Gatekeeping Extends Beyond Publication
+### 7.2.9.4 Layer 2 Implication: Judicial Gatekeeping Extends Beyond Publication
 
-Previous sections (§7.2.1-7.2.3) examined judicial gatekeeping of publication (public accountability). This section reveals gatekeeping extends to **appeal** (personal procedural rights).
+Previous sections (§7.2.4-7.2.5) examined judicial gatekeeping of publication (public accountability). This section reveals gatekeeping extends to **appeal** (personal procedural rights).
 
 **The distinction:**
 
@@ -2543,7 +2553,7 @@ When the two overlap—when transcript access itself is the appealable decision,
 * System gives judges discretion to refuse transcripts (**DF-6**, §7.1.2: untimed approval; no enforcement)
 * System provides no remedy when judge refuses transcript needed to challenge judge's own conduct
 
-### 7.2.7.5 The Principled Solution (Previewing §8.1.1)
+### 7.2.9.5 The Principled Solution (Previewing §8.1.1)
 
 **Provisional release of transcripts pending judicial review.** This breaks the self-referential trap:
 
@@ -2587,7 +2597,7 @@ When the two overlap—when transcript access itself is the appealable decision,
 
 ---
 
-## 7.2.8 Handoff to Layers 3 and 4: From Doctrine to Lived Reality
+## 7.2.10 Handoff to Layers 3 and 4: From Doctrine to Lived Reality
 
 Layer 2 mapped what judges say the law is—the "visible law" captured in published precedents and practitioner-curated guidance. These rulings establish that:
 
@@ -2599,7 +2609,7 @@ Layer 2 mapped what judges say the law is—the "visible law" captured in publis
 
 But three critical gaps remain that subsequent layers must address.
 
-### 7.2.8.1 Gap 1: Professional Mediation (Layer 3)
+### 7.2.10.1 Gap 1: Professional Mediation (Layer 3)
 
 **How do solicitors and barristers translate judicial doctrine into client advice?**
 
@@ -2617,9 +2627,9 @@ But three critical gaps remain that subsequent layers must address.
 * **Normalizes dysfunction** (advising workarounds like PD30A notes rather than demanding systemic reform)
 * **Reproduces dysfunction** (counseling against transparency applications to avoid professional liability for "unrealistic" advice)
 
-Layer 3 occupies a critical position: legal professionals don't merely mediate between institutional design and user experience—**they actively stabilize the system through repeated practice**, normalizing the accommodation of dysfunction documented in this layer. When solicitors advise clients that "publication unlikely if other party objects" or "order transcript immediately; expect delays," they translate the six judicially-addressed design failures into navigable obstacles while rendering the nine judicially-unreachable failures (form confusion, infrastructure voids, resource deficits) invisible through workarounds and risk management. This professional mediation function—where lawyers teach parties to work around rather than challenge systemic barriers—is central to understanding why hollow infrastructure persists: **the system's dysfunctions become incorporated into professional competence rather than targeted for reform**. Layer 3 will examine whether solicitors and barristers challenge the accommodation dynamic or reproduce it, and whether professional practice makes the 60% of judicially-unreachable design failures visible to clients or masks them through procedural expertise.
+Layer 3 occupies a critical position: legal professionals don't merely mediate between institutional design and user experience—**they actively stabilize the system through repeated practice**, normalizing the accommodation of dysfunction documented in this layer. When solicitors advise clients that "publication unlikely if other party objects" or "order transcript immediately; expect delays," they translate the six judicially-addressed design failures into navigable obstacles while rendering the nine apparently unreachable failures (form confusion, infrastructure voids, resource deficits) invisible through workarounds and risk management. This professional mediation function—where lawyers teach parties to work around rather than challenge systemic barriers—is central to understanding why hollow infrastructure persists: **the system's dysfunctions become incorporated into professional competence rather than targeted for reform**. Layer 3 will examine whether solicitors and barristers challenge the accommodation dynamic or reproduce it, and whether professional practice makes the 60% of apparently unreachable design failures visible to clients or masks them through procedural expertise. Through repeated courtroom exposure, solicitors and barristers internalize judicial preferences about transparency. They then advise clients to align with these preferences, creating feedback loops that stabilize existing power structures. This **system stabilization function**—where professionals reproduce patterns they observe rather than challenge them—is central to understanding why the "reality gap" persists despite progressive doctrine and reform announcements.
 
-### 7.2.8.2 Gap 2: User Experience (Layer 4)
+### 7.2.10.2 Gap 2: User Experience (Layer 4)
 
 **What do parties encounter when attempting to use these doctrinal principles?**
 
@@ -2654,7 +2664,7 @@ Layer 3 occupies a critical position: legal professionals don't merely mediate b
 
 **The lived reality gap:** Layer 2 documented what judges say the law is. Layer 4 will test whether progressive principles translate into accessible practice—or remain theoretical promises that operational barriers prevent parties from realizing.
 
-### 7.2.8.3 Gap 3: External Validation (Layer 5)
+### 7.2.10.3 Gap 3: External Validation (Layer 5)
 
 **How do oversight agencies and researchers frame the opacity documented in Layers 1-2?**
 
@@ -2667,7 +2677,7 @@ Layer 3 occupies a critical position: legal professionals don't merely mediate b
 
 **The triangulation function:** When institutional design (Layer 1), judicial interpretation (Layer 2), professional practice (Layer 3), user experience (Layer 4), AND external observers (Layer 5) all identify the same barriers—untimed approval, objection-as-veto, unreasoned refusals—the pattern is definitively established.
 
-### 7.2.8.4 The Critical Synthesis Ahead
+### 7.2.10.4 The Critical Synthesis Ahead
 
 **The gap between doctrine and lived reality** is where institutional design failures (Layer 1, **DF-1** through **DF-15**) and judicial interpretation (Layer 2, analyzed across four dimensions) transform into human costs.
 
@@ -2689,13 +2699,14 @@ Layer 3 occupies a critical position: legal professionals don't merely mediate b
 
 **Handoff complete.** Layer 2 established what judges say should happen when institutional design creates voids. Layers 3-4 will document what actually happens when parties attempt to claim the rights and access the procedures judicial precedent nominally supports. Where all layers converge—on untimed approval delays, objection-as-veto practice, unreasoned refusals, resource asymmetry—the reality gap is proven not through single-source evidence but through multi-perspective triangulation.
 
-The transparency deficit is not merely formal (rules are unclear) or doctrinal (principles are absent). It is **operational**—the system cannot deliver what it formally promises and doctrinally supports because design voids, judicial discretion, professional mediation, and resource asymmetries compound to create barriers that only the most resourced and persistent parties overcome.
+The transparency deficit is not merely formal (rules are unclear) or doctrinal (principles are absent). It is **operational**—the system cannot deliver what it formally promises and doctrinally supports because design voids, judicial discretion (exercised without signaling mechanisms to connect observation to institutional review), professional mediation, and resource asymmetries compound to create barriers that only the most resourced and persistent parties overcome.
 
 ---
 
 **END OF LAYER 2**
-Section 7.2 Status: Complete analysis of judicial gatekeeping across three axes (transcript as record, transcript as publication, consent architecture) and one supplementary dimension (design void filling). Findings synthesized showing how progressive doctrine accommodates rather than resolves structural dysfunction through the **accommodation dynamic**. The **hollow infrastructure** finding establishes that policy announcements create illusions of reform while operational systems remain unchanged. Handoff prepared for Layers 3 (professional practice as system stabilizers), 4 (user experience), and 5 (external validation).
----
+
+**Section 7.2 Status:** Complete analysis of judicial gatekeeping across three axes (transcript as record, transcript as publication, consent architecture) and one supplementary dimension (design void filling). Findings synthesized showing how progressive doctrine accommodates rather than resolves structural dysfunction through the **accommodation dynamic**—where judges recognize problems without signaling to bodies positioned to implement systemic reforms. The **hollow infrastructure** finding establishes that policy announcements create illusions of reform while operational systems remain unchanged. Handoff prepared for Layers 3 (professional practice as system stabilizers), 4 (user experience), and 5 (external validation).
+
 
 ## 7.3.1 Theoretical Framework and Methodology
 
