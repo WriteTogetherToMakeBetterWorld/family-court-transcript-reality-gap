@@ -5457,6 +5457,55 @@ DF-12 (No Enforcement of Publication Targets)
 DF-13 (Design Silence on Consent Asymmetry)
 DF-14 (No Subject Indexing) - Has solution in 8.1.6
 
+some futher notes: ## 8. From Accommodation to Resolution: Operational Reform of the Transparency Architecture
+
+### 8.0 Chapter Overview
+
+Chapter 7 revealed the **accommodation dynamic**: progressive judicial doctrine 
+acknowledges transparency barriers—untimed approvals (*Re X* [2016]), publication 
+presumptions (*Re B and G* [2015]), consent disputes (*Griffiths v Tickle* [2022])—
+yet accommodates rather than resolves them. Rulings critique problems without 
+imposing enforcement mechanisms, monitoring systems, or resource allocation. 
+This dynamic persists because judges interpret rules but cannot write them: 
+fixing **DF-1** through **DF-15** requires rule amendments, budget commitments, 
+and operational infrastructure that judicial discretion alone cannot provide.
+
+This chapter proposes reforms that move from accommodation to **resolution**—
+addressing the **hollow infrastructure** (§7.2.5) where policy announcements 
+create appearance of progress while operational systems remain unchanged. The 
+proposals target three intervention points:
+
+1. **Rule amendments** - Addressing design-by-omission (timelines, reason 
+   requirements, consent parity)
+2. **Resource allocation** - Funding operational capacity (Anonymization Unit, 
+   recording infrastructure digitization)
+3. **Enforcement mechanisms** - Creating monitoring, compliance auditing, and 
+   accountability pathways
+
+### 8.1 Least-Resistance Reforms: Low-Cost, High-Impact Interventions
+
+These reforms require minimal resource allocation while addressing critical 
+design failures identified in Layer 1.
+
+#### 8.1.1 Provisional Transcript Release (Addressing **DF-6**)
+
+**The problem:** Section 7.2.7 documented the self-referential trap—parties 
+cannot appeal judicial decisions without transcripts, but judges control 
+transcript access for appeals challenging judicial conduct.
+
+**The solution:** Provisional release pending judicial review
+
+[Continue with operational mechanics from 7.2.7.5...]
+
+#### 8.1.2 Recording Infrastructure Digitization (Addressing **DF-5**)
+
+[Continue with other §8.1.x sections...]
+
+
+
+
+
+
 
 
 
