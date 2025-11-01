@@ -12,6 +12,47 @@ These **least-resistance reforms** leverage existing infrastructure (TIG pilots,
 **Word count**: 240  
 **Keywords**: family courts, transparency, court transcripts, open justice, least-resistance reform, reality gap
 
+## Figure 1. Article Structure Overview (Mindmap)
+
+This mindmap provides a visual overview of how the report on **Family Court Transparency and the Transcript Reality Gap** is structured. It traces the analytical flow from diagnosing systemic problems to outlining theoretical foundations, empirical testing, and finally, actionable reforms. The schematic functions as both a reading guide and a conceptual framework: it shows how the argument develops layer by layer — from institutional design to user experience — revealing how procedural opacity generates a measurable “reality gap.”
+
+```mermaid
+mindmap
+  root((Family Court Transparency: The Reality Gap))
+    ["Abstract & Overview (Problem Statement & Hypothesis)"]
+    ["Section 1: Diagnosing the Crises"]
+      ["1.1: Delays & Timeliness Deficit"]
+      ["1.2: Fragmented Governance"]
+      ["1.3: Data Deficit & Evidence Gaps"]
+    ["Section 2: Evolution of Transparency Frameworks"]
+    ["Section 3: Transparency as a Catalyst for Reform"]
+    ["Section 4: Theoretical & Learning Foundations"]
+    ["Section 5: From Crises to Deficits – The Logic Map"]
+      ["5.1: Systemic Symptom–Deficit Mapping"]
+      ["5.2: Institutional Embedding (TIG Framework)"]
+      ["5.3: Empirical Evidence of the 'Reality Gap'"]
+      ["5.4: Paradigm Shift Toward Openness"]
+    ["Section 6: Empirical Findings – The Data Void"]
+      ["6.1: FOI Evidence (Quantitative Deficit)"]
+      ["6.2: Defining 'Transcript' as Policy Object"]
+      ["6.3: Implications for Accountability"]
+    ["Section 7: From Principle to Practice – Multi-Layer Analysis"]
+      ["Analytical Design (Triangulation & Complexity)"]
+      ["Layer 1: Institutional Design (Forms & Procedures)"]
+      ["Layer 2: Judicial Gatekeeping (Rulings & Discretion)"]
+      ["Layer 3: System Users (Litigant Experiences)"]
+      ["Layer 4: Legal Professionals (Practices & Discourses)"]
+      ["Layer 5: External Observers (Media, NGOs, Children’s Voices)"]
+      ["7.6–7.7: Limitations, Convergence, and Synthesis"]
+    ["Section 8: Policy Implications & Low-Resistance Reforms"]
+      ["8.1: Cost & AI Transcription Pathways"]
+      ["8.2: Judicial Approval & Anonymization Burden"]
+      ["8.3: Publication Veto Culture"]
+      ["8.4: Judgment Discoverability & Metadata"]
+      ["8.5: One-Form Reform (Integrated Transcript Request)"]
+    ["Section 9: Conclusions & Future Directions"]
+    ["References & Appendices"]
+
 ## Table of Contents
 
 - [Abstract](#abstract)
@@ -27,35 +68,41 @@ These **least-resistance reforms** leverage existing infrastructure (TIG pilots,
   - [5.2 Institutional Logic: Embedding Transparency in Governance](#52-institutional-logic-embedding-transparency-in-governance)
   - [5.3 Empirical Validation: The Reality Gap](#53-empirical-validation-the-reality-gap)
   - [5.4 Beyond the Present Logic: Larger Paradigms and Least-Resistance Change](#54-beyond-the-present-logic-larger-paradigms-and-least-resistance-change)
+    - [Alternative Paradigms of Transparency](#alternative-paradigms-of-transparency)
 - [6. Empirical Testing: The Data Void Exposed](#6-empirical-testing-the-data-void-exposed)
   - [6.1 Findings: The FOI Data Void](#61-findings-the-foi-data-void)
   - [6.2 Defining Transcripts in Family Law Proceedings](#62-defining-transcripts-in-family-law-proceedings)
   - [6.3 Implications: The Absence of Foundational Data](#63-implications-the-absence-of-foundational-data)
 - [7. From Transparency Principle to Transcript Practice: Operationalising the Two Pathways](#7-from-transparency-principle-to-transcript-practice-operationalising-the-two-pathways)
+  - [1. Judicial Blindness](#1-judicial-blindness)
+  - [2. Epidemiological Blindness](#2-epidemiological-blindness)
+  - [3. Methodological Note: Analyzing Gaps in Complex Systems](#3-methodological-note-analyzing-gaps-in-complex-systems)
   - [7.0 Analytical Design and Evidence Logic](#70-analytical-design-and-evidence-logic)
-  - [7.0.1 The Critical Role of Layer 2: Judicial Gatekeeping](#701-the-critical-role-of-layer-2-judicial-gatekeeping)
-  - [7.0.2 Scope and Structure of the Layered Analysis](#702-scope-and-structure-of-the-layered-analysis)
-  - [7.0.3 Analytical Progression & Convergence](#703-analytical-progression--convergence)
-  - [7.0.4 Identified Leverage Points from Analysis](#704-identified-leverage-points-from-analysis)
-  - [7.0.5 Methodological Stance](#705-methodological-stance)
+    - [7.0.1 The Critical Role of Layer 2: Judicial Gatekeeping](#701-the-critical-role-of-layer-2-judicial-gatekeeping)
+    - [7.0.2 Scope and Structure of the Layered Analysis](#702-scope-and-structure-of-the-layered-analysis)
+    - [7.0.3 Analytical Progression & Convergence](#703-analytical-progression--convergence)
+    - [7.0.4 Identified Leverage Points from Analysis](#704-identified-leverage-points-from-analysis)
+    - [7.0.5 Methodological Stance](#705-methodological-stance)
   - [7.1 Layer 1: Institutional Design — The Prescribed Architecture of Transcript Production and Transparency](#71-layer-1-institutional-design--the-prescribed-architecture-of-transcript-production-and-transparency)
     - [7.1.1 Methodology: Sources & Analytical Approach](#711-methodology-sources--analytical-approach)
     - [7.1.2 The Obtaining Pathway: Formal Architecture](#712-the-obtaining-pathway-formal-architecture)
+      - [Institutional Components](#institutional-components)
+      - [Request Mechanisms: Forms and Procedures](#request-mechanisms-forms-and-procedures)
+      - [Transcription Logistics: Vendors, Service Level Bands, and Costs](#transcription-logistics-vendors-service-level-bands-and-costs)
+    - [7.1.7 Closing the Doctrine-Practice Gap: Least-Resistance Alignment](#717-closing-the-doctrine-practice-gap-least-resistance-alignment)
+      - [(1) Default Publication with Evidence-Based Restriction](#1-default-publication-with-evidence-based-restriction)
+      - [(2) Parity in Objection Standards](#2-parity-in-objection-standards)
+      - [(3) Institutional Accountability Standard](#3-institutional-accountability-standard)
+      - [(4) Judicial Accountability Threshold](#4-judicial-accountability-threshold)
+      - [(5) Transparency of Refusals](#5-transparency-of-refusals)
+      - [Why These Are "Least-Resistance"](#why-these-are-least-resistance)
+  - [7.2.1 The Contradiction of Prioritisation](#721-the-contradiction-of-prioritisation)
+    - [Administrative Logic Behind Selectivity](#administrative-logic-behind-selectivity)
   - [7.2.7 Closing the Doctrine-Practice Gap: Least-Resistance Alignment](#727-closing-the-doctrine-practice-gap-least-resistance-alignment)
-    - [7.2.1 The Contradiction of Prioritisation](#721-the-contradiction-of-prioritisation)
-  - [7.3 System Users – Litigants in Person (LiPs)](#73-system-users--litigants-in-person-lips)
-  - [7.4 Legal Professionals](#74-legal-professionals)
-  - [7.5 Observers & Public Scrutiny](#75-observers--public-scrutiny)
-  - [7.6 Immediate, Low-Resistance Process Improvements](#76-immediate-low-resistance-process-improvements)
-  - [7.7 Conclusion](#77-conclusion)
-- [8. Policy Implications: Transcripts as Drivers of Systemic Change](#8-policy-implications-transcripts-as-drivers-of-systemic-change)
-  - [8. Low-Resistance Interventions: Actionable Pathways Forward](#8-low-resistance-interventions-actionable-pathways-forward)
-- [9. Conclusion: A Call to Action for Verifiable Justice](#9-conclusion-a-call-to-action-for-verifiable-justice)
-- [References](#references)
+  - [7.5 Limitations](#75-limitations)
+  - [7.6 Immediate, Low-Resistance Process Improvements (derived
 
-### I THINK I NEED TO PROVIDE AN OVERIVIEW OF HOW THIS ARICLES IS STRUCTURE - LIEK A PICTUE OR MAP OF HOW THIS FLOW?????????? MISSING!!!! 
 
-This might include in chapter 7 layers 1 to 5? enought details for someoen to see a Big Picture like inforgrapics!!!!!
 
 ## 1. The Crises: Symptoms of Systemic Failure
 
