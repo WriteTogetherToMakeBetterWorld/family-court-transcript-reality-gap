@@ -12,15 +12,44 @@ These **least-resistance reforms** leverage existing infrastructure (TIG pilots,
 **Word count**: 240  
 **Keywords**: family courts, transparency, court transcripts, open justice, least-resistance reform, reality gap
 
-## Figure 1. Article Structure Overview (Visual Mindmap)
+Figure 1. Article Structure Overview (Visual Mindmap)
+This mindmap provides a visual overview of how the report on Family Court Transparency and the Transcript Reality Gap is structured. It traces the analytical flow from diagnosing systemic problems to outlining theoretical foundations, empirical testing, and finally, actionable reforms. The schematic functions as both a reading guide and a conceptual framework: it shows how the argument develops layer by layer — from institutional design to user experience — revealing how procedural opacity generates a measurable “reality gap.”
+textFamily Court Transparency: The Reality Gap
+├── Abstract & Overview (Problem Statement & Hypothesis)
+├── Section 1: Diagnosing the Crises
+│   ├── 1.1: Delays & Timeliness Deficit
+│   ├── 1.2: Fragmented Governance
+│   └── 1.3: Data Deficit & Evidence Gaps
+├── Section 2: Evolution of Transparency Frameworks
+├── Section 3: Transparency as a Catalyst for Reform
+├── Section 4: Theoretical & Learning Foundations
+├── Section 5: From Crises to Deficits – The Logic Map
+│   ├── 5.1: Systemic Symptom–Deficit Mapping
+│   ├── 5.2: Institutional Embedding (TIG Framework)
+│   ├── 5.3: Empirical Evidence of the 'Reality Gap'
+│   └── 5.4: Paradigm Shift Toward Openness
+├── Section 6: Empirical Findings – The Data Void
+│   ├── 6.1: FOI Evidence (Quantitative Deficit)
+│   ├── 6.2: Defining 'Transcript' as Policy Object
+│   └── 6.3: Implications for Accountability
+├── Section 7: From Principle to Practice – Multi-Layer Analysis
+│   ├── Analytical Design (Triangulation & Complexity)
+│   ├── Layer 1: Institutional Design (Forms & Procedures)
+│   ├── Layer 2: Judicial Gatekeeping (Rulings & Discretion)
+│   ├── Layer 3: System Users (Litigant Experiences)
+│   ├── Layer 4: Legal Professionals (Practices & Discourses)
+│   ├── Layer 5: External Observers (Media, NGOs, Children’s Voices)
+│   └── 7.6–7.7: Limitations, Convergence, and Synthesis
+├── Section 8: Policy Implications & Low-Resistance Reforms
+│   ├── 8.1: Cost & AI Transcription Pathways
+│   ├── 8.2: Judicial Approval & Anonymization Burden
+│   ├── 8.3: Publication Veto Culture
+│   ├── 8.4: Judgment Discoverability & Metadata
+│   └── 8.5: One-Form Reform (Integrated Transcript Request)
+├── Section 9: Conclusions & Future Directions
+└── References & Appendices
 
-![Family Court Transparency: The Reality Gap – Report Structure](https://i.imgur.com/2f5kR8m.png)
-
-> **Navigation Guide:**  
-> • **Section 1–3**: Diagnose the crisis (delays, governance, data)  
-> • **Section 7**: Core 5-layer analysis (institutional → judicial → users → professionals → observers)  
-> • **Section 8**: Low-resistance reforms (one-form fix, AI, publication defaults)  
-> • **Section 9**: Call to action
+Navigation Tip: Use this map to orient your reading. For a rapid grasp of the diagnostic core, focus on Section 7’s five layers. For reform pathways, proceed directly to Section 8. The structure is modular—each section stands alone while contributing to the cumulative argument for transcript-enabled transparency.
 
 ## 1. The Crises: Symptoms of Systemic Failure
 
