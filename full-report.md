@@ -22,30 +22,6 @@ These **least-resistance reforms** leverage existing infrastructure (TIG pilots,
 > • **Section 8**: Low-resistance reforms (one-form fix, AI, publication defaults)  
 > • **Section 9**: Call to action
 
----
-
-## Table of Contents
-
-- **[Abstract](#abstract)**
-- **[1. The Crises: Symptoms of Systemic Failure](#1-the-crises-symptoms-of-systemic-failure)**
-  - **[1.1. The Crisis of Timeliness: Chronic Backlogs and Delays](#11-the-crisis-of-timeliness-chronic-backlogs-and-delays)**
-  - **[1.2. Fragmented Governance and Weak Accountability](#12-fragmented-governance-and-weak-accountability)**
-  - **[1.3. The Data Deficit: A Barrier to Evidence-Based Policy](#13-the-data-deficit-a-barrier-to-evidence-based-policy)**
-- **[2. Transparency Framework and Evolution](#2-transparency-framework-and-evolution-from-principle-to-implementation)**
-- **[3. Transparency as a Catalyst](#3-transparency-as-a-catalyst-evolution-and-implementation)**
-- **[4. Theoretical Grounding](#4-theoretical-grounding-learning-reflection-and-system-intelligence)**
-- **[5. Logical Mapping](#5-logical-mapping-from-crises-to-transparency-deficits)**
-- **[6. Empirical Testing](#6-empirical-testing-the-data-void-exposed)**
-- **[7. Layered Analysis of the Reality Gap](#7-layered-analysis-of-the-reality-gap)**
-  - **[Layer 1: Institutional Design](#71-layer-1-institutional-design--the-prescribed-architecture)**
-  - **[Layer 2: Judicial Gatekeeping](#72-layer-2-judicial-gatekeeping--the-operational-reality)**
-  - **[Layer 3: System Users](#layer-3-system-users-litigant-experiences)**
-  - **[Layer 4: Legal Professionals](#layer-4-legal-professionals-practices--discourses)**
-  - **[Layer 5: External Observers](#layer-5-external-observers-media-ngos-childrens-voices)**
-- **[8. Policy Implications & Low-Resistance Reforms](#8-policy-implications-and-low-resistance-interventions)**
-- **[9. Conclusion and Call to Action](#9-conclusion-and-call-to-action)**
-- **[References](#references)**
-
 ## 1. The Crises: Symptoms of Systemic Failure
 
 ### 1.1. The Crisis of Timeliness: Chronic Backlogs and Delays
