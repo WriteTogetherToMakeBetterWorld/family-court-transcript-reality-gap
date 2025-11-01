@@ -34,42 +34,7 @@ These **least-resistance reforms** leverage existing infrastructure (TIG pilots,
   - **[6.3 Implications: The Absence of Foundational Data](#63-implications-the-absence-of-foundational-data)**
 - **[7. Layered Analysis of the Reality Gap](#7-layered-analysis-of-the-reality-gap)**
   - **[7.0 Analytical Design and Evidence Logic](#70-analytical-design-and-evidence-logic)**
-    - **[7.0.1 The Critical Role of Layer 2: Judicial Gatekeeping](#701-the-critical-role-of-layer-2-judicial-gatekeeping)**
-    - **[7.0.2 Scope and Structure of the Layered Analysis](#702-scope-and-structure-of-the-layered-analysis)**
-    - **[7.0.3 Analytical Progression & Convergence](#703-analytical-progression--convergence)**
-    - **[7.0.4 Identified Leverage Points from Analysis](#704-identified-leverage-points-from-analysis)**
-    - **[7.0.5 Methodological Stance](#705-methodological-stance)**
-  - **[7.1 Layer 1: Institutional Design – The Prescribed Architecture of Transcript Production and Transparency](#71-layer-1-institutional-design--the-prescribed-architecture-of-transcript-production-and-transparency)**
-    - **[7.1.1 Methodology: Sources & Analytical Approach](#711-methodology-sources--analytical-approach)**
-    - **[7.1.2 The Obtaining Pathway: Formal Architecture](#712-the-obtaining-pathway-formal-architecture)**
-    - **[7.1.7 Closing the Doctrine-Practice Gap: Least-Resistance Alignment](#717-closing-the-doctrine-practice-gap-least-resistance-alignment)**
-      - **[(1) Default Publication with Evidence-Based Restriction](#1-default-publication-with-evidence-based-restriction)**
-      - **[(2) Parity in Objection Standards](#2-parity-in-objection-standards)**
-      - **[(3) Institutional Accountability Standard](#3-institutional-accountability-standard)**
-      - **[(4) Judicial Accountability Threshold](#4-judicial-accountability-threshold)**
-      - **[(5) Transparency of Refusals](#5-transparency-of-refusals)**
-      - **[Why These Are "Least-Resistance"](#why-these-are-least-resistance)**
-  - **[7.2 Layer 2: Judicial Gatekeeping – The Operational Reality](#72-layer-2-judicial-gatekeeping--the-operational-reality)**
-    - **[7.2.1 The Contradiction of Prioritisation](#721-the-contradiction-of-prioritisation)**
-    - **[Administrative Logic Behind Selectivity](#administrative-logic-behind-selectivity)**
-    - **[7.2.7 Closing the Doctrine-Practice Gap: Least-Resistance Alignment](#727-closing-the-doctrine-practice-gap-least-resistance-alignment)**
-  - **[7.5 Limitations](#75-limitations)**
-  - **[7.6 Immediate, Low-Resistance Process Improvements (derived from the above)](#76-immediate-low-resistance-process-improvements-derived-from-the-above)**
-  - **[7.7 Conclusion](#77-conclusion)**
-- **[8. Policy Implications: Transcripts as Drivers of Systemic Change](#8-policy-implications-transcripts-as-drivers-of-systemic-change)**
-  - **[Low-Resistance Interventions: Actionable Pathways Forward](#low-resistance-interventions-actionable-pathways-forward)**
-    - **[Low-Resistance Solutions for Transcript Costs](#low-resistance-solutions-for-transcript-costs)**
-    - **[1. Easiest: Streamline EX105 Integration with EX160A](#1-easiest-streamline-ex105-integration-with-ex160a-least-resistance-overall)**
-    - **[2. AI-Assisted Transcription](#2-ai-assisted-transcription-your-idea-stronger-than-you-think-but-pilot-it)**
-    - **[3. Allow Self-Transcription from Audio](#3-allow-self-transcription-from-audio-your-idea-viable-with-limits)**
-    - **[Least Resistance Changes for Judge Burden in Approval/Anonymization](#least-resistance-changes-for-judge-burden-in-approvalanonymization)**
-    - **[Low-Resistance Fixes for the "Veto Culture" in Publication](#low-resistance-fixes-for-the-veto-culture-in-publication)**
-    - **[Low-Resistance Tweaks for Judgment Discoverability](#low-resistance-tweaks-for-judgment-discoverability)**
-    - **[Low-Resistance Changes for Judge Approval Bottleneck](#low-resistance-changes-for-judge-approval-bottleneck)**
-    - **[Low-Resistance Changes for Transcription Company Performance](#low-resistance-changes-for-transcription-company-performance)**
-    - **[The One-Form Fix: Embed Publication in EX107](#the-one-form-fix-embed-publication-in-ex107)**
-- **[9. Conclusion: A Call to Action for Verifiable Justice](#9-conclusion-a-call-to-action-for-verifiable-justice)**
-- **[References](#references)**
+   
 
 ## 1. The Crises: Symptoms of Systemic Failure
 
