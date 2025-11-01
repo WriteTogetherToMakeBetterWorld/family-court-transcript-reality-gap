@@ -12,6 +12,11 @@ These **least-resistance reforms** leverage existing infrastructure (TIG pilots,
 **Word count**: 240  
 **Keywords**: family courts, transparency, court transcripts, open justice, least-resistance reform, reality gap
 
+## Figure 1. Article Structure Overview (Visual Mindmap)
+
+*High-level overview: from crises → mapping → multi-layer analysis → reforms.*
+
+```mermaid
 mindmap
   root((Family Court Transparency))
     A["Abstract & Overview"]
@@ -22,6 +27,40 @@ mindmap
     F["8: Reforms"]
     G["9: Conclusion"]
 
+---
+
+### 🔍 Explanation
+
+1. **First triple backticks** (` ```md`) — tell GitHub this is Markdown text (not required but safe).  
+2. **Blank line** between your paragraph and the diagram.  
+3. **Second triple backticks with `mermaid`** → opens the Mermaid block.  
+4. **Mindmap code** (short, safe, no links).  
+5. **Third triple backticks** → closes the Mermaid block.  
+6. **Final triple backticks** (to close the outer Markdown fence if you used ` ```md` at top).  
+
+If you paste exactly that, it will render a **mindmap diagram** (round central node + branches).  
+
+---
+
+### ✅ Then (Optional): Add the clickable outline
+
+Immediately *underneath* that diagram, paste this block for navigation:
+
+```html
+<details open>
+  <summary><strong>Interactive Outline (jump to sections)</strong></summary>
+
+- [Abstract & Overview](#abstract--overview-problem-statement--hypothesis)
+- [Section 1: Diagnosing the Crises](#section-1-diagnosing-the-crises)
+- [Section 2: Evolution of Transparency Frameworks](#section-2-evolution-of-transparency-frameworks)
+- [Section 3: Transparency as a Catalyst for Reform](#section-3-transparency-as-a-catalyst-for-reform)
+- [Section 4: Theoretical & Learning Foundations](#section-4-theoretical--learning-foundations)
+- [Section 5: From Crises to Deficits – The Logic Map](#section-5-from-crises-to-deficits--the-logic-map)
+- [Section 6: Empirical Findings – The Data Void](#section-6-empirical-findings--the-data-void)
+- [Section 7: From Principle to Practice – Multi-Layer Analysis](#section-7-from-principle-to-practice--multi-layer-analysis)
+- [Section 8: Policy Implications & Low-Resistance Reforms](#section-8-policy-implications--low-resistance-reforms)
+- [Section 9: Conclusions & Future Directions](#section-9-conclusions--future-directions)
+</details>
 
 
 
