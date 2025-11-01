@@ -383,8 +383,6 @@ The following analysis therefore extends this empirical lens through two interli
 2. how they are **published**.  
 Section 6 begins with the former; Section 6.2 examines the latter.
 
-# SECTION 7: INTRODUCTION TO CHAPTER 7 (Final Integrated Version)
-
 ## 7. From Transparency Principle to Transcript Practice: Operationalising the Two Pathways
 
 Section 1 identified three interconnected crises: chronic case backlogs affecting 103,676 children (Law Society, 2024), fragmented governance with no single point of accountability, and profound data deficits preventing evidence-based reform. Sections 2–3 examined transparency as the proposed unifying solution, tracing its evolution from the McFarlane Review (2021) through the Transparency Implementation Group's work. Section 4 provided the theoretical foundation, demonstrating why transcripts function as essential infrastructure for organizational learning—enabling the reflection mechanisms required for systemic correction (Kolb, 1984; Argyris & Schön, 1978; Senge, 1990). Section 5 completed the logical mapping, showing how each crisis symptom connects to a transparency deficit, and how transcripts provide the operational mechanism for resolution.
@@ -530,11 +528,6 @@ This positioning reveals the **discretionary gap**: procedural rights exist on p
 - **7.5 Layer 5: External Observers**
 - **7.6 Cross-Layer Synthesis and Leverage Points**
 ---
-
-
-
-
-# REVISED SECTION 7.1 - FINAL VERSION
 
 ## Layer 1: Institutional Design — The Prescribed Architecture for Accessing and Publishing Court Records
 
