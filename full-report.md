@@ -1431,7 +1431,7 @@ The substantive question is not the precise percentage but the mechanisms by whi
 ---
 # 7.2 Layer 2: Judicial Gatekeeping — The Authoritative Filter
 
-**Purpose.** This layer examines how judges interpret and apply institutional design from Layer 1, revealing a critical gap: judges acknowledge structural problems in individual cases but do not signal these problems to bodies positioned to implement systemic reforms (HMCTS, Ministry of Justice, Family Procedure Rule Committee). Where Layer 1 identified design voids (untimed approval stages, fragmented publication pathways, consent asymmetry silences), Layer 2 analyzes how judicial rulings critique dysfunction without triggering institutional review—establishing what this chapter terms the "accommodation dynamic." Problems get resolved case-by-case rather than aggregated and escalated, ensuring their persistence regardless of judicial awareness.
+**Purpose.** This layer examines how judges interpret and apply institutional design from Layer 1, revealing a critical gap: judges acknowledge structural problems in individual cases but do not signal these problems to bodies positioned to implement systemic reforms (HMCTS, Ministry of Justice, Family Procedure Rule Committee). Where Layer 1 identified design voids (untimed approval stages, fragmented publication pathways, consent asymmetry silences), Layer 2 analyzes how judicial rulings critique dysfunction without triggering institutional review—establishing what this chapter terms the "accommodation dynamic." **In some cases, judicial discretion goes further: it inverts the system's stated goals, turning "publish unless harm" into "publish only if you prove it," and efficiency promises into indefinite delay.** Problems get resolved case-by-case rather than aggregated and escalated, ensuring their persistence regardless of judicial awareness.
 
 **Scope.** Layer 2 examines how judicial interpretation addresses six of fifteen design failures identified in Layer 1. Judicial rulings identified through practitioner-curated sources and database searches engage only **DF-6** (untimed approval), **DF-8** (self-anonymization), **DF-9** (unreasoned refusals), **DF-12** (no enforcement), **DF-13** (consent asymmetry), and **DF-15** (no integration). This research identified no case law addressing nine design failures—**DF-1, DF-2** (form design flaws), **DF-3, DF-4, DF-5, DF-14** (infrastructure voids), **DF-7, DF-10, DF-11** (resource deficits). Whether this absence reflects that such failures fall outside judicial authority, that parties do not frame them as justiciable issues, that courts treat them as administrative matters beyond judicial review, or that relevant rulings exist but remain unpublished cannot be definitively established. What can be observed is that these failures persist unchanged while the six failures that have generated case law receive only accommodation (critique without enforcement) rather than resolution.
 
@@ -1447,16 +1447,15 @@ Analysis proceeds through three axes and one supplementary dimension:
 
 **Critical findings.** Analysis reveals two patterns explaining why the "reality gap" persists despite reform announcements:
 
-**(1) The Accommodation Dynamic** — Judges critique problems in individual cases (*Re X* acknowledges approval delays; *Re B and G* establishes transparency presumption) but rulings do not produce enforcement mechanisms, monitoring systems, or resource allocation. Critically, this research identified no evidence of judges systematically signaling structural failures to bodies positioned to remedy them. When approval delays prejudice appeals repeatedly, judges handle each case individually; no formal notifications to HMCTS requesting systemic review were identified. When consent asymmetry creates Article 8/10 conflicts across cases, judges resolve disputes individually; no referrals to Family Procedure Rule Committee for guidance development were found. Whether this absence reflects lack of signaling mechanisms, judges not seeing such action as within their role, practical barriers (time, resources), or informal signaling that leaves no public record cannot be determined from available evidence. What can be established is the outcome: judicial observation of recurring dysfunction does not trigger administrative response.
+**(1) The Accommodation Dynamic** — Judges critique problems in individual cases (*Re X* acknowledges approval delays; *Re B and G* establishes transparency presumption) but rulings do not produce enforcement mechanisms, monitoring systems, or resource allocation. **Where judicial discretion operates, it sometimes inverts the system's stated goals: "publish unless harm" becomes "publish only if you prove it," efficiency promises become indefinite delay, and transparency presumptions become heightened barriers when parties object.** Critically, this research identified no evidence of judges systematically signaling structural failures to bodies positioned to remedy them. When approval delays prejudice appeals repeatedly, judges handle each case individually; no formal notifications to HMCTS requesting systemic review were identified. When consent asymmetry creates Article 8/10 conflicts across cases, judges resolve disputes individually; no referrals to Family Procedure Rule Committee for guidance development were found. Whether this absence reflects lack of signaling mechanisms, judges not seeing such action as within their role, practical barriers (time, resources), or informal signaling that leaves no public record cannot be determined from available evidence. What can be established is the outcome: judicial observation of recurring dysfunction does not trigger administrative response.
 
 **(2) The Hollow Infrastructure Finding** — Official systems promise functionality while maintaining minimal operational capacity. Policy announcements create reform illusions (transparency presumptions, publication targets, TIG pilots) while operational barriers documented in Layer 1 remain unchanged. No institutional feedback loop is observable between judicial encounter with system failure and administrative action to remedy it—whether such a loop is structurally absent, functionally broken, or simply unused cannot be definitively determined.
 
-Together, these patterns demonstrate that approximately 60% of design failures (9 of 15 based on case law identified in this research) have generated no judicial engagement, and the remaining 40% receive only accommodation rather than resolution. This explains the persistence of the double transparency deficit (§7.0.1): problems visible to judges remain invisible to system designers because judicial observation does not flow back to bodies positioned to implement reforms.
+Together, these patterns demonstrate that approximately 60% of design failures (9 of 15 based on case law identified in this research) have generated no judicial engagement, and the remaining 40% receive only accommodation rather than resolution. **The accommodation dynamic encompasses both passive failure (working around problems without fixing them) and active inversion (reversing the system's intended operation through burden-shifting, presumption-reversal, and heightened barriers).** This explains the persistence of the double transparency deficit (§7.0.1): problems visible to judges remain invisible to system designers because judicial observation does not flow back to bodies positioned to implement reforms, while judicial discretion sometimes operates to entrench rather than resolve the dysfunction it encounters.
 
 **Scope & Limits.** Analysis is limited to published precedents and practitioner-curated guidance representing "visible law." Unpublished refusals create "meta-opacity"—where judges refuse publication, those refusals themselves rarely generate public records. Layer 2 therefore cannot capture comprehensive practice across all judicial officers, patterns in unpublished refusals (addressed through Layer 4 user testimony), informal judicial guidance not documented in written rulings, or regional variations in judicial interpretation. The scarcity of recent case law addressing transcript procedures and publication disputes is itself diagnostic evidence: if systems functioned as designed, regular precedent from disputes over delays, approval enforcement, and consent resolution would exist. Instead, the absence suggests parties abandon challenges rather than pursue them, refusals go unpublished (meta-opacity), or judges treat issues as case-specific rather than systemic.
 
 **Handoff to subsequent layers.** Judicial interpretations documented here are tested against professional practice (§7.3), user experience (§7.4), and external commentary (§7.5). Where all layers converge on the same barrier—untimed approval creates delays, objections function as vetoes, refusals lack documentation—the pattern is established despite sparse published case law.
-
 ---
 
 ## 7.2.1 Why Judicial Gatekeeping Is the Authoritative Filter
@@ -2607,7 +2606,9 @@ Layer 2 mapped what judges say the law is—the "visible law" captured in publis
 * Parties have a "right to tell their story" (*Griffiths v Tickle* [2022])
 * Participation requires accommodation (*M (A Child)* [2025])
 
-But three critical gaps remain that subsequent layers must address.
+**But the analysis revealed something more troubling than accommodation alone:** judicial discretion sometimes inverts these stated principles. "Publish unless harm" becomes "publish only if you prove it." Efficiency promises become indefinite delays. Rights proclaimed become privileges contingent on resources. This active inversion—documented across Axes (a), (b), and (c)—explains why progressive doctrine produces continued opacity despite reform announcements.
+
+Three critical gaps remain that subsequent layers must address.
 
 ### 7.2.10.1 Gap 1: Professional Mediation (Layer 3)
 
@@ -2620,14 +2621,16 @@ But three critical gaps remain that subsequent layers must address.
 * Do they normalize **DF-6**'s (§7.1.2) timeline collision ("order transcript immediately; expect delays") or challenge it?
 * How do they advise on consent disputes—"objections usually succeed" or "objections can be overcome"?
 * Do they encourage publication applications or counsel against them due to resource requirements?
+* **Do they recognize and name the inversion effect—or teach clients to navigate it as inevitable?**
 
 **The mediation dynamic:** Legal professionals don't merely describe the system—they shape how parties navigate it. If solicitors routinely advise "publication unlikely if other party objects," they reproduce objection-as-veto norm even when doctrine (*Re B and G*) nominally supports transparency. Layer 3 will examine whether professional practice:
 
 * **Challenges dysfunction** (pushing for faster approval, contesting unreasoned refusals, arguing consent parity)
 * **Normalizes dysfunction** (advising workarounds like PD30A notes rather than demanding systemic reform)
 * **Reproduces dysfunction** (counseling against transparency applications to avoid professional liability for "unrealistic" advice)
+* **Recognizes inversion** (identifying when judicial practice actively reverses stated principles vs. simply failing to enforce them)
 
-Layer 3 occupies a critical position: legal professionals don't merely mediate between institutional design and user experience—**they actively stabilize the system through repeated practice**, normalizing the accommodation of dysfunction documented in this layer. When solicitors advise clients that "publication unlikely if other party objects" or "order transcript immediately; expect delays," they translate the six judicially-addressed design failures into navigable obstacles while rendering the nine apparently unreachable failures (form confusion, infrastructure voids, resource deficits) invisible through workarounds and risk management. This professional mediation function—where lawyers teach parties to work around rather than challenge systemic barriers—is central to understanding why hollow infrastructure persists: **the system's dysfunctions become incorporated into professional competence rather than targeted for reform**. Layer 3 will examine whether solicitors and barristers challenge the accommodation dynamic or reproduce it, and whether professional practice makes the 60% of apparently unreachable design failures visible to clients or masks them through procedural expertise. Through repeated courtroom exposure, solicitors and barristers internalize judicial preferences about transparency. They then advise clients to align with these preferences, creating feedback loops that stabilize existing power structures. This **system stabilization function**—where professionals reproduce patterns they observe rather than challenge them—is central to understanding why the "reality gap" persists despite progressive doctrine and reform announcements.
+Layer 3 occupies a critical position: legal professionals don't merely mediate between institutional design and user experience—**they actively stabilize the system through repeated practice**, normalizing both the accommodation and inversion of dysfunction documented in this layer. When solicitors advise clients that "publication unlikely if other party objects" or "order transcript immediately; expect delays," they translate the six judicially-addressed design failures into navigable obstacles while rendering the nine apparently unreachable failures (form confusion, infrastructure voids, resource deficits) invisible through workarounds and risk management. This professional mediation function—where lawyers teach parties to work around rather than challenge systemic barriers—is central to understanding why hollow infrastructure persists: **the system's dysfunctions become incorporated into professional competence rather than targeted for reform**. Layer 3 will examine whether solicitors and barristers challenge the accommodation and inversion dynamics or reproduce them, and whether professional practice makes the 60% of apparently unreachable design failures visible to clients or masks them through procedural expertise. Through repeated courtroom exposure, solicitors and barristers internalize judicial preferences about transparency—including which presumptions will be honored and which will be inverted. They then advise clients to align with these preferences, creating feedback loops that stabilize existing power structures. This **system stabilization function**—where professionals reproduce patterns they observe rather than challenge them—is central to understanding why the "reality gap" persists despite progressive doctrine and reform announcements.
 
 ### 7.2.10.2 Gap 2: User Experience (Layer 4)
 
@@ -2648,6 +2651,7 @@ Layer 3 occupies a critical position: legal professionals don't merely mediate b
 * Do judges proactively consider publication in "mandatory" categories or must parties always apply via Form C2?
 * How long does publication permission process take? (**DF-15**, §7.1.7 fragmentation)
 * What costs accumulate? (Form C2: £258 + legal representation + hearing time)
+* **Do parties experience the burden-shifting documented in *M and F*—having to prove publication justified rather than objectors proving harm?**
 
 **On consent disputes (Axis c):**
 
@@ -2662,7 +2666,7 @@ Layer 3 occupies a critical position: legal professionals don't merely mediate b
 * Do they receive unreasoned refusals (**DF-9**, §7.1.3.1) preventing effective appeals?
 * How often do refusals get appealed vs. abandoned due to costs?
 
-**The lived reality gap:** Layer 2 documented what judges say the law is. Layer 4 will test whether progressive principles translate into accessible practice—or remain theoretical promises that operational barriers prevent parties from realizing.
+**The lived reality gap:** Layer 2 documented what judges say the law is and revealed how judicial discretion sometimes inverts those principles. Layer 4 will test whether parties experience this inversion—whether "publish unless harm" truly operates as stated or whether burden-shifting, heightened barriers, and objection-as-veto transform theoretical rights into inaccessible promises.
 
 ### 7.2.10.3 Gap 3: External Validation (Layer 5)
 
@@ -2674,8 +2678,9 @@ Layer 3 occupies a critical position: legal professionals don't merely mediate b
 * Do Justice Committee reports identify publication gaps?
 * How do academic researchers assess transparency implementation?
 * What do NGOs (Rights of Women, Women's Aid, Transparency Project) document about operational reality?
+* **Do external observers identify the inversion dynamic—or only the accommodation failure?**
 
-**The triangulation function:** When institutional design (Layer 1), judicial interpretation (Layer 2), professional practice (Layer 3), user experience (Layer 4), AND external observers (Layer 5) all identify the same barriers—untimed approval, objection-as-veto, unreasoned refusals—the pattern is definitively established.
+**The triangulation function:** When institutional design (Layer 1), judicial interpretation (Layer 2), professional practice (Layer 3), user experience (Layer 4), AND external observers (Layer 5) all identify the same barriers—untimed approval, objection-as-veto, unreasoned refusals, burden-shifting on publication requesters—the pattern is definitively established.
 
 ### 7.2.10.4 The Critical Synthesis Ahead
 
@@ -2686,25 +2691,31 @@ Layer 3 occupies a critical position: legal professionals don't merely mediate b
 **If doctrine translates:**
 
 * Professional advice empowers parties to access transparency mechanisms
-* Users successfully navigate publication applications
+* Users successfully navigate publication applications following *Re B and G*'s presumption
 * External observers document functioning system
 
-**If doctrine fails:**
+**If doctrine fails through accommodation alone:**
 
-* Professional advice counsels against transparency attempts
-* Users encounter barriers at every stage
-* External observers document continued opacity despite reform rhetoric
+* Professional advice counsels workarounds rather than challenging barriers
+* Users encounter delays and resource constraints but presumptions remain intact
 
-**The synthesis question:** Does the "visible law" Layer 2 captured represent operational reality—or merely aspirational principles that discretionary practice prevents from functioning?
+**If doctrine fails through inversion:**
 
-**Handoff complete.** Layer 2 established what judges say should happen when institutional design creates voids. Layers 3-4 will document what actually happens when parties attempt to claim the rights and access the procedures judicial precedent nominally supports. Where all layers converge—on untimed approval delays, objection-as-veto practice, unreasoned refusals, resource asymmetry—the reality gap is proven not through single-source evidence but through multi-perspective triangulation.
+* Professional advice warns clients that stated presumptions operate in reverse
+* Users experience burden-shifting, heightened barriers, and practical vetoes
+* External observers document gap between formal principles and operational reality
 
-The transparency deficit is not merely formal (rules are unclear) or doctrinal (principles are absent). It is **operational**—the system cannot deliver what it formally promises and doctrinally supports because design voids, judicial discretion (exercised without signaling mechanisms to connect observation to institutional review), professional mediation, and resource asymmetries compound to create barriers that only the most resourced and persistent parties overcome.
+**The synthesis question:** Does the "visible law" Layer 2 captured represent operational reality—or do both accommodation (working around problems) and inversion (actively reversing stated principles) prevent progressive doctrine from functioning?
+
+**Handoff complete.** Layer 2 established what judges say should happen when institutional design creates voids, and documented how judicial discretion sometimes inverts these stated principles through burden-shifting, presumption-reversal, and heightened barriers. Layers 3-4 will document what actually happens when parties attempt to claim the rights and access the procedures judicial precedent nominally supports. Where all layers converge—on untimed approval delays, objection-as-veto practice, unreasoned refusals, resource asymmetry, and burden-shifting that inverts transparency presumptions—the reality gap is proven not through single-source evidence but through multi-perspective triangulation.
+
+The transparency deficit is not merely formal (rules are unclear) or doctrinal (principles are absent). It is **operational**—the system cannot deliver what it formally promises and doctrinally supports because design voids, judicial discretion (exercised without signaling mechanisms to connect observation to institutional review, and sometimes operating to invert rather than implement stated principles), professional mediation, and resource asymmetries compound to create barriers that only the most resourced and persistent parties overcome.
+
+**Layer 2's core finding:** The accommodation dynamic encompasses both passive failure (judges work around problems without fixing them or signaling for systemic reform) and active inversion (judges reverse the system's intended operation through burden-shifting, presumption-reversal, and heightened barriers when parties seek transparency). Both forms ensure that progressive doctrine produces continued opacity despite reform announcements. Whether professional practice (Layer 3) challenges or reproduces this inversion, and whether user experience (Layer 4) confirms burden-shifting as systematic pattern rather than isolated incidents, will determine whether the reality gap reflects implementation failure or structural design incompatible with stated transparency goals.
 
 ---
 
 **END OF LAYER 2**
-
 **Section 7.2 Status:** Complete analysis of judicial gatekeeping across three axes (transcript as record, transcript as publication, consent architecture) and one supplementary dimension (design void filling). Findings synthesized showing how progressive doctrine accommodates rather than resolves structural dysfunction through the **accommodation dynamic**—where judges recognize problems without signaling to bodies positioned to implement systemic reforms. The **hollow infrastructure** finding establishes that policy announcements create illusions of reform while operational systems remain unchanged. Handoff prepared for Layers 3 (professional practice as system stabilizers), 4 (user experience), and 5 (external validation).
 
 
