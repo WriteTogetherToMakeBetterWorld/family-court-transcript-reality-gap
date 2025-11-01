@@ -8217,6 +8217,10 @@ Every intervention is **low-resistance** — achievable via guidance updates, fo
 
 **Next**: Chapter 9 examines paradigmatic questions—parent recording prohibition, constitutional validity of Rule 27.10, and publication as governance in interconnected systems.
 
+other ideas:
+Discoverability Reform.
+The problem is not weak keywords but weak infrastructure. Cases on transparency remain hidden because databases lack consistent metadata, shared taxonomies, and cross-platform integration. Judicial rulings that should illuminate practice vanish in unsearchable archives. The solution is not more keywords but a Transparency Taxonomy: standardised tags applied at upload, linked across BAILII, Caselaw, and Judiciary.uk through open APIs. Judges could reinforce this by signalling content type in the judgment header (e.g. “Transparency—Transcript Access” or “Transparency—Publication”). Over time, AI-based clustering could group related rulings by theme, creating a genuine “Transparency Navigator.” In short: doctrine must meet data design—reform begins when transparency itself becomes discoverable.
+
 
 # Chapter 9: Paradigmatic Thinking — Constitutional Questions and Transformative Alternatives
 
