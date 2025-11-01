@@ -12,37 +12,17 @@ These **least-resistance reforms** leverage existing infrastructure (TIG pilots,
 **Word count**: 240  
 **Keywords**: family courts, transparency, court transcripts, open justice, least-resistance reform, reality gap
 
-## Figure 1. Article Structure Overview (Visual Mindmap)
-
-*High-level overview: from crises → mapping → multi-layer analysis → reforms.*
-
-```mermaid
 mindmap
-  root((Family Court Transparency: The Reality Gap))
-    ["Abstract & Overview"]
-    ["1–3: Diagnosing the Crises"]
-    ["4–5: Theoretical & Logical Mapping"]
-    ["6: Empirical Testing (Data Void)"]
-    ["7: Multi-Layer Analysis (Practice Gap)"]
-    ["8: Policy & Low-Resistance Reforms"]
-    ["9: Conclusion & Call to Action"]
+  root((Family Court Transparency))
+    A["Abstract & Overview"]
+    B["Sections 1–3: Diagnosing"]
+    C["Sections 4–5: Mapping"]
+    D["6: Empirical Testing"]
+    E["7: Multi-Layer Analysis"]
+    F["8: Reforms"]
+    G["9: Conclusion"]
 
-Then immediately under it, keep the HTML collapsible outline I gave you earlier.  
-That way readers see the small interactive map **plus** a full navigable index that doesn’t break rendering.
 
----
-
-## 🧩 Option 2 (Advanced, if you want the big map)
-
-If you want the full nested diagram, you’ll need to **host it externally** using [https://mermaid.live](https://mermaid.live):
-
-1. Go to **https://mermaid.live**.  
-2. Paste your full `mindmap` code there.  
-3. Click “Export → PNG” or “Export → SVG”.  
-4. In your Markdown, replace the broken diagram with an embedded image link:  
-
-   ```md
-   ![Figure 1: Article Mindmap](path/to/exported-diagram.svg)
 
 
 ## 1. The Crises: Symptoms of Systemic Failure
