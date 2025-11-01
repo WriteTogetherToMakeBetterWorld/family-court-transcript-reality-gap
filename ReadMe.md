@@ -9,7 +9,7 @@
 **Transcripts could change that.**  
 They show what really happens in court. They prove truth and let the truth and what we believe "justice" is - justice prevails.
 
-**Read the full report I put together:** [full-report.md](full-report.md)
+**Read the full report I put together:** [Read the full report →](full-report.md)
 
 **If you care, do something small:**
 - **Write your MP** — find them at [parliament.uk](https://www.parliament.uk/get-involved/contact-an-mp-or-lord/contact-your-mp/)
