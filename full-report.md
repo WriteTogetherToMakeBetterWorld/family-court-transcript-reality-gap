@@ -766,71 +766,58 @@ The approved version is final; no mechanism exists for parties to view what chan
 
 ### The Appeal-Deadline Collision
 
-Even on best-case assumptions, the timeline collision is structural [Court of Appeal Guide 2025; FPR 30.4]. The following figure maps the best-case scenario where all parties act immediately, vendors meet Service Level Bands, and no additional delays occur.
+Even on *best-case* assumptions, the timeline collision is structural ([Court of Appeal Guide 2025](https://www.judiciary.uk/guidance-and-resources/court-of-appeal-civil-division-guide-2025/); FPR 30.4). The following figure maps the best-case scenario where **all parties act immediately**, vendors meet Service Level Bands, and **no additional delays occur**.
 
-**Figure 7.1: The Appeal-Deadline Collision**
-```
+<figure class="full-width">
+  <figcaption><strong>Figure 7.1: The Appeal-Deadline Collision</strong></figcaption>
 STRUCTURAL TIMELINE ANALYSIS: BEST-CASE TRANSCRIPT PRODUCTION vs APPEAL DEADLINE
+┌──────────────────────────────────────────────────────────────────────────────────────┐
+│ APPEAL CLOCK: 21 DAYS (FPR 30.4)                                                     │
+│ INTERIM/CASE MANAGEMENT: 7 DAYS                                                     │
+└──────────────────────────────────────────────────────────────────────────────────────┘
+Day 0  JUDGMENT DELIVERED
+→ Appeal clock starts
+→ 21 days remaining (7 for interim matters)
+Day 1  Appellant recognises need to appeal
+→ 20 days remaining
+Day 2  FORM EX107 SUBMITTED
+• Expedited 48-hour service selected
+• Cost: £700–£995
+→ 19 days remaining
+Days   COURT PROCESSING + RECORDING RETRIEVAL
+3–14   ⚠ EXCLUDED FROM SERVICE LEVEL BAND
+• Target: 2 wd admin processing
+• Average: ~10 wd recording retrieval
+→ 5–16 days remaining
+Days   VENDOR PRODUCTION (48 h SLB)
+15–17  • Starts only after court hands over audio
+• 2 working days = 48 h
+→ 3–14 days remaining
+Days   JUDICIAL APPROVAL (untimed)
+18–?   • No statutory or PD deadline
+• Average: 3–10 wd (FOI 2025)
+→ 0–11 days remaining (often negative)
+Day 21 APPEAL DEADLINE
+→ Transcript still not approved in >70 % of cases
+text</figure>
 
-┌─────────────────────────────────────────────────────────────────────────┐
-│ APPEAL CLOCK: 21 DAYS (FPR 30.4)                                       │
-│ INTERIM/CASE MANAGEMENT: 7 DAYS                                        │
-└─────────────────────────────────────────────────────────────────────────┘
+**Key:**  
+- **Yellow highlight** = time *outside* the vendor’s Service Level Band (court-side delays).  
+- **Red zone** = judicial approval void (DF-3).  
+- **Result:** Even with perfect behaviour, the 21-day appeal window expires **before** a verified transcript is guaranteed.
 
-Day 0  │ JUDGMENT DELIVERED
-       │ → Appeal clock starts
-       │ → 21 days remaining (7 for interim matters)
-       ▼
+---
 
-Day 1  │ Appellant recognizes need to appeal
-       │ → 20 days remaining
-       ▼
+#### Why the Collision is Inescapable
+| Phase | Minimum realistic duration | Cumulative days used |
+|-------|---------------------------|----------------------|
+| Court processing + audio retrieval | 3 wd (best) – 14 wd (avg) | 3–14 |
+| Vendor production (48 h SLB) | 2 wd | 5–16 |
+| Judicial approval | 0 wd (theoretical) – 10 wd (avg) | **5–26+** |
+| **Total** | **5 wd** (miracle) – **26+ wd** | **> 21 days** |
 
-Day 2  │ FORM EX107 SUBMITTED
-       │ • Expedited 48-hour service selected
-       │ • Cost: £700-£995
-       │ → 19 days remaining
-       ▼
-
-Days   │ COURT PROCESSING + RECORDING RETRIEVAL
-3-14   │ ⚠️ EXCLUDED FROM SERVICE LEVEL BAND
-       │ • Target: 2 wd admin processing
-       │ • Average: ~10 wd recording retrieval
-       │ • Worst case: up to 4 weeks
-       │ → Best case Day 14: 7 days remaining
-       ▼
-
-Day 14 │ Recording + payment sent to vendor
-       │ ✓ SERVICE LEVEL BAND STARTS NOW
-       ▼
-
-Day 16 │ DRAFT TRANSCRIPT TO COURT
-       │ ✓ Vendor met 48-hour SLB obligation
-       │ → 5 days remaining before deadline
-       ▼
-
-Day ?? │ JUDICIAL APPROVAL (UNTIMED VOID)
-       │ ⚠️ No deadline, no SLA, no monitoring
-       │ → Approval time entirely at judicial discretion
-       │
-       ├─────── Scenario A: Day 18 approval
-       │        → 3 days for grounds preparation
-       │        → Extremely tight; quality compromised
-       │
-       ├─────── Scenario B: Day 21 approval  
-       │        → 0 days; deadline met but no time to draft
-       │        → Must file immediately with note (PD30A)
-       │
-       └─────── Scenario C: Day 22+ approval
-                → Deadline already passed (-1+ days)
-                → Late filing requires permission + explanation
-                → Appeal rights effectively lost without workaround
-
-Day 21 │ APPEAL DEADLINE EXPIRES
-       │ • Must file notice of appeal with grounds
-       │ • Requires transcript or note of judgment
-       │ • Late filing needs permission + good reason
-       └──────────────────────────────────────────────────────────────────
+> **DF-3 (untimed approval) + DF-1 (form-guidance disconnect)** guarantee the collision in the majority of cases.  
+> The only *least-resistance* fix is **provisional transcript release on transcription** (vendor completes → immediate PDF to parties; judicial review runs **in parallel** with the appeal window).
 
 THE STRUCTURAL CONTRADICTION:
 - System REQUIRES transcripts (Forms N161, FP161 mandate them)
