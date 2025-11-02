@@ -1730,120 +1730,102 @@ Database tests (§7.2.2) show 0.23% coverage; pattern extends: policy illusions 
 **Synthesis**: Layers converge on inversion; handoff to test lived reality.  
 **Critical insight**: Layer 2 doctrine vs. reality gap previews full deficit—L3-5 will confirm if inversion systematic.
 
+# Section 7.3 - COMPLETE REVISED VERSION
+## All Cherry-Pick Improvements Implemented
 
+---
 
+## 7.3 Layer 3: Professional Practice — Legal Professionals as System Translators
 
+**Purpose:** This layer examines how solicitors and barristers interpret transparency reforms in client guidance, identifying emphasis patterns and systematic silences that filter institutional design (Layer 1) and judicial gatekeeping (Layer 2) into navigable advice.
 
+**Sources:** 19 publicly available practitioner materials (2022-2025) from law firms, barristers' chambers, and professional associations.
 
+**Key finding:** Professional guidance creates operational hierarchy—extensive detail on media reporting, limited guidance on transcript access, near-silence on party publication—sustaining expertise asymmetry through rational adaptation to economic and professional incentives.
 
+---
 
-## 7.3.1 Theoretical Framework and Methodology
+## 7.3.1 Methodology: Sources and Analytical Approach
 
-### 7.3.1.1 Beyond Mediation: The Epistemic Feedback Loop
+This analysis examines 19 publicly available practitioner materials (2022-2025) to identify emphasis patterns, framing choices, and systematic silences that constitute professional translation of transparency reforms.
 
-
-"Professional Practice" is too generic. Readers might think:
-
-Healthcare professionals?
-Court staff?
-Social workers?
-Cafcass officers?
-
-
-
-
-
-
-
-
-Previous scholarship treats legal professionals as intermediaries between law and clients (Kritzer, 1998). This framing assumes practitioners stand outside the system they navigate. But family court transparency reveals a different dynamic: **practitioners are endogenous to the system they describe**, functioning as components whose behavior actively maintains systemic equilibrium.
-
-**The epistemic feedback loop operates through four stages:**
-
-1. **Observation**: Repeated courtroom exposure teaches practitioners which transparency arguments judges reward or penalize
-2. **Internalization**: These preferences become professional knowledge—"judicial discretion" transforms from legal principle to predictable pattern
-3. **Client guidance**: Practitioners advise clients to align with judicial expectations, not challenge them
-4. **Discourse production**: Blogs and briefings document these adaptations as professional best practice, which new practitioners learn and propagate
-
-This cycle requires no coordination. Each practitioner, acting rationally within professional constraints (client success, judicial relationships, reputational management), makes choices that collectively stabilize the status quo.
-
-**Theoretical positioning:**
-
-**Bourdieu's habitus and field theory** (1977): Practitioners develop a "feel for the game"—unconscious dispositions about what's thinkable, sayable, and strategically viable within the legal field. Their positioning (dependent on judicial approval for case success) shapes strategic calculations. They don't consciously decide to reinforce opacity; they internalize what's necessary for functioning within existing power relations.
-
-**Luhmann's autopoietic systems** (1995): The legal system reproduces itself through its own operations. Practitioners aren't external observers but functional components whose role is translating between "client needs" and "system-compatible requests." They keep the system operationally closed (maintaining judicial interpretive authority) while appearing open (supporting "transparency" as abstract principle).
-
-**Foucault's regimes of truth** (1980): Not about discovering truth but about who has authority to designate what counts as truth. "Managed transparency" is discourse that appears to democratize access while preserving interpretive monopoly. Practitioners legitimate this regime by treating judicial discretion over transparency as natural rather than constructed.
-
-**Critical insight**: Professional competence itself becomes a mechanism of system reproduction. Being a "good lawyer" means understanding judicial preferences and aligning client strategy accordingly—which means perpetuating existing gatekeeping logics.
-
-### 7.3.1.2 Corpus Construction: Sources and Analytical Approach
-
-This analysis examines **19 publicly available practitioner materials** (2022-2025) to identify **emphasis patterns, framing choices, and systematic silences** that constitute professional translation of transparency reforms.
-
-**Search strategy** (conducted October 2024–January 2025):
+**Search strategy (conducted October 2024–January 2025):**
 
 **Platforms searched:**
-- UK law firm websites (family law departments)
-- Barristers' chambers blogs/briefings
-- Professional associations (Resolution, Law Society)
-- Legal media (Law Gazette, Barrister Magazine)
-- Local Government Lawyer (public sector focus)
+* UK law firm websites (family law departments)
+* Barristers' chambers blogs/briefings
+* Professional associations (Resolution, Law Society)
+* Legal media (Law Gazette, Barrister Magazine)
+* Local Government Lawyer (public sector focus)
 
 **Search terms:**
-- "family court transparency" + solicitor/barrister
-- "transparency order" + guidance
-- "reporting pilot" + practitioner
-- "family court transcript" + access/cost
-- "PD 12G" + publication
-- "media reporting" + family proceedings
+* "family court transparency" + solicitor/barrister
+* "transparency order" + guidance
+* "reporting pilot" + practitioner
+* "family court transcript" + access/cost
+* "PD 12G" + publication
+* "media reporting" + family proceedings
 
 **Selection criteria:**
 
-| **Criterion** | **Rationale** |
-|---------------|---------------|
+| Criterion | Rationale |
+|-----------|-----------|
 | Addresses transparency reforms (TIG, Reporting Pilot, open reporting 2025) | Ensures relevance to post-2021 policy shifts |
 | Provides client-facing or practitioner guidance | Captures interpretive mediation function |
 | Discusses transparency mechanisms OR transcript/publication infrastructure | Enables analysis of emphasis patterns |
 | Published by identifiable law firm, chambers, or professional body | Establishes professional authority |
 | Accessible without paywall (or core content summarizable) | Represents guidance available to wider profession |
 
-**Key sources analyzed** (representative examples from n=19):
+**Key sources analyzed (representative examples from n=19):**
 
-| **Source** | **Date** | **Focus** | **Significance** |
-|-----------|---------|-----------|------------------|
-| Julia Jensen, *Law Gazette* | Jun 2024 | Transcript costs | Rare acknowledgment of financial barriers—but **paywalled** |
+| Source | Date | Focus | Significance |
+|--------|------|-------|--------------|
+| Julia Jensen, Law Gazette | Jun 2024 | Transcript costs | Rare acknowledgment of financial barriers—but paywalled |
 | Irwin Mitchell | Nov 2023 | Employment Tribunal recording | Comparison point: what family guidance could include |
 | Deka Chambers | Jan 2024 | Reporting Pilot extension | Institutional client preparation |
 | Rainscourt | Ongoing | Transcript guide/EX107 | Specialist filling gaps mainstream firms leave |
-| Stewarts Law | May 2022 | *Griffiths v Tickle* | Rare party publication example |
+| Stewarts Law | May 2022 | Griffiths v Tickle | Rare party publication example |
 | Good Law Solicitors | 2025 | Journalist attendance FAQ | Individual party framing |
 | Resolution | 2022 | Transparency Review implications | Professional association positioning |
 | Major Family Law | Feb 2024 | 16-court extension | "Managed openness" consensus |
 | Weightmans | Feb 2025 | Open reporting provisions | "Watershed moment" qualified optimism |
 
-**Analytical approach** (Fairclough, 2003; critical discourse analysis):
+**Table 7.3.1: Practitioner Source Corpus (n=19)**
 
-1. **Emphasis assessment**: Quantify paragraph/word count devoted to different transparency mechanisms (reporting vs. transcripts vs. publication)
-2. **Framing identification**: Classify how reforms are positioned (compliance burden, reputational opportunity, ethical risk, systemic accountability)
-3. **Silence documentation**: Note systematic absences through contrastive analysis (what employment law guidance includes that family law omits)
-4. **Client segmentation mapping**: Compare guidance targeting institutional clients versus individual parties
-5. **Reinforcement mechanism identification**: Trace how practitioner discourse translates judicial discretion into "professional best practice"
+| Source Type | Count | Examples | Primary Focus |
+|-------------|-------|----------|---------------|
+| Law firm blogs | 8 | Stewarts, Irwin Mitchell, Weightmans, Deka Chambers | Client-facing guidance |
+| Barristers' chambers | 4 | Deka Chambers briefings, Barlow guide | Technical/institutional focus |
+| Professional associations | 2 | Resolution, Law Society | Sector-wide positioning |
+| Legal media | 3 | Law Gazette, Barrister Magazine, Local Government Lawyer | Professional commentary |
+| Specialist practitioner | 2 | Rainscourt, Good Law Solicitors | LiP-accessible guidance |
+
+**What this corpus represents:** The authoritative professional narrative shaping client expectations and judicial assumptions about representation standards.
+
+**What it excludes:** Private advice, unpublished communications, LiP perspectives, judicial training materials.
+
+**Analytical approach (Fairclough, 2003; critical discourse analysis):**
+
+1. **Emphasis assessment:** Quantify paragraph/word count devoted to different transparency mechanisms (reporting vs. transcripts vs. publication)
+2. **Framing identification:** Classify how reforms are positioned (compliance burden, reputational opportunity, ethical risk, systemic accountability)
+3. **Silence documentation:** Note systematic absences through contrastive analysis (what employment law guidance includes that family law omits)
+4. **Client segmentation mapping:** Compare guidance targeting institutional clients versus individual parties
+5. **Reinforcement mechanism identification:** Trace how practitioner discourse translates judicial discretion into "professional best practice"
 
 **Critical limitations:**
-- **Public performance bias**: Materials signal compliance; private advice may differ
-- **Selection effects**: Firms publishing on transparency may be more engaged than silent majority
-- **Institutional voice dominance**: Local authority guidance over-represented
-- **Paywalled exclusions**: Jensen's cost critique inaccessible in full
-- **No LiP perspective**: All sources authored by/for legally represented actors
+* **Public performance bias:** Materials signal compliance; private advice may differ
+* **Selection effects:** Firms publishing on transparency may be more engaged than silent majority
+* **Institutional voice dominance:** Local authority guidance over-represented
+* **Paywalled exclusions:** Jensen's cost critique inaccessible in full
+* **No LiP perspective:** All sources authored by/for legally represented actors
 
-**Methodological justification:** Despite limitations, this corpus represents the **authoritative professional narrative** shaping client expectations and judicial assumptions about representation standards. It captures not what lawyers might privately advise, but **what they publicly commit to as "good practice"**—the interpretive framework that filters institutional design (Layer 1) and judicial gatekeeping (Layer 2) into operational reality.
+**Methodological justification:** Despite limitations, this corpus represents the authoritative professional narrative shaping client expectations and judicial assumptions about representation standards. It captures not what lawyers might privately advise, but what they publicly commit to as "good practice"—the interpretive framework that filters institutional design (Layer 1) and judicial gatekeeping (Layer 2) into operational reality.
 
 ---
 
 ## 7.3.2 Macro-Policy Reception: "Managed Openness" as Consensus Frame
 
-Practitioner commentary reveals remarkable consistency: transparency reforms represent **progressive policy requiring careful implementation**. This "progress-in-principle, caution-in-practice" positioning allows firms to signal reform alignment while operationalizing through procedures that preserve discretionary control.
+Practitioner commentary reveals remarkable consistency: transparency reforms represent progressive policy requiring careful implementation. This "progress-in-principle, caution-in-practice" positioning allows firms to signal reform alignment while operationalizing through procedures that preserve discretionary control.
 
 ### 7.3.2.1 The Consensus Frame: "Responsible, Managed, Safe"
 
@@ -1853,170 +1835,194 @@ By 2024, Major Family Law exemplified professional positioning: "Responsible, ma
 
 Weightmans' February 2025 briefing on open reporting provisions framed the "watershed moment" through qualified optimism: reforms would "demystify family justice" but required robust anonymity protocols and infrastructure readiness to avoid harm (Weightmans, 2025).
 
-**The managed openness paradox**: If transparency equals truth, why must it be controlled? Why does it require management? The language reveals transparency is treated not as public entitlement but as **judicial prerogative to grant** under professional supervision.
+The managed openness paradox: If transparency equals truth, why must it be controlled? Why does it require management? The language reveals transparency is treated not as public entitlement but as judicial prerogative to grant under professional supervision.
+
+**Table 7.3.2: Professional Framing of Transparency Reforms**
+
+| Source | Date | Key Quote | Framing Pattern |
+|--------|------|-----------|-----------------|
+| Resolution | 2022 | "Cultural turning point... demands lawyers adapt" | Progress requiring professional facilitation |
+| Major Family Law | 2024 | "Responsible, managed access can only further [confidence]" | Transparency requires control |
+| Weightmans | Feb 2025 | "Watershed moment... robust anonymity protocols" | Optimism conditional on infrastructure |
+| Stewarts Law | 2023 | "Meticulous judicial supervision" | Judicial control as protective mechanism |
+| Barlow | 2023 | "Court retains discretion..." (repeated 3x) | Contingency emphasized over entitlement |
+
+**Pattern:** All sources frame transparency as requiring "management," "supervision," or "robustness"—treating openness not as default entitlement but as conditional privilege requiring professional/judicial mediation.
+
+**Layer 3 insight:** Professional discourse translates Layer 1's transparency presumption (TIG framework, open reporting provisions) into Layer 2's discretionary permission culture (judicial gatekeeping). By centering judicial discretion and case-specific balancing, practitioners prepare clients for transparency's withholding while signaling compliance with its principles.
 
 ### 7.3.2.2 Comparative Framing: Employment Law Illuminates Professional Selectivity
 
-**Irwin Mitchell's November 2023 briefing** on Employment Tribunal recording praised universal audio capture as "a new chapter in legal transparency" that would "help to avoid disputes as to what has taken place during a hearing... a full and final record of exactly what was said" (Irwin Mitchell, 2023). The focus: **accuracy, efficiency, dispute resolution**. The firm noted procedural innovation allowing transcript requests **without notifying opposing parties**—explicitly recognizing strategic advantages. The guidance anticipated this would "save time and expense."
+Irwin Mitchell's November 2023 briefing on Employment Tribunal recording praised universal audio capture as "a new chapter in legal transparency" that would "help to avoid disputes as to what has taken place during a hearing... a full and final record of exactly what was said" (Irwin Mitchell, 2023). The focus: accuracy, efficiency, dispute resolution. The firm noted procedural innovation allowing transcript requests without notifying opposing parties—explicitly recognizing strategic advantages. The guidance anticipated this would "save time and expense."
 
-**The employment law framing treats:**
-- Recordings as **infrastructure enabling justice**
-- Transcripts as **efficiency gain** reducing disputes
-- Access as **strategic tool** for building appeals
-- Accuracy as **dispute prevention mechanism**
+The employment law framing treats:
+* Recordings as infrastructure enabling justice
+* Transcripts as efficiency gain reducing disputes
+* Access as strategic tool for building appeals
+* Accuracy as dispute prevention mechanism
 
-**Yet no equivalent family law guidance** from surveyed sources frames transcript access as efficiency gain, dispute prevention, or strategic tool. The employment context treats recordings as operational necessity; the family context treats transparency orders as carefully managed exceptions.
+Yet no equivalent family law guidance from surveyed sources frames transcript access as efficiency gain, dispute prevention, or strategic tool. The employment context treats recordings as operational necessity; the family context treats transparency orders as carefully managed exceptions.
 
-**What this reveals**: Professional discourse is selective. Where tribunal reforms promise operational benefits to practitioners (clearer records, fewer challenges about "what was said"), guidance frames transparency positively. Where family transparency might expose institutional or judicial practice to scrutiny, guidance emphasizes caution, discretion, and controlled access.
+What this reveals: Professional discourse is selective. Where tribunal reforms promise operational benefits to practitioners (clearer records, fewer challenges about "what was said"), guidance frames transparency positively. Where family transparency might expose institutional or judicial practice to scrutiny, guidance emphasizes caution, discretion, and controlled access.
+
+**Layer 3 insight:** The contrast with employment law guidance highlights how professional framing in family contexts sustains opacity—transcripts are positioned as administrative hurdles rather than strategic tools, aligning with judicial preferences for discretionary control.
 
 ### 7.3.2.3 Discretion Preservation as Professional Norm
 
-Stuart Barlow's February 2023 analysis exemplifies emphasis on judicial control: "The court retains a discretion to direct that there should be no reporting of the case... may modify the terms of the standard order as appropriate... may (later) vary or discharge the Transparency Order" (Barlow, 2023). This repetition—discretion mentioned three times in explaining core principles—signals to practitioners that transparency remains **contingent** rather than automatic.
+**Professional Practice Pattern 1 (PP-1): Gatekeeping Reframed as Stewardship**
 
-Deka Chambers' January 2024 briefing reinforced this: "Practitioners should ensure that they are fully aware of the new rules... ensure that their clients are aware... consider the issue of transparency in advance of the first hearing" (Deka Chambers, 2024). The framing treats transparency as **case management challenge**—something to prepare for, anticipate, and potentially mitigate—rather than presumptive accountability mechanism.
+Stuart Barlow's February 2023 analysis exemplifies emphasis on judicial control: "The court retains a discretion to direct that there should be no reporting of the case... may modify the terms of the standard order as appropriate... may (later) vary or discharge the Transparency Order" (Barlow, 2023). This repetition—discretion mentioned three times in explaining core principles—signals to practitioners that transparency remains contingent rather than automatic.
 
-Stewarts Law's commentary on the first Leeds transparency order (February 2023) highlighted "meticulous judicial supervision" as central, describing how the judge permitted reporting but required "redacted transcripts" and "careful terms" (Stewarts Law, 2023). The narrative celebrates progress while foregrounding **judicial control and professional labour**.
+Deka Chambers' January 2024 briefing reinforced this: "Practitioners should ensure that they are fully aware of the new rules... ensure that their clients are aware... consider the issue of transparency in advance of the first hearing" (Deka Chambers, 2024). The framing treats transparency as case management challenge—something to prepare for, anticipate, and potentially mitigate—rather than presumptive accountability mechanism.
 
-**System reinforcement mechanism:** By describing judicial caution as legitimate professional wisdom rather than systemic gatekeeping, practitioners normalize discretionary restriction. Blogs don't say "judges are blocking transparency"; they say "judges are carefully managing competing interests." This linguistic move transforms gatekeeping into stewardship.
+Stewarts Law's commentary on the first Leeds transparency order (February 2023) highlighted "meticulous judicial supervision" as central, describing how the judge permitted reporting but required "redacted transcripts" and "careful terms" (Stewarts Law, 2023). The narrative celebrates progress while foregrounding judicial control and professional labour.
 
-**Layer 3 insight:** Professional discourse translates Layer 1's transparency presumption (TIG framework, open reporting provisions) into Layer 2's discretionary permission culture (judicial gatekeeping). By centering judicial discretion and case-specific balancing, practitioners prepare clients for transparency's withholding while signaling compliance with its principles.
+By describing judicial caution as legitimate professional wisdom rather than systemic gatekeeping, practitioners normalize discretionary restriction. Blogs don't say "judges are blocking transparency"; they say "judges are carefully managing competing interests." This linguistic move transforms gatekeeping into stewardship.
+
+**Effect:** Judicial discretion becomes "professional wisdom" rather than challengeable barrier.
+
+**Layer 3 insight:** PP-1's reframing preserves judicial discretion as a professional norm, sustaining Layer 2's gatekeeping by translating it into "best practice" advice that aligns clients with judicial preferences.
 
 ---
 
 ## 7.3.3 Selective Emphasis: The Operational Hierarchy
 
-Analysis reveals stark disparities: **media reporting mechanisms** receive extensive, operationalized guidance; **transcript access infrastructure** receives limited professional guidance; **party publication pathways** are nearly absent.
+Analysis reveals stark disparities: media reporting mechanisms receive extensive, operationalized guidance; transcript access infrastructure receives limited professional guidance; party publication pathways are nearly absent.
 
 ### 7.3.3.1 Extensive Guidance: Media Reporting and Transparency Orders
 
+**Professional Practice Pattern 2 (PP-2): Selective Sophistication by Client Type**
+
 Practitioners provide detailed, client-ready guidance on navigating reporting mechanisms—transparency orders, reporter attendance, document disclosure, anonymization protocols.
 
-**Deka Chambers' institutional client focus** exemplifies sophisticated preparation:
+Deka Chambers' institutional client focus exemplifies sophisticated preparation:
 
 > "Local Authority legal representatives would be well advised to prepare the draft order in advance so that other parties can consider the proposed terms... local authority clients need to be aware that the actions of Children's Services, their policies, practices and funding decisions are likely to be of interest to reporters." (Deka Chambers, 2024)
 
-This advice enables **strategic control**: institutional parties arrive with pre-drafted orders, anticipated issues flagged, and professional analysis of "what reporters will care about." The guidance doesn't just explain the rules—it positions clients to shape outcomes.
+This advice enables strategic control: institutional parties arrive with pre-drafted orders, anticipated issues flagged, and professional analysis of "what reporters will care about." The guidance doesn't just explain the rules—it positions clients to shape outcomes.
 
 Barlow's guide details what reporters may access (case summaries, skeleton arguments, position statements, chronologies) and what they cannot (identifying information, intimate details beyond court permission) (Barlow, 2023). Local Government Lawyer's December 2024 briefing provides a "simple breakdown" of transparency order terms, standard anonymization provisions, and cases requiring "special consideration" (Local Government Lawyer, 2024).
 
-**Client segmentation table:**
+**Table 7.3.3: Client Segmentation in Transparency Guidance**
 
-| **Aspect** | **Institutional Party Guidance** | **Individual Party Guidance** |
-|-----------|----------------------------------|------------------------------|
-| **Advance preparation** | Draft orders proactively; anticipate reportable issues; arrive with professional analysis | "Be aware" transparency orders possible; reactive response |
-| **Strategic framing** | Assess reputation risks; manage exposure; control narrative from outset | Anonymity will protect you; trust the system |
-| **Document control** | Professional analysis of what to disclose; strategic decisions about evidence presentation | General confidentiality warnings; restrictive guidance |
-| **Anonymization detail** | Sophisticated jigsaw identification assessment; professional redaction review | Standard protections listed; assume court will handle |
-| **Reporter engagement** | May discuss case strategically with counsel present; frame issues proactively | Reminded not to breach orders; positioned as potential risk |
-| **Outcome focus** | Control institutional exposure; protect organizational reputation | Personal privacy; protection from harm |
+| Aspect | Institutional Party Guidance | Individual Party Guidance |
+|--------|------------------------------|---------------------------|
+| Advance preparation | Draft orders proactively; anticipate reportable issues; arrive with professional analysis | "Be aware" transparency orders possible; reactive response |
+| Strategic framing | Assess reputation risks; manage exposure; control narrative from outset | Anonymity will protect you; trust the system |
+| Document control | Professional analysis of what to disclose; strategic decisions about evidence presentation | General confidentiality warnings; restrictive guidance |
+| Anonymization detail | Sophisticated jigsaw identification assessment; professional redaction review | Standard protections listed; assume court will handle |
+| Reporter engagement | May discuss case strategically with counsel present; frame issues proactively | Reminded not to breach orders; positioned as potential risk |
+| Outcome focus | Control institutional exposure; protect organizational reputation | Personal privacy; protection from harm |
 
-Barlow notes that "parties cannot merely veto a reporter's presence" (Barlow, 2023), establishing formal equality—yet the asymmetric preparation capacity means institutional parties effectively **manage** transparency exposure while individual parties experience it as **imposition**.
+Barlow notes that "parties cannot merely veto a reporter's presence" (Barlow, 2023), establishing formal equality—yet the asymmetric preparation capacity means institutional parties effectively manage transparency exposure while individual parties experience it as imposition.
 
-Good Law Solicitors' 2025 FAQ exemplifies individual-focused guidance: "Can I prevent a journalist from attending?" (answer: rarely), "Can the names of me and my children be reported?" (answer: no), "What can I do to stop my court hearing being reported?" (answer: consider mediation/arbitration instead, or object to judge) (Good Law, 2025). The framing positions parents as **objects** of transparency (needing protection) rather than **agents** (seeking accountability). The same guide states: "You are not entitled to give the journalist any documents unless you have permission to do so from the judge as they remain private and confidential" (Good Law, 2025)—restrictive warning without explanation of affirmative rights.
+Good Law Solicitors' 2025 FAQ exemplifies individual-focused guidance: "Can I prevent a journalist from attending?" (answer: rarely), "Can the names of me and my children be reported?" (answer: no), "What can I do to stop my court hearing being reported?" (answer: consider mediation/arbitration instead, or object to judge) (Good Law, 2025). The framing positions parents as objects of transparency (needing protection) rather than agents (seeking accountability). The same guide states: "You are not entitled to give the journalist any documents unless you have permission to do so from the judge as they remain private and confidential" (Good Law, 2025)—restrictive warning without explanation of affirmative rights.
+
+**Effect:** Client segmentation amplifies institutional advantages encoded in Layer 1's architecture, reproducing power asymmetries through differential knowledge provision.
 
 **Layer 3 insight:** Professional guidance amplifies institutional advantages encoded in Layer 1's architecture. Transparency reforms designed to expose systemic practice (local authority decision-making, institutional failures) are operationalized through procedural mechanisms that favor those same institutions' ability to control exposure. Solicitors don't merely explain the system—they position clients differentially within it, reproducing power asymmetries through selective sophistication.
 
 ### 7.3.3.2 Limited Guidance: Transcript Access Infrastructure
 
-Where reporting mechanisms receive detailed treatment, **transcript access**—the foundational infrastructure Layer 1 identified as essential to verifiable transparency—receives limited professional guidance in mainstream practitioner discourse. This relative absence is systematic, not incidental.
+Where reporting mechanisms receive detailed treatment, transcript access—the foundational infrastructure Layer 1 identified as essential to verifiable transparency—receives limited professional guidance in mainstream practitioner discourse. This relative absence is systematic, not incidental.
 
-**The employment law comparison sharpens the gap.** Irwin Mitchell's tribunal guidance noted transcript requests can proceed "without notifying/copying in the other side"—a significant **strategic detail** empowering parties to build appeal cases without alerting opponents (Irwin Mitchell, 2023). This recognizes transcript access as **litigation tool**, not mere documentation. The guidance framed recordings as enabling "a full and final record of exactly what was said," preventing disputes and "saving time and expense."
+The employment law comparison sharpens the gap. Irwin Mitchell's tribunal guidance noted transcript requests can proceed "without notifying/copying in the other side"—a significant strategic detail empowering parties to build appeal cases without alerting opponents (Irwin Mitchell, 2023). This recognizes transcript access as litigation tool, not mere documentation. The guidance framed recordings as enabling "a full and final record of exactly what was said," preventing disputes and "saving time and expense."
 
-**No family law guidance from surveyed major firm sources provides equivalent strategic insight:**
-- When to order (immediately post-hearing to maximize appeal window)
-- Which service level band to select (expedited if close to deadline)
-- How to chase delays (court versus vendor responsibility)
-- What to do if approval stalls (apply for expedition, file with note under PD30A)
-- Strategic advantages of transcript possession
+No family law guidance from surveyed major firm sources provides equivalent strategic insight:
+* When to order (immediately post-hearing to maximize appeal window)
+* Which service level band to select (expedited if close to deadline)
+* How to chase delays (court versus vendor responsibility)
+* What to do if approval stalls (apply for expedition, file with note under PD30A)
+* Strategic advantages of transcript possession
 
-**Specialist practitioner guides fill the gap.** Rainscourt's "How can I get a transcript of my Family Court hearing" explains EX107 procedures and links to official forms, existing precisely **because official guidance proves insufficient** for user navigation. The fact that individual solicitors feel compelled to write explanatory guides demonstrates that Layer 1's institutional architecture—while formally providing forms and processes—leaves critical gaps in accessibility and comprehension. These practitioner-authored guides fill a need that shouldn't exist if official guidance were adequate, yet they remain exceptions: most major firms whose briefings dominate professional discourse (Stewarts, Deka Chambers, Weightmans) do not produce equivalent transcript access guidance despite extensive transparency order materials.
+Specialist practitioner guides fill the gap. Rainscourt's "How can I get a transcript of my Family Court hearing" explains EX107 procedures and links to official forms, existing precisely because official guidance proves insufficient for user navigation. The fact that individual solicitors feel compelled to write explanatory guides demonstrates that Layer 1's institutional architecture—while formally providing forms and processes—leaves critical gaps in accessibility and comprehension. These practitioner-authored guides fill a need that shouldn't exist if official guidance were adequate, yet they remain exceptions: most major firms whose briefings dominate professional discourse (Stewarts, Deka Chambers, Weightmans) do not produce equivalent transcript access guidance despite extensive transparency order materials.
 
-**The cost dimension.** Only one source in the surveyed corpus directly addresses transcript economics. **Julia Jensen's June 2024 *Law Gazette* article** "No Such Thing as a Free Transcript" provides rare acknowledgment of financial barriers, noting that approved transcription providers charge rates with turnaround times extending weeks, "compelling solicitors to rely on personal notes or partial recordings that risk inaccuracy in appeals or media challenges" (Jensen, 2024, as summarized in accessible portions). Yet the full article was **behind a paywall** during this analysis—the very guidance most needed by litigants in person remains inaccessible to them.
+**The cost dimension.** Only one source in the surveyed corpus directly addresses transcript economics. Julia Jensen's June 2024 Law Gazette article "No Such Thing as a Free Transcript" provides rare acknowledgment of financial barriers, noting that approved transcription providers charge rates with turnaround times extending weeks, "compelling solicitors to rely on personal notes or partial recordings that risk inaccuracy in appeals or media challenges" (Jensen, 2024, as summarized in accessible portions). Yet the full article was behind a paywall during this analysis—the very guidance most needed by litigants in person remains inaccessible to them.
 
 **The guidance gap in mainstream discourse—what major firm briefings do not explain:**
 
 **Timeline complexities:**
-- The EX107 process phases and their timeline implications (court processing ~10 working days + audio retrieval + vendor production + judicial approval)
-- That Service Level Bands (48 hours, 12 working days) commence only AFTER court processing, recording retrieval, payment, and approval—not from EX107 submission
-- The collision between 21-day appeal deadlines and untimed judicial approval (DF-3)
-- Strategic timing: ordering immediately post-hearing versus waiting until appeal contemplated
+* The EX107 process phases and their timeline implications (court processing ~10 working days + audio retrieval + vendor production + judicial approval)
+* That Service Level Bands (48 hours, 12 working days) commence only AFTER court processing, recording retrieval, payment, and approval—not from EX107 submission
+* The collision between 21-day appeal deadlines and untimed judicial approval (DF-3)
+* Strategic timing: ordering immediately post-hearing versus waiting until appeal contemplated
 
 **Funding navigation:**
-- The EX105 public expense pathway and eligibility criteria
-- The disconnect between Help with Fees (EX160A, covers court fees) and transcript costs (vendor fees excluded)—DF-5 funding fragmentation
-- Whether Legal Aid covers transcript costs for represented parties
-- How to challenge denial of public expense applications
+* The EX105 public expense pathway and eligibility criteria
+* The disconnect between Help with Fees (EX160A, covers court fees) and transcript costs (vendor fees excluded)—DF-5 funding fragmentation
+* Whether Legal Aid covers transcript costs for represented parties
+* How to challenge denial of public expense applications
 
 **Process troubleshooting:**
-- What to do when recordings fail or are "corrupt"
-- How to chase approval delays (court versus vendor responsibility)
-- Provisional transcript release strategies when approval delayed
-- Filing preliminary grounds with note under PD30A if transcript unavailable
-- Which vendors respond faster for specific court centers
+* What to do when recordings fail or are "corrupt"
+* How to chase approval delays (court versus vendor responsibility)
+* Provisional transcript release strategies when approval delayed
+* Filing preliminary grounds with note under PD30A if transcript unavailable
+* Which vendors respond faster for specific court centers
 
 **Cost realities:**
-- Actual transcript costs: £415–£995+ for typical judgments (500-750 folios)
-- How costs vary by service level (expedited £1.40-£1.99 per folio vs. standard £0.83-£1.50)
-- Cumulative expenses: For party seeking to appeal AND publish:
+* Actual transcript costs: £415–£995+ for typical judgments (500-750 folios)
+* How costs vary by service level (expedited £1.40-£1.99 per folio vs. standard £0.83-£1.50)
+* Cumulative expenses: For party seeking to appeal AND publish:
   - Transcript: £415–£995+ (vendor fees)
   - Appeal filing: covered by EX160A if eligible
   - C2 publication application: £258
   - Potential hearing attendance for contested publication
   - **Total minimum: £673–£1,253+ before legal advice**
 
-This guidance absence is particularly striking because **transcripts are mandatory for meaningful appeals**. Layer 1 documented that Forms FP161 (High Court) and N161 (Court of Appeal) require "a transcript or note of judgment" as supporting documents. Professional guidance extensively covers **how to appeal**—grounds, time limits, procedure—but mainstream discourse provides limited explanation of **how to obtain the documentary foundation** that makes appeals viable.
+This guidance absence is particularly striking because **transcripts are mandatory for meaningful appeals**. Layer 1 documented that Forms FP161 (High Court) and N161 (Court of Appeal) require "a transcript or note of judgment" as supporting documents. Professional guidance extensively covers how to appeal—grounds, time limits, procedure—but mainstream discourse provides limited explanation of how to obtain the documentary foundation that makes appeals viable.
 
 **Comparison table:**
 
-| **Transparency Mechanism** | **Guidance Depth** | **Operational Status** | **Effect** |
-|---------------------------|--------------------|-----------------------|-----------|
-| **Media reporting / transparency orders** | Extensive (detailed briefings, examples, templates, model wording, timing strategies) | Routine case management | Integrated into standard practice; professionals competent and clients prepared |
-| **Transcript access via EX107/EX105** | Limited in mainstream (specialist exceptions like Rainscourt exist) | Specialist knowledge | Remains tacit expertise for most; LiPs navigate with minimal guidance |
-| **Party publication via PD 12G** | Absent (rare mentions in exceptional cases like *Griffiths v Tickle*) | Exceptional procedure | Effectively unavailable without representation |
+| Transparency Mechanism | Guidance Depth | Operational Status | Effect |
+|------------------------|----------------|---------------------|--------|
+| Media reporting / transparency orders | Extensive (detailed briefings, examples, templates, model wording, timing strategies) | Routine case management | Integrated into standard practice; professionals competent and clients prepared |
+| Transcript access via EX107/EX105 | Limited in mainstream (specialist exceptions like Rainscourt exist) | Specialist knowledge | Remains tacit expertise for most; LiPs navigate with minimal guidance |
+| Party publication via PD 12G | Absent (rare mentions in exceptional cases like Griffiths v Tickle) | Exceptional procedure | Effectively unavailable without representation |
 
-**Layer 3 insight:** Limited professional guidance on transcript access in mainstream discourse maintains the **expertise asymmetry** that makes representation valuable. When solicitors "just know" to order transcripts immediately, select expedited service for tight deadlines, chase approval delays, or file preliminary grounds with notes—but this knowledge remains **tacit rather than documented in widely accessible professional guidance**—the formal equality of access conceals substantive inequality of capability. The architecture provides mechanisms (EX107, EX105); mainstream professional discourse does not translate the strategic knowledge of how to use them effectively. This knowledge gap sustains economic gatekeeping: those who can afford representation get transcript access smoothed; those who cannot must navigate DF-1 through DF-5 design failures with minimal professional guidance.
+**Layer 3 insight:** Limited professional guidance on transcript access in mainstream discourse maintains the expertise asymmetry that makes representation valuable. When solicitors "just know" to order transcripts immediately, select expedited service for tight deadlines, chase approval delays, or file preliminary grounds with notes—but this knowledge remains tacit rather than documented in widely accessible professional guidance—the formal equality of access conceals substantive inequality of capability. The architecture provides mechanisms (EX107, EX105); mainstream professional discourse does not translate the strategic knowledge of how to use them effectively. This knowledge gap sustains economic gatekeeping: those who can afford representation get transcript access smoothed; those who cannot must navigate DF-1 through DF-5 design failures with minimal professional guidance.
 
 ### 7.3.3.3 Absent Guidance: Party Publication Pathways
 
-Professional discourse extensively addresses **journalists' rights to documents** under transparency orders but remains largely silent on **parties' rights to publish judgments** concerning them, despite PD 12G establishing this pathway since 2014.
+Professional discourse extensively addresses journalists' rights to documents under transparency orders but remains largely silent on parties' rights to publish judgments concerning them, despite PD 12G establishing this pathway since 2014.
 
-Stewarts Law's May 2022 analysis of *Griffiths v Tickle* represents a rare exception, noting the Court of Appeal affirmed "the mother had 'the right to tell her story'" and that preventing publication "would be another example of [the father's] coercive control" (Stewarts Law, 2022). Yet even this analysis foregrounds **exceptional circumstances**—two MPs, prior public statements, guardian support, father initially objecting on child's behalf then switching positions—that enabled publication. The narrative treats party publication as **extraordinary achievement** requiring specific conditions, not routine transparency mechanism available in ordinary cases.
+Stewarts Law's May 2022 analysis of *Griffiths v Tickle* represents a rare exception, noting the Court of Appeal affirmed "the mother had 'the right to tell her story'" and that preventing publication "would be another example of [the father's] coercive control" (Stewarts Law, 2022). Yet even this analysis foregrounds exceptional circumstances—two MPs, prior public statements, guardian support, father initially objecting on child's behalf then switching positions—that enabled publication. The narrative treats party publication as extraordinary achievement requiring specific conditions, not routine transparency mechanism available in ordinary cases.
 
 Good Law Solicitors' 2025 guide exemplifies typical restrictive framing:
 
 > "It is important to be aware that, even though the rules around reporting have changed, this does not mean that parties to the case can report or publish anything about the case. Permission to report the case will only be for professional journalists or legal bloggers." (Good Law, 2025)
 
 This warning comes after extensive detail on who may attend (journalists, legal bloggers) and what they may report (subject to transparency orders). The emphasis structure suggests:
-- **Journalists' access** (external scrutiny) = expanded entitlement, detailed guidance
-- **Parties' publication** (participant voice) = restricted exception, minimal guidance
+* Journalists' access (external scrutiny) = expanded entitlement, detailed guidance
+* Parties' publication (participant voice) = restricted exception, minimal guidance
 
 **What no surveyed source explains to parties:**
 
 **Application mechanics:**
-- How to apply for permission to publish their own judgment (Form C2, £258 fee, PD 12G criteria)
-- Whether C2 fees are covered by Help with Fees (EX160A) or require separate application
-- What happens when one party wants publication and the other objects (consent asymmetry, DF-6 from Layer 1)
-- Whether publication can be requested simultaneously with transcript via EX107 or requires separate post-hearing application
+* How to apply for permission to publish their own judgment (Form C2, £258 fee, PD 12G criteria)
+* Whether C2 fees are covered by Help with Fees (EX160A) or require separate application
+* What happens when one party wants publication and the other objects (consent asymmetry, DF-6 from Layer 1)
+* Whether publication can be requested simultaneously with transcript via EX107 or requires separate post-hearing application
 
 **Substantive criteria:**
-- What constitutes "public interest" sufficient to justify publication (case law interpretation)
-- How to document systemic concerns that might justify publication (patterns of bias, institutional failures, procedural errors)
-- Whether publication serves individual interests (accountability, voice, validation, connection to others experiencing similar issues) beyond abstract "public understanding"
+* What constitutes "public interest" sufficient to justify publication (case law interpretation)
+* How to document systemic concerns that might justify publication (patterns of bias, institutional failures, procedural errors)
+* Whether publication serves individual interests (accountability, voice, validation, connection to others experiencing similar issues) beyond abstract "public understanding"
 
 **Technical requirements:**
-- Whether transcript publication is distinguished from judgment publication
-- Who performs anonymization (party? solicitor? court?)
-- What standard of anonymization is required
-- How to verify no "jigsaw identification" risk
+* Whether transcript publication is distinguished from judgment publication
+* Who performs anonymization (party? solicitor? court?)
+* What standard of anonymization is required
+* How to verify no "jigsaw identification" risk
 
 **The contrast table:**
 
-| **Mechanism** | **Guidance Depth** | **Framing** | **Practical Detail** |
-|--------------|-------------------|-------------|---------------------|
-| **Journalist attendance & reporting** | Extensive (multiple guides, examples, case studies, model transparency orders) | Expanded entitlement; presumptive with discretionary restrictions | How to request documents, quote from hearings, navigate anonymization, engage with parties, frame stories |
-| **Party publication of own judgment** | Minimal to absent | Restricted exception; permission required | PD 12G rarely mentioned; application process unexplained; costs unclear; criteria opaque |
+| Mechanism | Guidance Depth | Framing | Practical Detail |
+|-----------|----------------|---------|------------------|
+| Journalist attendance & reporting | Extensive (multiple guides, examples, case studies, model transparency orders) | Expanded entitlement; presumptive with discretionary restrictions | How to request documents, quote from hearings, navigate anonymization, engage with parties, frame stories |
+| Party publication of own judgment | Minimal to absent | Restricted exception; permission required | PD 12G rarely mentioned; application process unexplained; costs unclear; criteria opaque |
 
-**Layer 3 insight:** When professionals foreground media reporting access while backgrounding party publication pathways, they **reify external accountability** (journalism) over **participant voice** (family testimony). This selective transparency preserves professional and judicial gatekeeping—journalists need lawyers to navigate transparency orders; parties need lawyers to navigate PD 12G applications—while limiting the **unmediated transparency** that parties publishing their own transcripts and judgments would enable. The architecture Layer 1 designed theoretically permits both forms; professional practice privileges the form that sustains institutional and professional control over the narrative.
+**Layer 3 insight:** When professionals foreground media reporting access while backgrounding party publication pathways, they reify external accountability (journalism) over participant voice (family testimony). This selective transparency preserves professional and judicial gatekeeping—journalists need lawyers to navigate transparency orders; parties need lawyers to navigate PD 12G applications—while limiting the unmediated transparency that parties publishing their own transcripts and judgments would enable. The architecture Layer 1 designed theoretically permits both forms; professional practice privileges the form that sustains institutional and professional control over the narrative.
 
 ---
 
@@ -2028,155 +2034,171 @@ Synthesizing across subsections, Layer 3 reveals professional practice actively 
 
 Professional guidance creates a hierarchy through differential treatment:
 
-| **Mechanism** | **Professional attention** | **Operational status** | **Result** |
-|--------------|---------------------------|------------------------|-----------|
-| **Transparency orders** | Extensive templates, checklists, routine consideration, advance preparation strategies | Routine case management | Enters everyday practice; professionals competent, clients prepared |
-| **Transcript procedures** | Limited systematic explanation in mainstream (specialist guides like Rainscourt demonstrate such guidance is possible) | Specialist knowledge | Remains tacit expertise—accessible to experienced solicitors, mysterious to LiPs |
-| **Party publication** | Rare mentions in exceptional cases (*Griffiths v Tickle* as extraordinary achievement) | Exceptional procedure | Effectively unavailable without representation |
+| Mechanism | Professional attention | Operational status | Result |
+|-----------|-------------------------|--------------------|--------|
+| Transparency orders | Extensive templates, checklists, routine consideration, advance preparation strategies | Routine case management | Enters everyday practice; professionals competent, clients prepared |
+| Transcript procedures | Limited systematic explanation in mainstream (specialist guides like Rainscourt demonstrate such guidance is possible) | Specialist knowledge | Remains tacit expertise—accessible to experienced solicitors, mysterious to LiPs |
+| Party publication | Rare mentions in exceptional cases (Griffiths v Tickle as extraordinary achievement) | Exceptional procedure | Effectively unavailable without representation |
 
-**How this sustains Layer 1 voids:** 
-- DF-1 (form-guidance disconnect) persists because mainstream professional discourse doesn't produce widely accessible bridging guidance clarifying EX107 timelines
-- DF-3 (appeal-transcript deadline collision) remains unaddressed because few practitioner materials explain strategic timing
-- DF-5 (funding fragmentation) continues because the disconnect between EX160A and EX105 goes largely unexplained in accessible professional guidance
-- DF-6 (consent asymmetry) operates unchallenged because publication pathways remain professionally marginal
+**How this sustains Layer 1 voids:**
+* DF-1 (form-guidance disconnect) persists because mainstream professional discourse doesn't produce widely accessible bridging guidance clarifying EX107 timelines
+* DF-3 (appeal-transcript deadline collision) remains unaddressed because few practitioner materials explain strategic timing
+* DF-5 (funding fragmentation) continues because the disconnect between EX160A and EX105 goes largely unexplained in accessible professional guidance
+* DF-6 (consent asymmetry) operates unchallenged because publication pathways remain professionally marginal
 
-Limited professional attention allows design failures to become **normalised conditions** rather than addressable problems.
+Limited professional attention allows design failures to become normalised conditions rather than addressable problems.
 
-**How this reinforces Layer 2 gatekeeping:** When judges see that even professionally represented parties struggle with transcript access, judicial discretion to deny or delay becomes easier to exercise. The absence of widespread professional pushback against untimed approvals or cost barriers signals that these are **acceptable norms**, not challengeable defects. Conversely, extensive professional competence around transparency orders reinforces judicial confidence in that mechanism—creating positive feedback loop for what's operationalized, negative loop for what's neglected.
+**How this reinforces Layer 2 gatekeeping:** When judges see that even professionally represented parties struggle with transcript access, judicial discretion to deny or delay becomes easier to exercise. The absence of widespread professional pushback against untimed approvals or cost barriers signals that these are acceptable norms, not challengeable defects. Conversely, extensive professional competence around transparency orders reinforces judicial confidence in that mechanism—creating positive feedback loop for what's operationalized, negative loop for what's neglected.
+
+**Layer 3 insight:** PP-1's selective emphasis creates an operational hierarchy where media scrutiny becomes routine through detailed guidance, while transcript-based verification remains marginal due to limited mainstream attention, perpetuating Layer 1's design voids and Layer 2's discretionary restrictions.
 
 ### 7.3.4.2 Mechanism 2: Knowledge Hoarding Sustains Expertise Asymmetry
 
-Mainstream professional guidance maintains systematic gaps in **strategic knowledge** that experienced solicitors possess but don't widely document:
+**Professional Practice Pattern 3 (PP-3): Knowledge as Professional Capital**
+
+Mainstream professional guidance maintains systematic gaps in strategic knowledge that experienced solicitors possess but don't widely document:
 
 **Undocumented professional knowledge:**
-- Order transcripts **immediately post-hearing** (not weeks later when appeal contemplated)—maximizes appeal window
-- Select **expedited service** if close to appeal deadline—avoid DF-3 collision
-- Submit EX107 **before judgment issued** if hearing contentious—anticipates need
-- **Chase court for audio retrieval** separately from vendor production status—identify bottlenecks
-- Apply for **provisional release** if approval delays jeopardize deadline—PD30A alternative
-- File **preliminary appeal grounds with note** under PD30A if transcript unavailable—preserve deadline
-- Request **public expense via EX105** by specific criteria (not just "I can't afford it")—evidence-based application
-- Know **which vendors respond faster** for specific court centers—insider knowledge
-- Understand what **"judicial approval" actually involves** (anonymization check versus substantive review)—demystify black box
+* Order transcripts immediately post-hearing (not weeks later when appeal contemplated)—maximizes appeal window
+* Select expedited service if close to appeal deadline—avoid DF-3 collision
+* Submit EX107 before judgment issued if hearing contentious—anticipates need
+* Chase court for audio retrieval separately from vendor production status—identify bottlenecks
+* Apply for provisional release if approval delays jeopardize deadline—PD30A alternative
+* File preliminary appeal grounds with note under PD30A if transcript unavailable—preserve deadline
+* Request public expense via EX105 by specific criteria (not just "I can't afford it")—evidence-based application
+* Know which vendors respond faster for specific court centers—insider knowledge
+* Understand what "judicial approval" actually involves (anonymization check versus substantive review)—demystify black box
 
-This knowledge remains **tacit professional capital** in mainstream practice. While specialist guides like Rainscourt demonstrate such procedural knowledge can be made accessible, when most major firms don't codify these practices in their public guidance, they ensure effective transcript access requires representation. The formal equality—anyone can submit EX107—conceals substantive inequality: only those with professional guidance can navigate the process within appeal deadlines and without cost traps.
+This knowledge remains tacit professional capital in mainstream practice. While specialist guides like Rainscourt demonstrate such procedural knowledge can be made accessible, when most major firms don't codify these practices in their public guidance, they ensure effective transcript access requires representation. The formal equality—anyone can submit EX107—conceals substantive inequality: only those with professional guidance can navigate the process within appeal deadlines and without cost traps.
 
-**Employment law comparison sharpens the point:** Irwin Mitchell's tribunal guidance explicitly notes strategic advantages (request without notifying opponent, saves time and expense, provides "full and final record"). **No equivalent family law source in mainstream professional discourse provides this level of strategic insight** because doing so would demystify expertise that makes representation valuable. The professional class that routinely uses transcript access to prepare appeals doesn't translate that capability into widely accessible public knowledge.
+Employment law comparison sharpens the point: Irwin Mitchell's tribunal guidance explicitly notes strategic advantages (request without notifying opponent, saves time and expense, provides "full and final record"). No equivalent family law source in mainstream professional discourse provides this level of strategic insight because doing so would demystify expertise that makes representation valuable. The professional class that routinely uses transcript access to prepare appeals doesn't translate that capability into widely accessible public knowledge.
 
-**How this perpetuates the reality gap:** When the knowledge of **how to make the system work** remains concentrated in professional practice rather than widely disseminated, the formal existence of mechanisms (EX107, EX105, PD 12G) creates **illusory accessibility**. The architecture promises access; limited public guidance about strategic use gates its realization. Litigants in person experience "I can't get a transcript" as personal failure rather than recognizing it as **structural barrier created by knowledge asymmetry**.
+**Effect:** Formal equality of access conceals substantive inequality—"anyone can submit EX107" but only those with representation can navigate it within appeal deadlines.
+
+**How this perpetuates the reality gap:** When the knowledge of how to make the system work remains concentrated in professional practice rather than widely disseminated, the formal existence of mechanisms (EX107, EX105, PD 12G) creates illusory accessibility. The architecture promises access; limited public guidance about strategic use gates its realization. Litigants in person experience "I can't get a transcript" as personal failure rather than recognizing it as structural barrier created by knowledge asymmetry.
+
+**Layer 3 insight:** PP-3's knowledge hoarding sustains expertise asymmetry, where institutional clients receive strategic sophistication while individuals get basic warnings, reinforcing Layer 2's gatekeeping by making effective challenges dependent on representation.
 
 ### 7.3.4.3 Mechanism 3: Limited Cost Guidance Naturalizes Economic Gatekeeping
 
-Professional discourse provides limited systematic guidance on **economic barriers** despite transparency reforms explicitly aiming to improve access:
+Professional discourse provides limited systematic guidance on economic barriers despite transparency reforms explicitly aiming to improve access:
 
 **What mainstream professional guidance rarely explains comprehensively:**
 
 **Direct costs:**
-- Transcript costs: £415–£995+ for typical judgments (500-750 folios)
+* Transcript costs: £415–£995+ for typical judgments (500-750 folios)
   - Standard service (12 working days): £0.83–£1.50 per folio = £415–£750 for 500-folio judgment
   - Expedited service (48 hours): £1.40–£1.99 per folio = £700–£995 for 500-folio judgment
-- C2 application fees: £258 for non-party document access; £258 for party publication application
-- Court fees: Variable depending on application type
+* C2 application fees: £258 for non-party document access; £258 for party publication application
+* Court fees: Variable depending on application type
 
 **Cumulative costs for transparency access:**
-- **Transcript + Appeal scenario**: £415–£995 (transcript) + appeal filing fee (potentially covered by EX160A if eligible) = £415–£995+ minimum
-- **Transcript + Publication scenario**: £415–£995 (transcript) + £258 (C2 publication application) + potential hearing attendance = £673–£1,253+ minimum
-- **Full transparency + Appeal + Publication**: £415–£995 (transcript) + appeal filing + £258 (C2) + hearing costs = £673–£1,253+ before any legal advice
+* Transcript + Appeal scenario: £415–£995 (transcript) + appeal filing fee (potentially covered by EX160A if eligible) = £415–£995+ minimum
+* Transcript + Publication scenario: £415–£995 (transcript) + £258 (C2 publication application) + potential hearing attendance = £673–£1,253+ minimum
+* Full transparency + Appeal + Publication: £415–£995 (transcript) + appeal filing + £258 (C2) + hearing costs = £673–£1,253+ before any legal advice
 
 **Funding complexities:**
-- Help with Fees (EX160A) limitations: covers **court fees only**, explicitly excludes vendor costs (DF-5 funding fragmentation)
-- EX105 public expense uncertainties: discretionary, no published criteria, no data on approval rates, no guidance on evidence required
-- Legal aid coverage: whether transparency applications fundable, which elements covered
-- Split between court-controlled fees (eligible for EX160A) versus third-party vendor fees (excluded from fee waivers)
+* Help with Fees (EX160A) limitations: covers court fees only, explicitly excludes vendor costs (DF-5 funding fragmentation)
+* EX105 public expense uncertainties: discretionary, no published criteria, no data on approval rates, no guidance on evidence required
+* Legal aid coverage: whether transparency applications fundable, which elements covered
+* Split between court-controlled fees (eligible for EX160A) versus third-party vendor fees (excluded from fee waivers)
 
 **Strategic cost implications:**
-- Premium for speed: Expedited service costs ~£280–£400 more than standard for typical judgment—creating pressure to select longer timelines that conflict with 21-day appeal window
-- Wealth-contingent appeal access: Appellants who cannot afford £415–£995 upfront must either:
+* Premium for speed: Expedited service costs ~£280–£400 more than standard for typical judgment—creating pressure to select longer timelines that conflict with 21-day appeal window
+* Wealth-contingent appeal access: Appellants who cannot afford £415–£995 upfront must either:
   - Navigate EX105 application (discretionary, criteria unclear)
   - File appeal with note under PD30A (disadvantaged without transcript)
   - Abandon appeal despite having grounds
-- Publication layered costs: Even after paying for transcript, parties seeking publication must file C2 (£258), potentially attend hearing, face objections that extend timelines
+* Publication layered costs: Even after paying for transcript, parties seeking publication must file C2 (£258), potentially attend hearing, face objections that extend timelines
 
-Jensen's rare cost critique in the *Law Gazette* remains **behind paywall**—the article identifying transcript costs as barrier to access is itself inaccessible to those most affected. While specialist sources like London Law may address transcript costs (demonstrating such guidance is possible), major firm briefings that dominate professional discourse do not provide cost-navigation guidance comparable to their transparency order procedural explanations. The economic dimension of transcript inaccessibility—central to why Layer 1's design failures produce differential outcomes—receives limited attention in accessible mainstream professional discourse.
+Jensen's rare cost critique in the Law Gazette remains behind paywall—the article identifying transcript costs as barrier to access is itself inaccessible to those most affected. While specialist sources like London Law may address transcript costs (demonstrating such guidance is possible), major firm briefings that dominate professional discourse do not provide cost-navigation guidance comparable to their transparency order procedural explanations. The economic dimension of transcript inaccessibility—central to why Layer 1's design failures produce differential outcomes—receives limited attention in accessible mainstream professional discourse.
 
-**How this naturalizes gatekeeping:** When costs receive limited visibility in mainstream professional guidance, they operate as **background conditions** rather than policy choices. The wealth-contingent nature of transcript access becomes **normal**—"of course transcripts cost money"—rather than problematic. This contrasts with more extensive guidance on fee waivers for **court fees** (EX160A applications often explained) versus limited mainstream guidance on vendor costs that are often larger and always excluded from waivers.
+**How this naturalizes gatekeeping:** When costs receive limited visibility in mainstream professional guidance, they operate as background conditions rather than policy choices. The wealth-contingent nature of transcript access becomes normal—"of course transcripts cost money"—rather than problematic. This contrasts with more extensive guidance on fee waivers for court fees (EX160A applications often explained) versus limited mainstream guidance on vendor costs that are often larger and always excluded from waivers.
 
-Professional positioning: Firms that explain costs transparently risk highlighting their own fees. Maintaining limited public cost guidance lets representation appear as **service** (we handle complexity) rather than **necessity** (the system is inaccessible without us). The limited guidance protects professional positioning while disadvantaging those who cannot afford representation.
+**Professional positioning:** Firms that explain costs transparently risk highlighting their own fees. Maintaining limited public cost guidance lets representation appear as service (we handle complexity) rather than necessity (the system is inaccessible without us). The limited guidance protects professional positioning while disadvantaging those who cannot afford representation.
+
+**Layer 3 insight:** PP-3's limited cost guidance naturalizes economic gatekeeping, treating Layer 1's funding voids as unremarkable norms rather than barriers, which sustains Layer 2's discretionary approvals by reducing pressure for systemic cost reforms.
 
 ### 7.3.4.4 Mechanism 4: Economic Incentive Structure Shapes Professional Strategy
 
-Beyond knowledge asymmetries and selective emphasis, **billing models and professional obligations create structural incentives** that influence how practitioners advise clients on transparency challenges.
+**Professional Practice Pattern 4 (PP-4): Economic Alignment Over Challenge**
+
+Beyond knowledge asymmetries and selective emphasis, billing models and professional obligations create structural incentives that influence how practitioners advise clients on transparency challenges.
 
 **Billing Models and Financial Risk Distribution:**
 
-Family law operates predominantly through **hourly billing** arrangements (Annecto Legal, 2024; Law Society, 2024). Under this model:
-- Solicitors are "paid to complete the work regardless of the case's outcome, meaning they assume no financial risk"
-- "There is also no direct incentive for them to resolve the case swiftly"
-- Financial risk falls entirely on clients, with "no certainty about how much those costs may ultimately be"
+Family law operates predominantly through hourly billing arrangements (Annecto Legal, 2024; Law Society, 2024). Under this model:
+* Solicitors are "paid to complete the work regardless of the case's outcome, meaning they assume no financial risk"
+* "There is also no direct incentive for them to resolve the case swiftly"
+* Financial risk falls entirely on clients, with "no certainty about how much those costs may ultimately be"
 
-Unlike commercial litigation where conditional fee arrangements (CFAs) or damages-based agreements (DBAs) align solicitor incentives with case outcomes, family law typically lacks outcome-contingent billing. This creates a structural disconnect: **solicitors' income derives from billable hours, not case success.**
+Unlike commercial litigation where conditional fee arrangements (CFAs) or damages-based agreements (DBAs) align solicitor incentives with case outcomes, family law typically lacks outcome-contingent billing. This creates a structural disconnect: solicitors' income derives from billable hours, not case success.
 
 **Professional Conduct Obligations Create Competing Duties:**
 
-Solicitors face **inherent tension** between duties:
+Solicitors face inherent tension between duties:
 
-**Paramount duty to court and administration of justice** (SRA Principles; Australian Solicitors' Conduct Rules):
+**Paramount duty to court and administration of justice (SRA Principles; Australian Solicitors' Conduct Rules):**
 > "This duty prevails over all other duties, especially in circumstances where there may be a conflict of duties, for example, following a client's instructions if those instructions are inconsistent with the practitioners duties to the Court." (Australian Rules, 2022)
 
 > "Virtually all difficult ethical problems arise from conflict between a lawyer's responsibilities to clients, to the legal system and to the lawyer's own interest in remaining an ethical person while earning a satisfactory living." (Pennsylvania Rules of Professional Conduct)
 
-**Duty to act in client's best interests** (SRA Code of Conduct):
-> Solicitors must "act in the best interests of each client" and "provide a proper standard of service"
+**Duty to act in client's best interests (SRA Code of Conduct):**
+Solicitors must "act in the best interests of each client" and "provide a proper standard of service"
 
-**Duty to maintain professional independence** (SRA Principles):
-> "Independence is at the heart of how the solicitor acts... must act in an unbiased and objective manner without consideration for their own interests"
+**Duty to maintain professional independence (SRA Principles):**
+"Independence is at the heart of how the solicitor acts... must act in an unbiased and objective manner without consideration for their own interests"
 
 **The Strategic Dilemma:**
 
 When a client seeks aggressive transparency challenges—demanding transcripts when judges prefer discretionary approval, insisting on publication when judges emphasize caution, challenging untimed approval delays as procedural failures—the solicitor faces competing pressures:
 
-1. **Client interest**: Transparency may serve client's case (appeal preparation, accountability, public vindication)
-2. **Judicial relationship**: Courts value solicitors who are "consistently reliable" and demonstrate "professional integrity" (duty solicitor guidance)
-3. **Professional reputation**: "A reputation for professional integrity and being consistently reliable with the courts is fundamental to the duty solicitor's ability to perform as an effective advocate"
-4. **Economic interest**: Maintaining judicial favor affects future case outcomes, referrals, professional standing—all of which impact practice sustainability
+1. **Client interest:** Transparency may serve client's case (appeal preparation, accountability, public vindication)
+2. **Judicial relationship:** Courts value solicitors who are "consistently reliable" and demonstrate "professional integrity" (duty solicitor guidance)
+3. **Professional reputation:** "A reputation for professional integrity and being consistently reliable with the courts is fundamental to the duty solicitor's ability to perform as an effective advocate"
+4. **Economic interest:** Maintaining judicial favor affects future case outcomes, referrals, professional standing—all of which impact practice sustainability
 
 **The Rational Adaptation:**
 
 This structure creates incentives for solicitors to:
-- **Frame transparency cautiously** in client advice ("judges retain discretion," "this could antagonize the bench," "let's not push too hard on transcripts")
-- **Emphasize judicial comfort zones** (transparency orders for media = acceptable; aggressive transcript demands = problematic)
-- **Advise alignment over challenge** ("work with the judge's preferences" rather than "challenge the approval delay")
-- **Naturalize delays and discretion** ("that's just how long it takes," "judges are busy," "this is normal")
+* Frame transparency cautiously in client advice ("judges retain discretion," "this could antagonize the bench," "let's not push too hard on transcripts")
+* Emphasize judicial comfort zones (transparency orders for media = acceptable; aggressive transcript demands = problematic)
+* Advise alignment over challenge ("work with the judge's preferences" rather than "challenge the approval delay")
+* Naturalize delays and discretion ("that's just how long it takes," "judges are busy," "this is normal")
 
-**Critical caveat:** No direct evidence documents solicitors consciously avoiding transparency challenges to preserve judicial favor. But the **structural incentives** are clear:
-- Billing by hour (not outcome) = no financial risk in playing safe
-- Duty to court supersedes client instructions when conflict = professional cover for judicial alignment
-- Judicial relationships affect case success and referrals = tangible incentive for favor-maintenance
-- Individual case fees outweighed by long-term practice sustainability = short-term client interest subordinated to systemic positioning
+**Critical caveat:** No direct evidence documents solicitors consciously avoiding transparency challenges to preserve judicial favor. But the structural incentives are clear:
+* Billing by hour (not outcome) = no financial risk in playing safe
+* Duty to court supersedes client instructions when conflict = professional cover for judicial alignment
+* Judicial relationships affect case success and referrals = tangible incentive for favor-maintenance
+* Individual case fees outweighed by long-term practice sustainability = short-term client interest subordinated to systemic positioning
 
 **How this perpetuates the reality gap:**
 
-When practitioners observe judicial resistance to transcript access or publication requests, their economically and professionally rational response is **not to push back**. Each solicitor, acting sensibly within their constraints, advises clients to align with judicial preferences. This aggregates into:
-- **Normalized gatekeeping**: Judicial discretion becomes "just how things work"
-- **Dampened challenge**: Few transparency demands reach appellate scrutiny
-- **Stabilized opacity**: The system faces insufficient pressure to change because professionals filter client demands through judicial-preference lenses
+When practitioners observe judicial resistance to transcript access or publication requests, their economically and professionally rational response is not to push back. Each solicitor, acting sensibly within their constraints, advises clients to align with judicial preferences. This aggregates into:
+* **Normalized gatekeeping:** Judicial discretion becomes "just how things work"
+* **Dampened challenge:** Few transparency demands reach appellate scrutiny
+* **Stabilized opacity:** The system faces insufficient pressure to change because professionals filter client demands through judicial-preference lenses
 
-This explains why Layer 2's judicial gatekeeping persists despite Layer 1's design theoretically empowering parties: **professional mediation transforms individual client interests (transparency access) into system-compatible requests (respect for judicial discretion)**.
+This explains why Layer 2's judicial gatekeeping persists despite Layer 1's design theoretically empowering parties: professional mediation transforms individual client interests (transparency access) into system-compatible requests (respect for judicial discretion).
 
 **The feedback loop synthesis:**
 
 1. Judges develop preferences about transparency (what feels safe, manageable)
 2. Practitioners observe these preferences through repeated courtroom exposure
-3. **Economic and professional incentives** reward alignment over challenge
+3. Economic and professional incentives reward alignment over challenge
 4. Professional guidance advises clients to conform to judicial comfort zones
 5. Judges encounter transparency requests that feel familiar and reasonable
 6. This reinforces judicial confidence in existing discretionary logics
 7. Practitioners observe continued patterns, update guidance accordingly
 8. Cycle repeats, stabilizing the status quo
 
-No conspiracy required. No bad actors needed. Just rational professionals helping clients succeed within existing systems—**and those systems persist because professional success depends on not challenging them.**
+No conspiracy required. No bad actors needed. Just rational professionals helping clients succeed within existing systems—and those systems persist because professional success depends on not challenging them.
 
-This is "**deferential realism**"—practitioners describe problems ("approval takes a long time," "judges are cautious about publication") while accepting them as system features rather than reform targets. Blogs phrase analysis as: "It's worth remembering that judges retain discretion..." / "In my experience, courts prefer..." This linguistic register both exposes and legitimates judicial control.
+**Effect:** Economically rational adaptation to professional constraints transforms individual client interests (transparency access) into system-compatible requests (respect for judicial discretion).
+
+This is "deferential realism"—practitioners describe problems ("approval takes a long time," "judges are cautious about publication") while accepting them as system features rather than reform targets. Blogs phrase analysis as: "It's worth remembering that judges retain discretion..." / "In my experience, courts prefer..." This linguistic register both exposes and legitimates judicial control.
+
+**Layer 3 insight:** PP-4's economic incentive structure shapes professional strategy toward alignment with Layer 2's judicial preferences, sustaining the reality gap by dampening challenges to Layer 1's design voids.
 
 ---
 
@@ -2185,28 +2207,30 @@ This is "**deferential realism**"—practitioners describe problems ("approval t
 These four mechanisms converge to create parallel operational regimes:
 
 **Regime 1: Institutional Transparency (External Scrutiny via Media)**
-- Sophisticated professional guidance on managing exposure
-- Strategic advice on reputation protection and order drafting
-- Advance preparation as standard practice
-- Integration into routine case management
-- Professional norm: engagement required and competently delivered
-- **Serves**: Institutional accountability, external oversight, journalist access
-- **Sustains**: Professional and judicial control over what becomes visible
+* Sophisticated professional guidance on managing exposure
+* Strategic advice on reputation protection and order drafting
+* Advance preparation as standard practice
+* Integration into routine case management
+* Professional norm: engagement required and competently delivered
+* **Serves:** Institutional accountability, external oversight, journalist access
+* **Sustains:** Professional and judicial control over what becomes visible
 
 **Regime 2: Party Transparency (Participant Voice via Publication)**
-- Limited professional guidance on affirmative rights in mainstream discourse
-- Emphasis on confidentiality restrictions without comprehensive explanation of pathways
-- Reactive rather than strategic engagement
-- Exceptional procedure requiring specialist knowledge
-- Professional norm: caution advised; rarely pursued
-- **Serves**: Individual parties seeking voice, accountability, connection
-- **Sustains**: Unmediated transparency remains marginal, under-resourced
+* Limited professional guidance on affirmative rights in mainstream discourse
+* Emphasis on confidentiality restrictions without comprehensive explanation of pathways
+* Reactive rather than strategic engagement
+* Exceptional procedure requiring specialist knowledge
+* Professional norm: caution advised; rarely pursued
+* **Serves:** Individual parties seeking voice, accountability, connection
+* **Sustains:** Unmediated transparency remains marginal, under-resourced
 
-This bifurcation ensures transparency's **accountability function** (exposing institutional practice through external scrutiny) operates through highly mediated, professionally managed channels that preserve control, while transparency's **emancipatory function** (enabling family voice through self-publication) remains under-developed and effectively available only to those who can afford legal representation.
+This bifurcation ensures transparency's accountability function (exposing institutional practice through external scrutiny) operates through highly mediated, professionally managed channels that preserve control, while transparency's emancipatory function (enabling family voice through self-publication) remains under-developed and effectively available only to those who can afford legal representation.
 
-**The professional paradox:** Practitioners position themselves as transparency facilitators while their selective guidance patterns, knowledge hoarding, limited cost explanation, and economically rational judicial alignment sustain aspects of the opacity reforms target. They advance the **theater of openness** (reporter attendance, public statements about watershed moments) while the **infrastructure of verification** (accessible transcripts, navigable publication pathways, affordable costs) receives limited systematic professional guidance.
+**The professional paradox:** Practitioners position themselves as transparency facilitators while their selective guidance patterns, knowledge hoarding, limited cost explanation, and economically rational judicial alignment sustain aspects of the opacity reforms target. They advance the theater of openness (reporter attendance, public statements about watershed moments) while the infrastructure of verification (accessible transcripts, navigable publication pathways, affordable costs) receives limited systematic professional guidance.
 
-To adapt an earlier formulation: professional discourse makes transparency **speakable but not easily citable**—families can talk about seeking accountability, but cannot readily access the documented records that would substantiate their claims or enable systemic learning.
+To adapt an earlier formulation: professional discourse makes transparency speakable but not easily citable—families can talk about seeking accountability, but cannot readily access the documented records that would substantiate their claims or enable systemic learning.
+
+**Layer 3 insight:** The bifurcated system created by PP-1 through PP-4 privileges mediated external scrutiny over unmediated participant voice, sustaining Layer 2's selective visibility while amplifying Layer 1's access inequalities.
 
 ---
 
@@ -2216,33 +2240,80 @@ Layer 3 documented how legal professionals interpret and implement transparency 
 
 **The experiential divergence:**
 
-- Where professionals experience transparency orders as **case management challenges** requiring advance preparation and strategic positioning, LiPs experience them as **surprise impositions** without guidance or understanding of their rights.
+Where professionals experience transparency orders as case management challenges requiring advance preparation and strategic positioning, LiPs experience them as surprise impositions without guidance or understanding of their rights.
 
-- Where institutional clients receive sophisticated advice on controlling exposure and managing what becomes visible about their practice, individual parents navigate hearings unaware that transparency mechanisms exist or how to use them affirmatively.
+Where institutional clients receive sophisticated advice on controlling exposure and managing what becomes visible about their practice, individual parents navigate hearings unaware that transparency mechanisms exist or how to use them affirmatively.
 
-- Where represented parties benefit from solicitors who "just know" to order transcripts immediately, select appropriate service levels, chase delays effectively, and file with notes when approval stalls, LiPs discover transcript requirements **retrospectively**—often after appeal deadlines have passed, costs have become prohibitive, or recording failures have made access impossible.
+Where represented parties benefit from solicitors who "just know" to order transcripts immediately, select appropriate service levels, chase delays effectively, and file with notes when approval stalls, LiPs discover transcript requirements retrospectively—often after appeal deadlines have passed, costs have become prohibitive, or recording failures have made access impossible.
 
-This is not merely **information deficit**—it is **structural inequality in transparency access**. The architecture Layer 1 designed promised formal equality of access to all parties. Judicial gatekeeping (Layer 2) introduced discretionary restrictions. Professional mediation (Layer 3) creates parallel operational realities where knowledge, timing, costs, strategic use, and even the economic viability of challenging judicial discretion divide sharply between those who can afford representation and those who cannot.
+This is not merely information deficit—it is structural inequality in transparency access. The architecture Layer 1 designed promised formal equality of access to all parties. Judicial gatekeeping (Layer 2) introduced discretionary restrictions. Professional mediation (Layer 3) creates parallel operational realities where knowledge, timing, costs, strategic use, and even the economic viability of challenging judicial discretion divide sharply between those who can afford representation and those who cannot.
 
-Layer 4 (to be developed) will map this experiential divergence through user testimony, procedural barriers documented in real-time help-seeking behavior, and the lived consequences of opacity for those meant to be transparency's primary beneficiaries: the families navigating family justice whose voices and experiences the reforms ostensibly aim to make visible. Where Layer 3 showed professionals as **filters amplifying inequality through rational adaptation to economic and professional incentives**, Layer 4 will expose the **human costs** when individuals confront unmediated the design voids, judicial discretion, professional knowledge gaps, and economic barriers that constitute the "transcript reality gap."
+Layer 4 (to be developed) will map this experiential divergence through user testimony, procedural barriers documented in real-time help-seeking behavior, and the lived consequences of opacity for those meant to be transparency's primary beneficiaries: the families navigating family justice whose voices and experiences the reforms ostensibly aim to make visible. Where Layer 3 showed professionals as filters amplifying inequality through rational adaptation to economic and professional incentives, Layer 4 will expose the human costs when individuals confront unmediated the design voids, judicial discretion, professional knowledge gaps, and economic barriers that constitute the "transcript reality gap."
+
+**Layer 3 insight:** The handoff reveals how PP-1 through PP-4 create bifurcated experiences, where Layer 3's mediated reality for represented parties contrasts with Layer 4's unmediated barriers for LiPs, underscoring the chapter's core thesis of compounding opacity.
 
 ---
 
-## **Layer 3 Summary: Professional Practice as System Stabilizer**
+## 7.3.7 Layer 3 Summary: Professional Practice as System Stabilizer
 
 Legal professionals mediate the reality gap through:
 
-1. **Selective emphasis**: Media reporting guidance abundant and operationalized; transcript access infrastructure receiving limited attention in mainstream professional discourse
-2. **Client segmentation**: Institutional clients receive strategic sophistication; individual parties receive confidentiality reassurance
-3. **Knowledge hoarding**: Tacit expertise on timing, costs, and strategic use remains largely undocumented in accessible professional guidance
-4. **Limited cost guidance**: Economic barriers naturalized as background conditions rather than prominently addressed policy barriers (£415–£995+ transcripts + £258 C2 fees = £673–£1,253+ cumulative costs for transparency access)
-5. **Publication hierarchy**: External accountability (journalism) privileged through detailed guidance; participant voice (party publication) marginalized through limited attention
-6. **Economic incentive structure**: Hourly billing + duty to court + judicial relationship importance = rational adaptation favoring alignment over challenge
-7. **Epistemic feedback loops**: Practitioners observe judicial preferences → advise client alignment → reinforce judicial patterns → perpetuate gatekeeping
+1. **Selective emphasis:** Media reporting guidance abundant and operationalized; transcript access infrastructure receiving limited attention in mainstream professional discourse
+
+2. **Client segmentation:** Institutional clients receive strategic sophistication; individual parties receive confidentiality reassurance
+
+3. **Knowledge hoarding:** Tacit expertise on timing, costs, and strategic use remains largely undocumented in accessible professional guidance
+
+4. **Limited cost guidance:** Economic barriers naturalized as background conditions rather than prominently addressed policy barriers (£415–£995+ transcripts + £258 C2 fees = £673–£1,253+ cumulative costs for transparency access)
+
+5. **Publication hierarchy:** External accountability (journalism) privileged through detailed guidance; participant voice (party publication) marginalized through limited attention
+
+6. **Economic incentive structure:** Hourly billing + duty to court + judicial relationship importance = rational adaptation favoring alignment over challenge
+
+7. **Epistemic feedback loops:** Practitioners observe judicial preferences → advise client alignment → reinforce judicial patterns → perpetuate gatekeeping
+
+**Table 7.3.4: Cross-Layer Convergence on Professional Filtering**
+
+| Layer 1 Design Feature | Layer 2 Judicial Practice | Layer 3 Professional Guidance | Convergent Effect |
+|------------------------|---------------------------|------------------------------|-------------------|
+| EX107 timeline ambiguity (DF-1) | *Re X* [2016]: delay tolerated | Limited timing guidance in mainstream discourse | Users miss appeal deadlines |
+| No publication flag (DF-7) | Rare publication despite presumption | Party publication guidance absent | Selective visibility persists |
+| Consent asymmetry (DF-6) | Objections function as barriers | Objections framed as legitimate concerns | Veto culture normalized |
+| Untimed approval (DF-3) | *Re X*: "imperfect better than delay" but no enforcement | Cost/timing guidance limited | Appeals proceed without transcripts |
+
+**Synthesis:** Design voids (L1) become judicial norms (L2) which professional guidance accepts as operational reality (L3), creating compounding barriers users experience as individual barriers rather than systemic failures.
 
 **Result:** Transparency reforms promising openness operate through professional practices that preserve discretionary control and unequal access. Professionals don't merely implement the system—they constitute its operational reality through interpretive choices about what to explain, emphasize, and omit, shaped by economic and professional incentives that make system alignment rational and system challenge risky.
 
-This is not malicious exclusion but **structural reproduction of advantage through selective knowledge transmission and economically rational adaptation to professional constraints**—a pattern that creates the lived reality of transcript inaccessibility for those the transparency reforms ostensibly serve.
+This is not malicious exclusion but structural reproduction of advantage through selective knowledge transmission and economically rational adaptation to professional constraints—a pattern that creates the lived reality of transcript inaccessibility for those the transparency reforms ostensibly serve.
+
+---
+
+## 7.3.8 Theoretical Synthesis: Professional Practice as Epistemic Feedback Loop
+
+The patterns documented in sections 7.3.2–7.3.7 reflect deeper systemic dynamics. Previous scholarship treats legal professionals as intermediaries between law and clients (Kritzer, 1998), assuming practitioners stand outside the system they navigate. But family court transparency reveals a different dynamic: practitioners are endogenous to the system they describe, functioning as components whose behavior actively maintains systemic equilibrium.
+
+**The epistemic feedback loop operates through four stages:**
+
+1. **Observation:** Repeated courtroom exposure teaches practitioners which transparency arguments judges reward or penalize
+2. **Internalization:** These preferences become professional knowledge—"judicial discretion" transforms from legal principle to predictable pattern
+3. **Client guidance:** Practitioners advise clients to align with judicial expectations, not challenge them
+4. **Discourse production:** Blogs and briefings document these adaptations as professional best practice, which new practitioners learn and propagate
+
+This cycle requires no coordination. Each practitioner, acting rationally within professional constraints (client success, judicial relationships, reputational management), makes choices that collectively stabilize the status quo.
+
+**Theoretical positioning:**
+
+**Bourdieu's habitus and field theory (1977):** Practitioners develop a "feel for the game"—unconscious dispositions about what's thinkable, sayable, and strategically viable within the legal field. Their positioning (dependent on judicial approval for case success) shapes strategic calculations. They don't consciously decide to reinforce opacity; they internalize what's necessary for functioning within existing power relations.
+
+**Luhmann's autopoietic systems (1995):** The legal system reproduces itself through its own operations. Practitioners aren't external observers but functional components whose role is translating between "client needs" and "system-compatible requests." They keep the system operationally closed (maintaining judicial interpretive authority) while appearing open (supporting "transparency" as abstract principle).
+
+**Foucault's regimes of truth (1980):** Not about discovering truth but about who has authority to designate what counts as truth. "Managed transparency" is discourse that appears to democratize access while preserving interpretive monopoly. Practitioners legitimate this regime by treating judicial discretion over transparency as natural rather than constructed.
+
+**Critical insight:** Professional competence itself becomes a mechanism of system reproduction. Being a "good lawyer" means understanding judicial preferences and aligning client strategy accordingly—which means perpetuating existing gatekeeping logics.
+
+---
+
 
 
 ## 7.4 Layer 4: User Experience -  Evidence from JustAnswer as a Window into Lived Procedural Reality
