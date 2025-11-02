@@ -14,26 +14,62 @@ These **least-resistance reforms** leverage existing infrastructure (TIG pilots,
 
 ## Table of Contents
 
-- **[Abstract](#abstract)**
-- **[1. The Crises: Symptoms of Systemic Failure](#1-the-crises-symptoms-of-systemic-failure)**
-  - **[1.1. The Crisis of Timeliness: Chronic Backlogs and Delays](#11-the-crisis-of-timeliness-chronic-backlogs-and-delays)**
-  - **[1.2. Fragmented Governance and Weak Accountability](#12-fragmented-governance-and-weak-accountability)**
-  - **[1.3. The Data Deficit: A Barrier to Evidence-Based Policy](#13-the-data-deficit-a-barrier-to-evidence-based-policy)**
-- **[2. Transparency Framework and Evolution: From Principle to Implementation](#2-transparency-framework-and-evolution-from-principle-to-implementation)**
-- **[3. Transparency as a Catalyst: Evolution and Implementation](#3-transparency-as-a-catalyst-evolution-and-implementation)**
-- **[4. Theoretical Grounding: Learning, Reflection, and System Intelligence](#4-theoretical-grounding-learning-reflection-and-system-intelligence)**
-- **[5. Logical Mapping: From Crises to Transparency Deficits](#5-logical-mapping-from-crises-to-transparency-deficits)**
-  - **[5.1 Macro Logic: Mapping Transparency Deficits to Transcript Solutions](#51-macro-logic-mapping-transparency-deficits-to-transcript-solutions)**
-  - **[5.2 Institutional Logic: Embedding Transparency in Governance](#52-institutional-logic-embedding-transparency-in-governance)**
-  - **[5.3 Empirical Validation: The Reality Gap](#53-empirical-validation-the-reality-gap)**
-  - **[5.4 Beyond the Present Logic: Larger Paradigms and Least-Resistance Change](#54-beyond-the-present-logic-larger-paradigms-and-least-resistance-change)**
-    - **[Alternative Paradigms of Transparency](#alternative-paradigms-of-transparency)**
-- **[6. Empirical Testing: The Data Void Exposed](#6-empirical-testing-the-data-void-exposed)**
-  - **[6.1 Findings: The FOI Data Void](#61-findings-the-foi-data-void)**
-  - **[6.2 Defining Transcripts in Family Law Proceedings](#62-defining-transcripts-in-family-law-proceedings)**
-  - **[6.3 Implications: The Absence of Foundational Data](#63-implications-the-absence-of-foundational-data)**
-- **[7. Layered Analysis of the Reality Gap](#7-layered-analysis-of-the-reality-gap)**
-  - **[7.0 Analytical Design and Evidence Logic](#70-analytical-design-and-evidence-logic)**
+-# Table of Contents
+
+- [Abstract](#abstract)
+- [1. The Crises: Symptoms of Systemic Failure](#1-the-crises-symptoms-of-systemic-failure)
+  - [1.1. The Crisis of Timeliness: Chronic Backlogs and Delays](#11-the-crisis-of-timeliness-chronic-backlogs-and-delays)
+  - [1.2. Fragmented Governance and Weak Accountability](#12-fragmented-governance-and-weak-accountability)
+  - [1.3. The Data Deficit: A Barrier to Evidence-Based Policy](#13-the-data-deficit-a-barrier-to-evidence-based-policy)
+- [2. Transparency Framework and Evolution: From Principle to Implementation](#2-transparency-framework-and-evolution-from-principle-to-implementation)
+- [3. Transparency as a Catalyst: Evolution and Implementation](#3-transparency-as-a-catalyst-evolution-and-implementation)
+- [4. Theoretical Grounding: Learning, Reflection, and System Intelligence](#4-theoretical-grounding-learning-reflection-and-system-intelligence)
+- [5. Logical Mapping: From Crises to Transparency Deficits](#5-logical-mapping-from-crises-to-transparency-deficits)
+  - [5.1 Macro Logic: Mapping Transparency Deficits to Transcript Solutions](#51-macro-logic-mapping-transparency-deficits-to-transcript-solutions)
+  - [5.2 Institutional Logic: Embedding Transparency in Governance](#52-institutional-logic-embedding-transparency-in-governance)
+  - [5.3 Empirical Validation: The Reality Gap](#53-empirical-validation-the-reality-gap)
+  - [5.4 Beyond the Present Logic: Larger Paradigms and Least-Resistance Change](#54-beyond-the-present-logic-larger-paradigms-and-least-resistance-change)
+    - [Alternative Paradigms of Transparency](#alternative-paradigms-of-transparency)
+- [6. Empirical Testing: The Data Void Exposed](#6-empirical-testing-the-data-void-exposed)
+  - [6.1 Findings: The FOI Data Void](#61-findings-the-foi-data-void)
+  - [6.2 Defining Transcripts in Family Law Proceedings](#62-defining-transcripts-in-family-law-proceedings)
+  - [6.3 Implications: The Absence of Foundational Data](#63-implications-the-absence-of-foundational-data)
+- [7. From Transparency Principle to Transcript Practice: Operationalising the Two Pathways](#7-from-transparency-principle-to-transcript-practice-operationalising-the-two-pathways)
+  - [Judicial Blindness](#judicial-blindness)
+  - [Epidemiological Blindness](#epidemiological-blindness)
+  - [Methodological Note: Analyzing Gaps in Complex Systems](#methodological-note-analyzing-gaps-in-complex-systems)
+  - [The Gap: Disconnected Pathways and Systemic Blindness](#the-gap-disconnected-pathways-and-systemic-blindness)
+  - [7.0 Analytical Design and Evidence Logic](#70-analytical-design-and-evidence-logic)
+  - [7.0.1 The Critical Role of Layer 2: Judicial Gatekeeping](#701-the-critical-role-of-layer-2-judicial-gatekeeping)
+  - [7.0.2 Scope and Structure of the Layered Analysis](#702-scope-and-structure-of-the-layered-analysis)
+  - [7.0.3 Analytical Progression & Convergence](#703-analytical-progression--convergence)
+  - [7.0.4 Identified Leverage Points from Analysis](#704-identified-leverage-points-from-analysis)
+  - [7.0.5 Methodological Stance](#705-methodological-stance)
+  - [7.1 Layer 1: Institutional Design — The Prescribed Architecture](#71-layer-1-institutional-design--the-prescribed-architecture)
+    - [7.1.1 Methodology: Sources & Analytical Approach](#711-methodology-sources--analytical-approach)
+    - [7.1.2 The Obtaining Pathway: Formal Architecture](#712-the-obtaining-pathway-formal-architecture)
+    - [7.1.7 The One-Form Fix: Embed Publication in EX107](#717-the-one-form-fix-embed-publication-in-ex107)
+  - [7.2 Layer 2: Judicial Gatekeeping](#72-layer-2-judicial-gatekeeping)
+    - [7.2.1 The Contradiction of Prioritisation](#721-the-contradiction-of-prioritisation)
+    - [7.2.2 Administrative Logic Behind Selectivity](#722-administrative-logic-behind-selectivity)
+    - [7.2.7 Closing the Doctrine-Practice Gap: Least-Resistance Alignment](#727-closing-the-doctrine-practice-gap-least-resistance-alignment)
+  - [7.5 Limitations](#75-limitations)
+  - [7.6 Immediate, Low-Resistance Process Improvements](#76-immediate-low-resistance-process-improvements)
+  - [7.7 Conclusion](#77-conclusion)
+- [8. Policy Implications: Transcripts as Drivers of Systemic Change](#8-policy-implications-transcripts-as-drivers-of-systemic-change)
+  - [Low-Resistance Interventions: Actionable Pathways Forward](#low-resistance-interventions-actionable-pathways-forward)
+    - [EX107 Form Update: Truth on Timelines](#ex107-form-update-truth-on-timelines)
+    - [Streamline EX105 Integration with EX160A](#streamline-ex105-integration-with-ex160a)
+    - [AI-Assisted Transcription Pilot](#ai-assisted-transcription-pilot)
+    - [Self-Transcription from Audio (with Safeguards)](#self-transcription-from-audio-with-safeguards)
+    - [Applicant-Led Anonymization with Template](#applicant-led-anonymization-with-template)
+    - [Standardized Balancing Checklist for Objections](#standardized-balancing-checklist-for-objections)
+    - [Mandatory Keywords & Metadata on Upload](#mandatory-keywords--metadata-on-upload)
+    - [Provisional Draft Release Guidance](#provisional-draft-release-guidance)
+    - [Early-Delivery Bonus in Vendor Contracts](#early-delivery-bonus-in-vendor-contracts)
+    - [The One-Form Fix: Publication Checkbox on EX107](#the-one-form-fix-publication-checkbox-on-ex107)
+- [9. Conclusion: A Call to Action for Verifiable Justice](#9-conclusion-a-call-to-action-for-verifiable-justice)
+- [References](#references)
    
 
 ## 1. The Crises: Symptoms of Systemic Failure
