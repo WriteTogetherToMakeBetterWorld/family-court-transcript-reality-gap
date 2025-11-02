@@ -7190,6 +7190,27 @@ The interventions L2-B1 through L2-B3 create **procedural-judicial convergence**
 
 **Transparency Alignment Protocol**: Each standard creates explicit linkage between rulings and procedural transparency objectives (PD27A, TIG principles, TOJ framework). Over time, this feedback loop re-couples the two constitutions — procedure and practice — making divergence traceable rather than invisible.
 
+CHECK: DO YOU NOTED THIS AND IS THIS ADDED? The Two Distinct Issues:
+Issue 1: During Proceedings
+
+IF you ask for publication during the proceedings (while case is active)
+THEN judge can deal with it as part of case management
+NO separate C2 application needed
+NO £258 fee
+
+The problem: Many parties don't know to ask, or don't think of it until later
+Issue 2: After Proceedings End
+
+IF you want publication after proceedings conclude
+AND you didn't ask during the proceedings
+THEN you must file separate Form C2 application
+COST: £258 fee (children cases)
+PROCESS: Full application, hearing, judicial decision
+
+The problem: This creates a barrier for retrospective publication requests
+
+ - WHAT IS SOLUTION FOR APPLICATNS TO ASK DURING PROCEEDINGS - CHANGES TO C2 APPLICATION!!!!!!
+ - WHAT IS SOLUTION FOR AFTER PROCEEDIGNS - BOX ON EX017 BUT THEN YOU STILL HAVE TO HAVE PROCEEDINGS BUT AT LEAST YOU ARE REMINDED THAT YOU CAN PUBLICISED. 
 ---
 
 ## 8.3 Layer 3 Interventions: User-Centered Design
