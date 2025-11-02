@@ -9667,3 +9667,74 @@ Walker, J. (2025). Court data on transcript processing performance [Freedom of I
 Walsh, J. P., & Ungson, G. R. (1991). Organizational memory. *Academy of Management Review, 16*(1), 57-91.
 
 Warners Solicitors. (2024). *Family court case duration statistics*. Retrieved from https://www.warnerslaw.com
+## References (Additional Court Documents)
+
+[... your existing references ...]
+
+HMCTS. (2025). *Form C2: Application for a court order in existing proceedings*. London: HM Courts & Tribunals Service. Retrieved from https://www.gov.uk/government/publications/form-c2-application-for-a-court-order-in-existing-proceedings
+
+HMCTS. (2025). *Form C79: Enforcement of orders*. London: HM Courts & Tribunals Service. Retrieved from https://www.gov.uk/government/publications/form-c79-enforcement-of-orders
+
+HMCTS. (2025). *Form D11: Application to change existing proceedings*. London: HM Courts & Tribunals Service. Retrieved from https://www.gov.uk/government/publications/form-d11
+
+HMCTS. (2025). *Form EX105: Help with court transcript costs*. London: HM Courts & Tribunals Service. Retrieved from https://www.gov.uk/government/publications/form-ex105
+
+HMCTS. (2025). *Form EX107: Request for transcription*. London: HM Courts & Tribunals Service. Retrieved from https://www.gov.uk/government/publications/form-ex107-request-for-transcription
+
+HMCTS. (2025). *Form EX160A: How to apply for help with fees*. London: HM Courts & Tribunals Service. Retrieved from https://www.gov.uk/government/publications/apply-for-help-with-court-and-tribunal-fees
+
+HMCTS. (2025). *Form EX50A: Civil and family court fees*. London: HM Courts & Tribunals Service. Retrieved from https://www.gov.uk/government/publications/court-and-tribunal-fees
+
+HMCTS. (2025). *Form FP161: Application for permission to appeal to the High Court*. London: HM Courts & Tribunals Service. Retrieved from https://www.gov.uk/government/publications/form-fp161
+
+HMCTS. (2025). *Form N244: Application notice*. London: HM Courts & Tribunals Service. Retrieved from https://www.gov.uk/government/publications/form-n244-application-notice
+
+HMCTS. (2025). *Form N460: Reasons for allowing or refusing permission to appeal*. London: HM Courts & Tribunals Service. Retrieved from https://www.gov.uk/government/publications/form-n460
+
+Court of Appeal. (2025). *Court of Appeal (Civil Division) guide*. London: Judiciary of England and Wales. Retrieved from https://www.judiciary.uk/publications/court-of-appeal-civil-division-guide/
+
+Family Procedure Rule Committee. (2025). *Practice Direction 29: Miscellaneous provisions relating to hearings*. London: Ministry of Justice. Retrieved from https://www.justice.gov.uk/courts/procedure-rules/family/practice_directions
+
+Family Procedure Rule Committee. (2025). *Practice Direction 39A: Miscellaneous provisions (including ruling)*. London: Ministry of Justice. Retrieved from https://www.justice.gov.uk/courts/procedure-rules/family/practice_directions
+
+Family Procedure Rule Committee. (2025). *Practice Direction Part 39: Miscellaneous provisions relating to hearings*. London: Ministry of Justice. Retrieved from https://www.justice.gov.uk/courts/procedure-rules/family/practice_directions
+HMCTS. (2025). *Form EX107OFC: Permission for a transcript when HMCTS transcription companies are not providing the service*. London: HM Courts & Tribunals Service. Retrieved from https://www.gov.uk/government/publications/
+
+HMCTS. (2025). *Form EX160: Help with fees*. London: HM Courts & Tribunals Service. Retrieved from https://www.gov.uk/government/publications/apply-for-help-with-court-and-tribunal-fees
+
+HMCTS. (2025). *Form FP161: Application to appeal a decision, order, or judgment made in the Family Court*. London: HM Courts & Tribunals Service. Retrieved from https://www.gov.uk/government/publications/form-fp161
+
+HMCTS. (2025). *Form N161: Appellant's notice*. London: HM Courts & Tribunals Service. Retrieved from https://www.gov.uk/government/publications/form-n161-appellants-notice
+
+HMCTS. (2025). *Form N244: Application notice*. London: HM Courts & Tribunals Service. Retrieved from https://www.gov.uk/government/publications/form-n244-application-notice
+
+HMCTS. (2025). *Guidance: Form CB5*. London: HM Courts & Tribunals Service.
+
+HMCTS. (2025). *Guidance: Form EX107 - Requesting a transcript*. London: HM Courts & Tribunals Service. Retrieved from https://www.gov.uk/government/publications/form-ex107-request-for-transcription
+
+HMCTS. (2025). *Guidance: Form EX107GN - Guidance notes*. London: HM Courts & Tribunals Service.
+
+HMCTS. (2025). *Guidance: Form N161 - Appellant's notice*. London: HM Courts & Tribunals Service.
+
+HMCTS. (2024, August 7). *Making an application: Children and the family courts*. Public information guidance. Retrieved from https://www.gov.uk/
+### Transcription Service Provider Terms & Conditions
+
+Acoland Ubiqus UK Legal Department. (2024). *Terms and conditions for transcription services*. Retrieved from https://legal.ubiqus.co.uk/terms-conditions
+
+eScribers. (2024). *Terms and conditions for civil, family and tribunal courtroom transcription services*. Retrieved from https://uk.escribers.net/
+
+eScribers. (2024). *Frequently asked questions: Transcription services*. Retrieved from https://uk.escribers.net/
+
+Epiq Europe Ltd. (2024). *Transcription services: Terms and conditions*. Retrieved from https://www.epiqglobal.com/
+
+Epiq Europe Ltd & Cabinet Office. (2024). *Contract for the provision of stenography services for the Intelligence & Security Committee (ISC) of Parliament* [Contract reference: 5257/A/CO(b/45309)].
+
+Marten Walsh Cherer Ltd. (2024). *Terms and conditions for the production of court transcripts*. Retrieved from https://www.martenwalshcherer.com/
+
+The Transcription Agency (TTA). (2024). *Terms and conditions for the provision of civil, family and tribunal courtroom transcription services* (Document No: TTA J028.6). Retrieved from https://www.transcription.co.uk/
+
+The Transcription Agency (TTA). (2024). *Common questions about transcription services*. Retrieved from https://www.transcription.co.uk/
+
+### Forum/User Experience Data
+
+LegalBeagles Forum. (2024). *County court hearing transcription services discussion thread*. Retrieved from https://legalbeagles.info/forums/
