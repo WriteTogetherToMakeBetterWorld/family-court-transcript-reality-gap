@@ -1399,12 +1399,6 @@ The substantive question is not the precise percentage but the mechanisms by whi
 
 ---
 
-## END OF SECTION 7.1
-
-**Handoff to Layer 2:** The institutional design documented in Layer 1 establishes what should happen according to rules, forms, and guidance. Layer 2 examines what actually happens when judges interpret these rules, fill design silences, exercise discretion within untimed voids, and transform formal architecture into operational reality.
-
----
-
 ## 7.2 Layer 2: Judicial Gatekeeping — The Authoritative Filter
 
 ### Purpose
