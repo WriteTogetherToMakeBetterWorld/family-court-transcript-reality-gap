@@ -26,35 +26,35 @@ https://resolution.org.uk/the-review/archive/the-review-issue-223/the-reporting-
 
 https://www.rainscourt.com/transcript/
 → How to get a Family Court transcript + EX107 info
+
 https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/884704/ex107-static-eng.pdf
-
 → Official HMCTS Form EX107 (transcript request form) – referenced in rainscourt.com article
+
 https://www.stewartslaw.com/news/move-towards-greater-transparency-in-family-law-proceedings-gathers-pace/
-
 → Transparency trend article (18 Mar 2022)
+
 https://www.london-law.co.uk/court-transcript-access-costs/
-
 → Court transcript costs and EX107 guide
+
 https://www.majorfamilylaw.co.uk/transparency-project-extended-to-16-new-courts/
-
 → Transparency pilot extended to 16 courts (13 Feb 2024)
+
 https://www.localgovernmentlawyer.co.uk/child-protection/309-children-protection-features/59458-a-guide-to-transparency-orders
-
 → Guide to Transparency Orders (18 Dec 2024)
+
 https://www.judiciary.uk/wp-content/uploads/2024/08/Reporting-Pilot-Guidance-2024.pdf
-
 → Official Reporting Pilot Guidance 2024 (linked in localgovernmentlawyer)
+
 https://www.weightmans.com/insights/media-and-transparency-in-the-family-court/
-
 → Open reporting from Jan 2025 (6 Feb 2025)
+
 https://www.drdpartnership.com/news/lifting-the-veil-on-proceedings-in-the-family-courts
-
 → Transparency pilot extension analysis (29 Feb 2024)
+
 https://barcankirby.co.uk/media-reporting-now-allowed-in-family-courts/
-
 → Media now allowed in family courts (29 Apr 2025)
-https://www.goodlawsolicitors.co.uk/insights/transparency-in-family-court/
 
+https://www.goodlawsolicitors.co.uk/insights/transparency-in-family-court/
 → Can journalists attend family hearings? (2025)
 
 https://www.google.com/search?q=%22family+court+transcripts%22+%28solicitor+OR+barrister+OR+solicitors+OR+barristers%29+%28England+OR+Wales%29+%28delays+OR+costs%29+since%3A2023&sca_esv=cb97f40da6f73026&sxsrf=AE3TifPZO8bLFFuVBx5qwS7E917enzKbAg%3A1761751948662&source=hp&ei=jDMCaYyeJtXPhbIP3K-z4Qg&iflsig=AOw8s4IAAAAAaQJBnODjX1fdPmlZA2cYmblDPFYMWn93&ved=0ahUKEwiMlNK43cmQAxXVZ0EAHdzXLIwQ4dUDCBo&uact=5&oq=%22family+court+transcripts%22+%28solicitor+OR+barrister+OR+solicitors+OR+barristers%29+%28England+OR+Wales%29+%28delays+OR+costs%29+since%3A2023&gs_lp=Egdnd3Mtd2l6In8iZmFtaWx5IGNvdXJ0IHRyYW5zY3JpcHRzIiAoc29saWNpdG9yIE9SIGJhcnJpc3RlciBPUiBzb2xpY2l0b3JzIE9SIGJhcnJpc3RlcnMpIChFbmdsYW5kIE9SIFdhbGVzKSAoZGVsYXlzIE9SIGNvc3RzKSBzaW5jZToyMDIzSABQAFgAcAB4AJABAJgBAKABAKoBALgBA8gBAPgBAvgBAZgCAKACAJgDAJIHAKAHALIHALgHAMIHAMgHAA&sclient=gws-wiz
