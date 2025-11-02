@@ -6563,625 +6563,299 @@ Not because timelines are impossible (employment tribunals manage it).
 
 
 ### References
+## 9. References
 
-Bureau of Investigative Journalism (2025) *Domestic Abuse in 90% of Family Court Cases*. London: Bureau of Investigative Journalism.
+### Cases (OSCOLA Style)
+*BT v CU* [2021] EWFC 87  
+*Gestmin v Credit Suisse* [2013] EWHC 3560 (Comm)  
+*Griffiths v Tickle* [2023] EWHC 2446 (Fam)  
+*Lawal v Northern Spirit Ltd* [2003] UKHL 35  
+*Locabail (UK) Ltd v Bayfield Properties Ltd* [1999] EWCA Civ 3004  
+*M (A Child: Intermediaries)* [2025] EWCA Civ 440 (Peter Jackson LJ)  
+*M and F* [2025] EWHC 801 (Fam)  
+*Re A* [2025] EWHC 1279  
+*Re B and G (Children) (No 2)* [2023] EWHC 1842 (Fam)  
+*Re M (A Child: Private Law)* [2025] EWFC 96  
+*Re S (A Child)* [2004] UKHL 47  
+*Re X (A Child)* [2016] EWFC B43  
+*R v Bow Street Magistrates ex parte Pinochet* [1999] UKHL 1  
+*Re Medicaments and Related Classes of Goods (No 2)* [2000] EWCA Civ 350  
+*Taylor v Alcott* [CA-2023-000462] (skeleton argument, 16 March 2023, GitHub 2025)  
+
+### Books, Reports, Articles, Guidance (Harvard A–Z)
+Acolad UK Ltd (formerly Ubiqus) (2024) *Terms and conditions for transcription services*. Available at: https://legal.ubiqus.co.uk/terms-conditions (Accessed: 2 November 2025).
+
+Argyris, C. and Schön, D.A. (1978) *Organizational learning: a theory of action perspective*. Reading, MA: Addison-Wesley.
+
+Association of Directors of Children’s Services (ADCS) (2021) *Submission to the President of the Family Division’s Transparency Review*. Referenced in Judiciary of England and Wales (2021).
+
+Barcan+Kirby (2025) *Media reporting now allowed in family courts*. Available at: https://barcankirby.co.uk/media-reporting-now-allowed-in-family-courts (Accessed: 2 November 2025).
+
+Barrister Magazine (2023) *Reporting in family courts*. Available at: https://barristermagazine.com/reporting-in-family-courts (Accessed: 2 November 2025).
+
+Becket Chambers (2025) *The introduction of open reporting provisions across family courts in England and Wales*. Available at: https://becket-chambers.co.uk/the-introduction-of-open-reporting-provisions-across-family-courts-in-england-and-wales (Accessed: 2 November 2025).
+
+Birketts (2025) *Transparency in family courts: new reporting rules*. Available at: https://www.birketts.co.uk/insights/transparency-family-courts (Accessed: 2 November 2025).
+
+Bourdieu, P. (1977) *Outline of a theory of practice*. Cambridge: Cambridge University Press.
+
+Brabners (2025) *Increased transparency in the Family Court*. 15 January. Available at: https://www.brabners.com/insights/increased-transparency-family-court (Accessed: 2 November 2025).
+
+Bureau of Investigative Journalism (2025) *Domestic abuse in family courts*. Available at: https://www.thebureauinvestigates.com/ (Accessed: 2 November 2025).
+
+Byline Times (2025) *Family justice in crisis: thousands of children waiting years for court decisions*. 25 October. Available at: https://bylinetimes.com (Accessed: 2 November 2025).
 
 Byrom, N. (2024) *Where Has My Justice Gone?* London: Nuffield Foundation.
 
+Cafcass (2021) *Response to the President of the Family Division’s Transparency Review*. Available at: https://www.cafcass.gov.uk/cafcass-responds-to-the-president-of-the-family-divisions-transparency-review-findings (Accessed: 2 November 2025).
+
 Children and Families Act (2014) s 14(2). London: HMSO.
 
-Denzin, N.K. (1978) *The Research Act: A Theoretical Introduction to Sociological Methods*. New York: McGraw-Hill.
-
-Hencke, D. (2025) 'Family Justice in Crisis', *Byline Times*, 21 May.
-
-House of Commons Justice Committee (2022) *Open Justice*. London: House of Commons.
-
-House of Commons Public Accounts Committee (2025) *Family Court Backlogs*. London: House of Commons.
-
-Judiciary (2022) *TIG 1st Progress Report*. London: Judiciary of England and Wales.
-
-Judiciary (2024) *Family Court Annual Report 2023–2024*. London: Judiciary of England and Wales.
-
-Judiciary (2025a) *Reporting Pilot Update*. London: Judiciary of England and Wales.
-
-Judiciary (undated) *Transparency & Open Justice Board Key Objectives*. London: Judiciary of England and Wales.
-
-McFarlane, A. (2021) *Transparency Review*. London: Judiciary of England and Wales.
-
-McFarlane, A. (2025) *View from The President’s Chambers*. London: Judiciary of England and Wales.
-
-MoJ (2025a) *Family Court Statistics Quarterly*. London: Ministry of Justice.
-
-MoJ (2025b) *Parental Involvement Repeal*. London: Ministry of Justice.
-
-MoJ (2025c) *Call for Evidence Summary*. London: Ministry of Justice.
-
-NAO (2025) *Improving Family Court Services* (HC 877). London: National Audit Office.
-
-NatCen (2025) *Reporting Pilot Evaluation*. London: NatCen Social Research.
-
-Transparency Project (2021) *Transcripts in Family Court*. Available at: https://transparencyproject.org.uk/blog/transcripts-in-family-court-access-and-accuracy
-
-Transparency Project (2022) *Data Collection for Transparency*. Available at: https://transparencyproject.org.uk/blog/data-collection-for-transparency-tig-sub-group-update
-
-Transparency Project (2023a) *Pro-Contact Culture*. Available at: https://transparencyproject.org.uk/blog/pro-contact-culture-a-barrier-to-justice
-
-Transparency Project (2023b) *Open Justice in Practice*. Available at: https://transparencyproject.org.uk/blog/open-justice-in-practice-challenges-and-opportunities
-
-Walker, J. (2025) *FOI: Court Transcript Data*, WhatDoTheyKnow. Available at: https://www.whatdotheyknow.com/request/court_transcript_processing_performanc
-
-Warners Solicitors (2024) *State of Delays 2024*. Tonbridge: Warners Solicitors.
-
-https://transparencyproject.org.uk/category/cases/notorious/page/7/
-https://transparencyproject.org.uk/29974-2/
-https://transparencyproject.org.uk/an-order-for-no-contact-at-west-london-family-court/
-https://transparencyproject.org.uk/family-court-reporting-watch-roundup-august-sept-2025/
-https://transparencyproject.org.uk/judgment-given-and-published-in-welsh/
-https://transparencyproject.org.uk/british-teenager-becomes-a-ward-of-court-to-escape-from-somalia/
-https://transparencyproject.org.uk/children-left-with-harmful-parents-because-of-lack-of-foster-carers/
-https://transparencyproject.org.uk/public-and-private-the-limits-of-transparency-in-charlie-gards-case-an-update/
-https://transparencyproject.org.uk/judgment-published-to-warn-women-against-sperm-donor-who-has-180-kids/
-https://transparencyproject.org.uk/identification-of-judges-in-sara-sharif-family-court-history/
-https://transparencyproject.org.uk/court-of-appeal-to-consider-the-idea-of-the-anonymous-judge/
-https://transparencyproject.org.uk/family-judge-keeps-press-in-the-dark-about-indefensible-case/
-https://transparencyproject.org.uk/air-conditioning-astroturf-and-transparency-orders/
-https://transparencyproject.org.uk/final-divorce-orders-a-particular-category/
-https://transparencyproject.org.uk/transcript-reveals-what-one-judge-really-thinks-of-transparency/
-https://transparencyproject.org.uk/when-a-judge-prefers-his-own-biases-to-the-law-all-is-lost/
-https://transparencyproject.org.uk/behind-closed-doors-a-transcript-from-a-private-hearing/
-https://transparencyproject.org.uk/family-justice-ostiis-apertis/
-https://transparencyproject.org.uk/logan-mwangi-the-child-practice-review-and-the-family-courts/
-https://transparencyproject.org.uk/i-watched-eastenders-and-analysed-scarletts-family-court-drama-so-you-dont-have-to/
-https://transparencyproject.org.uk/the-mystery-of-x-the-croydon-expert/
-https://transparencyproject.org.uk/speaking-out-in-the-public-interest-and-childrens-privacy-rights-the-eleanor-bradford-adoption-breakdown-saga/
-https://transparencyproject.org.uk/bell-v-tavistock-court-of-appeal-judgment-an-explainer/
-https://transparencyproject.org.uk/agony-of-fighting-for-my-child-in-the-courts-by-a-family-lawyer-in-a-candid-account-a-lawyer-reveals-how-when-she-found-herself-in-her-clients-shoes-it-almost-destroyed-her/
-https://transparencyproject.org.uk/the-lachaux-libel-case-returns-with-an-expensive-result-for-the-publishers/
-https://transparencyproject.org.uk/misdiagnosis-case-update/
-https://transparencyproject.org.uk/the-domestic-abuse-appeals-a-missed-opportunity-for-cultural-change/
-https://transparencyproject.org.uk/domestic-abuse-conjoined-appeals-update/
-https://transparencyproject.org.uk/should-a-journalist-be-able-to-see-all-the-court-papers-behind-a-flawed-decision-that-a-child-should-be-adopted-marshalling-the-arguments/
-https://transparencyproject.org.uk/the-ppe-procurement-case-transparency-missed-in-both-politics-and-law/
-https://transparencyproject.org.uk/the-court-of-appeal-considers-domestic-abuse-part-3/
-https://transparencyproject.org.uk/the-court-of-appeal-considers-domestic-abuse-part-2/
-https://transparencyproject.org.uk/the-court-of-appeal-considers-domestic-abuse-part-1/
-https://transparencyproject.org.uk/bell-v-tavistock-in-the-high-court-an-explainer/
-https://transparencyproject.org.uk/eastenders-and-domestic-abuse/
-https://transparencyproject.org.uk/of-a-piece/
-https://transparencyproject.org.uk/296-days-to-correct-a-factual-inaccuracy-effective-press-regulation/
-https://transparencyproject.org.uk/journalists-persuade-judge-to-change-his-mind-and-name-criticised-local-authority/
-https://transparencyproject.org.uk/that-judgment-and-what-people-have-said-about-it/
-https://transparencyproject.org.uk/no-means-no-jh-v-mf/
-https://transparencyproject.org.uk/experience-as-a-legal-blogger-at-the-tafida-raqeeb-case/
-https://transparencyproject.org.uk/orphans-from-syria/
-https://www.irwinmitchell.com/news-and-insights/expert-comment/post/102isze/recording-tribunal-hearings-a-new-chapter-in-legal-transparency
-→ Employment tribunal recording article (22.11.2023)
-https://www.lawgazette.co.uk/practice-points/no-such-thing-as-a-free-transcript/5119927.article
-→ "No such thing as a free transcript" by Julia Jensen (7 June 2024)
-https://www.dekachambers.com/2024/01/26/balancing-openness-and-confidentiality-the-transparency-reporting-pilot-in-the-family-courts/
-→ Transparency Reporting Pilot extension article
-https://barristermagazine.com/reporting-in-family-courts/
-→ "Reporting in Family Courts" by Stuart Barlow (28 Feb 2023)
-https://www.stewartslaw.com/news/greater-transparency-family-proceedings-court-of-appeal/
-→ Court of Appeal decision on transparency (17 May 2022)
-https://resolution.org.uk/the-review/archive/the-review-issue-215/the-presidents-transparency-review-what-it-means-for-family-lawyers/
-→ President’s Transparency Review article
-https://www.stewartslaw.com/news/leeds-judge-makes-first-transparency-order-allowing-reporting-of-family-court-case/
-→ First transparency order in Leeds (3 Feb 2023)
-https://resolution.org.uk/the-review/archive/the-review-issue-223/the-reporting-pilot-in-the-family-courts/
-→ The Reporting Pilot in Family Courts (duplicate content of barristermagazine)
-https://www.rainscourt.com/transcript/
-→ How to get a Family Court transcript + EX107 info
-https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/884704/ex107-static-eng.pdf
-→ Official HMCTS Form EX107 (transcript request form) – referenced in rainscourt.com article
-https://www.stewartslaw.com/news/move-towards-greater-transparency-in-family-law-proceedings-gathers-pace/
-→ Transparency trend article (18 Mar 2022)
-https://www.london-law.co.uk/court-transcript-access-costs/
-→ Court transcript costs and EX107 guide
-https://www.majorfamilylaw.co.uk/transparency-project-extended-to-16-new-courts/
-→ Transparency pilot extended to 16 courts (13 Feb 2024)
-https://www.localgovernmentlawyer.co.uk/child-protection/309-children-protection-features/59458-a-guide-to-transparency-orders
-→ Guide to Transparency Orders (18 Dec 2024)
-https://www.judiciary.uk/wp-content/uploads/2024/08/Reporting-Pilot-Guidance-2024.pdf
-→ Official Reporting Pilot Guidance 2024 (linked in localgovernmentlawyer)
-https://www.weightmans.com/insights/media-and-transparency-in-the-family-court/
-→ Open reporting from Jan 2025 (6 Feb 2025)
-https://www.drdpartnership.com/news/lifting-the-veil-on-proceedings-in-the-family-courts
-→ Transparency pilot extension analysis (29 Feb 2024)
-https://barcankirby.co.uk/media-reporting-now-allowed-in-family-courts/
-→ Media now allowed in family courts (29 Apr 2025)
-https://www.goodlawsolicitors.co.uk/insights/transparency-in-family-court/
-→ Can journalists attend family hearings? (2025)
-Search Results:
-https://www.justanswer.co.uk/law/p6cy4-made-appeal-time-family-court-went.html
-https://www.justanswer.co.uk/family-law/gu7s1-applied-court-waiting-hearing-early-next.html
-https://www.justanswer.co.uk/law/h3k4h-when-judge-makes-decision-supposed-receive.html
-https://www.justanswer.co.uk/law/oikzy-form-need-file-court-enforce-order.html
-https://www.justanswer.co.uk/family-law/t3hie-litigant-person-private-family-law.html
-https://www.justanswer.com/uk-law/nzzfi-ex-partner-sharing-private-confidential.html
-https://www.justanswer.com/uk-law/te7r2-family-court-witness-evidence-dispute.html
-https://www.justanswer.co.uk/family-law/rw8po-ex-states-not-comply-mediator.html
-https://www.justanswer.com/european-law/rhv99-one-party-parent-leaked-details-family-court.html
-https://www.justanswer.co.uk/family-law/oq8xp-received-c21-order-court-know.html
-https://www.justanswer.co.uk/family-law/p7bye-need-urgent-advice-ex-wife-filed.html
-https://www.justanswer.co.uk/law/pwgb7-solicitor-sends-email-information.html
-https://www.justanswer.co.uk/law/t72jb-need-ask-confidential-question-contains.html
-https://www.justanswer.co.uk/family-law/ofrk0-applied-child-arrangement-order-ex.html
-https://www.justanswer.co.uk/employment-law/qkyth-granted-permission-appeal-court.html
-https://www.justanswer.co.uk/law/rgeq4-waiting-disciplinary-hearing-relating-evidence.html
-https://www.justanswer.co.uk/law/nm21l-two-concurrent-cases-going-high-court.html
-https://www.justanswer.co.uk/law/njrgg-dear-district-judge-humphreys-write-regard.html
-https://www.justanswer.co.uk/family-law/eko64-laws-guidance-family-court.html
-https://www.justanswer.co.uk/family-law/qpkzt-disagree-final-order-made-family-judge.html
-https://www.justanswer.co.uk/law/ly5gu-family-court-judge-made-final-decision-writing.html
-https://www.justanswer.com/uk-family-law/rd9n7-looking-4-page-court-statement-review-family.html
-https://www.justanswer.co.uk/family-law/d8v4p-i-ve-received-court-judgment-divorce-judges.html
-https://www.justanswer.co.uk/law/tgi23-enquiring-just-consultation-second.html
-https://www.justanswer.com/family-law/s5uyn-private-family-law-england-wales.html
-https://www.justanswer.co.uk/family-law/kef6m-appeal-family-court-circuit.html
-https://www.justanswer.co.uk/law/p1xlb-i-ve-recused-district-judge-family-court-matter.html
-https://www.justanswer.co.uk/family-law/pnms0-court-proceeding-ongoing-next-hearing-it.html
-https://www.justanswer.co.uk/law/p1lmr-regarding-claim-judicial-review-anonymity-court.html
-https://www.justanswer.co.uk/family-law/qnbqd-contacted-solicitor-behalf-sons.html
-https://www.justanswer.co.uk/law/rtczr-question-advantageous-withdraw-appeal.html
-https://www.justanswer.co.uk/law/pgd5q-need-help-judicial-review-case-litingant.html
-https://www.justanswer.co.uk/family-law/d5rid-obtain-copy-court-judgement-no.html
-https://www.justanswer.co.uk/law/9hobq-won-case-asked-party-cost-order.html
-https://www.justanswer.co.uk/family-law/mb1tf-requested-transcription-recording-final.html
-https://www.justanswer.co.uk/family-law/qj3cr-information-require-litigant-person.html
-https://www.justanswer.co.uk/family-law/cjuhl-recently-requested-court-transcript-family-law.html
-https://www.justanswer.co.uk/law/crhwt-receive-transcript-whole-trial-small.html
-https://www.justanswer.co.uk/law/r3owo-appel-set-side-judgment-refused-judge.html
-https://www.justanswer.co.uk/family-law/orny5-requested-disclosure-transcripts.html
-https://www.justanswer.co.uk/law/m2mwd-small-claims-county-court-judgement-want.html
-https://www.justanswer.co.uk/law/qbbet-need-lawyer-civil-litigation-matter-relating.html
-https://www.justanswer.co.uk/law/qstim-know-apply-maintenance-order.html
-https://www.justanswer.co.uk/law/q2c2y-when-court-transcript-relating-oral-evidence.html
-https://www.justanswer.co.uk/law/fl0kt-crown-ct-judge-cvp-hearing-i-note-accused.html
-https://www.justanswer.co.uk/family-law/tdx3s-need-help-family-courts-administration-london.html
-https://www.justanswer.co.uk/law/acdjj-went-county-court-debt-moneyway-giving.html
-https://www.justanswer.co.uk/law/ocpbz-question-court-transcripts-party.html?utm_source=chatgpt.com
-https://www.justanswer.co.uk/law/nd771-court-hearing-transcriptions-aware-ex107-form.html
-https://www.justanswer.co.uk/law/leew9-wish-know-appeal-outcome-fact-finding.html
-https://www.justanswer.co.uk/law/mg2qd-need-appeal-court-decision-re-children-custody.html
-https://www.justanswer.co.uk/law/qbwpw-appeal-court-decision.html
-https://www.justanswer.co.uk/family-law/puoch-family-court-directions-hearing-yesterday.html
-https://www.justanswer.co.uk/law/868mc-judge-hear-new-evidence-final-hearing-judgement.html
-https://www.justanswer.co.uk/family-law/c9moq-need-part-25-application-independent.html
-https://www.justanswer.co.uk/family-law/bcfiw-happens-when-disagree-th-contents-court.html
-https://www.justanswer.co.uk/family-law/b3ny9-judge-question.html
-https://www.justanswer.co.uk/family-law/b4mti-question-claire-family-solicitor-claire-don-t-appear.html
-https://www.justanswer.co.uk/law/d64yg-claimant-produced-last-minute-new-evidence.html
-https://www.justanswer.co.uk/property-law/anse3-made-county-court-claim-landlord-court-sent.html
-https://www.justanswer.co.uk/law/cw8sd-present-email-correspondence-evidence-court.html
-https://www.justanswer.co.uk/law/8bzpq-prepare-trial-send-documents-recorded.html
-https://www.justanswer.co.uk/family-law/c1nkb-know-apply-family-court.html
-https://www.justanswer.co.uk/law/c22yj-charged-failing-inform-change.html
-https://www.justanswer.co.uk/law/829pg-disclosure-scotland-pvg-scheme-record.html
-https://www.justanswer.co.uk/law/cbvrs-son-supposedly-issued-152-notice.html
-https://www.justanswer.co.uk/law/ceb02-workman-says-owe-money-and-know-don-t-does.html
-https://www.justanswer.co.uk/law/cv4ys-bailiff-visited-property-looking-someone-else-s.html
-https://www.justanswer.co.uk/law/a911x-car-damaged-ncp-car-park-due-negligent.html
-https://www.justanswer.co.uk/bankruptcy-law/ajcqo-sued-hifx-europe-ltd-money-transfer.html
-https://www.justanswer.co.uk/law/9zbe9-took-vehicle-automatic-car-wash-bp-express.html
-https://www.justanswer.co.uk/uk-law/5c4d1-possible-copy-999-call-i-trying.html
-https://www.justanswer.co.uk/topics-humiliation/
-https://www.justanswer.co.uk/law/cswaz-go-court-without-not-having-charged.html
-
-Final Links:
-1.https://www.justanswer.co.uk/family-law/orny5-requested-disclosure-transcripts.html  
-   *(EX107 transcript request in family proceedings)*
-2.https://www.justanswer.co.uk/law/nd771-court-hearing-transcriptions-aware-ex107-form.html  
-   *(EX107 for family hearing transcription)*
-3. https://www.justanswer.co.uk/family-law/cjuhl-recently-requested-court-transcript-family-law.html  
-   *(Family law court transcript application)*
-4. https://www.justanswer.co.uk/family-law/mb1tf-requested-transcription-recording-final.html  
-   *(Transcription of final family hearing recording)*
-5. https://www.justanswer.co.uk/law/crhwt-receive-transcript-whole-trial-small.html  
-   *(Transcript of family trial proceedings)*
-6. https://www.justanswer.co.uk/law/ocpbz-question-court-transcripts-party.html  
-   *(EX107 processing and access denial in family context)*
-7 https://www.justanswer.co.uk/law/q2c2y-when-court-transcript-relating-oral-evidence.html  
-   *(Transcript for oral evidence in family court)*
-8. https://www.justanswer.co.uk/family-law/d5rid-obtain-copy-court-judgement-no.html  
-   *(Obtaining family judgment/transcript copy)*
-9. https://www.justanswer.co.uk/law/p6cy4-made-appeal-time-family-court-went.html  
-   *(Appeal requiring family court transcript)*
-10. https://www.justanswer.co.uk/family-law/gu7s1-applied-court-waiting-hearing-early-next.html  
-    *(Transcript for upcoming family hearing)*
-11 https://www.justanswer.co.uk/family-law/t3hie-litigant-person-private-family-law.html  
-    *(LiP transcript access in private family law)*
-12 https://www.justanswer.com/uk-law/nzzfi-ex-partner-sharing-private-confidential.html  
-    *(Disclosure/redaction of confidential family details)*
-13 https://www.justanswer.com/uk-law/te7r2-family-court-witness-evidence-dispute.html  
-    *(Evidence/transcript dispute in family court)*
-14 https://www.justanswer.co.uk/family-law/oq8xp-received-c21-order-court-know.html  
-    *(C21 order and family transcript implications)*
-15 https://www.justanswer.co.uk/family-law/qnbqd-contacted-solicitor-behalf-sons.html  
-    *(Transcript for child-related family disclosure)*
-16 https://www.justanswer.co.uk/family-law/pnms0-court-proceeding-ongoing-next-hearing-it.html  
-    *(Ongoing family proceedings transcript needs)*
-17 https://www.justanswer.co.uk/family-law/puoch-family-court-directions-hearing-yesterday.html  
-    *(Directions hearing transcript in family court)*
-18 https://www.justanswer.co.uk/family-law/eko64-laws-guidance-family-court.html  
-    *(Family court guidance on transcripts/disclosure)*
-19 https://www.justanswer.co.uk/family-law/qpkzt-disagree-final-order-made-family-judge.html  
-    *(Disputing family order via transcript review)*
-20 https://www.justanswer.co.uk/law/ly5gu-family-court-judge-made-final-decision-writing.html  
-    *(Written decision/transcript from family judge)*
-21 https://www.justanswer.co.uk/family-law/d8v4p-i-ve-received-court-judgment-divorce-judges.html  
-    *(Divorce judgment transcript issues)*
-22 https://www.justanswer.co.uk/family-law/kef6m-appeal-family-court-circuit.html  
-    *(Circuit family court appeal transcript)*
-https://www.justanswer.co.uk/law/mg2qd-need-appeal-court-decision-re-children-custody.html  
-    *(Custody appeal requiring family transcript/EX107)*
-    
----
-
-
-### REFERENCES
-
-Law Society (2023) 'Family court backlogs: Over 80,000 children awaiting decisions', 
-Press Release, 15 March. Available at: https://www.lawsociety.org.uk/... 
-(Accessed: 30 October 2025).
-
-Ministry of Justice (2025) Family Court Statistics Quarterly, April to June 2025. 
-London: Ministry of Justice. Available at: 
-https://www.gov.uk/government/statistics/family-court-statistics-quarterly-
-april-to-june-2025 (Accessed: 30 October 2025).
-
-Transparency Project (2023) Annual Report 2022-2023: Transparency in Family Justice. 
-Bristol: The Transparency Project. Available at: 
-https://www.transparencyproject.org.uk/... (Accessed: 30 October 2025).
-
-Women's Aid (2024) The Domestic Abuse Report 2024: The Annual Audit. Bristol: 
-Women's Aid Federation of England. Available at: 
-https://www.womensaid.org.uk/... (Accessed: 30 October 2025).
-
-## QUESTION 2: Bibliography Entries Needed
-
-Here are all the sources cited in the introduction that need bibliography entries:
-
-### **BOOKS/REPORTS:**
-
-1. **Argyris, C., & Schön, D. A. (1978).** *Organizational learning: A theory of action perspective.* Reading, MA: Addison-Wesley.
-
-2. **Denzin, N. K. (1978).** *The research act: A theoretical introduction to sociological methods* (2nd ed.). New York: McGraw-Hill.
-
-3. **Kolb, D. A. (1984).** *Experiential learning: Experience as the source of learning and development.* Englewood Cliffs, NJ: Prentice-Hall.
-
-4. **Law Society (2024).** [Title of report about 103,676 children in backlogs]. London: Law Society. [**NOTE: You need to verify the exact title and publication details**]
-
-5. **Senge, P. M. (1990).** *The fifth discipline: The art and practice of the learning organization.* New York: Doubleday.
-
----
-
-### **GOVERNMENT PUBLICATIONS:**
-
-6. **Ministry of Justice (2025).** *Family Court Statistics Quarterly: October to December 2024.* London: Ministry of Justice. Available at: https://www.gov.uk/government/statistics/family-court-statistics-quarterly-october-to-december-2024/family-court-statistics-quarterly-october-to-december-2024 [Accessed 31 October 2025]
-
-7. **McFarlane, A. (2021).** *Transparency Review.* [**NOTE: Full citation needed - published by?**]
-
----
-
-### **CASE LAW:**
-
-8. **M (A Child: Intermediaries) [2025] EWCA Civ 440**
-
-9. **Re X (A Child) [2016] EWFC B43**
-
----
-
-### **LEGISLATION/RULES:**
-
-10. **Family Procedure Rules 2010 (FPR 2010).** SI 2010/2955. Available at: https://www.legislation.gov.uk/uksi/2010/2955/contents
-
-11. **Practice Direction 27A** [Family Procedure Rules]
-
----
-
-### **ORGANIZATIONAL SOURCES:**
-
-12. **Transparency Project (2023).** [**NOTE: You cite this for "precedent development relies on recollection rather than record" - which specific TP publication? Need exact citation**]
-
-13. **Transparency Implementation Group (TIG)** [**NOTE: Multiple references to TIG reports - need specific report citations if you're referencing particular findings**]
-
----
-
-### **FOI REQUEST:**
-
-14. **Walker, K. (2025).** [FOI request to Ministry of Justice regarding transcript processing data]. [**NOTE: Need proper citation format for FOI - typically: "Freedom of Information Request [Reference Number], Ministry of Justice, [Date]"**]
-
----
-
-## CRITICAL GAPS TO FILL:
-
-You have **FOUR sources that need more complete information**:
-
-### 1. **Law Society (2024) - 103,676 children figure**
-- What is the exact title of this report?
-- Publication date (month)?
-- URL if available online?
-
-### 2. **Transparency Project (2023) - "recollection rather than record"**
-- Which TP publication states this?
-- Is it a blog post, report, guidance document?
-- Author(s)?
-- URL?
-
-### 3. **McFarlane Transparency Review (2021)**
-- Full title?
-- Published by whom? (Judiciary? MoJ?)
-- URL?
-
-### 4. **Walker FOI Request (2025)**
-- FOI reference number?
-- Date submitted/responded?
-- Exact wording of response ("no data held")?
-
----
-
-## BIBLIOGRAPHY FORMAT RECOMMENDATION:
-
-Since this appears to be academic writing, I suggest **OSCOLA (Oxford Standard for Citation of Legal Authorities)** or **Harvard** style. Which do you prefer?
-
-**Example in OSCOLA:**
-```
-Ministry of Justice, Family Court Statistics Quarterly: October to December 2024 
-(Ministry of Justice 2025) <https://www.gov.uk/government/statistics/...> 
-accessed 31 October 2025
-```
-
-**Example in Harvard:**
-```
-Ministry of Justice (2025) Family Court Statistics Quarterly: October to December 2024. 
-London: Ministry of Justice. Available at: https://www.gov.uk/government/statistics/... 
-(Accessed: 31 October 2025)
-
-Vendor Documentation:
-
-eScribers (2025) 'Transcriptions Q&A: Civil, Family and Tribunal Matters'. Available at: https://uk.escribers.net/ [Accessed: October 2025].
-The Transcription Agency (2025) 'Common Questions: How to Place a Booking'. Available at: https://www.thetranscriptionagency.com/ [Accessed: October 2025].
-Ubiqus (Acolad UK Ltd) (2025) 'Civil Transcripts Request with EX107 form: Price Guide'. Available at: https://legal.ubiqus.co.uk/ [Accessed: October 2025].
-Marten Walsh Cherer (2025) 'Service Level Bands and Terms'. [T&Cs document]
-
-Official Guidance:
-
-HMCTS (August 2025) Request a court or tribunal transcript – Guidance note (EX107GN). London: Ministry of Justice.
-HMCTS (2025) Approved transcription providers list. Available at: GOV.UK
-Court of Appeal (2025) Civil Appeals Guide. London: Judiciary of England and Wales.
-Ministry of Justice (2025) Practice Direction 30A: Appeals. London: MoJ.
-
-Forms:
-
-Form EX107 (version 07.25, revised August 2025): Request for transcript
-Form EX105: Application for transcript at public expense
-Form EX160A: Help with Fees
-Form N161: Notice of Appeal (Court of Appeal)
-Form FP161: Notice of Appeal (High Court Family)
-Form C2: Application for permission (children cases)
-Form D11: Application for permission (divorce/financial cases)
-
-Legislation & Practice Directions:
-
-Administration of Justice Act 1960, s.12
-Children Act 1989, s.97
-Sexual Offences Act 1992
-Family Procedure Rules 2010 (FPR), Rules 12.73-12.75, 27.10, 30.4
-Practice Direction 12G (Publication)
-Practice Direction 27A (Family Proceedings: Court Bundles)
-Practice Direction 30A (Appeals)
-
-Case Law:
-
-Re S (A Child) [2004] UKHL 47 (publication balancing Article 8/10)
-M (A Child) [2025] EWCA Civ 440
-Re X (A Child) [2016] EWFC B43
-Sara Sharif [2025] [CITATION NEEDED]
-HHJ Haigh appeal [CITATION NEEDED]
-Taylor v Alcott [CA-2023-000462]
-
-Reports & Policy Documents:
-
-Transparency Implementation Group (2023-2025) Reports. Available via Transparency Project.
-Ministry of Justice (2025) Family Court Statistics Quarterly, Q2 2025.
-Judicial guidance on publication (2014, updated 2025): Open Reporting Provisions
-Walker (2025) Freedom of Information request: transcript processing times [reference needed]
-
-Academic Sources:
-
-Argyris, C. and Schön, D. (1978) Organizational Learning: A Theory of Action Perspective. Reading, MA: Addison-Wesley.
-Senge, P. (1990) The Fifth Discipline: The Art and Practice of the Learning Organization. New York: Doubleday.
-Thaler, R. and Sunstein, C. (2008) Nudge: Improving Decisions About Health, Wealth, and Happiness. New Haven: Yale University Press.
-Denzin, N.K. (1978) The Research Act: A Theoretical Introduction to Sociological Methods. 2nd edn. New York: McGraw-Hill.
+Court of Appeal (2025) *Court of Appeal (Civil Division) guide*. London: Judiciary of England and Wales. Available at: https://www.judiciary.uk/publications/court-of-appeal-civil-division-guide/ (Accessed: 2 November 2025).
 
-Websites:
+Deka Chambers (2024) *Balancing openness and confidentiality: the transparency reporting pilot in the family courts*. Available at: https://www.dekachambers.com/2024/01/26/balancing-openness-and-confidentiality-the-transparency-reporting-pilot-in-the-family-courts (Accessed: 2 November 2025).
 
-BAILII (British and Irish Legal Information Institute): https://www.bailii.org
-Find Case Law (The National Archives): https://caselaw.nationalarchives.gov.uk
-Transparency Project: https://www.transparencyproject.org.uk
-HMCTS guidance: https://www.gov.uk
-Transparency Project (2019). *Media Guide: Reporting Family Cases*. 
-Available at: https://www.transparencyproject.org.uk/press/wp-content/uploads/Media-Guide-Mar-19.pdf
-_Re X (A Child)_ [2016] EWFC B43 (Parker J), Post-hand-down comments, paras 109–121.
+Denzin, N.K. (1978) *The research act: a theoretical introduction to sociological methods*. 2nd edn. New York: McGraw-Hill.
 
-#### Bibliography (Cases)
-- _Re X (A Child)_ [2016] EWFC B43 (Parker J)
-M (A Child: Intermediaries) [2025] EWCA Civ 440 (Peter Jackson LJ)
-## References
+DRD Partnership (2024) *Lifting the veil on proceedings in the Family Courts*. Available at: https://drdpartnership.com/news/lifting-the-veil-on-proceedings-in-the-family-courts (Accessed: 2 November 2025).
 
-Argyris, C., & Schön, D. A. (1978). *Organizational learning: A theory of action perspective*. Reading, MA: Addison-Wesley.
+DTM Legal (2025) *New transparency rules in family courts*. Available at: https://www.dtmlegal.co.uk/news/transparency-family-courts (Accessed: 2 November 2025).
 
-Bourdieu, P. (1977). *Outline of a theory of practice*. Cambridge: Cambridge University Press.
+Ellisons (2025) *New rules to bring transparency*. 20 May. Available at: https://ellisons.com/news/new-rules-transparency (Accessed: 2 November 2025).
 
-Bureau of Investigative Journalism. (2025). *Domestic abuse in family courts*. Retrieved from https://www.thebureauinvestigates.com/
+Epiq Europe Ltd (2024) *Transcription services: terms and conditions*. Available at: https://www.epiqglobal.com/ (Accessed: 2 November 2025).
 
-Byline Times. (2025, October 25). Family justice in crisis: Thousands of children waiting years for court decisions. Retrieved from https://bylinetimes.com
+Epiq Europe Ltd and Cabinet Office (2024) *Contract for the provision of stenography services* [Ref: 5257/A/CO(b/45309)].
 
-Denzin, N. K. (1978). *The research act: A theoretical introduction to sociological methods* (2nd ed.). New York: McGraw-Hill.
+eScribers (2024) *Terms and conditions for civil, family and tribunal courtroom transcription services*. Available at: https://uk.escribers.net/ (Accessed: 2 November 2025).
 
-Doughty, J., Magrath, P., & Bates, F. (2023). *Anonymisation in family court judgments: An audit*. Cardiff University.
+eScribers (2024) *Frequently asked questions: transcription services*. Available at: https://uk.escribers.net/ (Accessed: 2 November 2025).
 
-Fairclough, N. (2003). *Analysing discourse: Textual analysis for social research*. London: Routledge.
+Fairclough, N. (2003) *Analysing discourse: textual analysis for social research*. London: Routledge.
 
-Family Court. (2024). *Family court annual report 2024*. London: Judiciary of England and Wales.
+Family Justice Young People’s Board (2021) *Views on transparency in family courts*. In Judiciary of England and Wales (2021).
 
-Family Court. (2025, April 15). A view from the President's chambers. Retrieved from https://www.judiciary.uk
+Family Procedure Rule Committee (2025) *Practice Direction 29: miscellaneous provisions relating to hearings*. London: Ministry of Justice. Available at: https://www.justice.gov.uk/courts/procedure-rules/family/practice_directions (Accessed: 2 November 2025).
 
-Foucault, M. (1980). *Power/knowledge: Selected interviews and other writings, 1972-1977*. New York: Pantheon Books.
+Family Procedure Rule Committee (2025) *Practice Direction 39A: miscellaneous provisions (including ruling)*. London: Ministry of Justice.
 
-Harrington, L. (2024). *Towards improving transcripts of audio recordings in the criminal justice system* [Doctoral dissertation, University of York]. University of York Research Archive.
+Financial Remedies Journal (2024) *Transparency in the FRC: TIG sub-group*. Available at: https://financialremediesjournal.com/ (Accessed: 2 November 2025).
 
-Hencke, D. (2025). Family court crisis reporting. *Byline Times*.
+Foucault, M. (1980) *Power/knowledge: selected interviews and other writings, 1972–1977*. New York: Pantheon Books.
 
-House of Commons Justice Committee. (2022). *Open justice: Court reporting in the digital age*. HC 190. London: House of Commons.
+Furley Page (2025) *Groundbreaking new laws*. 12 February. Available at: https://www.furleypage.co.uk/news/groundbreaking-transparency-laws (Accessed: 2 November 2025).
 
-House of Commons Justice Committee. (2023). *Open justice: Response to the report*. HC 567. London: House of Commons.
+GitHub (2025) *Family Court Transcript Reality Gap Repository*. Available at: https://github.com/WriteTogetherToMakeBetterWorld/family-court-transcript-reality-gap (Accessed: 2 November 2025).
 
-House of Commons Public Accounts Committee. (2025). *Family justice system performance*. London: House of Commons.
+Goodlaw Solicitors (2025) *Media & transparency update*. 18 February. Available at: https://www.goodlawsolicitors.co.uk/media-transparency-update (Accessed: 2 November 2025).
 
-Judiciary. (2022). *Transparency Implementation Group progress report*. London: Judiciary of England and Wales.
+Goughs Solicitors (2025) *Family Court Transparency Orders*. 22 January. Available at: https://www.goughs.co.uk/family-court-transparency (Accessed: 2 November 2025).
 
-Judiciary. (2024). *Family Court annual report: October 2023 to September 2024*. London: Judiciary of England and Wales.
+Guardian (2023) *Explosive court transcript*. 10 December. Available at: https://www.theguardian.com/society/2023/dec/10/explosive-court-transcript (Accessed: 2 November 2025).
 
-Judiciary. (2025a). *Open reporting provisions*. London: Judiciary of England and Wales.
+Guardian (2025) *New rules ease reporting*. 27 January. Available at: https://www.theguardian.com/law/2025/jan/27/family-court-reporting-rules (Accessed: 2 November 2025).
 
-Judiciary. (undated). *Transparency & Open Justice Board objectives*. Retrieved from https://www.judiciary.uk
+Harrington, L. (2024) *Towards improving transcripts of audio recordings in the criminal justice system* [Doctoral dissertation]. University of York Research Archive.
 
-Kolb, D. A. (1984). *Experiential learning: Experience as the source of learning and development*. Englewood Cliffs, NJ: Prentice-Hall.
+Hencke, D. (2025) *Family court crisis reporting*. Byline Times.
 
-Kritzer, H. M. (1998). *Legal advocacy: Lawyers and nonlawyers at work*. Ann Arbor: University of Michigan Press.
+HM Courts & Tribunals Service (2024) *Making an application: children and the family courts*. 7 August. Available at: https://www.gov.uk/guidance/making-an-application-children-family-courts (Accessed: 2 November 2025).
 
-Law Society. (2023). *Family court backlogs statement*. London: Law Society.
+HM Courts & Tribunals Service (2025) *Form C2: application for a court order in existing proceedings*. Available at: https://www.gov.uk/government/publications/form-c2 (Accessed: 2 November 2025).
 
-Law Society. (2024). *Family law billing practices guidance*. London: Law Society.
+HM Courts & Tribunals Service (2025) *Form C79: enforcement of orders*. Available at: https://www.gov.uk/government/publications/form-c79 (Accessed: 2 November 2025).
 
-Luhmann, N. (1995). *Social systems*. Stanford, CA: Stanford University Press.
+HM Courts & Tribunals Service (2025) *Form D11: application to change existing proceedings*. Available at: https://www.gov.uk/government/publications/form-d11 (Accessed: 2 November 2025).
 
-McFarlane, A. (2021). *Transparency in the family courts: Confidence and confidentiality*. London: Judiciary of England and Wales.
+HM Courts & Tribunals Service (2025) *Form EX105: help with court transcript costs*. Available at: https://www.gov.uk/government/publications/form-ex105 (Accessed: 2 November 2025).
 
-McFarlane, A. (2025, April). View from the President's chambers. Retrieved from https://www.judiciary.uk
+HM Courts & Tribunals Service (2025) *Form EX107: request for transcription of court or tribunal proceedings (v07.25)*. London: Ministry of Justice. Available at: https://www.gov.uk/government/publications/form-ex107-request-for-transcription (Accessed: 2 November 2025).
 
-Meyer, J. W., & Rowan, B. (1977). Institutionalized organizations: Formal structure as myth and ceremony. *American Journal of Sociology, 83*(2), 340-363.
+HM Courts & Tribunals Service (2025) *Form EX107GN: guidance notes*. Available at: https://www.gov.uk/government/publications/order-a-transcript-of-court-or-tribunal-proceedings-form-ex107/guidance-for-requesting-a-transcript (Accessed: 2 November 2025).
 
-Ministry of Justice. (2025a). *Family court statistics quarterly: April to June 2025*. London: HMCTS.
+HM Courts & Tribunals Service (2025) *Form EX160A: how to apply for help with fees*. Available at: https://www.gov.uk/government/publications/apply-for-help-with-court-and-tribunal-fees (Accessed: 2 November 2025).
 
-Ministry of Justice. (2025b). *Improving family court services for children*. London: Ministry of Justice.
+HM Courts & Tribunals Service (2025) *Form EX107OFC: permission for a transcript when HMCTS transcription companies are not providing the service*. Available at: https://www.gov.uk/government/publications/ (Accessed: 2 November 2025).
 
-Ministry of Justice. (2025c). *Call for evidence: Open justice, the way forward 2025*. London: Ministry of Justice.
+HM Courts & Tribunals Service (2025) *Form EX160: help with fees*. Available at: https://www.gov.uk/government/publications/apply-for-help-with-court-and-tribunal-fees (Accessed: 2 November 2025).
 
-National Audit Office. (2025). *Reducing the backlog in family courts*. HC 234. London: NAO.
+HM Courts & Tribunals Service (2025) *Form EX50A: civil and family court fees*. Available at: https://www.gov.uk/government/publications/court-and-tribunal-fees (Accessed: 2 November 2025).
 
-NatCen. (2025). *Transparency pilot evaluation*. London: NatCen Social Research.
+HM Courts & Tribunals Service (2025) *Form FP161: application for permission to appeal to the High Court*. Available at: https://www.gov.uk/government/publications/form-fp161 (Accessed: 2 November 2025).
 
-Nonaka, I., & Takeuchi, H. (1995). *The knowledge-creating company: How Japanese companies create the dynamics of innovation*. Oxford: Oxford University Press.
+HM Courts & Tribunals Service (2025) *Form N244: application notice*. Available at: https://www.gov.uk/government/publications/form-n244-application-notice (Accessed: 2 November 2025).
 
-Nuffield Foundation. (2024). *Where has my justice gone?* London: Nuffield Foundation.
+HM Courts & Tribunals Service (2025) *Form N460: reasons for allowing or refusing permission to appeal*. Available at: https://www.gov.uk/government/publications/form-n460 (Accessed: 2 November 2025).
 
-Senge, P. M. (1990). *The fifth discipline: The art and practice of the learning organization*. New York: Doubleday.
+HM Courts & Tribunals Service (2025) *Form N161: appellant's notice*. Available at: https://www.gov.uk/government/publications/form-n161-appellants-notice (Accessed: 2 November 2025).
 
-Thaler, R. H., & Sunstein, C. R. (2008). *Nudge: Improving decisions about health, wealth, and happiness*. New Haven, CT: Yale University Press.
+HM Courts & Tribunals Service (2025) *Guidance: Form CB5*. London: HM Courts & Tribunals Service.
 
-Transparency Implementation Group. (2022, October). *Family court transparency implementation group progress report*. London: Judiciary of England and Wales.
+HM Courts & Tribunals Service (2025) *Guidance: Form EX107 - requesting a transcript*. Available at: https://www.gov.uk/government/publications/form-ex107-request-for-transcription (Accessed: 2 November 2025).
 
-Transparency & Open Justice Board. (2024). *Policy guidance: How transparency should be promoted*. London: Judiciary of England and Wales.
+HM Courts & Tribunals Service (2025) *Guidance: Form N161 - appellant's notice*. London: HM Courts & Tribunals Service.
 
-Transparency Project. (2019). *Guide to transparency in family courts*. Retrieved from https://www.transparencyproject.org.uk
+House of Commons Justice Committee (2022) *Open justice: court reporting in the digital age* (HC 190). London: House of Commons.
 
-Transparency Project. (2021). *Press reporting guidance*. Retrieved from https://www.transparencyproject.org.uk
+House of Commons Justice Committee (2023) *Open justice: response to the report* (HC 567). London: House of Commons.
 
-Transparency Project. (2023). *Accessing family court transcripts: A guide*. Retrieved from https://www.transparencyproject.org.uk
+House of Commons Public Accounts Committee (2025) *Family justice system performance*. London: House of Commons.
 
-Transparency Project. (2025). *Judicial anonymisation practices*. Retrieved from https://www.transparencyproject.org.uk
+Inforrm Blog (2025) *Family court transparency: the 2025 reforms*. Available at: https://inforrm.org/2025/family-court-transparency (Accessed: 2 November 2025).
 
-Walker, J. (2025). Court data on transcript processing performance [Freedom of Information response]. Ministry of Justice.
+Irwin Mitchell (2023) *Recording tribunal hearings: a new chapter in legal transparency?* 22 November. Available at: https://www.irwinmitchell.com/news-and-insights/expert-comment/post/102isze/recording-tribunal-hearings-a-new-chapter-in-legal-transparency (Accessed: 2 November 2025).
 
-Walsh, J. P., & Ungson, G. R. (1991). Organizational memory. *Academy of Management Review, 16*(1), 57-91.
+Judiciary of England and Wales (2021) *Confidence and confidentiality: transparency in the family courts*. Available at: https://www.judiciary.uk/wp-content/uploads/2021/10/Confidence-and-Confidentiality-Transparency-in-the-Family-Courts-final.pdf (Accessed: 2 November 2025).
 
-Warners Solicitors. (2024). *Family court case duration statistics*. Retrieved from https://www.warnerslaw.com
-## References (Additional Court Documents)
+Judiciary of England and Wales (2022) *Transparency Implementation Group progress report*. London: Judiciary.
 
-[... your existing references ...]
+Judiciary of England and Wales (2024) *Family Court annual report: October 2023 to September 2024*. London: Judiciary.
 
-HMCTS. (2025). *Form C2: Application for a court order in existing proceedings*. London: HM Courts & Tribunals Service. Retrieved from https://www.gov.uk/government/publications/form-c2-application-for-a-court-order-in-existing-proceedings
+Judiciary of England and Wales (2025a) *Open reporting provisions*. London: Judiciary.
 
-HMCTS. (2025). *Form C79: Enforcement of orders*. London: HM Courts & Tribunals Service. Retrieved from https://www.gov.uk/government/publications/form-c79-enforcement-of-orders
+Judiciary of England and Wales (2025b) *Family Court Reporting Provisions Extension*. Available at: https://www.judiciary.uk/family-court-reporting-provisions-to-extend-to-all-family-courts-in-england-and-wales/ (Accessed: 2 November 2025).
 
-HMCTS. (2025). *Form D11: Application to change existing proceedings*. London: HM Courts & Tribunals Service. Retrieved from https://www.gov.uk/government/publications/form-d11
+Judiciary of England and Wales (undated) *Transparency & Open Justice Board objectives*. Available at: https://www.judiciary.uk (Accessed: 2 November 2025).
 
-HMCTS. (2025). *Form EX105: Help with court transcript costs*. London: HM Courts & Tribunals Service. Retrieved from https://www.gov.uk/government/publications/form-ex105
+JustAnswer.co.uk (2019a) *Family law court transcript application.* [User forum discussion]. Available at: https://www.justanswer.co.uk/family-law/cjuhl-recently-requested-court-transcript-family-law.html (Accessed: 2 November 2025).
 
-HMCTS. (2025). *Form EX107: Request for transcription*. London: HM Courts & Tribunals Service. Retrieved from https://www.gov.uk/government/publications/form-ex107-request-for-transcription
+JustAnswer.co.uk (2019b) *Transcript of family trial proceedings.* [User forum discussion]. Available at: https://www.justanswer.co.uk/law/crhwt-receive-transcript-whole-trial-small.html (Accessed: 2 November 2025).
 
-HMCTS. (2025). *Form EX160A: How to apply for help with fees*. London: HM Courts & Tribunals Service. Retrieved from https://www.gov.uk/government/publications/apply-for-help-with-court-and-tribunal-fees
+JustAnswer.co.uk (2019c) *Obtaining family judgment/transcript copy.* [User forum discussion]. Available at: https://www.justanswer.co.uk/family-law/d5rid-obtain-copy-court-judgement-no.html (Accessed: 2 November 2025).
 
-HMCTS. (2025). *Form EX50A: Civil and family court fees*. London: HM Courts & Tribunals Service. Retrieved from https://www.gov.uk/government/publications/court-and-tribunal-fees
+JustAnswer.co.uk (2019d) *Divorce judgment transcript issues.* [User forum discussion]. Available at: https://www.justanswer.co.uk/family-law/d8v4p-i-ve-received-court-judgment-divorce-judges.html (Accessed: 2 November 2025).
 
-HMCTS. (2025). *Form FP161: Application for permission to appeal to the High Court*. London: HM Courts & Tribunals Service. Retrieved from https://www.gov.uk/government/publications/form-fp161
+JustAnswer.co.uk (2020) *Family court guidance on transcripts/disclosure.* [User forum discussion]. Available at: https://www.justanswer.co.uk/family-law/eko64-laws-guidance-family-court.html (Accessed: 2 November 2025).
 
-HMCTS. (2025). *Form N244: Application notice*. London: HM Courts & Tribunals Service. Retrieved from https://www.gov.uk/government/publications/form-n244-application-notice
+JustAnswer.co.uk (2021) *Transcript for upcoming family hearing.* [User forum discussion]. Available at: https://www.justanswer.co.uk/family-law/gu7s1-applied-court-waiting-hearing-early-next.html (Accessed: 2 November 2025).
 
-HMCTS. (2025). *Form N460: Reasons for allowing or refusing permission to appeal*. London: HM Courts & Tribunals Service. Retrieved from https://www.gov.uk/government/publications/form-n460
+JustAnswer.co.uk (2022) *Circuit family court appeal transcript.* [User forum discussion]. Available at: https://www.justanswer.co.uk/family-law/kef6m-appeal-family-court-circuit.html (Accessed: 2 November 2025).
 
-Court of Appeal. (2025). *Court of Appeal (Civil Division) guide*. London: Judiciary of England and Wales. Retrieved from https://www.judiciary.uk/publications/court-of-appeal-civil-division-guide/
+JustAnswer.co.uk (2023a) *Court hearing transcriptions. I am aware that an EX107 form is used to request a transcription of a hearing or parts of.* [User forum discussion]. Available at: https://www.justanswer.co.uk/law/nd771-court-hearing-transcriptions-aware-ex107-form.html (Accessed: 2 November 2025).
 
-Family Procedure Rule Committee. (2025). *Practice Direction 29: Miscellaneous provisions relating to hearings*. London: Ministry of Justice. Retrieved from https://www.justice.gov.uk/courts/procedure-rules/family/practice_directions
+JustAnswer.co.uk (2023b) *Transcription of final family hearing recording.* [User forum discussion]. Available at: https://www.justanswer.co.uk/family-law/mb1tf-requested-transcription-recording-final.html (Accessed: 2 November 2025).
 
-Family Procedure Rule Committee. (2025). *Practice Direction 39A: Miscellaneous provisions (including ruling)*. London: Ministry of Justice. Retrieved from https://www.justice.gov.uk/courts/procedure-rules/family/practice_directions
+JustAnswer.co.uk (2023c) *Written decision/transcript from family judge.* [User forum discussion]. Available at: https://www.justanswer.co.uk/law/ly5gu-family-court-judge-made-final-decision-writing.html (Accessed: 2 November 2025).
 
-Family Procedure Rule Committee. (2025). *Practice Direction Part 39: Miscellaneous provisions relating to hearings*. London: Ministry of Justice. Retrieved from https://www.justice.gov.uk/courts/procedure-rules/family/practice_directions
-HMCTS. (2025). *Form EX107OFC: Permission for a transcript when HMCTS transcription companies are not providing the service*. London: HM Courts & Tribunals Service. Retrieved from https://www.gov.uk/government/publications/
+JustAnswer.co.uk (2023d) *Custody appeal requiring family transcript/EX107.* [User forum discussion]. Available at: https://www.justanswer.co.uk/law/mg2qd-need-appeal-court-decision-re-children-custody.html (Accessed: 2 November 2025).
 
-HMCTS. (2025). *Form EX160: Help with fees*. London: HM Courts & Tribunals Service. Retrieved from https://www.gov.uk/government/publications/apply-for-help-with-court-and-tribunal-fees
+JustAnswer.co.uk (2024a) *EX107 transcript request in family proceedings.* [User forum discussion]. Available at: https://www.justanswer.co.uk/family-law/orny5-requested-disclosure-transcripts.html (Accessed: 2 November 2025).
 
-HMCTS. (2025). *Form FP161: Application to appeal a decision, order, or judgment made in the Family Court*. London: HM Courts & Tribunals Service. Retrieved from https://www.gov.uk/government/publications/form-fp161
+JustAnswer.co.uk (2024b) *EX107 processing and access denial in family context.* [User forum discussion]. Available at: https://www.justanswer.co.uk/law/ocpbz-question-court-transcripts-party.html (Accessed: 2 November 2025).
 
-HMCTS. (2025). *Form N161: Appellant's notice*. London: HM Courts & Tribunals Service. Retrieved from https://www.gov.uk/government/publications/form-n161-appellants-notice
+JustAnswer.co.uk (2024c) *Transcript for oral evidence in family court.* [User forum discussion]. Available at: https://www.justanswer.co.uk/law/q2c2y-when-court-transcript-relating-oral-evidence.html (Accessed: 2 November 2025).
 
-HMCTS. (2025). *Form N244: Application notice*. London: HM Courts & Tribunals Service. Retrieved from https://www.gov.uk/government/publications/form-n244-application-notice
+JustAnswer.co.uk (2024d) *Appeal requiring family court transcript.* [User forum discussion]. Available at: https://www.justanswer.co.uk/law/p6cy4-made-appeal-time-family-court-went.html (Accessed: 2 November 2025).
 
-HMCTS. (2025). *Guidance: Form CB5*. London: HM Courts & Tribunals Service.
+JustAnswer.co.uk (2024e) *C21 order and family transcript implications.* [User forum discussion]. Available at: https://www.justanswer.co.uk/family-law/oq8xp-received-c21-order-court-know.html (Accessed: 2 November 2025).
 
-HMCTS. (2025). *Guidance: Form EX107 - Requesting a transcript*. London: HM Courts & Tribunals Service. Retrieved from https://www.gov.uk/government/publications/form-ex107-request-for-transcription
+JustAnswer.co.uk (2024f) *Transcript for child-related family disclosure.* [User forum discussion]. Available at: https://www.justanswer.co.uk/family-law/qnbqd-contacted-solicitor-behalf-sons.html (Accessed: 2 November 2025).
 
-HMCTS. (2025). *Guidance: Form EX107GN - Guidance notes*. London: HM Courts & Tribunals Service.
+JustAnswer.co.uk (2024g) *Ongoing family proceedings transcript needs.* [User forum discussion]. Available at: https://www.justanswer.co.uk/family-law/pnms0-court-proceeding-ongoing-next-hearing-it.html (Accessed: 2 November 2025).
 
-HMCTS. (2025). *Guidance: Form N161 - Appellant's notice*. London: HM Courts & Tribunals Service.
+JustAnswer.co.uk (2024h) *Directions hearing transcript in family court.* [User forum discussion]. Available at: https://www.justanswer.co.uk/family-law/puoch-family-court-directions-hearing-yesterday.html (Accessed: 2 November 2025).
 
-HMCTS. (2024, August 7). *Making an application: Children and the family courts*. Public information guidance. Retrieved from https://www.gov.uk/
-### Transcription Service Provider Terms & Conditions
+JustAnswer.co.uk (2024i) *Disputing family order via transcript review.* [User forum discussion]. Available at: https://www.justanswer.co.uk/family-law/qpkzt-disagree-final-order-made-family-judge.html (Accessed: 2 November 2025).
 
-Acoland Ubiqus UK Legal Department. (2024). *Terms and conditions for transcription services*. Retrieved from https://legal.ubiqus.co.uk/terms-conditions
+JustAnswer.co.uk (n.d.a) *Disclosure/redaction of confidential family details.* [User forum discussion]. Available at: https://www.justanswer.com/uk-law/nzzfi-ex-partner-sharing-private-confidential.html (Accessed: 2 November 2025).
 
-eScribers. (2024). *Terms and conditions for civil, family and tribunal courtroom transcription services*. Retrieved from https://uk.escribers.net/
+JustAnswer.co.uk (n.d.b) *Evidence/transcript dispute in family court.* [User forum discussion]. Available at: https://www.justanswer.com/uk-law/te7r2-family-court-witness-evidence-dispute.html (Accessed: 2 November 2025).
 
-eScribers. (2024). *Frequently asked questions: Transcription services*. Retrieved from https://uk.escribers.net/
+JustAnswer.co.uk (2025) *LiP transcript access in private family law.* [User forum discussion]. Available at: https://www.justanswer.co.uk/family-law/t3hie-litigant-person-private-family-law.html (Accessed: 2 November 2025).
 
-Epiq Europe Ltd. (2024). *Transcription services: Terms and conditions*. Retrieved from https://www.epiqglobal.com/
+Kolb, D.A. (1984) *Experiential learning: experience as the source of learning and development*. Englewood Cliffs, NJ: Prentice-Hall.
 
-Epiq Europe Ltd & Cabinet Office. (2024). *Contract for the provision of stenography services for the Intelligence & Security Committee (ISC) of Parliament* [Contract reference: 5257/A/CO(b/45309)].
+Kritzer, H.M. (1998) *Legal advocacy: lawyers and nonlawyers at work*. Ann Arbor: University of Michigan Press.
 
-Marten Walsh Cherer Ltd. (2024). *Terms and conditions for the production of court transcripts*. Retrieved from https://www.martenwalshcherer.com/
+Law Gazette (2024) *No such thing as a free transcript*. Available at: https://www.lawgazette.co.uk/practice-points/no-such-thing-as-a-free-transcript/5119927.article (Accessed: 2 November 2025).
 
-The Transcription Agency (TTA). (2024). *Terms and conditions for the provision of civil, family and tribunal courtroom transcription services* (Document No: TTA J028.6). Retrieved from https://www.transcription.co.uk/
+Law Society (2023) *Family court backlogs statement*. London: Law Society.
 
-The Transcription Agency (TTA). (2024). *Common questions about transcription services*. Retrieved from https://www.transcription.co.uk/
+Law Society (2024) *Family law billing practices guidance*. London: Law Society.
 
-### Forum/User Experience Data
-**Association of Directors of Children's Services (ADCS).** (2021). *Submission to the President of the Family Division's Transparency Review*. [Referenced in broader transparency guidance; see Transparency Implementation Group materials for compiled institutional responses]
+Lawson West (2024) *Transparency in family law courts*. 20 December. Available at: https://www.lawson-west.co.uk/transparency-family-law (Accessed: 2 November 2025).
 
-**Cafcass.** (2021). *Response to the President of the Family Division's Transparency Review*. Available at: https://www.cafcass.gov.uk/cafcass-responds-to-the-president-of-the-family-divisions-transparency-review-findings
+LegalBeagles Forum (2024) *County court hearing transcription services discussion thread*. Available at: https://legalbeagles.info/forums/ (Accessed: 2 November 2025).
 
-**Family Justice Young People's Board.** (2021). Views on transparency in family courts. In *Confidence and Confidentiality: Transparency in the Family Courts*. Judiciary of England and Wales. Available at: https://www.judiciary.uk/wp-content/uploads/2021/10/Confidence-and-Confidentiality-Transparency-in-the-Family-Courts-final.pdf
+Local Government Lawyer (2024) *A guide to Transparency Orders*. Available at: https://www.localgovernmentlawyer.co.uk/child-protection/309-children-protection-features/59458-a-guide-to-transparency-orders (Accessed: 2 November 2025).
 
-**Judiciary of England and Wales.** (2021). *Confidence and Confidentiality: Transparency in the Family Courts*. Available at: https://www.judiciary.uk/wp-content/uploads/2021/10/Confidence-and-Confidentiality-Transparency-in-the-Family-Courts-final.pdf
+London Law (2023) *What is a Court Transcript, how do I obtain one and how much does it cost to obtain?* Available at: https://www.london-law.co.uk/court-transcript-access-costs/ (Accessed: 2 November 2025).
 
-**Judiciary of England and Wales.** (2025). *Family Court Reporting Provisions Extension*. Available at: https://www.judiciary.uk/family-court-reporting-provisions-to-extend-to-all-family-courts-in-england-and-wales/
+Luhmann, N. (1995) *Social systems*. Stanford, CA: Stanford University Press.
 
-**NatCen Social Research.** (2025). *Evaluation of the Family Court Reporting Pilot*. Available at: https://natcen.ac.uk/publications/evaluation-family-court-reporting-pilot-and-transparency-family-courts
+Major Family Law (2024) *Transparency project extended to 16 new courts*. Available at: https://www.majorfamilylaw.co.uk/transparency-project-extended-to-16-new-courts/ (Accessed: 2 November 2025).
 
-**United Nations.** (1989). *Convention on the Rights of the Child*, Article 12. Available at: https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child
+Marten Walsh Cherer Ltd (2024) *Terms and conditions for the production of court transcripts*. Available at: https://www.martenwalshcherer.com/ (Accessed: 2 November 2025).
 
-**Walker, J., McCarthy, P., Stark, C., & Laing, K.** (2021). Practicability in ascertaining children's views in family proceedings. *Journal of Social Welfare and Family Law*, 43(4). Available at: https://www.tandfonline.com/doi/full/10.1080/09649069.2021.1999108
+McFarlane, A. (2021) *Transparency in the family courts: confidence and confidentiality*. London: Judiciary of England and Wales.
 
-LegalBeagles Forum. (2024). *County court hearing transcription services discussion thread*. Retrieved from https://legalbeagles.info/forums/
+McFarlane, A. (2025) *View from the President’s chambers*. 15 April. Available at: https://www.judiciary.uk (Accessed: 2 November 2025).
+
+Meyer, J.W. and Rowan, B. (1977) ‘Institutionalized organizations: formal structure as myth and ceremony’, *American Journal of Sociology*, 83(2), pp. 340–363.
+
+Miles and Partners (2025) *Transparency in the Family Court*. 31 July. Available at: https://milesandpartners.com/transparency-family-court (Accessed: 2 November 2025).
+
+Ministry of Justice (2025a) *Family Court Statistics Quarterly: April to June 2025*. London: HMCTS.
+
+Ministry of Justice (2025b) *Improving family court services for children*. London: Ministry of Justice.
+
+Ministry of Justice (2025c) *Call for evidence: open justice, the way forward 2025*. London: Ministry of Justice.
+
+National Audit Office (2025) *Reducing the backlog in family courts* (HC 234). London: NAO.
+
+NatCen Social Research (2025) *Evaluation of the Family Court Reporting Pilot*. Available at: https://natcen.ac.uk/publications/evaluation-family-court-reporting-pilot-and-transparency-family-courts (Accessed: 2 November 2025).
+
+Nonaka, I. and Takeuchi, H. (1995) *The knowledge-creating company: how Japanese companies create the dynamics of innovation*. Oxford: Oxford University Press.
+
+Nuffield Foundation (2024) *Where has my justice gone?* London: Nuffield Foundation.
+
+Opus 2 International Ltd (2024) *Transcription services*. Available at: https://www.opus2.com (Accessed: 2 November 2025).
+
+Porter Dodson (2025) *Transparency Project update*. Available at: https://www.porterdodson.co.uk/transparency-project-update (Accessed: 2 November 2025).
+
+Rains Court (2023) *How can I get a transcript of my Family Court hearing?* Available at: https://www.rainscourt.com/transcript/ (Accessed: 2 November 2025).
+
+Resolution (2021) *The President's transparency review: what it means for family lawyers*. Available at: https://resolution.org.uk/the-review/archive/the-review-issue-215/the-presidents-transparency-review-what-it-means-for-family-lawyers/ (Accessed: 2 November 2025).
+
+Resolution (2024) *The Reporting Pilot in the Family Courts*. Available at: https://resolution.org.uk/the-review/archive/the-review-issue-223/the-reporting-pilot-in-the-family-courts/ (Accessed: 2 November 2025).
+
+Scottish Legal Complaints Commission (2024) *Lawyers need to realise they are not above the law when dealing with complaints*. 3 June. Available at: https://www.scottishlegalcomplaints.org.uk/ (Accessed: 2 November 2025).
+
+Senge, P.M. (1990) *The fifth discipline: the art and practice of the learning organization*. New York: Doubleday.
+
+Stewarts Law (2022) *Greater transparency family proceedings Court of Appeal*. 17 May. Available at: https://www.stewartslaw.com/news/greater-transparency-family-proceedings-court-of-appeal/ (Accessed: 2 November 2025).
+
+Stewarts Law (2023a) *Leeds judge makes first transparency order allowing reporting of family court case*. 3 February. Available at: https://www.stewartslaw.com/news/leeds-judge-makes-first-transparency-order-allowing-reporting-of-family-court-case/ (Accessed: 2 November 2025).
+
+Stewarts Law (2023b) *Move towards greater transparency in family law proceedings gathers pace*. 18 March. Available at: https://www.stewartslaw.com/news/move-towards-greater-transparency-in-family-law-proceedings-gathers-pace/ (Accessed: 2 November 2025).
+
+Thaler, R.H. and Sunstein, C.R. (2008) *Nudge: improving decisions about health, wealth, and happiness*. New Haven, CT: Yale University Press.
+
+The Transcription Agency (TTA) (2024) *Terms and conditions for the provision of civil, family and tribunal courtroom transcription services* (Document No: TTA J028.6). Available at: https://www.transcription.co.uk/ (Accessed: 2 November 2025).
+
+The Transcription Agency (TTA) (2024) *Common questions about transcription services*. Available at: https://www.transcription.co.uk/ (Accessed: 2 November 2025).
+
+Transparency & Open Justice Board (2024) *Policy guidance: how transparency should be promoted*. London: Judiciary of England and Wales.
+
+Transparency Implementation Group (2022) *Family court transparency implementation group progress report*. October. London: Judiciary of England and Wales.
+
+Transparency Project (2019) *Guide to transparency in family courts*. Available at: https://www.transparencyproject.org.uk (Accessed: 2 November 2025).
+
+Transparency Project (2021) *Press reporting guidance*. Available at: https://www.transparencyproject.org.uk (Accessed: 2 November 2025).
+
+Transparency Project (2023) *Accessing family court transcripts: a guide*. Available at: https://www.transparencyproject.org.uk/accessing-family-court-transcripts-a-guide/ (Accessed: 2 November 2025).
+
+Transparency Project (2025) *Judicial anonymisation practices*. Available at: https://www.transparencyproject.org.uk (Accessed: 2 November 2025).
+
+United Nations (1989) *Convention on the Rights of the Child*, Article 12. Available at: https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child (Accessed: 2 November 2025).
+
+Walker, J. (2025) *Court data on transcript processing performance* [Freedom of Information response, Ref: FOI/250520]. Ministry of Justice.
+
+Walker, J., McCarthy, P., Stark, C. and Laing, K. (2021) ‘Practicability in ascertaining children’s views in family proceedings’, *Journal of Social Welfare and Family Law*, 43(4). Available at: https://www.tandfonline.com/doi/full/10.1080/09649069.2021.1999108 (Accessed: 2 November 2025).
+
+Walsh, J.P. and Ungson, G.R. (1991) ‘Organizational memory’, *Academy of Management Review*, 16(1), pp. 57–91.
+
+Warners Solicitors (2024) *Family court case duration statistics*. Available at: https://www.warnerslaw.com (Accessed: 2 November 2025).
+
+Weightmans (2025) *Media and transparency in the family court*. 6 February. Available at: https://www.weightmans.com/insights/media-and-transparency-in-the-family-court/ (Accessed: 2 November 2025).
+
