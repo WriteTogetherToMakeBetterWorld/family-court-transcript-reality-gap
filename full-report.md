@@ -10572,3 +10572,4 @@ Transparency Project: https://www.transparencyproject.org.uk
 HMCTS guidance: https://www.gov.uk
 Transparency Project (2019). *Media Guide: Reporting Family Cases*. 
 Available at: https://www.transparencyproject.org.uk/press/wp-content/uploads/Media-Guide-Mar-19.pdf
+_Re X (A Child)_ [2016] EWFC B43 (Parker J), Post-hand-down comments, paras 109–121.
