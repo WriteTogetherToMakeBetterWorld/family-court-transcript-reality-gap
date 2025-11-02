@@ -764,7 +764,39 @@ The approved version is final; no mechanism exists for parties to view what chan
 
 **The untimed void.** No rule, form, or guidance specifies how long judges have to approve transcripts, what triggers approval, what happens if approval is delayed, or whether delayed approvals can be escalated. Court of Appeal guidance states: "Order transcript at the earliest possible opportunity; file notice within time; seek extension if transcript delayed." This implies delays are anticipated, users bear the risk, and no accountability mechanism exists [Court of Appeal Guide 2025].
 
-<img width="692" height="310" alt="image" src="https://github.com/user-attachments/assets/51077c94-378a-4eca-9e5a-4cfcfb45580b" />
+### The Appeal-Deadline Collision
+
+Even on *best-case* assumptions, the timeline collision is structural ([Court of Appeal Guide 2025](https://www.judiciary.uk/guidance-and-resources/court-of-appeal-civil-division-guide-2025/); FPR 30.4). The following figure maps the best-case scenario where **all parties act immediately**, vendors meet Service Level Bands, and **no additional delays occur**.
+
+<figure class="full-width">
+  <figcaption><strong>Figure 7.1: The Appeal-Deadline Collision</strong></figcaption>
+
+```text
+STRUCTURAL TIMELINE ANALYSIS: BEST-CASE TRANSCRIPT PRODUCTION vs APPEAL DEADLINE
+┌──────────────────────────────────────────────────────────────────────────────────────┐
+│ APPEAL CLOCK: 21 DAYS (FPR 30.4)                                                     │
+│ INTERIM/CASE MANAGEMENT: 7 DAYS                                                     │
+└──────────────────────────────────────────────────────────────────────────────────────┘
+
+Day 0  JUDGMENT DELIVERED → Appeal clock starts → 21 days remaining (7 for interim matters)
+Day 1  Appellant recognises need to appeal → 20 days remaining
+Day 2  FORM EX107 SUBMITTED • Expedited 48-hour service selected • Cost: £700–£995 → 19 days remaining
+
+Days   COURT PROCESSING + RECORDING RETRIEVAL 3–14
+3–14   <span style="background-color: #FFF3CD; padding: 0 4px;">EXCLUDED FROM SERVICE LEVEL BAND</span>
+       • Target: 2 wd admin processing • Average: ~10 wd recording retrieval
+       → 5–16 days remaining
+
+Days   VENDOR PRODUCTION (48 h SLB) 15–17
+15–17  • Starts **only after** court hands over audio • 2 working days = 48 h
+       → 3–14 days remaining
+
+Days   JUDICIAL APPROVAL (untimed) 18–?
+18–?   <span style="background-color: #F8D7DA; padding: 0 4px; color: #721C24;">• No statutory or PD deadline</span>
+       • Average: 3–10 wd (FOI 2025)
+       → 0–11 days remaining (often **negative**)
+
+Day 21 APPEAL DEADLINE → Transcript **still not approved** in >70 % of cases
 
 
 ---
