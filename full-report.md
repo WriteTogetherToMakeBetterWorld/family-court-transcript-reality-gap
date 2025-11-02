@@ -798,8 +798,6 @@ Days   JUDICIAL APPROVAL (untimed) 18–?
 
 Day 21 APPEAL DEADLINE → Transcript still not approved in >70% of cases
 
----
-
 #### Why the Collision is Inescapable
 | Phase | Minimum realistic duration | Cumulative days used |
 |-------|---------------------------|----------------------|
