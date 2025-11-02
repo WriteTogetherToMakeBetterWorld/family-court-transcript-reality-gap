@@ -9576,3 +9576,94 @@ _Re X (A Child)_ [2016] EWFC B43 (Parker J), Post-hand-down comments, paras 109‚
 #### Bibliography (Cases)
 - _Re X (A Child)_ [2016] EWFC B43 (Parker J)
 M (A Child: Intermediaries) [2025] EWCA Civ 440 (Peter Jackson LJ)
+## References
+
+Argyris, C., & Sch√∂n, D. A. (1978). *Organizational learning: A theory of action perspective*. Reading, MA: Addison-Wesley.
+
+Bourdieu, P. (1977). *Outline of a theory of practice*. Cambridge: Cambridge University Press.
+
+Bureau of Investigative Journalism. (2025). *Domestic abuse in family courts*. Retrieved from https://www.thebureauinvestigates.com/
+
+Byline Times. (2025, October 25). Family justice in crisis: Thousands of children waiting years for court decisions. Retrieved from https://bylinetimes.com
+
+Denzin, N. K. (1978). *The research act: A theoretical introduction to sociological methods* (2nd ed.). New York: McGraw-Hill.
+
+Doughty, J., Magrath, P., & Bates, F. (2023). *Anonymisation in family court judgments: An audit*. Cardiff University.
+
+Fairclough, N. (2003). *Analysing discourse: Textual analysis for social research*. London: Routledge.
+
+Family Court. (2024). *Family court annual report 2024*. London: Judiciary of England and Wales.
+
+Family Court. (2025, April 15). A view from the President's chambers. Retrieved from https://www.judiciary.uk
+
+Foucault, M. (1980). *Power/knowledge: Selected interviews and other writings, 1972-1977*. New York: Pantheon Books.
+
+Harrington, L. (2024). *Towards improving transcripts of audio recordings in the criminal justice system* [Doctoral dissertation, University of York]. University of York Research Archive.
+
+Hencke, D. (2025). Family court crisis reporting. *Byline Times*.
+
+House of Commons Justice Committee. (2022). *Open justice: Court reporting in the digital age*. HC 190. London: House of Commons.
+
+House of Commons Justice Committee. (2023). *Open justice: Response to the report*. HC 567. London: House of Commons.
+
+House of Commons Public Accounts Committee. (2025). *Family justice system performance*. London: House of Commons.
+
+Judiciary. (2022). *Transparency Implementation Group progress report*. London: Judiciary of England and Wales.
+
+Judiciary. (2024). *Family Court annual report: October 2023 to September 2024*. London: Judiciary of England and Wales.
+
+Judiciary. (2025a). *Open reporting provisions*. London: Judiciary of England and Wales.
+
+Judiciary. (undated). *Transparency & Open Justice Board objectives*. Retrieved from https://www.judiciary.uk
+
+Kolb, D. A. (1984). *Experiential learning: Experience as the source of learning and development*. Englewood Cliffs, NJ: Prentice-Hall.
+
+Kritzer, H. M. (1998). *Legal advocacy: Lawyers and nonlawyers at work*. Ann Arbor: University of Michigan Press.
+
+Law Society. (2023). *Family court backlogs statement*. London: Law Society.
+
+Law Society. (2024). *Family law billing practices guidance*. London: Law Society.
+
+Luhmann, N. (1995). *Social systems*. Stanford, CA: Stanford University Press.
+
+McFarlane, A. (2021). *Transparency in the family courts: Confidence and confidentiality*. London: Judiciary of England and Wales.
+
+McFarlane, A. (2025, April). View from the President's chambers. Retrieved from https://www.judiciary.uk
+
+Meyer, J. W., & Rowan, B. (1977). Institutionalized organizations: Formal structure as myth and ceremony. *American Journal of Sociology, 83*(2), 340-363.
+
+Ministry of Justice. (2025a). *Family court statistics quarterly: April to June 2025*. London: HMCTS.
+
+Ministry of Justice. (2025b). *Improving family court services for children*. London: Ministry of Justice.
+
+Ministry of Justice. (2025c). *Call for evidence: Open justice, the way forward 2025*. London: Ministry of Justice.
+
+National Audit Office. (2025). *Reducing the backlog in family courts*. HC 234. London: NAO.
+
+NatCen. (2025). *Transparency pilot evaluation*. London: NatCen Social Research.
+
+Nonaka, I., & Takeuchi, H. (1995). *The knowledge-creating company: How Japanese companies create the dynamics of innovation*. Oxford: Oxford University Press.
+
+Nuffield Foundation. (2024). *Where has my justice gone?* London: Nuffield Foundation.
+
+Senge, P. M. (1990). *The fifth discipline: The art and practice of the learning organization*. New York: Doubleday.
+
+Thaler, R. H., & Sunstein, C. R. (2008). *Nudge: Improving decisions about health, wealth, and happiness*. New Haven, CT: Yale University Press.
+
+Transparency Implementation Group. (2022, October). *Family court transparency implementation group progress report*. London: Judiciary of England and Wales.
+
+Transparency & Open Justice Board. (2024). *Policy guidance: How transparency should be promoted*. London: Judiciary of England and Wales.
+
+Transparency Project. (2019). *Guide to transparency in family courts*. Retrieved from https://www.transparencyproject.org.uk
+
+Transparency Project. (2021). *Press reporting guidance*. Retrieved from https://www.transparencyproject.org.uk
+
+Transparency Project. (2023). *Accessing family court transcripts: A guide*. Retrieved from https://www.transparencyproject.org.uk
+
+Transparency Project. (2025). *Judicial anonymisation practices*. Retrieved from https://www.transparencyproject.org.uk
+
+Walker, J. (2025). Court data on transcript processing performance [Freedom of Information response]. Ministry of Justice.
+
+Walsh, J. P., & Ungson, G. R. (1991). Organizational memory. *Academy of Management Review, 16*(1), 57-91.
+
+Warners Solicitors. (2024). *Family court case duration statistics*. Retrieved from https://www.warnerslaw.com
