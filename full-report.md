@@ -771,7 +771,7 @@ Even on *best-case* assumptions, the timeline collision is structural ([Court of
 <figure class="full-width">
   <figcaption><strong>Figure 7.1: The Appeal-Deadline Collision</strong></figcaption>
 
-```text
+text
 STRUCTURAL TIMELINE ANALYSIS: BEST-CASE TRANSCRIPT PRODUCTION vs APPEAL DEADLINE
 ┌──────────────────────────────────────────────────────────────────────────────────────┐
 │ APPEAL CLOCK: 21 DAYS (FPR 30.4)                                                     │
