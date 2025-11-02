@@ -798,6 +798,7 @@ Days   JUDICIAL APPROVAL (untimed) 18–?
 
 Day 21 APPEAL DEADLINE → Transcript still not approved in >70% of cases
 
+```
 #### Why the Collision is Inescapable
 | Phase | Minimum realistic duration | Cumulative days used |
 |-------|---------------------------|----------------------|
@@ -815,13 +816,12 @@ THE STRUCTURAL CONTRADICTION:
 - System OFFERS "48-hour service" (Form EX107 Section C5)
 - System EXCLUDES approval from timing promises (untimed void)
 - System PLACES all delay risk on appellants (no recourse)
-
+  
 MITIGATION: PD30A allows filing with note, amending later when transcript arrives
 → But forces drafting without verified record
 → Risk of inaccuracies, omissions, mischaracterization
 → Additional work: draft grounds twice
 → LiPs often unaware of this workaround
-```
 
 **Critical Findings:**
 
