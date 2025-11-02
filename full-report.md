@@ -771,7 +771,7 @@ Even on *best-case* assumptions, the timeline collision is structural ([Court of
 <figure class="full-width">
   <figcaption><strong>Figure 7.1: The Appeal-Deadline Collision</strong></figcaption>
 
-text
+```text
 STRUCTURAL TIMELINE ANALYSIS: BEST-CASE TRANSCRIPT PRODUCTION vs APPEAL DEADLINE
 ┌──────────────────────────────────────────────────────────────────────────────────────┐
 │ APPEAL CLOCK: 21 DAYS (FPR 30.4)                                                     │
@@ -783,21 +783,20 @@ Day 1  Appellant recognises need to appeal → 20 days remaining
 Day 2  FORM EX107 SUBMITTED • Expedited 48-hour service selected • Cost: £700–£995 → 19 days remaining
 
 Days   COURT PROCESSING + RECORDING RETRIEVAL 3–14
-3–14   <span style="background-color: #FFF3CD; padding: 0 4px;">EXCLUDED FROM SERVICE LEVEL BAND</span>
+3–14   <span style="background-color:#FFF3CD; padding:0 4px; border-radius:3px;">EXCLUDED FROM SERVICE LEVEL BAND</span>
        • Target: 2 wd admin processing • Average: ~10 wd recording retrieval
        → 5–16 days remaining
 
 Days   VENDOR PRODUCTION (48 h SLB) 15–17
-15–17  • Starts **only after** court hands over audio • 2 working days = 48 h
+15–17  • Starts only after court hands over audio • 2 working days = 48 h
        → 3–14 days remaining
 
 Days   JUDICIAL APPROVAL (untimed) 18–?
-18–?   <span style="background-color: #F8D7DA; padding: 0 4px; color: #721C24;">• No statutory or PD deadline</span>
+18–?   <span style="background-color:#F8D7DA; padding:0 4px; border-radius:3px; color:#721C24;">No statutory or PD deadline</span>
        • Average: 3–10 wd (FOI 2025)
-       → 0–11 days remaining (often **negative**)
+       → 0–11 days remaining (often negative)
 
-Day 21 APPEAL DEADLINE → Transcript **still not approved** in >70 % of cases
-
+Day 21 APPEAL DEADLINE → Transcript still not approved in >70% of cases
 
 ---
 
