@@ -306,7 +306,7 @@ These approaches imagine deeper cultural and structural shifts in how justice it
 
 ## 6. Empirical Testing: The Data Void Exposed
 
-Having built the logic that transparency depends on transcripts (§4.1), located that logic within the court system’s structures (§4.2), and revealed the empirical “reality gap” of missing transcription metrics (§4.3), we now move to the first stage of practical testing.  
+Having built the logic that transparency depends on transcripts (§5.1), located that logic within the court system’s structures (§5.2), and revealed the empirical “reality gap” of missing transcription metrics (§5.3), we now move to the first stage of practical testing.  
 This section examines what the Ministry of Justice (MoJ) and associated court services actually hold in terms of transcript data — their availability, processing, refusal rates, and bottlenecks. The analysis is based on a Freedom of Information (FOI) request submitted by **J. Walker on 20 May 2025**, which sought aggregate statistics on transcript requests, funding types, processing times, denials, and technical issues for the period **April 2024–April 2025**.
 
 ### 6.1 Findings: The FOI Data Void
@@ -358,7 +358,7 @@ These accounts, systematically collected and coded, expose the micro-failures th
 The following analysis therefore extends this empirical lens through two interlinked pathways of transparency:  
 1. how transcripts are **obtained**, and  
 2. how they are **published**.  
-Section 6 begins with the former; Section 6.2 examines the latter.
+Section 7 begins with the former; Section 7.2 examines the latter.
 
 ## 7. From Transparency Principle to Transcript Practice: Operationalising the Two Pathways
 
