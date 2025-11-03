@@ -229,7 +229,7 @@ This is why transcript reform represents **least-resistance transformation**: it
 This integration of learning-system theories into justice-system analysis provides a new conceptual apparatus for measuring institutional learning capacity through transcript accessibility.
 
 
-## 5. Logical Mapping: From Crises to Transparency Deficits
+## 4. Logical Mapping: From Crises to Transparency Deficits
 
 Before mapping transparency deficits, it helps to clarify how the argument is structured.  
 **First**, this section explains *why* the family-court crises are rooted in opacity and how transcripts provide the visibility needed to repair them (macro level).  
@@ -239,7 +239,7 @@ Together, these steps build a logical bridge from theory to practice: from under
 
 ---
 
-### 5.1 Macro Logic: Mapping Transparency Deficits to Transcript Solutions
+### 4.1 Macro Logic: Mapping Transparency Deficits to Transcript Solutions
 
 The working assumption of this article is that the multiple crises of the family-justice system — delay, fragmentation, bias, and harm — are not merely accompanied by transparency deficits; they are driven by them. Each symptom of dysfunction is mirrored by an information failure: delayed judgments by missing transcripts, inconsistent practice by opaque governance, and inequitable outcomes by the absence of verifiable records.
 
@@ -263,7 +263,7 @@ They turn process into data, dialogue into evidence, and judgment into verifiabl
 
 ---
 
-### 5.2 Institutional Logic: Embedding Transparency in Governance
+### 4.2 Institutional Logic: Embedding Transparency in Governance
 
 Having established why transcripts matter conceptually, the next question is *where* this remedy can be operationalised.  
 The answer lies within the **Transparency Implementation Group (TIG)** — the body created by the President of the Family Division to translate transparency principles into day-to-day judicial practice.  
@@ -284,7 +284,7 @@ Where transcripts are missing or delayed, TIG’s goals — accurate reporting, 
 
 ---
 
-### 5.3 Empirical Validation: The Reality Gap
+### 4.3 Empirical Validation: The Reality Gap
 
 The mapping and institutional framework show what *should* work; empirical evidence shows why it still does not.  
 Freedom-of-Information disclosures and Ministry of Justice statements reveal a persistent **reality gap** — the disconnect between what is said in court and what is recorded, shared, or used.
@@ -301,7 +301,7 @@ The existence of these deficits underscores both the urgency and the feasibility
 
 The next section develops this methodological logic by analysing anecdotal user evidence, court-form structures, and transcript-processing data to identify precisely where and how these breakdowns occur.
 
-### 5.4 Dual Engines of Change: Users and Legal Bloggers
+### 4.4 Dual Engines of Change: Users and Legal Bloggers
 Thesis. Change pressure in family justice is driven by two interacting engines:
 
 1. System users (parents) — who escalate to transparency when they perceive injustice or failed internal correction; and
@@ -310,7 +310,7 @@ Thesis. Change pressure in family justice is driven by two interacting engines:
 
 These engines are value-aligned (both are motivated by rightness), but role-distinct. Parents supply diagnostic signals (requests for transcripts, publication applications, objections to secrecy). Bloggers supply amplification and audit (accurate reporting under PD12R, corrections, and pattern detection).
 
-#### 5.4.1 How the two engines interact
+#### 4.4.1 How the two engines interact
 
 - Signal (User → System): Parent departs from the default preference for privacy → requests transcript and/or publication.
 
@@ -322,7 +322,7 @@ These engines are value-aligned (both are motivated by rightness), but role-dist
 
 Operational takeaway: Treat voluntary transparency attempts (transcript + publication) as diagnostic, not adversarial. See §7.2 (publication pathway) and §8A.4 (normative basis).
 
-#### Figure 5.4: Micro-Framework for Dual Engines Interaction
+#### Figure 4.4: Micro-Framework for Dual Engines Interaction
 User Signal (Transcript/Publication)
 ↓
 Court Triage (Timelines + Safeguards)
@@ -333,7 +333,7 @@ Public/Institutional Feedback (Patterns, Corrections)
 ↓
 Guidance / PD Updates / Practice Change
 
-#### 5.4.2 Practical distinctions (so roles don’t get blurred)
+#### 4.4.2 Practical distinctions (so roles don’t get blurred)
 
 - Parents are parties; they can request transcripts (EX107) and seek publication.
 
@@ -343,7 +343,7 @@ Guidance / PD Updates / Practice Change
 
 - Objectivity safeguards: Require accreditation or PD12R compliance for bloggers to ensure objective, non-sensational reporting.
 
-### 5.5 Beyond the Present Logic: Larger Paradigms and Least-Resistance Change
+### 4.5 Beyond the Present Logic: Larger Paradigms and Least-Resistance Change
 
 Before mapping alternative paradigms, it is worth clarifying scope.  
 Family-justice transparency could, in principle, be pursued far more radically — for instance, by presuming transcript publication or treating courtroom dialogue as a civic data resource by default.  
@@ -367,7 +367,7 @@ These approaches imagine deeper cultural and structural shifts in how justice it
    - *Shift:* From *“court property”* to *“public resource.”*  
    - *Example:* The Transparency & Open Justice Board’s Key Objectives (2024) describe core documents — judgments, evidence, and transcripts — as a public resource, with TIG’s anonym
 
-## 6. Empirical Testing: The Data Void Exposed
+## 5. Empirical Testing: The Data Void Exposed
 
 Having built the logic that transparency depends on transcripts (§5.1), located that logic within the court system’s structures (§5.2), and revealed the empirical “reality gap” of missing transcription metrics (§5.3), we now move to the first stage of practical testing.  
 This section examines what the Ministry of Justice (MoJ) and associated court services actually hold in terms of transcript data — their availability, processing, refusal rates, and bottlenecks. The analysis is based on a Freedom of Information (FOI) request submitted by **J. Walker on 20 May 2025**, which sought aggregate statistics on transcript requests, funding types, processing times, denials, and technical issues for the period **April 2024–April 2025**.
@@ -398,7 +398,7 @@ However, as the **Justice Committee (2022)** and **Transparency & Open Justice B
 
 For this article, the focus remains on **oral transcripts** because they capture the *dynamic and unfiltered reality of courtroom dialogue* — the precise arena where discrepancies between speech and record create the “reality gap.”
 
-### 6.3 Implications: The Absence of Foundational Data
+### 5.3 Implications: The Absence of Foundational Data
 
 The FOI’s revelation of a **data void** exposes a fundamental contradiction in current policy:  
 transparency reforms cannot succeed without basic, measurable data on the very instrument that enables transparency — the transcript itself.
@@ -423,7 +423,7 @@ The following analysis therefore extends this empirical lens through two interli
 2. how they are **published**.  
 Section 7 begins with the former; Section 7.2 examines the latter.
 
-## 7. From Transparency Principle to Transcript Practice: Operationalising the Two Pathways
+## 6. From Transparency Principle to Transcript Practice: Operationalising the Two Pathways
 
 Section 1 identified three interconnected crises: chronic case backlogs affecting 103,676 children (Law Society, 2024), fragmented governance with no single point of accountability, and profound data deficits preventing evidence-based reform. Sections 2–3 examined transparency as the proposed unifying solution, tracing its evolution from the McFarlane Review (2021) through the Transparency Implementation Group's work. Section 4 provided the theoretical foundation, demonstrating why transcripts function as essential infrastructure for organizational learning—enabling the reflection mechanisms required for systemic correction (Kolb, 1984; Argyris & Schön, 1978; Senge, 1990). Section 5 completed the logical mapping, showing how each crisis symptom connects to a transparency deficit, and how transcripts provide the operational mechanism for resolution.
 
@@ -442,7 +442,7 @@ Although distinct in procedure, these pathways are functionally interdependent. 
 
 ---
 
-## 7.0 The Double Transparency Deficit and Analytical Framework
+## 6.0 The Double Transparency Deficit and Analytical Framework
 
 ### 7.0.1 Two Forms of Systemic Blindness
 
