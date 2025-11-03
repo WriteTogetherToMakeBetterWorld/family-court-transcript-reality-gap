@@ -6,7 +6,7 @@ This project demonstrates [Living Research Protocol v1.0](LIVING_RESEARCH_PROTOC
 
 **Manifesto:** Notice what's alive. Trace what you claim. Dissolve when it stops serving.
 
-**See:** [Protocol](LIVING_RESEARCH_PROTOCOL.md) | [v1.0 Release](https://github.com/NoEndsNoGains/family-court-reform/releases/tag/v1.0) | [Press Release](https://github.com/NoEndsNoGains/family-court-reform/releases/tag/v1.0)
+**See:** [Protocol](LIVING_RESEARCH_PROTOCOL.md) |
 
 ---
 
