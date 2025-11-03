@@ -9,7 +9,7 @@
 **Transcripts could change that.**  
 They show what really happens in court. They prove truth and let the truth and what we believe "justice" is — justice prevails.
 
-**Read the full report I put together:** [Read the full report →](ARTICLE.md)
+**Read the full report I put together:** [Read the full report →](https://github.com/NoEndsNoGains/family-court-reform/blob/main/full-report.md)
 
 ---
 
@@ -20,8 +20,8 @@ They show what really happens in court. They prove truth and let the truth and w
 3. **Connect pattern** — 5 layers of truth  
 4. **Release living research** — open, evolving, citable  
 
-[Watch the Grief Series →](https://www.youtube.com/@NoEndsNoGains)  
-[Edit the article →](https://github.com/NoEndsNoGains/family-court-reform/edit/main/ARTICLE.md)
+[Watch the Looser Series →](https://www.youtube.com/watch?v=S4B34wzYbWs&list=PLW7lRNANQFiFE7PyD86rJwO9s8OEyZM4T)  
+[Edit the article →](https://www.youtube.com/watch?v=S4B34wzYbWs&list=PLW7lRNANQFiFE7PyD86rJwO9s8OEyZM4T)
 
 ---
 
@@ -48,7 +48,7 @@ They show what really happens in court. They prove truth and let the truth and w
 **If you care, do something small:**  
 - **Write your MP** — [parliament.uk](https://www.parliament.uk/get-involved/contact-an-mp-or-lord/contact-your-mp/)  
 - **Email the courts**: transparency@judiciary.uk  
-- **Support TIG**(the group trying to open family courts) - familyjusticecouncil@judiciary.uk
+- **Support TIG** (the group trying to open family courts) - familyjusticecouncil@judiciary.uk
 
 **We don’t need a revolution.**  
 **We need a transcript.**  
