@@ -57,4 +57,3 @@ They show what really happens in court. They prove truth and let the truth and w
 
 ---
 
-> **My husband’s a farmer. I know what “matter” means. If I forget, he reminds me.**
