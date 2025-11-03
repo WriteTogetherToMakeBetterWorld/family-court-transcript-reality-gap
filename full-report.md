@@ -372,7 +372,7 @@ These approaches imagine deeper cultural and structural shifts in how justice it
 Having built the logic that transparency depends on transcripts (§5.1), located that logic within the court system’s structures (§5.2), and revealed the empirical “reality gap” of missing transcription metrics (§5.3), we now move to the first stage of practical testing.  
 This section examines what the Ministry of Justice (MoJ) and associated court services actually hold in terms of transcript data — their availability, processing, refusal rates, and bottlenecks. The analysis is based on a Freedom of Information (FOI) request submitted by **J. Walker on 20 May 2025**, which sought aggregate statistics on transcript requests, funding types, processing times, denials, and technical issues for the period **April 2024–April 2025**.
 
-### 6.1 Findings: The FOI Data Void
+### 5.1 Findings: The FOI Data Void
 
 By **26 October 2025**, after initial processing and an internal review, the MoJ’s response was **partial and restrictive**:
 
@@ -383,7 +383,7 @@ By **26 October 2025**, after initial processing and an internal review, the MoJ
 
 This outcome exposes a **systemic transparency gap**: the absence of even basic statistical oversight over transcript processing. It directly contravenes the **Transparency Implementation Group (TIG)** data sub-group’s objectives and the **Justice Committee’s** 2022 recommendation that baseline metrics be collected and published for accountability (TIG Progress Report, 2022; House of Commons Justice Committee, 2022).
 
-### 6.2 Defining Transcripts in Family Law Proceedings
+### 5.2 Defining Transcripts in Family Law Proceedings
 
 Before analysing further, clarity is needed on what *“transcripts”* mean in this context.  
 In family proceedings, transcripts are **verbatim records of oral hearings** — the word-for-word account of what is said in court, including:
@@ -444,7 +444,7 @@ Although distinct in procedure, these pathways are functionally interdependent. 
 
 ## 6.0 The Double Transparency Deficit and Analytical Framework
 
-### 7.0.1 Two Forms of Systemic Blindness
+### 6.0.1 Two Forms of Systemic Blindness
 
 The disconnection between the Obtaining and Publication Pathways produces two distinct but interconnected forms of institutional blindness:
 
@@ -485,7 +485,7 @@ Together, these explain the core reality gap: when transcripts remain inaccessib
 
 ---
 
-### 7.0.2 Analytical Framework: Gaps in Complex Systems
+### 6.0.2 Analytical Framework: Gaps in Complex Systems
 
 Family justice operates as a complex adaptive system—multi-agency, resource-constrained, and governed by procedural and cultural inertia. In such environments, gaps emerge where feedback loops are broken:
 
@@ -509,7 +509,7 @@ This disconnection turns personal records into isolated artifacts, preventing th
 
 ---
 
-### 7.0.3 Five-Layer Evidence Structure
+### 6.0.3 Five-Layer Evidence Structure
 
 To answer "What systemic gaps exist between transparency principles and transcript practice?", this chapter employs **data triangulation** (Denzin, 1978), integrating five complementary evidence sources to expose the gap between the designed, judicially filtered, and lived operation of the family court transcript system. In the absence of national transcript data (Section 6), the analysis reconstructs the process through convergent evidence from five positional vantage points:
 
@@ -525,7 +525,7 @@ To answer "What systemic gaps exist between transparency principles and transcri
 
 ---
 
-### 7.0.4 Analytical Progression and Convergence
+### 6.0.4 Analytical Progression and Convergence
 
 This triangulated design follows a logical sequence:
 
