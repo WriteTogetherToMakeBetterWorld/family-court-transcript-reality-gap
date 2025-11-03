@@ -6,7 +6,7 @@ This project demonstrates [Living Research Protocol v1.0](LIVING_RESEARCH_PROTOC
 
 **Manifesto:** Notice what's alive. Trace what you claim. Dissolve when it stops serving.
 
-**See:** [Protocol](LIVING_RESEARCH_PROTOCOL.md) |
+**See:** [Protocol](LIVING_RESEARCH_PROTOCOL.md)
 
 ---
 
