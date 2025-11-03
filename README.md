@@ -1,6 +1,6 @@
 # Family Court Reform
 
-## 🔬 Living Research Prototype
+## Living Research Prototype
 
 This project demonstrates [Living Research Protocol v1.0](LIVING_RESEARCH_PROTOCOL.md) - a new methodology for truth-seeking in the AI era.
 
