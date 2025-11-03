@@ -1,0 +1,1 @@
+mkdir -p DATA/raw/layer{1,2,3,4}_institutional DATA/raw/layer{1,2,3,4}_judicial DATA/raw/layer{1,2,3,4}_practitioner DATA/raw/layer{1,2,3,4}_lived DATA/processed
