@@ -15,9 +15,7 @@ last-updated: 2025-11-03
 > - [See all open tasks →](https://github.com/NoEndsNoGains/family-court-reform/issues?q=is%3Aopen+is%3Aissue)  
 > 
 > Every contribution is credited in the [Revision Log](./CHANGELOG.md).
->
-> 
-> Every contribution is credited in the [Revision Log](#revision-log).
+
 
 
 
