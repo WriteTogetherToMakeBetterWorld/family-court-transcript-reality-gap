@@ -699,7 +699,7 @@ Court staff target 2 working days (wd) to process Form EX107 before sending to t
 
 **List-order bias and performance invisibility.** A subtle design flaw compounds transcription inefficiency: HMCTS lists these suppliers in no specified transparent order (alphabetically or otherwise) on Form EX107 guidance and regional court lists. Position bias means applicants—especially Litigants in Person—tend to select the first name encountered, rewarding placement rather than performance (Thaler & Sunstein, 2008). No comparative metrics (speed, accuracy, complaint rates) are visible to applicants. This "choice architecture distortion" decouples market share from delivery quality, amplifying **Design Failure 3 (DF-3): Performance Opacity in Vendor Selection**.
 
-*Note: Chapter 8 discusses least-resistance reforms addressing this and other design failures. DF-3 is specifically addressed in §8.1.3 (Vendor Performance Metrics). Where solutions are proposed in Chapter 8, they are noted in the design failure analysis; DFs without current Chapter 8 proposals may be addressed in future research or policy development.*
+*Note: Chapter 8 discusses least-resistance reforms addressing this and other design failures. Where solutions are proposed in Chapter 8, they are noted in the design failure analysis; DFs without current Chapter 8 proposals may be addressed in future research or policy development.*
 
 **Service Level Bands (SLBs):** For civil/family proceedings, the Service Level Band (SLB) represents the delivery window from receipt of recording by the vendor.
 
@@ -6556,9 +6556,7 @@ Not because timelines are impossible (employment tribunals manage it).
 
 ---
 
-
-### References
-## 9. References
+## References
 
 ### Cases (OSCOLA Style)
 *BT v CU* [2021] EWFC 87  
