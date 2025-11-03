@@ -1,15 +1,39 @@
-# Abstract
 
-The family justice system in England and Wales is in systemic crisis. Over 50,000 cases remain unresolved, 4,000 children await decisions for more than two years, and domestic abuse features in 90% of private law proceedings (National Audit Office, 2025; Hencke, 2025; Bureau of Investigative Journalism, 2025). These statistics reveal core dysfunctions: chronic delay, fragmented governance, and profound human harm. This article contends that these dysfunctions are not intractable—they can be addressed through **transparency**, with **court transcripts** as its indispensable foundation.
+---
 
-Drawing on official reports, Ministry of Justice statistics, Freedom of Information data on transcript processing, and stakeholder testimony, this analysis advances a **least-resistance reform hypothesis**:  
-> **Transparency is the invisible force capable of resolving multiple crises simultaneously, and transcripts are its operational bedrock.**
+## Executive Summary
 
-The article proceeds in four stages: (1) logical mapping of crisis symptoms to transparency deficits; (2) critical viability testing of transcript improvement as a low-cost, high-impact intervention; (3) practice-based assessment of current transcription access, approval, and publication barriers; and (4) synthesis of gaps followed by **pragmatic, incremental solutions** — e.g., **form updates**, **court-to-transcriber timeline clarity**, and **provisional transcript release upon transcription, with simultaneous judicial and party review during the appeal window**.
+The family justice system in England and Wales is failing. A backlog of nearly 50,000 cases, with over 103,000 children caught in the associated delays, points to deep, systemic dysfunction (NAO, 2025; Law Society, 2024). This report argues that these crises—of timeliness, accountability, and data—are not independent failures but symptoms of a single, core problem: a profound **"reality gap"** between the principle of transparency and its operational practice.
 
-These **least-resistance reforms** leverage existing infrastructure (TIG pilots, TOJ principles) to close the “reality gap” between courtroom dialogue and recorded outcome. Transcripts do not merely document — they **verify truth, accelerate resolutions, expose bias, and restore trust**. This is not a call for revolution. It is a call for a transcript.
+This report establishes that **court transcripts are the indispensable bedrock of any functional transparency**. Without a verifiable record of proceedings, justice cannot be seen, and a system cannot learn.
 
-**Word count**: 240  
+Through a **five-layer analysis**—examining Institutional Design (L1), Judicial Gatekeeping (L2), Professional Practice (L3), User Experience (L4), and External Observation (L5)—this report proves the reality gap is structural, not anecdotal.
+
+### Key Findings
+
+Our analysis identifies **15 specific "Design Failures" (DFs)** in the official process. Key failures include:
+
+- **The "Untimed Void" (DF-6)**: The official transcript request form (EX107) offers a "48-hour" service, but this timeline excludes an untimed, unmonitored send-off and judicial approval stage. This creates a structural contradiction, making it procedurally impossible for many appellants to meet the 21-day appeal deadline.
+
+- **The Data Void (DF-5)**: A Freedom of Information (FOI) request confirmed the Ministry of Justice holds no national data on transcript processing times, approval rates, or recording failures (Walker, 2025). This data is not available. The system is operationally blind.
+
+- **Systemic Exclusion**: The analysis reveals a critical "epistemic blind spot" (Section 7): the children whose lives are being decided. Furthermore, care-experienced adults are given no special right to access the transcripts of their own childhood proceedings, a failure of temporal justice.
+
+### Reform Recommendations
+
+The report maps these validated failures to a comprehensive, low-resistance reform plan (Section 8). This is not a call for new legislation, but for immediate, operational fixes:
+
+1. **Fix the Forms**: Update Form EX107 to make timelines transparent ("Truth-in-Forms") and integrate a publication request checkbox ("The One-Form Fix").
+
+2. **Close the Void**: Implement a "Provisional Release" protocol, allowing parties to receive draft transcripts for appeal work while judicial approval runs in parallel.
+
+3. **Centre the Child**: Establish a "Preserved Access Protocol" giving care-experienced adults the right to access their own records at age 18.
+
+4. **Enable Data**: Launch a public-facing "Transcript Access Dashboard" to create accountability through performance monitoring.
+
+These solutions are pragmatic, data-driven, and achievable within the current system. They close the gap by making transparency an operational reality, transforming transcripts from an inaccessible artefact into the core driver of systemic learning and accountability.
+
+---
 **Keywords**: family courts, transparency, court transcripts, open justice, least-resistance reform, reality gap
 
 ## Table of Contents
