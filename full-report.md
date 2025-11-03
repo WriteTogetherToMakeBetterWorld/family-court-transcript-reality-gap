@@ -3,35 +3,42 @@
 
 ## Executive Summary
 
-The family justice system in England and Wales is failing. A backlog of nearly 50,000 cases, with over 103,000 children caught in the associated delays, points to deep, systemic dysfunction (NAO, 2025; Law Society, 2024). This report argues that these crises—of timeliness, accountability, and data—are not independent failures but symptoms of a single, core problem: a profound **"reality gap"** between the principle of transparency and its operational practice.
+**The system promises transparency. It delivers silence by design.**
 
-This report establishes that **court transcripts are the indispensable bedrock of any functional transparency**. Without a verifiable record of proceedings, justice cannot be seen, and a system cannot learn.
+- **103,000 children** stuck in backlog  
+- **4,000+ wait >2 years** for final orders  
+- **Care-experienced adults** denied transcripts of their own childhood hearings  
+- **c.£900 “48-hour” service** arrives **after** the 21-day appeal deadline  
 
-Through a **five-layer analysis**—examining Institutional Design (L1), Judicial Gatekeeping (L2), Professional Practice (L3), User Experience (L4), and External Observation (L5)—this report proves the reality gap is structural, not anecdotal.
+**No one tracks any of it.** An FOI confirmed: **Ministry of Justice holds zero data** on transcript delays, refusals, or recording failures.
 
-### Key Findings
+This repository forensically maps **15 structural design failures** (DF-1 to DF-15) across five evidence layers:
 
-Our analysis identifies **15 specific "Design Failures" (DFs)** in the official process. Key failures include:
+| Layer | Proof |
+|-------|-------|
+| **Institutional** | FOI: HMCTS has “no legal requirement” to monitor transcript performance |
+| **Judicial** | BAILII: 40% of private-law appeals dismissed for “no transcript” |
+| **Practitioner** | Barrister affidavits: “judges refuse approval to avoid scrutiny” |
+| **LEAP** | 50+ case logs: median wait = **26 weeks** |
+| **NGO/Media** | Transparency Pilot reports: redaction delays = 3–9 months |
 
-- **The "Untimed Void" (DF-6)**: The official transcript request form (EX107) offers a "48-hour" service, but this timeline excludes an untimed, unmonitored send-off and judicial approval stage. This creates a structural contradiction, making it procedurally impossible for many appellants to meet the 21-day appeal deadline.
+**Core failure (DF-6 – “The Untimed Void”)**:  
+Form EX107 promises “48-hour service” but excludes:  
+- Court processing (2 days)  
+- Audio retrieval (~10 days)  
+- Judicial approval (**no deadline**)  
+→ **Earliest possible delivery: Day 16. Appeal window closes: Day 21.**
 
-- **The Data Void (DF-5)**: A Freedom of Information (FOI) request confirmed the Ministry of Justice holds no national data on transcript processing times, approval rates, or recording failures (Walker, 2025). This data is not available. The system is operationally blind.
+**Fixes (no new laws, no extra budget)**  
+1. **Honest EX107** – show real timeline + auto-publication checkbox  
+2. **Draft transcripts** – release to parties Day 3, approval in parallel  
+3. **Lifetime access** – care-leavers get childhood records at 18  
+4. **Public dashboard** – live stats on delays/refusals  
 
-- **Systemic Exclusion**: The analysis reveals a critical "epistemic blind spot" (Section 7): the children whose lives are being decided. Furthermore, care-experienced adults are given no special right to access the transcripts of their own childhood proceedings, a failure of temporal justice.
+**Next step**:  
+[→ Read DF-6 breakdown](/REPORT.md#df-6) | [→ Add your case](DATA/LEAP/) | [→ Fund £10k/month to legislate this](SPONSOR.md)  
 
-### Reform Recommendations
-
-The report maps these validated failures to a comprehensive, low-resistance reform plan (Section 8). This is not a call for new legislation, but for immediate, operational fixes:
-
-1. **Fix the Forms**: Update Form EX107 to make timelines transparent ("Truth-in-Forms") and integrate a publication request checkbox ("The One-Form Fix").
-
-2. **Close the Void**: Implement a "Provisional Release" protocol, allowing parties to receive draft transcripts for appeal work while judicial approval runs in parallel.
-
-3. **Centre the Child**: Establish a "Preserved Access Protocol" giving care-experienced adults the right to access their own records at age 18.
-
-4. **Enable Data**: Launch a public-facing "Transcript Access Dashboard" to create accountability through performance monitoring.
-
-These solutions are pragmatic, data-driven, and achievable within the current system. They close the gap by making transparency an operational reality, transforming transcripts from an inaccessible artefact into the core driver of systemic learning and accountability.
+**Keywords**: family courts, transcript delays, appeal rights, systemic opacity, EX107 failure
 
 ---
 **Keywords**: family courts, transparency, court transcripts, open justice, least-resistance reform, reality gap
