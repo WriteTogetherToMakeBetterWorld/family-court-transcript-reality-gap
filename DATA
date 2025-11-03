@@ -1,8 +1,0 @@
-# Create 5 layers (from inside DATA/)
-mkdir -p raw/layer1_institutional
-mkdir -p raw/layer2_judicial
-mkdir -p raw/layer3_practitioner
-mkdir -p raw/layer4_LEAP
-mkdir -p raw/layer5_NGOs_media
-mkdir -p processed
-chore: create 5-layer DATA structure
