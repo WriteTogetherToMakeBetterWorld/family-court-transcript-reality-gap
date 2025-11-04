@@ -1,4 +1,29 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17519665.svg)](https://doi.org/10.5281/zenodo.17519665)
+
 # Family Court Reform
+
+## Living Research Prototype
+
+This project demonstrates [Living Research Protocol v1.0](LIVING_RESEARCH_PROTOCOL.md) - a new methodology for truth-seeking in the AI era.
+
+**Manifesto:** Notice what's alive. Trace what you claim. Dissolve when it stops serving.
+
+**See:** [Protocol](LIVING_RESEARCH_PROTOCOL.md)
+
+---
+
+> *"One transcript = more truth than 100 reporters."*
+
+- 50,000 unresolved family cases  
+- 4,000 children waiting over 2 years for a decision  
+- 90% of private law cases involve domestic abuse  
+
+**Transcripts could change that.**  
+They show what really happens in court. They prove truth and let justice prevail.
+
+**Read the full report:** [Full Research Report →](https://github.com/NoEndsNoGains/family-court-reform/blob/main/full-report.md)
+
+---# Family Court Reform
 
 ## Living Research Prototype
 
