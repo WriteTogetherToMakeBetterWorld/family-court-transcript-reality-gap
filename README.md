@@ -1,3 +1,15 @@
+> **Editing Policy**
+>
+> Please **do not edit `full-report.md` directly**.
+>
+> - To contribute, make changes in the relevant section files or submit a pull request targeting those sections.
+> - Direct edits to `full-report.md` may be reverted to protect collaborative work.
+>
+> This ensures all changes are visible, reviewed, and preserves the report's integrity for every contributor.
+
+---
+
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17519665.svg)](https://doi.org/10.5281/zenodo.17519665)
 
 # Family Court Reform
@@ -21,7 +33,7 @@ This project demonstrates [Living Research Protocol v1.0](LIVING_RESEARCH_PROTOC
 **Transcripts could change that.**  
 They show what really happens in court. They prove truth and let justice prevail.
 
-**Read the full report:** [Full Research Report →](https://github.com/NoEndsNoGains/family-court-reform/blob/main/full-report.md)
+**Read the full report PLEASE DO NOT EDIT THERE:** [Full Research Report →](https://github.com/NoEndsNoGains/family-court-reform/blob/main/full-report.md)
 
 ---# Family Court Reform
 
@@ -44,7 +56,7 @@ This project demonstrates [Living Research Protocol v1.0](LIVING_RESEARCH_PROTOC
 **Transcripts could change that.**  
 They show what really happens in court. They prove truth and let justice prevail.
 
-**Read the full report:** [Full Research Report →](https://github.com/NoEndsNoGains/family-court-reform/blob/main/full-report.md)
+**Read the full report PLEASE DO NOT EDIT THERE:** [Full Research Report →](https://github.com/NoEndsNoGains/family-court-reform/blob/main/full-report.md)
 
 ---
 
@@ -60,9 +72,7 @@ This research follows Living Research Protocol:
 
 **Status:** v0.9 (Nov 2025) → v1.0 (Q1 2026) → continuous evolution → dissolution TBD
 
-[Watch the Living Research Lab →](https://www.youtube.com/watch?v=S4B34wzYbWs&list=PLW7lRNANQFiFE7PyD86rJwO9s8OEyZM4T)
-
-[Edit the article →](https://github.com/NoEndsNoGains/family-court-reform/blob/main/full-report.md)
+[Watch the Living Research Lab Inspiration Behind the Project →](https://www.youtube.com/watch?v=S4B34wzYbWs&list=PLW7lRNANQFiFE7PyD86rJwO9s8OEyZM4T)
 
 ---
 
