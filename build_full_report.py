@@ -11,7 +11,10 @@ from pathlib import Path
 
 # Define the order of folders and files
 SECTION_ORDER = [
+    # Introduction
     "SECTIONS/introduction/introduction-and-context.md",
+    
+    # Analysis Layers (in numbered order)
     "SECTIONS/analysis-layers/0.IntroToAnalysis.md",
     "SECTIONS/analysis-layers/1.institutional-design.md",
     "SECTIONS/analysis-layers/2.judicial-gatekeeping.md",
@@ -20,9 +23,13 @@ SECTION_ORDER = [
     "SECTIONS/analysis-layers/5.external-monitors.md",
     "SECTIONS/analysis-layers/6.cross-layer-synthesis.md",
     "SECTIONS/analysis-layers/7.children-epistemic-blindspot.md",
+    
+    # Reform Proposals
     "SECTIONS/reform-proposals/1.procedural-operational",
     "SECTIONS/reform-proposals/2.structural-philosophical",
     "SECTIONS/reform-proposals/3.meta-level-analysis.md",
+    
+    # Resources
     "SECTIONS/resources/glossary.md",
     "SECTIONS/resources/references.md",
 ]
@@ -40,7 +47,7 @@ def get_last_commit_info():
         ).strip()
         return commit_msg, author
     except:
-        return "Section updated", "NoEndsNoGains"
+        return "Content updated", "NoEndsNoGains"
 
 def update_changelog():
     """Add new entry to CHANGELOG.md"""
@@ -48,26 +55,30 @@ def update_changelog():
     commit_msg, author = get_last_commit_info()
     
     # Read existing changelog
-    try:
-        with open('CHANGELOG.md', 'r', encoding='utf-8') as f:
-            lines = f.readlines()
-    except FileNotFoundError:
+    changelog_path = 'CHANGELOG.md'
+    if not os.path.exists(changelog_path):
+        print("WARNING: CHANGELOG.md not found")
         return
     
-    # Find the table and insert new row after header
-    new_entry = f"| {today} | — | {commit_msg} | @{author} |\n"
+    with open(changelog_path, 'r', encoding='utf-8') as f:
+        content = f.read()
     
-    # Find where to insert (after the first data row)
-    for i, line in enumerate(lines):
-        if '| 2025-11-03 |' in line:  # Find the first existing entry
-            lines.insert(i + 1, new_entry)
-            break
+    # Find the table section and add new row
+    # Look for the line with "2025-11-03" and add above it
+    old_first_row = "| 2025-11-03 | v0.9 |"
+    new_row = f"| {today} | — | {commit_msg[:60]} | @{author} |\n"
     
-    # Write back
-    with open('CHANGELOG.md', 'w', encoding='utf-8') as f:
-        f.writelines(lines)
-    
-    print(f"✓ Updated CHANGELOG with: {commit_msg}")
+    if old_first_row in content:
+        # Insert new row before the old first row
+        content = content.replace(old_first_row, new_row + old_first_row)
+        
+        # Write back
+        with open(changelog_path, 'w', encoding='utf-8') as f:
+            f.write(content)
+        
+        print(f"✓ Updated CHANGELOG: {today} - {commit_msg[:40]}")
+    else:
+        print("WARNING: Could not find insertion point in CHANGELOG")
 
 def build_report():
     """Concatenate all section files into full-report.md"""
@@ -91,7 +102,7 @@ def build_report():
         outfile.write("See [CHANGELOG.md](CHANGELOG.md) for complete revision history.\n\n")
         outfile.write("---\n\n")
     
-    print(f"Successfully built {output_file}")
+    print(f"✓ Successfully built {output_file}")
     
     # Update changelog
     update_changelog()
