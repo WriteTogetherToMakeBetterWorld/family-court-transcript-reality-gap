@@ -53,5 +53,20 @@ def build_report():
         print("  Adding: CHANGELOG.md")
         outfile.write("---\n\n")
         outfile.write("## Revision History\n\n")
-        outfile.write("This is a living document. All changes are tracked and contributors
+        outfile.write("This is a living document. All changes are tracked and contributors are credited.\n\n")
+        
+        try:
+            with open('CHANGELOG.md', 'r', encoding='utf-8') as changelog:
+                changelog_content = changelog.read()
+                outfile.write(changelog_content)
+                outfile.write("\n\n")
+        except FileNotFoundError:
+            print("  WARNING: CHANGELOG.md not found")
+            outfile.write("See [CHANGELOG.md](CHANGELOG.md) for complete revision history\n\n")
+        
+        outfile.write("---\n\n")
+    
+    print(f"\n✅ Successfully built {output_file}")
 
+if __name__ == "__main__":
+    build_report()
