@@ -26,5 +26,5 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add full-report.md
+          git add full-report.md CHANGELOG.md
           git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update full-report.md from sections" && git push)
