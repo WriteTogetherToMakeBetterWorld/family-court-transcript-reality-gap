@@ -38,17 +38,8 @@ def build_report():
     print("Building full-report.md from sections...")
     
     with open(output_file, 'w', encoding='utf-8') as outfile:
+        # Add all sections in order
         for section_path in SECTION_ORDER:
             if os.path.exists(section_path):
                 print(f"  Adding: {section_path}")
-                with open(section_path, 'r', encoding='utf-8') as infile:
-                    content = infile.read()
-                    outfile.write(content)
-                    outfile.write("\n\n")  # Add spacing between sections
-            else:
-                print(f"  WARNING: File not found: {section_path}")
-    
-    print(f"\n✅ Successfully built {output_file}")
-
-if __name__ == "__main__":
-    build_report()
+                with
