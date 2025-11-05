@@ -42,4 +42,16 @@ def build_report():
         for section_path in SECTION_ORDER:
             if os.path.exists(section_path):
                 print(f"  Adding: {section_path}")
-                with
+                with open(section_path, 'r', encoding='utf-8') as infile:
+                    content = infile.read()
+                    outfile.write(content)
+                    outfile.write("\n\n")
+            else:
+                print(f"  WARNING: File not found: {section_path}")
+        
+        # Add CHANGELOG section at the end
+        print("  Adding: CHANGELOG.md")
+        outfile.write("---\n\n")
+        outfile.write("## Revision History\n\n")
+        outfile.write("This is a living document. All changes are tracked and contributors
+
