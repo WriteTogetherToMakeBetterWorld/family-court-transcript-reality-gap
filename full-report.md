@@ -1,4 +1,4 @@
-TEST-AUTOMATION-1236 TEST TEST
+TEST-AUTOMATION Test v.01
 ---
 title: Family Court Transcript Reality Gap — Draft v0.9
 status: in-progress
@@ -3238,25 +3238,7 @@ These gaps are remediable through the least-resistance interventions proposed in
 
 ## Revision History
 
-This is a living document. All changes are tracked and contributors are credited.
-
----
-title: Revision Log
-layout: changelog
----
-
-# Revision Log  
-*Public, citable history of the Family Court Transcript Reality Gap report*
-
-| Date | Version | Change | Contributor |
-|------|---------|--------|-------------|
-| 2025-11-03 | v0.9 | **Initial draft released** – 5 Layers defined, stats added | @NoEndsNoGains |
-| — | — | *Your name here* | [Submit PR →](https://github.com/NoEndsNoGains/family-court-reform/pulls) |
-
----
-
-*Every edit is tracked by GitHub. Major versions are tagged. All contributors are credited.*
-
+See [CHANGELOG.md](CHANGELOG.md) for complete revision history.
 
 ---
 
