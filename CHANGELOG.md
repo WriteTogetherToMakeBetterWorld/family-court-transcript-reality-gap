@@ -12,6 +12,7 @@ layout: changelog
 | 2025-11-06 | — | Rename 1.procedural-operational to 1.procedural-operational. | @NoEndsNoGains |
 | 2025-11-06 | — | Rename 2.structural-philosophical to 2.structural-philosophi | @NoEndsNoGains |
 | 2025-11-06 | — | Update test version from 0.3 to 0.4 | @NoEndsNoGains |
+| 2025-11-06 | — | Rename 1.procedural-operational.md to 1.procedural-operation | @NoEndsNoGains |
 | 2025-11-03 | v0.9 | **Initial draft released** – 5 Layers defined, stats added | @NoEndsNoGains |
 | — | — | *Your name here* | [Submit PR →](https://github.com/NoEndsNoGains/family-court-reform/pulls) |
 
