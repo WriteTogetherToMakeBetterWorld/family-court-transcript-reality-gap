@@ -45,7 +45,7 @@
 |-----------|------|
 | `Notice()` | Flag salience: pain, anomaly, curiosity |
 | `Materialize()` | Build + document testable artifact |
-| `Trace()` | Show full path: inputs → transform → output |
+| `Trace()` | Show full path: inputs → transform → output (trace persists)|
 | `Commit()` | Stamp confidence + sunset |
 | `Dissolve()` | Retire when sunset hits — celebrate |
 
