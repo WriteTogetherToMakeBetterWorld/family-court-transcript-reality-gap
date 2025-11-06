@@ -13,7 +13,7 @@ from pathlib import Path
 SECTION_ORDER = [
     # Introduction
     "SECTIONS/introduction/introduction-and-context.md",
-    
+
     # Analysis Layers (in numbered order)
     "SECTIONS/analysis-layers/0.IntroToAnalysis.md",
     "SECTIONS/analysis-layers/1.institutional-design.md",
@@ -23,12 +23,12 @@ SECTION_ORDER = [
     "SECTIONS/analysis-layers/5.external-monitors.md",
     "SECTIONS/analysis-layers/6.cross-layer-synthesis.md",
     "SECTIONS/analysis-layers/7.children-epistemic-blindspot.md",
-    
-    # Reform Proposals (folder has a leading space!)
-    "SECTIONS/ reform-proposals/1.procedural-operational.md",
-    "SECTIONS/ reform-proposals/2.structural-philosophical.md",
-    "SECTIONS/ reform-proposals/3.meta-leval-analysis.md",
-    
+
+    # Reform Proposals (NO space before folder name)
+    "SECTIONS/reform-proposals/1.procedural-operational.md",
+    "SECTIONS/reform-proposals/2.structural-philosophical.md",
+    "SECTIONS/reform-proposals/3.meta-leval-analysis.md",
+
     # Resources
     "SECTIONS/resources/glossary.md",
     "SECTIONS/resources/references.md",
@@ -78,9 +78,9 @@ def update_changelog():
 def build_report():
     """Concatenate all section files into full-report.md"""
     output_file = "full-report.md"
-    
+
     print("Building full-report.md from sections...")
-    
+
     with open(output_file, 'w', encoding='utf-8') as outfile:
         for section_path in SECTION_ORDER:
             if os.path.exists(section_path):
@@ -90,13 +90,13 @@ def build_report():
                     outfile.write("\n\n")
             else:
                 print(f"  WARNING: File not found: {section_path}")
-        
+
         # Add CHANGELOG link at end
         outfile.write("---\n\n")
         outfile.write("## Revision History\n\n")
         outfile.write("See [CHANGELOG.md](CHANGELOG.md) for complete revision history.\n\n")
         outfile.write("---\n\n")
-    
+
     print(f"✓ Successfully built {output_file}")
     update_changelog()
 
