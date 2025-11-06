@@ -36,7 +36,7 @@
 
 ---
 
-## The Three Operations
+## The Five Operations
 
 *(agent-agnostic, runnable)*
 
@@ -64,6 +64,16 @@
 ## Essential Declarations
 
 *(MUST be stamped on every artifact)*
+
+**QITCS format:**
+
+- **Question:** What are you investigating?
+- **Inputs:** What sources inform this work?
+- **Transform:** What methods/reasoning did you apply?
+- **Confidence:** How certain are you? (interval [low–high])
+- **Sunset:** When does this claim expire or need review?
+
+**Example:**
 ```yaml
 question:   Do transcript barriers prevent effective appeals?
 inputs:     [doi:10.5281/hmcts-foi, case law, practitioner accounts]
@@ -100,17 +110,7 @@ Success includes:
 
 The work stops. The trace remains. The learning lives.
 
----
-
-## Self-Upgrade Clause
-
-**This protocol dissolves when:**
-
-1. A successor achieves ≥2× truth velocity
-2. Intelligence runs all 5 operations autonomously with <1% error for 12 months
-
-**Sunset DOI:** `10.53962/LRP-SUCCESSOR-v1`  
-**Review:** 2027-11-03
+Dissolution serves the foundation: truth-seeking through love.
 
 ---
 
@@ -126,7 +126,7 @@ The work stops. The trace remains. The learning lives.
 
 ## Current Status
 
-**Version:** 1.2  
+**Version:** 2.0  
 **Released:** November 2025  
 **Dissolves:** When superseded
 
