@@ -24,10 +24,12 @@ SECTION_ORDER = [
     "SECTIONS/analysis-layers/6.cross-layer-synthesis.md",
     "SECTIONS/analysis-layers/7.children-epistemic-blindspot.md",
     
-    # All reform-proposals and resource files at the end in your order:
-    "SECTIONS/reform-proposals/1.procedural-operational.md",
-    "SECTIONS/reform-proposals/2.structural-philosophical.md",
-    "SECTIONS/reform-proposals/3.meta-leval-analysis.md",  # Ensure spelling matches filename!
+    # Reform Proposals (folder has a leading space!)
+    "SECTIONS/ reform-proposals/1.procedural-operational.md",
+    "SECTIONS/ reform-proposals/2.structural-philosophical.md",
+    "SECTIONS/ reform-proposals/3.meta-leval-analysis.md",
+    
+    # Resources
     "SECTIONS/resources/glossary.md",
     "SECTIONS/resources/references.md",
 ]
