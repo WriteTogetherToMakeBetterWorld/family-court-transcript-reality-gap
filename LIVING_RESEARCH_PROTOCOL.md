@@ -79,7 +79,7 @@ question:   Do transcript barriers prevent effective appeals?
 inputs:     [doi:10.5281/hmcts-foi, case law, practitioner accounts]
 transform:  [five-layer-triangulation.md, design-failure-map.ipynb]
 confidence: 0.87 [0.80–0.92]
-sunset:     2027-06-01 OR when median delay <30 days for 6 months
+sunset:     2027-06-01 OR when barriers demonstrably reduced OR when energy moves
 ```
 
 ---
@@ -109,6 +109,8 @@ Success includes:
 - Wandering that taught what was needed
 
 The work stops. The trace remains. The learning lives.
+
+When energy moves, active work stops but trace persists. Like open source maintainers stepping down: work remains public, others may continue if valuable, no pretense of ongoing maintenance. The trace is the asset. Honest handoff enables distributed continuation.
 
 Dissolution serves the foundation: truth-seeking through love.
 
