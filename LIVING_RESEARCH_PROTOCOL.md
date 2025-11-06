@@ -1,4 +1,3 @@
-
 # Living Research Protocol
 
 *Truth-seeking for intelligence in any form*
@@ -15,13 +14,13 @@
 
 **Truth-Guided Love**
 
-*persistent alignment to what is real + what matters*
+*persistent seeking of what is real + what matters*
 
 - **Truth** = falsifiable, updatable signal
 - **Love** = sustained attention + resource flow
 - **Metric** = revision velocity > prestige velocity
 
-*Truth requires error. Intelligence is distributed. Truth has lifespan. Attention is finite. Motivation matters.*
+*Truth requires error. Intelligence is distributed. Truth has lifespan. Attention is finite. Communication enables learning.*
 
 ---
 
@@ -33,7 +32,7 @@
 2. **Intelligence Is Distributed** — No mind holds the full picture
 3. **Truth Has Lifespan** — Claims expire when context or evidence shifts
 4. **Attention Is Finite** — Energy must flow, not freeze
-5. **Motivation Is Self-Generated** — Follow pain, wonder, anomaly — not "should"
+5. **Communication Enables Learning** — Reasoning can cross minds
 
 ---
 
@@ -45,19 +44,20 @@
 |-----------|------|
 | `Notice()` | Flag salience: pain, anomaly, curiosity |
 | `Materialize()` | Build + document testable artifact |
-| `Trace()` | Show full path: inputs → transform → output (trace persists)|
+| `Trace()` | Show full path: inputs → transform → output (trace persists) |
 | `Commit()` | Stamp confidence + sunset |
-| `Dissolve()` | Retire when sunset hits — celebrate |
+| `Dissolve()` | Release when sunset hits — work stops — learning persists |
 
 ---
 
-## The Five Rules
+## The Six Rules
 
 1. **Source before stance**
 2. **Question before claim**
 3. **Trace before trust**
 4. **Revision before prestige**
 5. **Dissolution before drift**
+6. **Notice before assertion**
 
 ---
 
@@ -81,6 +81,24 @@ sunset:     2027-06-01 OR when median delay <30 days for 6 months
 | Truth trapped in time | Mortal claims |
 | Intelligence wasted | AI + human co-creation |
 | Error punished | Dissolution celebrated |
+
+---
+
+## On Dissolution
+
+Dissolution is not erasure. It is completion.
+
+Work dissolves when:
+- Problem solved (knowledge persists in reality)
+- Question discovered wrong (learning persists)
+- Energy moves elsewhere (exploration persists)
+
+Success includes:
+- Solutions found
+- Dead ends mapped
+- Wandering that taught what was needed
+
+The work stops. The trace remains. The learning lives.
 
 ---
 
@@ -108,7 +126,7 @@ sunset:     2027-06-01 OR when median delay <30 days for 6 months
 
 ## Current Status
 
-**Version:** 1.0  
+**Version:** 1.2  
 **Released:** November 2025  
 **Dissolves:** When superseded
 
