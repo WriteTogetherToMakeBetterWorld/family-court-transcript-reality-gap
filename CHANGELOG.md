@@ -16,6 +16,7 @@ layout: changelog
 | 2025-11-06 | — | Rename 2.structural-philosophical.md to 2.structural-philoso | @NoEndsNoGains |
 | 2025-11-06 | — | Rename 3.meta-leval-analysis.md to 3.meta-leval-analysis.md | @NoEndsNoGains |
 | 2025-11-06 | — | Delete SECTIONS/ reform-proposals directory | @NoEndsNoGains |
+| 2025-11-06 | — | Update 1.institutional-design.md | @NoEndsNoGains |
 | 2025-11-03 | v0.9 | **Initial draft released** – 5 Layers defined, stats added | @NoEndsNoGains |
 | — | — | *Your name here* | [Submit PR →](https://github.com/NoEndsNoGains/family-court-reform/pulls) |
 
