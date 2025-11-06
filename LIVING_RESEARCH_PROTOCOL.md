@@ -33,7 +33,7 @@
 2. **Intelligence Is Distributed** — No mind holds the full picture
 3. **Truth Has Lifespan** — Claims expire when context or evidence shifts
 4. **Attention Is Finite** — Energy must flow, not freeze
-5. **Motivation Matters** — Follow pain, wonder, anomaly — not "should"
+5. **Motivation Is Self-Generated** — Follow pain, wonder, anomaly — not "should"
 
 ---
 
