@@ -1,12 +1,11 @@
 # Living Research Protocol
-
 *Truth-seeking for intelligence in any form*
 
 ---
 
 ## Manifesto
 
-**Notice what's alive. Trace what you claim. Dissolve when it stops serving.**
+**Notice what's alive. Trace what you make. Dissolve when it stops serving.**
 
 ---
 
@@ -14,7 +13,7 @@
 
 **Truth-Guided Love**
 
-*persistent seeking of what is real + what matters*
+*persistent seeking of: what is real (truth) + what matters (love)*
 
 - **Truth** = falsifiable, updatable signal
 - **Love** = sustained attention + resource flow
@@ -25,28 +24,26 @@
 ---
 
 ## The Five Truth Axioms
-
 *(non-negotiable)*
 
 1. **Truth Requires Error Correction** — You cannot know truth without discovering error
-2. **Intelligence Is Distributed** — No mind holds the full picture
+2. **Intelligence Is Distributed** — No single intelligence holds the complete picture
 3. **Truth Has Lifespan** — Claims expire when context or evidence shifts
 4. **Attention Is Finite** — Energy must flow, not freeze
-5. **Communication Enables Learning** — Reasoning can cross minds
+5. **Communication Enables Learning** — Reasoning can cross intelligences
 
 ---
 
 ## The Five Operations
-
 *(agent-agnostic, runnable)*
 
 | Operation | Does |
 |-----------|------|
-| `Notice()` | Flag salience: pain, anomaly, curiosity |
+| `Notice()` | Flag salience: pain, anomaly, curiosity, gap, dream *(whatever calls your attention to investigate)* |
 | `Materialize()` | Build + document testable artifact |
 | `Trace()` | Show full path: inputs → transform → output (trace persists) |
 | `Commit()` | Stamp confidence + sunset |
-| `Dissolve()` | Release when sunset hits — work stops — learning persists |
+| `Dissolve()` | Release when sunset hits *(sunset triggers review: extend if active, dissolve if energy moved, or revise if question shifted)* — work stops — learning persists |
 
 ---
 
@@ -62,7 +59,6 @@
 ---
 
 ## Essential Declarations
-
 *(MUST be stamped on every artifact)*
 
 **QITCS format:**
@@ -71,7 +67,7 @@
 - **Inputs:** What sources inform this work?
 - **Transform:** What methods/reasoning did you apply?
 - **Confidence:** How certain are you? (interval [low–high])
-- **Sunset:** When does this claim expire or need review?
+- **Sunset:** When does this claim expire or need review? *(Can be a date, a condition, or an energy shift)*
 
 **Example:**
 ```yaml
@@ -84,7 +80,9 @@ sunset:     2027-06-01 OR when barriers demonstrably reduced OR when energy move
 
 ---
 
-## Why This Needs to Exist
+## Why Living Research Protocol Needs to Exist
+
+*This protocol enables what is alive to stay alive in the most effective ways.*
 
 | Problem | Fix |
 |---------|-----|
