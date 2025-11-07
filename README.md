@@ -1,3 +1,9 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17519665.svg)](https://doi.org/10.5281/zenodo.17519665)
+
+# Family Court Reform
+
+## Living Research Prototype
+
 > **Editing Policy**
 >
 > Please **do not edit `full-report.md` directly**.
@@ -9,54 +15,24 @@
 
 ---
 
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17519665.svg)](https://doi.org/10.5281/zenodo.17519665)
-
-# Family Court Reform
-
-## Living Research Prototype
-
-This project demonstrates [Living Research Protocol v1.0](LIVING_RESEARCH_PROTOCOL.md) - a new methodology for truth-seeking in the AI era.
+This project demonstrates [Living Research Protocol](https://github.com/NoEndsNoGains/living-research-protocol/blob/82ed946fd308744abb7c4384dcac9d9642af5819/PROTOCOL.md) - a new methodology for truth-seeking in the AI era.
 
 **Manifesto:** Notice what's alive. Trace what you claim. Dissolve when it stops serving.
 
-**See:** [Protocol](LIVING_RESEARCH_PROTOCOL.md)
+**See:** [Protocol](https://github.com/NoEndsNoGains/living-research-protocol/blob/82ed946fd308744abb7c4384dcac9d9642af5819/PROTOCOL.md)
 
 ---
 
 > *"One transcript = more truth than 100 reporters."*
 
-- 50,000 unresolved family cases  
-- 4,000 children waiting over 2 years for a decision  
-- 90% of private law cases involve domestic abuse  
+- 50,000 unresolved family cases
+- 4,000 children waiting over 2 years for a decision
+- 90% of private law cases involve domestic abuse
 
 **Transcripts could change that.**  
 They show what really happens in court. They prove truth and let justice prevail.
 
-**Read the full report PLEASE DO NOT EDIT THERE:** [Full Research Report →](https://github.com/NoEndsNoGains/family-court-reform/blob/main/full-report.md)
-
----# Family Court Reform
-
-## Living Research Prototype
-
-This project demonstrates [Living Research Protocol v1.0](LIVING_RESEARCH_PROTOCOL.md) - a new methodology for truth-seeking in the AI era.
-
-**Manifesto:** Notice what's alive. Trace what you claim. Dissolve when it stops serving.
-
-**See:** [Protocol](LIVING_RESEARCH_PROTOCOL.md)
-
----
-
-> *"One transcript = more truth than 100 reporters."*
-
-- 50,000 unresolved family cases  
-- 4,000 children waiting over 2 years for a decision  
-- 90% of private law cases involve domestic abuse  
-
-**Transcripts could change that.**  
-They show what really happens in court. They prove truth and let justice prevail.
-
-**Read the full report PLEASE DO NOT EDIT THERE:** [Full Research Report →](https://github.com/NoEndsNoGains/family-court-reform/blob/main/full-report.md)
+**Read the full report:** [Full Research Report →](https://github.com/NoEndsNoGains/family-court-reform/blob/main/full-report.md)
 
 ---
 
@@ -64,11 +40,11 @@ They show what really happens in court. They prove truth and let justice prevail
 
 This research follows Living Research Protocol:
 
-1. **Notice what's alive** — court silence, systemic barriers, lived pain  
-2. **Materialize through co-creation** — 5 layers of evidence, AI synthesis, user feedback  
-3. **Trace every claim** — all sources linked, reasoning visible  
-4. **Commit with confidence** — 0.87 [0.80–0.92], sunset 2027-06-01  
-5. **Dissolve when solved** — when transcript barriers removed or better analysis emerges  
+1. **Notice what's alive** — court silence, systemic barriers, lived pain
+2. **Materialize through co-creation** — 5 layers of evidence, AI synthesis, user feedback
+3. **Trace every claim** — all sources linked, reasoning visible
+4. **Commit with confidence** — 0.87 [0.80–0.92], sunset 2027-06-01
+5. **Dissolve when solved** — when transcript barriers removed or better analysis emerges
 
 **Status:** v0.9 (Nov 2025) → v1.0 (Q1 2026) → continuous evolution → dissolution TBD
 
@@ -127,8 +103,9 @@ This is living research. It evolves through contribution:
 **[$10,000/month → I garden the system. Then plant the next silo.](https://github.com/sponsors/NoEndsNoGains)**
 
 This research requires:
+
 - Time to maintain continuous updates
-- Resources to track reform implementation  
+- Resources to track reform implementation
 - Capacity to synthesize new evidence
 - Freedom to dissolve when the problem is solved
 
@@ -136,10 +113,10 @@ This research requires:
 
 ## Take Action
 
-**If you care, do something small:**  
+**If you care, do something small:**
 
-- **Write your MP** — [parliament.uk](https://www.parliament.uk/get-involved/contact-an-mp-or-lord/contact-your-mp/)  
-- **Email the courts:** transparency@judiciary.uk  
+- **Write your MP** — [parliament.uk](https://www.parliament.uk/get-involved/contact-an-mp-or-lord/contact-your-mp/)
+- **Email the courts:** transparency@judiciary.uk
 - **Support TIG** (Transparency Implementation Group): familyjusticecouncil@judiciary.uk
 - **Share this research** — Make the reality gap visible
 
@@ -155,7 +132,7 @@ This research requires:
 **Next milestone:** v1.0 polished article (Q1 2026)  
 **Sunset condition:** 2027-06-01 OR when transcript access barriers removed  
 **License:** [CC-BY-4.0 + Dissolution Clause](LICENSE)  
-**Methodology:** [Living Research Protocol v1.0](LIVING_RESEARCH_PROTOCOL.md)
+**Methodology:** [Living Research Protocol](https://github.com/NoEndsNoGains/living-research-protocol/blob/main/PROTOCOL.md)
 
 ---
 
