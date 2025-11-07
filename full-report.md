@@ -61,38 +61,74 @@ Form EX107 promises “48-hour service” but excludes:
 **Next step**:  
 [→ Read DF-6 breakdown](/REPORT.md#df-6) | [→ Add your case](DATA/LEAP/) | [→ Fund £10k/month to legislate this](SPONSOR.md)  
 
-### Methodological Note: Living Research Protocol
+## Methodological Note: Living Research Protocol
 
-This research follows the **Living Research Protocol v2.0** (NoEndsNoGains, 2025), a framework for integrity-based knowledge generation in the era of AI. The protocol requires researchers to explicitly document their question, sources, methods, confidence levels, and sunset conditions—making the research process transparent and enabling others to verify, improve, or continue the work.
+This research follows the **Living Research Protocol v3.0** (NoEndsNoGains, 2025), a framework for integrity-based knowledge generation in the era of AI. The protocol requires researchers to explicitly document their question, sources, methods, confidence assessment, and sunset conditions—making the research process transparent and enabling others to verify, improve, or continue the work.
 
-As per the protocol, this work provides its current **QITCS status** (Question, Inputs, Transform, Confidence, Sunset)—a declaration that shows what is being investigated, what evidence supports it, how certain the findings are, and when the claims should be reviewed or updated:
+As per the protocol, this work provides its current **QITCS status** (Question, Inputs, Transform, Confidence, Sunset)—a declaration that shows what is being investigated, what evidence supports it, how the findings would withstand challenge, and when the claims should be reviewed or updated:
 ```yaml
-question: Do transcript barriers in England & Wales family courts create 
-          systematic appellate access failure?
+question: Can ease of transcript access and publication serve as a least-resistance pathway to transformation of the England & Wales family court system?
 
-inputs: [HMCTS procedures, FPR rules, case law, FOI data, practitioner 
-         accounts, user experiences - see References for full list]
+inputs: Five-layer evidence base - institutional documents, judicial practice, professional accounts, user experiences, external analysis [full sources in References]
 
-transform: Five-layer triangulation framework analyzing institutional design, 
-           judicial gatekeeping, professional practice, user experience, and 
-           external observation
+transform: 
+  - Theoretical grounding: transcripts as infrastructure for system learning
+  - Five-layer triangulation: institutional design, judicial gatekeeping, 
+    professional practice, user experience, external observation
+  - Design failure mapping: 15 structural gaps preventing transcript access/publication
+  - Timeline collision analysis: appeal deadlines vs. transcript processing
+  - Least-resistance reform proposals: operational fixes achievable within current system
 
-confidence: 0.87 [0.80-0.92]
-  # HIGH confidence: Reality gap exists (triangulated across 5 evidence layers)
-  # HIGH confidence: 15 design failures validated through convergent evidence
-  # MODERATE uncertainty: Exact percentage of prevented appeals (no official data)
+confidence: Collective assessment (AI-assisted review)
+  - Creator: Self-assessment withheld per protocol
+  - Claude Sonnet 4.5: 0.5 [0.4-0.6]
+      Skeptic's survival odds (HMCTS official or senior family judge):
+      * HIGH (0.9): Barriers exist and prevent transparency (convergent evidence)
+      * MODERATE (0.7): Transcripts necessary infrastructure (theory-supported)
+      * LOW (0.5): Accessibility alone triggers transformation (untested hypothesis)
+      * Note: Overall reflects weakest link - even with accessible transcripts,
+              transformation requires analysis, pattern recognition, and institutional
+              response; no evidence this chain will occur
+  - Human peer review: Awaiting (sunset condition)
 
-sunset: 2027-06-01 OR when HMCTS publishes transcript statistics OR when procedures reformed OR when court case concludes OR when energy moves OR when other contributors join
+uncertainties_and_confidence (alternative format):
+  High confidence (documented extensively):
+    - Transcript barriers exist (15 design failures across 5 evidence layers)
+    - Barriers prevent current transparency (convergent evidence)
+    - System cannot learn without verified records (no transcripts = no reflection)
+  
+  Moderate confidence (theory-supported):
+    - Transcripts necessary infrastructure for learning (Kolb, Argyris, Senge)
+    - Proposed reforms are "least-resistance" (no new laws/institutions needed)
+  
+  Low confidence (untested hypothesis):
+    - Accessibility alone will trigger transformation
+    - People will analyze available transcripts
+    - Analysis will generate reform pressure
+    - Institutions will respond to pressure
+  
+  Unknown (outside research scope):
+    - Political will to implement reforms
+    - Institutional resistance intensity
+    - Whether other barriers block transformation despite transcript access
+
+sunset: 2027-06-01 OR when HMCTS implements transcript reforms OR when 
+        empirical evidence shows transformation occurred (or didn't) OR 
+        when court case concludes OR when energy moves OR when other 
+        contributors join
 ```
 
-This declaration serves two purposes: (1) it shows the current status and 
-limitations of this research, and (2) it enables future researchers to know 
-when this analysis should be updated or superseded.
+**What This Declaration Means:**
 
-Full protocol: [Living Research Protocol v2.0](https://github.com/NoEndsNoGains/living-research-protocol)
+This research has proven that transcript barriers exist and prevent transparency. It has argued theoretically that removing these barriers could enable systemic learning and transformation. However, the transformation hypothesis remains untested: even if transcripts become easily accessible and publishable, actual transformation requires people to analyze them, patterns to be identified, and institutions to respond—none of which is guaranteed.
 
+The confidence assessment reflects this reality: high certainty about the problem, moderate certainty about the proposed mechanism, low certainty about whether the solution will work in practice.
 
-**Keywords**: family courts, transcript delays, appeal rights, systemic opacity, EX107 failure
+Full protocol: [Living Research Protocol v3.0](https://github.com/NoEndsNoGains/living-research-protocol)
+
+---
+
+**Keywords:** family courts, transcript transparency, systemic learning, least-resistance reform, appellate access, reality gap, EX107 failure
 
 ---
 **Keywords**: family courts, transparency, court transcripts, open justice, least-resistance reform, reality gap
