@@ -2,7 +2,7 @@ TEST-AUTOMATION Test v.01
 ---
 title: Family Court Transcript Reality Gap — Draft v0.9
 status: in-progress
-last-updated: 2025-11-03
+last-updated: 2025-11-07
 ---
 
 > **This is a living, unfinished draft.**  
@@ -60,6 +60,37 @@ Form EX107 promises “48-hour service” but excludes:
 
 **Next step**:  
 [→ Read DF-6 breakdown](/REPORT.md#df-6) | [→ Add your case](DATA/LEAP/) | [→ Fund £10k/month to legislate this](SPONSOR.md)  
+
+### Methodological Note: Living Research Protocol
+
+This research follows the **Living Research Protocol v2.0** (NoEndsNoGains, 2025), a framework for integrity-based knowledge generation in the era of AI. The protocol requires researchers to explicitly document their question, sources, methods, confidence levels, and sunset conditions—making the research process transparent and enabling others to verify, improve, or continue the work.
+
+As per the protocol, this work provides its current **QITCS status** (Question, Inputs, Transform, Confidence, Sunset)—a declaration that shows what is being investigated, what evidence supports it, how certain the findings are, and when the claims should be reviewed or updated:
+```yaml
+question: Do transcript barriers in England & Wales family courts create 
+          systematic appellate access failure?
+
+inputs: [HMCTS procedures, FPR rules, case law, FOI data, practitioner 
+         accounts, user experiences - see References for full list]
+
+transform: Five-layer triangulation framework analyzing institutional design, 
+           judicial gatekeeping, professional practice, user experience, and 
+           external observation
+
+confidence: 0.87 [0.80-0.92]
+  # HIGH confidence: Reality gap exists (triangulated across 5 evidence layers)
+  # HIGH confidence: 15 design failures validated through convergent evidence
+  # MODERATE uncertainty: Exact percentage of prevented appeals (no official data)
+
+sunset: 2027-06-01 OR when HMCTS publishes transcript statistics OR when procedures reformed OR when court case concludes OR when energy moves OR when other contributors join
+```
+
+This declaration serves two purposes: (1) it shows the current status and 
+limitations of this research, and (2) it enables future researchers to know 
+when this analysis should be updated or superseded.
+
+Full protocol: [Living Research Protocol v2.0](https://github.com/NoEndsNoGains/living-research-protocol)
+
 
 **Keywords**: family courts, transcript delays, appeal rights, systemic opacity, EX107 failure
 
