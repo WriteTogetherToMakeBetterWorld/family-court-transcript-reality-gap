@@ -15,9 +15,9 @@
 
 ---
 
-This project demonstrates [Living Research Protocol](https://github.com/NoEndsNoGains/living-research-protocol/blob/82ed946fd308744abb7c4384dcac9d9642af5819/PROTOCOL.md) - a new methodology for truth-seeking in the AI era.
+This project demonstrates [Living Research Protocol](https://github.com/NoEndsNoGains/living-research-protocol/blob/49408819c39a3696d6759e878b599d749f6b8ad3/PROTOCOL.md) - a new methodology for truth-seeking in the AI era.
 
-**See:** [Protocol](https://github.com/NoEndsNoGains/living-research-protocol/blob/82ed946fd308744abb7c4384dcac9d9642af5819/PROTOCOL.md)
+**See:** [Protocol](https://github.com/NoEndsNoGains/living-research-protocol/blob/49408819c39a3696d6759e878b599d749f6b8ad3/PROTOCOL.md)
 
 ---
 
