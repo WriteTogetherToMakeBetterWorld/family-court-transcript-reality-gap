@@ -17,8 +17,6 @@
 
 This project demonstrates [Living Research Protocol](https://github.com/NoEndsNoGains/living-research-protocol/blob/82ed946fd308744abb7c4384dcac9d9642af5819/PROTOCOL.md) - a new methodology for truth-seeking in the AI era.
 
-**Manifesto:** Notice what's alive. Trace what you claim. Dissolve when it stops serving.
-
 **See:** [Protocol](https://github.com/NoEndsNoGains/living-research-protocol/blob/82ed946fd308744abb7c4384dcac9d9642af5819/PROTOCOL.md)
 
 ---
