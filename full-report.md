@@ -3196,11 +3196,34 @@ Chapter 8 does not propose aspirational transformation ("imagine if the system w
 "7.7 Children's Voice: Progress on Judgment Publication, Persistent Gaps in Transcript Access"
 Key elements to include:
 
-FJYPB's documented participation in June 2024 Practice Guidance development
+1. FJYPB's documented participation in June 2024 Practice Guidance development
 What that consultation addressed: judgment publication decisions
 What remains unaddressed: transcript access mechanisms for children/young adults
 The distinction between consultation on "what gets published" vs "who can access records of their own proceedings"
 Retrospective access questions for care-experienced adults
+2. ### 3.13 – Publication: Child Input & Judge’s Duty
+
+#### What the rule says
+Before publishing, the judge **must notify** all parties (including **represented children**) and give them a short chance to say:
+- Should the judgment be published?
+- If yes, how should it be anonymised?
+
+#### In practice
+- **Only applies “as appropriate”** → only if child has **separate representation** (e.g. Cafcass guardian or solicitor)
+- **No representation?** → No duty to notify or ask the child directly
+
+#### In *your* case
+- No Cafcass
+- No children’s solicitor  
+→ **3.13 notification step does NOT apply**
+
+#### But the judge **must still**:
+- Consider the **children’s welfare & privacy** (Art 8)
+- Balance it against transparency (Art 10)
+- Decide if/how to publish **with children’s interests in mind**
+
+**TL;DR:**  
+No need to ask your kids (they’re not represented) — but the judge **can’t ignore them** either.
 
 Needs total revwrite: 
 
