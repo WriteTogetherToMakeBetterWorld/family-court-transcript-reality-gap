@@ -3202,28 +3202,48 @@ What remains unaddressed: transcript access mechanisms for children/young adults
 The distinction between consultation on "what gets published" vs "who can access records of their own proceedings"
 Retrospective access questions for care-experienced adults
 2. ### 3.13 – Publication: Child Input & Judge’s Duty
-
 #### What the rule says
 Before publishing, the judge **must notify** all parties (including **represented children**) and give them a short chance to say:
 - Should the judgment be published?
 - If yes, how should it be anonymised?
-
 #### In practice
 - **Only applies “as appropriate”** → only if child has **separate representation** (e.g. Cafcass guardian or solicitor)
 - **No representation?** → No duty to notify or ask the child directly
-
 #### In *your* case
 - No Cafcass
 - No children’s solicitor  
 → **3.13 notification step does NOT apply**
-
 #### But the judge **must still**:
 - Consider the **children’s welfare & privacy** (Art 8)
 - Balance it against transparency (Art 10)
 - Decide if/how to publish **with children’s interests in mind**
-
 **TL;DR:**  
 No need to ask your kids (they’re not represented) — but the judge **can’t ignore them** either.
+
+3. ### 1.1 – The Balancing Test (Simple Version)
+When deciding **whether to publish a family judgment**, the judge must weigh up **3 human rights**:
+| Right | What it protects |
+|-------|------------------|
+| **Art 6** | Fair trial |
+| **Art 8** | Privacy (especially the **child’s**) |
+| **Art 10** | Free speech / open justice |
+#### 4-Step Test (from *Re J* [2013]):
+1. **Zoom in** on the **specific rights at stake** in *this* case  
+   → “How important is privacy *here*? How important is openness *here*?”
+2. **Measure the real harm** to the **child** if published  
+   → Will it cause distress, bullying, jigsaw ID, long-term stigma?
+3. **Child’s interests = primary (but not trumping)**  
+   → Consider child **first** — but other factors **can outweigh** them
+4. **Proportionality check**  
+   → Is publication **necessary and fair**, or does privacy win?
+**Bottom line:**  
+Child’s welfare is **front and centre** — but **open justice can still win** if the balance tips that way.
+
+
+
+
+
+
 
 Needs total revwrite: 
 
