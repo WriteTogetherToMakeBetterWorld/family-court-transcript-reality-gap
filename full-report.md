@@ -3189,123 +3189,206 @@ The synthesis has proven the reality gap exists, explained why it persists, and 
 Chapter 8 does not propose aspirational transformation ("imagine if the system worked perfectly") but **operational correction** ("the system cannot achieve stated goals without these specific architectural revisions"). Each intervention addresses convergently validated dysfunction; each mechanism reflects documented institutional constraints; each sequence stage follows implementation feasibility informed by five-layer evidence. The synthesis has established the evidential foundation. Chapter 8 translates that foundation into actionable reform.
 
 
+# 7.7 The Absent Voice: Children as Epistemic Blind Spot Across All Five Layers
 
-### 7.7 The Absent Voice: Children as Epistemic Blind Spot Across All Five Layers
+The five-layer analysis revealed interlinked and mutually reinforcing transparency barriers across institutional design (Layer 1), judicial gatekeeping (Layer 2), professional mediation (Layer 3), user experience (Layer 4), and external observation (Layer 5). Yet analysis of these layers exposed a more fundamental absence: children's perspectives do not structurally inform the transparency system ostensibly designed to serve them under the paramountcy principle. This exclusion, while demonstrated here through transparency reform, likely extends to other family court policy development more broadly—suggesting that a system built on the principle that children's welfare is paramount operates without mechanisms for children to guide its design.
 
-The five-layer analysis revealed interlinked and mutually reinforcing transparency barriers across institutional design (Layer 1), judicial gatekeeping (Layer 2), professional mediation (Layer 3), user experience (Layer 4), and external observation (Layer 5). Yet analysis of these layers exposed a more fundamental absence: children's perspectives do not structurally inform the transparency system ostensibly designed to serve them under the paramountcy principle. This exclusion, while demonstrated here through transparency policy, likely extends to family court reform initiatives more broadly—suggesting that a system built on the principle that children's welfare is paramount operates without mechanisms for children to guide its design.
-The June 2024 Practice Guidance exemplifies this pattern: while the President's foreword claims the guidance was "produced by a group...made up of judges, legal advisers, practitioners, CAFCASS, ADCS and young people from the FJYPB" (McFarlane, 2024, p. 1), the Publication Guidance Subgroup that actually drafted publication recommendations consisted of six adult legal professionals—judges, barristers, and academics—with zero documented child participation (Transparency Implementation Group, 2024, para. 4). The subgroup's four focus groups consulted 28 legal professionals about judicial workload and anonymisation concerns; no focus groups consulted children (Transparency Implementation Group, 2024, paras. 9-15). Across all five analytical layers, institutional design incorporates no mechanisms for children's input on publication of their records; judicial reasoning invokes children's welfare without consulting children's views on transparency; professional practice represents children's interests through adult interpretation; user experience studies capture parents' voices but not children's; external observers debate transparency policy without systematic attention to children's preferences.
-This constitutes epistemic blindness—the system cannot know what it does not know because it was never designed to incorporate the knowledge of those it purports to serve.
+The June 2024 Practice Guidance, *Transparency in the Family Courts: Publication of Judgments*, issued by Sir Andrew McFarlane, President of the Family Division (hereinafter "June 2024 Practice Guidance"), exemplifies this pattern: while the President's foreword claims the guidance was "produced by a group...made up of judges, legal advisers, practitioners, CAFCASS, ADCS and young people from the FJYPB" (McFarlane, 2024, p. 1), the Publication Guidance Subgroup that actually drafted publication recommendations consisted of six legal professionals—judges, barristers, and academics—with no documented participation by FJYPB representatives acting in their capacity as representatives of young people's perspectives (Transparency Implementation Group, 2024, para. 4). This pattern mirrors the 2016 Brophy research consultation: young people from NYAS were asked to review published judgments to identify anonymisation failures and distressing content, but were not consulted on whether publication itself serves children's interests or what alternative transparency mechanisms might better protect their welfare (Brophy, Perry & Harrison, 2016).[^1] The restricted scope of the 2016 consultation—focusing on improving anonymisation *within* the existing publication framework—ensured that children's fundamental concerns ("should our cases be published at all?") could not inform policy, just as the 2024 subgroup's restricted remit prevented examination of whether increased publication serves children by excluding "overview or commentary on the legal framework as it currently exists" (Transparency Implementation Group, 2024, para. 3).
 
+[^1]: The 2016 Brophy research built on earlier work analyzing BAILII judgments. Eight young people aged 17-25 from the National Youth Advocacy Service (NYAS) analyzed 21 published judgments. Their analysis revealed that 29% of judgments contained at least four "within county" geographic markers placing children at high risk of identification; 81% contained information about extended family members aiding jigsaw identification; and young people were able to locate media coverage for 24% of cases and social media coverage for 33% of cases (Brophy et al., 2016, Appendix 1, pp. 18-19). Young people expressed shock at finding graphic details in the public domain, with many reporting they "felt let down" by a system ostensibly designed to protect them (p. 19). Their expressed concerns—"graphic details of the sexual abuse of this child [are] made available to 'the world' for downloading and sharing…forever" (p. 1)—suggest discomfort with the *premise* of publication, yet policy response focused on technical improvements rather than questioning premises.
 
--------
+More fundamentally, the subgroup's remit was restricted to "the number of judgments that judges ought to publish" and "the types of judgments that might be deemed priority for publication," explicitly excluding any "overview or commentary on the legal framework as it currently exists" (Transparency Implementation Group, 2024, paras. 2-3). This restriction structurally prevented examination of whether increased publication serves children's interests—the very question children's perspectives would address. By confining inquiry to implementation details while forbidding examination of foundational premises, the remit ensured that children's voices could not meaningfully inform policy even if consultation had occurred, because children's primary concerns—"should our cases be published at all?" and "what alternative transparency mechanisms exist?"—exist at the level of analysis the inquiry was designed to exclude.
 
 This absence compounds across layers:
-- **Layer 1 (Institutional Design)**: Forms do not permit children to request transcripts of their own proceedings; EX107 presumes adult applicants
-- **Layer 2 (Judicial Gatekeeping)**: Judges invoke "paramountcy of the child's welfare" (Children Act 1989) to deny publication without consulting what children value about privacy versus openness
-- **Layer 3 (Professional Mediation)**: Solicitors and barristers represent children's interests as interpreted by adults; children's actual preferences remain mediated and filtered
-- **Layer 4 (User Experience)**: Children are ultimate "users" of court records—their life histories are documented—yet systematically excluded from accessing those records
-- **Layer 5 (External Observers)**: Children cannot observe proceedings about themselves; transparency debates occur entirely among adults
 
-This multi-layer exclusion reveals a design failure as fundamental as any documented in preceding sections: **the system designed to protect children's welfare lacks mechanisms to ascertain what children themselves value about transparency**. The "reality gap" (§5.3)—the divergence between official records and lived experience—is nowhere more profound than for children, whose histories are preserved in transcripts they cannot access, shaped by proceedings they cannot observe, governed by transparency policies they cannot influence.
+| Layer | Adult Voice Present | Children's Voice | Consequence |
+|-------|---------------------|------------------|-------------|
+| L1: Institutional Design | MOJ/HMCTS design forms, guidance, procedures | Forms presume adult applicants; no provisions for children requesting their own records | Children cannot initiate access to transcripts of proceedings about their lives |
+| L2: Judicial Gatekeeping | Judges invoke paramountcy principle (Children Act 1989, s.1), exercise discretion on publication | **2016: NYAS young people consulted on anonymisation practices but not on whether publication serves their interests**; Paramountcy applied without consulting what children value about transparency | Judges decide "in children's interests" based on adult presumptions; even when children consulted, framing limits what questions they can address |
+| L3: Professional Mediation | Solicitors/barristers navigate procedures, develop informal expertise | Lawyers represent children's interests as interpreted by professionals | Children's preferences filtered through professional judgment, rarely articulated directly |
+| L4: User Experience | Parents/litigants report barriers (costs, delays, complexity) | Children are "users" whose life histories are documented but who cannot access records | Ultimate stakeholders excluded from system designed for their benefit |
+| L5: External Observation | Transparency Project, media, researchers monitor transparency implementation | **2016: Young people analyzed published judgments, expressed concerns about exposure**; Children cannot observe proceedings about themselves; their perspectives absent from transparency debates | Policy discourse occurs entirely among adults; children's input confined to technical review; foundational policy questions remain unexamined |
 
-#### 7.7.1 The Representation-Voice Distinction
+This multi-layer exclusion reveals that epistemic blindness about children is not incidental oversight but structural feature. This constitutes epistemic blindness—the system cannot know what it does not know because it was never designed to incorporate the knowledge of those it purports to serve.
 
-Children in family proceedings are represented by institutional proxies:
-- **Cafcass guardians** who assess and articulate children's best interests
-- **Children's solicitors** appointed in some cases under Family Procedure Rules
-- **Local authority social workers** who document children's circumstances and wishes
+While young people were consulted during transparency reform development, this consultation was confined to technical anonymisation questions rather than foundational policy decisions. The 2016 research by Dr Julia Brophy, commissioned by the Nuffield Foundation and Association of Lawyers for Children, engaged eight young people aged 17-25 from the National Youth Advocacy Service (NYAS) to review anonymisation practices in 21 published BAILII judgments (Brophy, Perry & Harrison, 2016). Young people analyzed geographic identifiers, jigsaw identification risks, and graphic sexual abuse descriptions, providing feedback that informed the December 2018 Practice Guidance on anonymisation (McFarlane, 2018). However, the research brief explicitly focused on improving anonymisation **within the existing publication framework**—young people were not asked whether publication itself serves children's interests, what alternative transparency mechanisms might protect their welfare, or whether they should participate in decisions about their own cases.
 
-But **representation is not voice**. When we examine transparency through these representatives' perspectives, we learn whether Cafcass thinks publication is appropriate, whether social workers believe a case merits public attention, whether judges consider transparency serves children's interests. **We never learn what children themselves think about transparency** because:
+Young people's responses to the published judgments revealed profound concerns that extended beyond the technical anonymisation questions they were asked. Many expressed shock at finding graphic details of their abuse in the public domain: "graphic details of the sexual abuse of this child [are] made available to 'the world' for downloading and sharing…forever" (Brophy et al., 2016, p. 1). They questioned the necessity of extensive detail: "Yes abuse is of course relevant …but there should not be so much intimate detail of all the episodes of sexual abuse... This level of detail... is now in the public arena and for the rest of this girl's life" (p. 1). The executive summary notes that "many felt let down" by a system ostensibly designed to protect them (p. 19). These concerns suggest discomfort with the **premise** of publication, yet consultation focused on refining anonymisation practices rather than questioning whether publication serves children's welfare.
 
-1. **Age-appropriate consultation is not routine practice**: The system presumes children lack capacity to engage with transparency questions, despite UNCRC Article 12 granting children the right to express views in matters affecting them
-2. **Views are filtered through adult interpretation**: When children's "wishes and feelings" appear in Cafcass reports or social services assessments, they are paraphrased, summarized, and contextualized by professional judgment
-3. **The question itself is abstracted away**: Asking "do you want this case made public?" during a crisis (domestic violence, care proceedings, parental dispute) is too abstract for most children to meaningfully answer
+The four focus groups conducted for the June 2024 Practice Guidance consulted 28 legal professionals about judicial workload and anonymisation concerns; no focus groups consulted young people (Transparency Implementation Group, 2024, paras. 9-15). This represents a regression from even the limited 2016 consultation, which at least gave young people the opportunity to express concerns about published judgments—even if those concerns were not incorporated into foundational policy review.
 
-This creates an **accountability void**: adults decide transparency for children, citing paramountcy of welfare, without systematic evidence of what children value. Current policy is **evidence-free** regarding children's actual preferences, presuming alignment with institutional caution—a presumption that may prioritize adult comfort over child welfare.
+## 7.7.1 Methodological Reorientation: Finding the Question Before Proposing Solutions
 
-#### 7.7.2 Institutional Proxies: Cafcass's Mediated Position
+This structural absence of children's voices presents not merely an empirical gap but a methodological challenge: how can research on transparency policy that affects children be conducted rigorously when the fundamental question guiding that policy remains unexamined? Current transparency debates operate within an assumed framework—that increased publication serves the public interest, subject to anonymisation safeguards—without interrogating whether this framework itself reflects children's interests or perspectives. Before proposing reforms to transparency mechanisms, this article argues that a prior step is necessary: identifying the fundamental question that should guide transparency policy when children are the subjects of published records.
 
-Cafcass, as primary guardian of children's interests in family proceedings, supports transparency in principle to enhance accountability and public understanding, but with stringent child-protection caveats. In their 2021 Transparency Review response, Cafcass stated:
+This methodological reorientation—privileging question-formation over solution-design—is particularly critical when the affected population (children) has been systematically excluded from policy development. Rushing to answers risks embedding the same exclusionary logic that created the current system: adults identifying problems, designing solutions, and implementing reforms without consulting those whose lives are documented in the records being published. The alternative approach, adopted in the analysis that follows, treats question-formation as a substantive research task requiring examination from multiple analytical perspectives—legal, ethical, psychological, developmental, and experiential—before any framework for reform can be proposed.
 
-> "We support the principle of increasing the public's understanding of the family court and how it reaches the decisions it makes."
+This methodological stance reflects recognition that any attempt by adults (including researchers) to articulate "what children would want" reproduces the epistemic violence of speaking for children rather than with them. Even sophisticated frameworks about children's perspectives constitute "adult-legible, adult-serving constructs" generated through adult epistemology. The question-first approach acknowledges this limitation: rather than claiming to know children's answers, this analysis seeks to identify what questions must be asked—and by extension, what consultation mechanisms must be developed—before transparency policy can claim legitimacy.
 
-However, they emphasized that any publication of orders or transcripts must prioritize children's experiences, wishes, and feelings, warning of potential harms:
-- **Distress from media exposure**: Children recognizing their situations in public reporting
-- **"Jigsaw identification"**: Details like schools, locations, or sibling arrangements enabling identification despite anonymization
-- **Long-term stigmatization**: Published records following children into adulthood
+The sections that follow therefore pursue a specific analytical sequence: first, proposing the meta-question that should frame transparency policy when children are subjects of publication (§7.7.2); second, examining why current institutional structures prevent this question from being asked (§7.7.3); third, exploring what subsidiary questions would need to be posed to children in meaningful consultation (§7.7.4).
 
-The Family Justice Young People's Board, integrated into Cafcass's work, has reinforced these concerns, with young people often prioritizing privacy for "their stories" while advocating for anonymized summaries that balance openness with safety. In the 2023-2025 Transparency Pilot evaluations, Cafcass supported expanded media reporting provided anonymity protections held, but emphasized limited transcript releases to prevent retraumatization.
+## 7.7.2 The Meta-Question: Who Controls Children's Narratives, By What Authority, and For Whose Benefit?
 
-**Critical observation**: These are **institutional positions about what serves children**, derived from Cafcass's professional judgment and aggregated consultation with young people's boards. They represent proxy voices—valuable and expert, but not equivalent to systematic, age-appropriate consultation with children subject to specific proceedings about their own transparency preferences.
+From multiple analytical perspectives—legal, ethical, psychological, developmental, technological, and experiential—one meta-question emerges as foundational to transparency policy when children are the subjects of published records:
 
-#### 7.7.3 Institutional Proxies: Social Services' Mediated Position
+**Who has the right to control the narrative of a child's life, on what basis is that right claimed, by what authority does 'the system' exercise that control, and for whose ultimate benefit does it define, record, and publicize a child's reality?**
 
-Social services departments, central to public law cases, echo Cafcass's dual position: supporting transparency for accountability while insisting on non-negotiable anonymity protections. The Association of Directors of Children's Services (ADCS), in submissions to the 2021 Transparency Review and subsequent pilot evaluations, highlights:
+This question sits above all analytical frameworks because it interrogates the foundational assumption underlying transparency policy: that the state, via courts, has authority to create and publish authoritative narratives about children's lives to serve systemic purposes (justice, transparency, accountability, legal precedent). This assumption is never defended in transparency guidance—it is treated as axiomatic. The June 2024 Practice Guidance, for instance, begins with the premise that "being transparent includes allowing the public to understand the range of cases in the Family Court and how they are dealt with" and that "the publication of judgments is an essential part of that process" (McFarlane, 2024, p. 1). No consideration is given to whether this premise holds when the "cases" involve children, or whether transparency might be achieved through mechanisms that do not require publishing narratives about individual children's lives.
 
-- **Accountability benefits**: Publishing anonymized outcomes could improve child protection practice and enable systemic learning from serious case reviews
-- **Public trust rationale**: Openness may foster confidence in social workers' decision-making, countering media narratives of failure
-- **Strict anonymity requirements**: Any publication must prevent identification, particularly in abuse or care proceedings where details could expose vulnerabilities
+The meta-question exposes what publication actually does: it claims that the system's record of a child's life is more authoritative, more permanent, and more public than the child's own experience of their life. This is a metaphysical claim about personhood disguised as administrative procedure. When a court publishes a judgment about a child, it is not merely making information accessible; it is asserting narrative sovereignty—the right to define, record, and publicize a child's reality in ways that may follow that child into adulthood, shape how others perceive them, and constrain their ability to reframe their own history as they mature and their understanding evolves.
 
-ADCS warns that unchecked publication might deter families from engaging with services (fearing public exposure) or stigmatize children long-term (care-experienced status becoming permanent label). These concerns informed the national rollout guidance for the 2025 transparency pilots.
+This meta-question reveals five subsidiary questions that transparency policy cannot answer within its current framework:
 
-**Critical observation**: Like Cafcass, social services' positions reflect **professional assessment of risk**, not direct consultation with children about their preferences. The precautionary approach—prioritize privacy unless compelling public interest demonstrated—may be appropriate, but it remains an untested adult presumption about what serves children's welfare.
+**1. The sovereignty question:** Does a child have narrative sovereignty over their own life story, or is childhood a state of legitimate narrative subjugation to institutional authority? Current policy assumes the latter without examination. Children's Article 8 ECHR privacy rights are acknowledged but treated as interests to be "balanced" against transparency goals, not as foundational constraints that must be satisfied before publication can occur.
 
-#### 7.7.4 Transcripts as Future Memory: The Unique Value for Children
+**2. The temporal question:** If narrative rights vest with maturity, who legitimately holds them in trust during childhood, and by what standard can we verify that trust is being exercised validly rather than for institutional convenience? The paramountcy principle (Children Act 1989, s.1) mandates that children's welfare is the court's paramount consideration, yet transparency policy developed without evidence of what children consider welfare-enhancing about publication of their cases.
 
-Transcripts hold distinctive significance for children as the only **verbatim record of life-altering events**. When care-experienced adults retrospectively seek their histories, they encounter:
-- **Judgments**: Judicial interpretation and reasoning—what the judge decided and why
-- **Social care files**: Local authority accounts, assessments, and interventions—what professionals observed and recommended
-- **Cafcass reports**: Guardian analysis of best interests—what was advocated on their behalf
+**3. The conflict question:** When narrative interests conflict—a child's privacy versus the public's claimed interest in transparency—what principle determines priority, and who decides? Current policy resolves this through judicial discretion guided by Article 8/Article 10 ECHR balancing, but children are not parties to this balancing exercise. Their interests are represented by proxies (Cafcass, solicitors) whose institutional positions may not align with children's own preferences.
 
-**But only transcripts capture** what was actually said in proceedings—testimony examined, evidence challenged, arguments presented, children's own words (when given), or what was omitted about their wishes. Transcripts are the **unmediated record**, preserving dialogue that shaped childhood in ways judgments and reports cannot fully convey.
+**4. The permanence question:** Can anyone validly make irreversible narrative decisions (permanent publication) on behalf of a future self who will experience consequences the present decision-maker cannot foresee? A judgment published when a child is 8 years old becomes part of their permanent public record, accessible when they are 18, 28, or 48. No mechanism exists for that future adult to consent to or refuse continued publication, creating what amounts to non-consensual biographical documentation.
 
-Yet transcripts remain systematically inaccessible even to adults seeking retrospective understanding. **The 18-year-old cannot access the transcript of proceedings that determined their care order at age 8**. This creates a profound reality gap: official records (judgments, social files) diverge from memory and lived experience, yet the verbatim record that might reconcile or explain these divergences is denied.
+**5. The epistemological question:** Who can know the "true" narrative of a life—the person living it, or institutional observers documenting it? Judgments present judicial interpretation of evidence, but children (particularly care-experienced children seeking their histories as adults) often report that official records diverge from their lived experience. Publication privileges the institutional narrative as authoritative while foreclosing the child's right to tell their own story on their own terms.
+
+Current transparency policy resolves these questions by default: judicial narrative authority is supreme, children's privacy interests are secondary to systemic transparency goals, and publication decisions are irreversible. Yet these resolutions are never explicitly defended—they are embedded in procedural design. The restricted remit of the Transparency Implementation Group's Publication Guidance Subgroup (Transparency Implementation Group, 2024, para. 3) exemplifies this: by excluding examination of "the legal framework as it currently exists," the subgroup was structurally prevented from asking whether the framework itself—which assumes institutional authority to publish narratives about children—is defensible.
+
+## 7.7.2.1 The Temporal Cascade: How Present Decisions Constrain Future Selves
+
+Current transparency policy treats publication as a binary present-tense decision: publish now or seal now. Both choices have cascading temporal effects that extend decades beyond the decision point, yet neither pathway includes mechanisms for the children who become adults to participate in decisions about their own narratives.
+
+**Scenario 1: Publication now**
+- Year 0 (age 8): Record becomes public without child's consent
+- Year 10 (age 18): Young adult discovers published judgment, cannot remove it
+- Year 20 (age 28): Adult permanently defined by childhood crisis, no "right to be forgotten"
+
+**Scenario 2: Sealing now**
+- Year 0 (age 8): Record sealed to protect child
+- Year 10 (age 18): Young adult seeking history, cannot access sealed transcript (unlike adoption records under Adoption and Children Act 2002)
+- Year 20 (age 28): Adult wishes to authorize anonymized publication to help others, no mechanism exists
+
+Both pathways involve adults making permanent decisions on behalf of future selves who will experience consequences the present decision-maker cannot foresee. A parent or judge determining in 2025 that a child "needs privacy and stability" makes that determination binding on the same individual in 2035, 2045, and beyond, when they may hold entirely different views about whether transparency or privacy serves their interests. The system provides no mechanism to revisit these decisions as children mature, no provision for time-limited sealing with adult review, and no recognition that the 8-year-old subject of proceedings and the 28-year-old seeking to understand their history are, developmentally and legally, different persons with potentially different preferences about transparency.
+
+The temporal cascade reveals a fundamental asymmetry: adults can make permanent decisions about children's narratives, but children cannot make even temporary decisions about their own. This asymmetry persists into adulthood—care-experienced adults seeking their childhood proceedings face the same barriers (judicial discretion, cost, application requirements) as any party, with no special provision recognizing their unique retrospective interest in understanding the decisions that shaped their lives.
+
+## 7.7.3 Why the System Cannot Ask This Question
+
+The meta-question—who controls children's narratives, by what authority, and for whose benefit—is structurally unavailable within institutional reform processes, not through conspiracy but through institutional logic. If transparency policy genuinely asked "by what right do we control children's narratives?", the inquiry might conclude: "We have power to publish, but not necessarily right. Publication may be an exercise of institutional power legitimated through transparency discourse rather than a defensible claim to narrative authority over children's lives."
+
+This conclusion would destabilize multiple institutional interests:
+
+**Judicial authority:** Judges' institutional power depends partly on their role as definitive narrators of legal reality. Published judgments do more than record decisions—they establish authoritative accounts of what happened, why it matters, and what it means. If children (or adults reflecting on their childhoods) can contest these narratives, judicial authority to define reality is undermined.
+
+**Legal precedent systems:** Common law development requires published judgments creating binding narratives. If children's cases cannot be published, entire areas of family law lose their precedential foundation. The system's answer—"we must publish to maintain precedent"—treats legal architecture as non-negotiable and children's narrative sovereignty as expendable.
+
+**Professional legitimacy:** Legal professionals' expertise is demonstrated through public cases and published reasoning. Barristers build reputations on reported judgments; judges establish authority through influential decisions; academics analyze published cases. If children's narratives cannot be appropriated for these professional purposes, the demonstrable expertise of family law practitioners diminishes.
+
+**Reform infrastructure:** Transparency advocates require visible case examples to demonstrate systemic problems. Campaign groups, journalists, and academics rely on published judgments to evidence court failures, advocate for change, and hold institutions accountable. If children's cases are sealed, this infrastructure loses its raw material.
+
+The question is therefore structurally excluded because asking it threatens the foundations on which multiple institutional actors depend. The Transparency Implementation Group's restricted remit demonstrates this dynamic: the subgroup could discuss how many judgments to publish and which types to prioritize, but could not examine whether publication itself serves children's interests or whether alternative transparency mechanisms might achieve systemic goals without appropriating children's narratives (Transparency Implementation Group, 2024, para. 3).
+
+This creates a self-validating loop: transparency is assumed beneficial; implementation details are debated; children's exclusion from these debates is rationalized as protecting them from complexity; and the resulting policy is cited as evidence of "careful consideration." At no point does the fundamental question—by what right?—enter the inquiry, because answering it might reveal that right is absent.
+
+## 7.7.3.1 The Representation-Voice Distinction
+
+Children in family proceedings are represented by institutional proxies: Cafcass guardians who assess and articulate children's best interests; children's solicitors appointed in some cases under Family Procedure Rules; and local authority social workers who document children's circumstances and wishes. But representation is not voice.
+
+When transparency policy is examined through these representatives' perspectives, we learn whether Cafcass thinks publication is appropriate, whether social workers believe a case merits public attention, whether judges consider transparency serves children's interests. We never learn what children themselves think about transparency because age-appropriate consultation is not routine practice. The system presumes children lack capacity to engage with transparency questions, despite UNCRC Article 12 granting children the right to express views in matters affecting them. When children's "wishes and feelings" appear in Cafcass reports or social services assessments, they are paraphrased, summarized, and contextualized by professional judgment. The question itself—"do you want this case made public?"—is abstracted away during crisis (domestic violence, care proceedings, parental dispute), considered too complex for most children to meaningfully answer.
+
+This creates an accountability void: adults decide transparency for children, citing paramountcy of welfare (Children Act 1989, s.1), without systematic evidence of what children value. Current policy is evidence-free regarding children's actual preferences, presuming alignment with institutional caution—a presumption that may prioritize adult comfort over child welfare. The 2016 NYAS consultation revealed young people's distress at discovering published details of their abuse—"many felt let down" (Brophy et al., 2016, p. 19)—yet this finding did not prompt systematic consultation with children about whether publication serves their interests. These are institutional positions about what serves children, derived from professional judgment and limited consultation with young people's boards. They represent proxy voices—valuable and expert, but not equivalent to systematic, age-appropriate consultation with children subject to specific proceedings about their own transparency preferences.
+
+## 7.7.4 Children's Perspective: What Questions Would They Want Us to Ask Them?
+
+One question can be posed without claiming to know children's answers: What questions would children want us to ask them before publishing records about their lives? This reframes inquiry from adults determining what serves children's interests to adults acknowledging they cannot know without asking.
+
+Based on research with care-experienced young people, children's rights frameworks (particularly UNCRC Article 12), developmental psychology literature, and the 2016 NYAS consultation findings, consultation addressing children's perspectives on transparency would need to pose questions across several domains:
+
+**Immediate impact questions (while they are children):**
+- Who in my life will be able to identify this is about me, even with names changed?
+- Will the children at my school find this? What will they think of me?
+- What private information that I shared in confidence (or that my family shared) will become public?
+- Does this make me "the bad kid" or "the victim kid" forever?
+- Can I say no? If I can't say no, why are adults making decisions about my privacy?
+- Will my parents be angry at me for what's written in the judgment?
+
+**Future self questions (anticipating adulthood):**
+- When I'm 25 and trying to move forward with my life, will this judgment be the first search result for my name?
+- Did you realize this would be here forever—that future employers, partners, or my own children might find it?
+- If I later understand what happened differently than the judge did, who gets to tell my story—the published judgment or me?
+- Should I be able to review and consent (or refuse consent) to continued publication once I'm an adult?
+- Why did you steal my right to tell my own story on my own terms, in my own time?
+
+**Process questions (about rights and power):**
+- Why wasn't I asked before this decision was made?
+- If I object, does my objection matter, or does publication happen anyway?
+- Who decided that transparency goals are more important than my privacy, and why don't I get input into that decision?
+- Why am I too young to consent to publication but not too young to have my case published without consent?
+- What makes you think you understand what's good for me better than I do?
+
+**Systemic alternatives questions (about necessity):**
+- Could transparency be achieved through statistics about court performance rather than publishing my specific case?
+- Why is publishing individual children's stories the only transparency mechanism being pursued?
+- Have you proven that publication actually improves the family court system, or is transparency an unexamined assumption?
+- If you had to publish, why not restrict it to professional databases rather than the open internet?
+- Could you use composite cases (combining elements from multiple cases) instead of my actual story?
+
+**Harm and benefit questions (about justification):**
+- How does publishing my case help me specifically?
+- If it doesn't help me, why is it fair to use my trauma as a teaching tool for others?
+- You say publication serves "the public interest"—but who decided the public's interest matters more than my privacy?
+- What evidence do you have that publishing judgments makes courts work better for children?
+- If you can't prove benefit and can't eliminate risk, why are you doing this?
+
+**Temporal agency questions (about future self):**
+- If you seal this now to protect me, will I be able to access it when I'm older to understand what happened?
+- What if I want privacy now but want transparency later—or the reverse?
+- Why do adults' 2025 predictions about what I'll need in 2035 or 2045 override my ability to decide for myself when I'm an adult?
+- Shouldn't there be a mechanism to review the sealing decision when I turn 18, like there is for adoption records?
+- If other adults made this record about me, shouldn't I get to decide what happens to it once I'm old enough to understand?
+
+The absence of mechanisms to pose these questions—let alone respond to children's answers—demonstrates that current transparency policy operates on untested assumptions about what serves children, rather than evidence of children's actual preferences or experiences. More fundamentally, the questions reveal a burden-of-proof inversion: children are implicitly required to prove harm from publication (and can only do so through adult proxies), rather than the system being required to prove benefit to the specific child whose narrative is being appropriated.
+
+The meta-question posed in §7.7.2 encompasses all these subsidiary questions: they are various ways of asking "by what authority, and for whose benefit, do you control my narrative?" Different children at different developmental stages might emphasize different aspects—younger children focusing on immediate social consequences, adolescents on autonomy and consent, care-experienced adults on retrospective access and narrative ownership—but all variations interrogate the same foundational claim: that the system has legitimate authority to define, record, and publicize their reality without their meaningful participation in that decision.
+
+## 7.7.4.1 Transcripts as Future Memory: The Unique Value for Children
+
+Transcripts hold distinctive significance for children as the only verbatim record of life-altering events. When care-experienced adults retrospectively seek their histories, they encounter judgments (judicial interpretation and reasoning—what the judge decided and why), social care files (local authority accounts, assessments, and interventions—what professionals observed and recommended), and Cafcass reports (guardian analysis of best interests—what was advocated on their behalf). But only transcripts capture what was actually said in proceedings—testimony examined, evidence challenged, arguments presented, children's own words (when given), or what was omitted about their wishes. Transcripts are the unmediated record, preserving dialogue that shaped childhood in ways judgments and reports cannot fully convey.
+
+Yet transcripts remain systematically inaccessible even to adults seeking retrospective understanding. The 18-year-old cannot access the transcript of proceedings that determined their care order at age 8. This creates a profound reality gap: official records (judgments, social files) diverge from memory and lived experience, yet the verbatim record that might reconcile or explain these divergences is denied.
 
 Research on care-experienced young people documents frustration with inaccessible histories—being told "it was decided in your best interests" without ability to verify what was actually considered, what their younger self said, or whether their voice was accurately represented. This informational asymmetry undermines trust in institutions and may deter future help-seeking, precisely opposite the system's protective intent.
 
-The **transcript-as-future-memory** function is unique to children among system users. Adult litigants seeking transcripts typically do so for appeals (time-limited) or tactical purposes (ongoing proceedings). Children's interest is different: **understanding their own history**. Current transcript policy treats children's interest as identical to adults'—requiring application, judicial approval, cost payment—rather than recognizing this distinctive retrospective function.
+The transcript-as-future-memory function is unique to children among system users. Adult litigants seeking transcripts typically do so for appeals (time-limited) or tactical purposes (ongoing proceedings). Children's interest is different: understanding their own history. Current transcript policy treats children's interest as identical to adults'—requiring application via EX107, judicial approval, cost payment—rather than recognizing this distinctive retrospective function.
 
-#### 7.7.5 The Research Gap and Reform Imperatives
+The temporal dimension of transcript access becomes particularly acute when parents disagree about transparency. A parent arguing against publication in 2025—citing children's need for privacy and stability—makes a determination that becomes binding on those children in 2035, 2045, and beyond, when they may hold entirely different views about whether understanding their history requires access to sealed transcripts. The system provides no mechanism for children, once adult, to override parental assessments of their privacy interests made decades earlier, even though the Adoption and Children Act 2002 provides exactly such a mechanism for adopted adults seeking their birth records. This asymmetry suggests that family court transparency policy has not grappled with children's status as future adults with retrospective information needs, treating them instead as perpetual subjects of parental and judicial narrative control.
 
-Current transparency policy operates without empirical foundation regarding children's actual preferences. Two unanswered questions demand research:
+Unlike adoption records, which are subject to post-18 access rights under the Adoption and Children Act 2002, family court transcripts have no analogous preserved-access mechanism. Care-experienced adults seeking to understand their histories face the same barriers as any party: application, judicial discretion, cost. The absence of this evidence base regarding children's actual preferences—whether some prioritize absolute privacy, some value accurate preservation even without publication, or some (particularly adolescents and care-experienced adults) might consent to anonymized publication if it prevents similar harms to others—is itself a design failure.
 
-**Question 1 (Contemporaneous)**: What would age-appropriate consultation reveal about children's views on proceedings about them?  
-If children aged 10-17 in family proceedings were consulted with therapeutic support about transparency, what might they prioritize? Hypotheses from related research suggest:
-- **Younger children** (10-12): Immediate privacy and stability; avoiding stigma at school or in peer groups
-- **Adolescents** (13-17): Accurate records for future understanding, even if not publicly accessible; being believed and having their account preserved
-- **Context-dependent preferences**: Children in domestic violence cases may fear perpetrator access to testimony; children in care proceedings may want records preserved to challenge local authority narratives
+## Conclusion: Toward Child-Centered Inquiry
 
-**Question 2 (Retrospective)**: Should care-experienced adults have rights to access and consent to publication of their own case transcripts?  
-Unlike adoption records (subject to post-18 access rights under Adoption and Children Act 2002), family court transcripts have no analogous preserved-access mechanism. Care-experienced adults seeking to understand their histories face the same barriers as any party: application via EX107, judicial discretion, cost. Should retrospective consent enable:
-- **Personal access** at age 18 (analogous to adoption records)
-- **Anonymized publication consent** for systemic learning (e.g., contributing to Serious Case Review analyses, academic research on care system patterns)
+This analysis has identified the meta-question that must guide transparency policy when children are subjects of publication, examined why current institutional structures prevent this question from being asked, and outlined what subsidiary questions would need to be posed in meaningful consultation with children. What this analysis cannot do—and what no adult-authored analysis can do—is answer these questions on children's behalf.
 
-**Without systematic consultation**, the system **presumes children's interests align with maximum secrecy**—a presumption that may serve institutional risk aversion more than child welfare. If children were asked (age-appropriately, with safeguards), we might discover:
-- Some prioritize absolute privacy (legitimate and to be respected)
-- Some value accurate preservation even without publication (transcript as future-accessible record)
-- Some, particularly adolescents and care-experienced adults, might consent to anonymized publication if it prevents similar harms to others
+The methodological reorientation proposed in §7.7.1—privileging question-formation over solution-design—requires a corresponding shift in research practice: from analyzing transparency policy about children to conducting transparency research with children as partners. This article therefore enters a new phase beyond this chapter: direct consultation with children and care-experienced young adults using Living Research Protocol methodology to ascertain what transparency mechanisms, if any, they believe would serve their interests without violating their narrative sovereignty.
 
-**The absence of this evidence base** is itself a design failure. Section 8 proposes mechanisms to address this gap.
+Section 8 will present the consultation design, findings, and reform proposals informed by children's actual responses rather than adult assumptions. Critically, the consultation will address not only children's present preferences but their views on future access: whether sealing decisions should be time-limited, whether adults should be able to authorize retrospective publication of their childhood proceedings, and whether the temporal cascade identified in §7.7.2.1 represents a fundamental design flaw in current policy. That section cannot be written until the consultation occurs—to do otherwise would reproduce the epistemic violence this chapter exposes: adults claiming to know what children need without asking them, and adults making permanent decisions on behalf of future selves without mechanisms to verify those decisions serve the interests of the person those children become.
 
-#### 7.7.6 Cross-Layer Exclusion as Systemic Failure
+---
 
-Children's absence from all five analytical layers compounds the reality gap documented throughout Section 7:
+## References
 
-| Layer | Adult Voice Present | Children's Voice | Consequence |
-|-------|-------------------|------------------|-------------|
-| **L1: Institutional Design** | MOJ/HMCTS design forms, guidance, procedures | Forms presume adult applicants; no provisions for children requesting their own records | Children cannot initiate access to transcripts of proceedings about their lives |
-| **L2: Judicial Gatekeeping** | Judges invoke paramountcy principle, exercise discretion on publication | Paramountcy applied without consulting what children value about transparency | Judges decide "in children's interests" based on adult presumptions, not child input |
-| **L3: Professional Mediation** | Solicitors/barristers navigate procedures, develop informal expertise | Lawyers represent children's interests as interpreted by professionals | Children's preferences filtered through professional judgment, rarely articulated directly |
-| **L4: User Experience** | Parents/litigants report barriers (costs, delays, complexity) | Children are "users" whose life histories are documented but who cannot access records | Ultimate stakeholders excluded from system designed for their benefit |
-| **L5: External Observation** | TP, media, researchers monitor transparency implementation | Children cannot observe proceedings about themselves; their perspectives absent from transparency debates | Policy discourse occurs entirely among adults; children's potential views unknown |
+Adoption and Children Act 2002.
 
-This multi-layer exclusion reveals that **epistemic blindness about children is not incidental oversight but structural feature**. The system lacks:
-- **Consultation mechanisms** for age-appropriate input on transparency preferences
-- **Preserved access provisions** enabling retrospective understanding (unlike adoption records)
-- **Future-consent pathways** allowing care-experienced adults to authorize anonymized publication
-- **Accountability requirements** for representatives (Cafcass, social services) to document when they oppose publication "in children's interests"
+Brophy, J., Perry, K., & Harrison, E. (2016). *Anonymisation and avoidance of the identification of children & the treatment of explicit descriptions of the sexual abuse of children in judgments intended for the public arena: Judicial guidance*. Nuffield Foundation and Association of Lawyers for Children.
 
-These gaps are remediable through the least-resistance interventions proposed in Section 8, which embed child-centered design principles into existing reform pathways rather than requiring wholesale system transformation.
+Children Act 1989, s.1.
+
+McFarlane, A. (2018). *Practice guidance: Anonymisation and avoidance of the identification of children and the treatment of explicit descriptions of the sexual abuse of children in judgments intended for the public arena*. Family Division, High Court of England and Wales. https://www.judiciary.uk/wp-content/uploads/2018/12/anonymisation-guidance-1-1.pdf
+
+McFarlane, A. (2024). *Transparency in the family courts: Publication of judgments* [Practice Guidance]. Family Division, High Court of England and Wales. https://www.judiciary.uk/wp-content/uploads/2024/06/Publication-of-Judgments-Practice-Guidance-JUNE-2024-1.pdf
+
+Munby, J. (2014). *Transparency in the family courts: Publication of judgments* [Practice Guidance]. Family Division, High Court of England and Wales. https://www.bailii.org/ew/cases/EWHC/Fam/2014/B3.html
+
+Transparency Implementation Group. (2024). *Anonymisation and publication subgroup: Draft publication guidance for judges* [Report]. Her Majesty's Courts and Tribunals Service.
+
+United Nations Convention on the Rights of the Child (UNCRC), Article 12.
 
 
 TEST 0.4
