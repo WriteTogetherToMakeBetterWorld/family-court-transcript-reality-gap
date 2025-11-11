@@ -294,3 +294,9 @@ Warners Solicitors (2024) *Family court case duration statistics*. Available at:
 
 Weightmans (2025) *Media and transparency in the family court*. 6 February. Available at: https://www.weightmans.com/insights/media-and-transparency-in-the-family-court/ (Accessed: 2 November 2025).
 
+
+New: 
+McFarlane, A. (2024). Transparency in the family courts: Publication of judgments practice guidance. Family Division, High Court of England and Wales. https://www.judiciary.uk/wp-content/uploads/2024/06/Publication-of-Judgments-Practice-Guidance-JUNE-2024-1.pdf
+
+Transparency Implementation Group. (2024). Anonymisation and publication subgroup: Draft publication guidance for judges [Report]. Her Majesty's Courts and Tribunals Service.
+
