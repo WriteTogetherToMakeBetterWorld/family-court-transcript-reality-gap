@@ -26,6 +26,7 @@ layout: changelog
 | 2025-11-11 | — | Update 7.children-epistemic-blindspot.md | @NoEndsNoGains |
 | 2025-11-11 | — | Update references.md | @NoEndsNoGains |
 | 2025-11-11 | — | Update 7.children-epistemic-blindspot.md | @NoEndsNoGains |
+| 2025-11-11 | — | Update 7.children-epistemic-blindspot.md | @NoEndsNoGains |
 | 2025-11-03 | v0.9 | **Initial draft released** – 5 Layers defined, stats added | @NoEndsNoGains |
 | — | — | *Your name here* | [Submit PR →](https://github.com/NoEndsNoGains/family-court-reform/pulls) |
 
