@@ -3561,7 +3561,7 @@ Success is:
 - **Building infrastructure where legitimate questions can be asked and answered**:  
   - Children access their records as adults (Chapter 9 §9.4) → can validate whether "child welfare" justifications were accurate  
   - Dashboard tracks patterns (Chapter 8 §8.5.1) → stakeholders can see what's actually happening  
-  - Published corpus grows (Chapter 8 §8.1.12) → researchers can analyze outcomes  
+  - Published corpus grows (Chapter 8 §8.1.12) → researchers can analyse outcomes  
   - All stakeholders have voice in ongoing refinement → system evolves based on evidence, not assumptions
 - **Creating mechanisms for detecting when we're wrong**:  
   - If 18+ access reveals that sealed records harmed more than publication would have → adjust defaults  
@@ -3569,10 +3569,12 @@ Success is:
   - If children's consultation reveals transparency harms them → question the entire premise  
   - If dashboard shows reforms aren't working → redesign
 - **Honoring that the best outcome might look nothing like what this article proposes**:  
-  - Children might prefer mechanisms we haven't imagined  
-  - Care-experienced adults might reveal retrospective needs we didn't anticipate  
-  - Judges might identify constraints that make proposals unworkable  
-  - Parents might show that "solutions" create new burdens
+  - Children and care-experienced adults might prefer mechanisms we haven't imagined or reveal retrospective needs we didn't anticipate
+  - Parents and litigants might show that "solutions" create new burdens or identify barriers we didn't see
+  - Judges might identify constraints that make proposals unworkable
+  - Solicitors and barristers might reveal professional practice barriers we didn't consider
+  - Researchers, journalists, and transparency advocates might identify unintended consequences for external accountability
+  - Institutional designers, HMCTS staff, transcription vendors, and systems developers might show that technical implementation or infrastructure constraints make proposals unworkable
 
 The collaborative framework succeeds if it remains open to being fundamentally reconceived.
 
