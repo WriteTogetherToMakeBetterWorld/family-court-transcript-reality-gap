@@ -16,7 +16,8 @@ It follows the **[Living Research Protocol](https://github.com/NoEndsNoGains/liv
 | **Share your experience** | Use the <a href="https://forms.gle/your-form-link">anonymous form</a> <!-- Replace with real form URL, e.g., Google Forms --> |
 | **Challenge the findings** | Comment or red-team in <a href="https://github.com/NoEndsNoGains/family-court-reform/issues">Issues</a> |
 
-→ All changes go in **`CHANGELOG.md`** with your name (or anon).
+→ All changes go in `CHANGELOG.md` with your name (or anon).
+
 ---
 
 ## **Important: Do NOT edit `full-report.md` directly**
