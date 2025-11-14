@@ -3477,7 +3477,7 @@ That uncertainty is essential. Any framework claiming to serve children while ex
 
 - **Transcripts** — verbatim record of what was said in court
 - **Skeleton arguments** — written legal arguments
-- **Applications (e.g. C100, C110A)** — initial claims and relief sought
+- **Applications (e.g. C100, C2, N161)** — initial claims and relief sought
 - **Position statements** — parties' day-of-hearing positions
 - **Expert reports** — psychologists, ISWs (Independent Social Workers), assessments
 - **Cafcass letters** — guardian recommendations and analysis
@@ -3530,7 +3530,7 @@ This informational asymmetry undermines trust and may deter future help-seeking�
 
 ---
 
-### Process vs. Outcome: Why How Matters
+### Process vs. Outcome: Why "How" Matters
 
 Transcripts capture not just what was decided but **whether correct legal tests were applied**, whether facts were examined or accepted without scrutiny, whether legal arguments were properly addressed or recharacterised as emotional complaints. Written judgments present polished reasoning with citations and structure. Transcripts reveal the live decision-making process—including moments when stated tests and applied tests diverge, when questions go unasked, when one party's factual claims are tested while another's are accepted.
 
