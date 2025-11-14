@@ -3489,7 +3489,7 @@ This is not a minor omission. **These documents are the raw, unfiltered archive 
 
 ### The Verbatim Gap
 
-**Transcripts** — the **full verbatim record of everything said in court** (lawyers' arguments, witness testimony, children's words when given, the judge's oral judgment, and all dialogue) — are the **only unmediated archive** of life-altering proceedings.
+**Transcripts** — the **full verbatim record of everything said in court** (arguments, witness testimony, children's words when given, the judge's oral judgment, and all dialogue) — are the **only unmediated archive** of life-altering proceedings.
 
 Judgments (written or oral) **summarise and interpret**.  
 **Transcripts preserve the raw dialogue** that shaped childhood.
@@ -3545,13 +3545,17 @@ Memory studies distinguish **communicative memory** (personal, lived) from **cul
 - **Published judgments** = cultural memory (judge's sanctioned narrative).
 - **Transcripts + procedural documents** = the **bridge** to communicative memory.
 
-When children become adults seeking their histories, they find **narrative foreclosure** has already occurred: the cultural memory (published judgment) was fixed without their participation, and the communicative record (transcripts and procedural documents) that might challenge or contextualize it remains inaccessible.
+When children become adults seeking their histories, they find **narrative foreclosure** has already occurred: the cultural memory (published judgment) was fixed without their participation, and the communicative record (transcripts and procedural documents) that might challenge or contextualise it remains inaccessible.
 
 ---
 
 ### The Unique Child Interest
 
-The transcript-as-future-memory function is **unique to children**. Adult litigants seek records for appeals or tactics. Children (as adults) seek them to **understand their own history**. Yet current policy treats their interest as identical to adults'—EX107 application, judicial approval, cost—**ignoring this retrospective need**.
+The transcript-as-future-memory function is distinctive for children in ways it is not for other parties. Adult litigants typically seek transcripts for appeals, tactical purposes in ongoing proceedings, or to verify their participation was accurately recorded. They were present, they heard what was said, they can compare their memory to the written order.
+
+Children's retrospective need is different: they often weren't present, couldn't participate, and are reconstructing childhood events from adult records. When an 18-year-old seeks the transcript of proceedings that determined their care order at age 8, they're not verifying their own participation - they're trying to understand life-altering decisions made about them without their voice. They're reconciling adult institutional narratives with fragmentary childhood memories, asking not "did the court accurately record what I said?" but "what was actually said about me? Was I truly heard through my guardian? Did the process consider what I needed?"
+
+Yet current policy treats children's retrospective interest as identical to adults' verification needs—EX107 application, judicial approval, cost—ignoring this distinctive reconstructive function.
 
 ---
 
@@ -3559,14 +3563,23 @@ The transcript-as-future-memory function is **unique to children**. Adult litiga
 
 A parent opposing publication in 2025 binds the child in 2045. The system offers **no mechanism** for the adult to override this—unlike the **Adoption and Children Act 2002**, which grants post-18 access to birth records. Family court **transcripts and procedural documents** have **no equivalent right**.
 
+**The destruction timeline compounds this temporal problem.** Court recordings are typically destroyed after a set retention period (often 7 years). A child whose care arrangements were determined at age 8 will reach adulthood at 18—potentially after the recordings have been deleted. Even if that adult overcomes all barriers (EX107 application, judicial approval, cost), the verbatim record of proceedings that shaped their childhood may simply **no longer exist**. The system makes no provision to preserve court records for children's retrospective access, treating them as litigation documents with time-limited utility rather than as historical records of a person's life.
+
 ---
 
 ### The Design Failure
 
-The **absence of any policy on transcript or procedural document access**—while judgment publication is debated endlessly—is itself a design failure. We lack evidence on children's preferences: some may want absolute privacy, others accurate preservation, others anonymised publication to prevent harm to peers.
+The **absence of any policy on transcript or procedural document access**—while judgment publication is debated endlessly—is itself a design failure.
 
-**We cannot know—because we have never asked.**
+We lack evidence on children's actual preferences across multiple dimensions:
+- **Privacy vs. preservation**: Do they want records sealed permanently, or preserved for their own future access?
+- **Personal access vs. public accountability**: Should records be available only to them as adults, or also to researchers and advocates who might prevent similar harms?
+- **Timing of access**: Should preservation be automatic, or should they be consulted at different life stages as their perspectives evolve?
+- **Anonymisation and publication**: Would some (particularly care-experienced adults) consent to anonymised public access if it improved the system for other children?
 
+These questions cannot be answered in the abstract. Individual children's preferences likely vary with age, case type, trauma history, and developmental maturity. Some may want absolute privacy; others may want their stories to drive systemic change. Some may want privacy now but access later; others may feel differently.
+
+**We cannot know what children want—because we have never asked. And by the time they can tell us, the records may already be gone.**
 
 ## 7.8 Beyond Diagnosis: Toward Collaborative Reconstruction
 
@@ -3821,6 +3834,7 @@ Munro, E. (2001). *Perspectives on kinship care*. Joseph Rowntree Foundation.
 Neil, E., Cossar, J., Lorgelly, P., & Young, J. (2010). *Helping birth families: Services, costs and outcomes*. British Association for Adoption and Fostering.
 
 United Nations. (1989). *Convention on the Rights of the Child*. https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child
+HM Courts and Tribunals Service. (2025, June 6). *County Court, Family Court and Court of Protection: Records retention and disposition schedule (RRDS)*. Ministry of Justice. https://assets.publishing.service.gov.uk/media/682216a253add7d476d81917/county-court-family-court-court-protection-rrds.pdf
 
 
 TEST 0.4
