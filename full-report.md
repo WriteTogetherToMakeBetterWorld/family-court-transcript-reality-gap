@@ -3189,7 +3189,7 @@ The synthesis has proven the reality gap exists, explained why it persists, and 
 Chapter 8 does not propose aspirational transformation ("imagine if the system worked perfectly") but **operational correction** ("the system cannot achieve stated goals without these specific architectural revisions"). Each intervention addresses convergently validated dysfunction; each mechanism reflects documented institutional constraints; each sequence stage follows implementation feasibility informed by five-layer evidence. The synthesis has established the evidential foundation. Chapter 8 translates that foundation into actionable reform.
 
 
-# 7. The Absent Voice: Children as Epistemic Blind Spot Across All Five Layers
+## 7. The Absent Voice: Children as Epistemic Blind Spot Across All Five Layers
 
 The five-layer analysis revealed interlinked and mutually reinforcing transparency barriers across institutional design (Layer 1), judicial gatekeeping (Layer 2), professional mediation (Layer 3), user experience (Layer 4), and external observation (Layer 5). Each layer demonstrated distinct mechanisms through which transparency promises fail to materialise into operational reality. Yet this very comprehensiveness—this ability to map the system from multiple vantage points—throws into relief something that might have been obvious from the outset, or perhaps only becomes visible once the entire architecture is laid bare: **there is no layer representing children's perspectives**.
 
@@ -3211,7 +3211,7 @@ Yet based on the systematic exclusion documented below, a prior question emerges
 
 The sections that follow pursue a specific analytical sequence: first, exploring how current guidance structurally excludes children without legal representation from expressing views on publication decisions (§7.1); second, establishing the methodological approach required when children have been excluded from policy development (§7.2); third, identifying the meta-question that could frame transparency policy when children are subjects of publication (§7.3); fourth, examining why current institutional structures prevent this question from being asked (§7.4); fifth, presenting evidence of systematic exclusion (§7.5); sixth, exploring what subsidiary questions would need to be posed to children in meaningful consultation (§7.6).
 
-## 7.1.1 The Representation Prerequisite: Structural Exclusion from Publication Consultation
+### 7.1.1 The Representation Prerequisite: Structural Exclusion from Publication Consultation
 
 The June 2024 Practice Guidance states that "all parties (including children who are represented, **as appropriate**) should be notified so that they have an opportunity to make representations about publication and anonymisation" (McFarlane, 2024, para. 3.13, emphasis added). This creates **differential procedural access**: children with legal representation—typically in public law proceedings with solicitors and guardians appointed under section 41 of the Children Act 1989—have a mechanism to express views on publication. **No equivalent mechanism exists for unrepresented children.**
 
@@ -3321,7 +3321,7 @@ This temporal asymmetry reflects broader tensions in developmental psychology be
 
 The temporal cascade reveals a fundamental asymmetry in authority claims: adults claim authority to make permanent decisions about children's narratives, but children cannot make even temporary decisions about their own. That authority claim persists even when children become adults. This asymmetry continues into adulthood—care-experienced adults seeking their childhood proceedings face the same barriers (judicial discretion, cost, application requirements) as any party, with no special provision recognising their unique retrospective interest in understanding the decisions that shaped their lives. The core legitimacy issue is not whether adults made correct predictions about what future adults would want, but whether any framework making irreversible decisions about future adults' narrative control can claim legitimacy when developed without mechanisms for those affected to participate in defining what authority the system should exercise over their life stories.
 
-### 7.4 Why the System Cannot Ask This Question
+## 7.4 Why the System Cannot Ask This Question
 
 The meta-question—who controls children’s narratives, by what authority, and for whose benefit?—is structurally excluded from institutional reform processes. Whether this exclusion occurs because asking the question would destabilise institutional interests, or for other reasons policy documents do not articulate, the effect is that foundational premises remain unexamined. If transparency policy genuinely asked “by what right do we control children’s narratives?”, the inquiry might conclude: “We have power to publish, but not necessarily right. Publication may be an exercise of institutional power legitimated through transparency discourse rather than a defensible claim to narrative authority over children’s lives.”
 
@@ -3338,7 +3338,7 @@ The Transparency Implementation Group’s restricted remit demonstrates this dyn
 
 The structural barriers documented above—institutional authority protection, professional monopolies, risk aversion, power preservation—explain why the meta-question and its subsidiaries have never been systematically posed to children at the policy level. The question is not whether these questions are correct, but whether a system that cannot ask them (because asking threatens institutional control) can claim to serve children’s interests. The evidence below demonstrates this exclusion is not incidental but embedded across all stages of policy development.
 
-#### 7.4.1 The Representation-Voice Distinction
+### 7.4.1 The Representation-Voice Distinction
 
 Children in family proceedings may be represented by institutional proxies: Cafcass guardians who assess and articulate children’s best interests; children’s solicitors appointed in some cases under section 41 Children Act 1989; and local authority social workers who document children’s circumstances and wishes. But representation in proceedings is not voice in policy development.
 
@@ -3348,7 +3348,7 @@ Sociolinguistic research demonstrates that “voice” and “representation” 
 
 This creates an accountability void: adults decide transparency frameworks for children without systematic evidence of what children value. Current policy operates without empirical basis regarding children’s actual preferences about publication policy, presuming alignment with institutional approaches—a presumption that may prioritise adult perspectives over children’s own assessments of their welfare. The 2016 NYAS consultation revealed young people’s distress at discovering published details of their abuse—“many felt let down” (Brophy et al., 2016, p. 19)—yet this finding did not prompt **any** systematic consultation with children about whether publication serves their interests, either at the policy level or in routine individual publication decisions.
 
-### 7.5 Evidence of Systematic Exclusion from Policy Development
+## 7.5 Evidence of Systematic Exclusion from Policy Development
 
 The June 2024 Practice Guidance, *Transparency in the Family Courts: Publication of Judgments*, issued by Sir Andrew McFarlane, President of the Family Division (hereinafter "June 2024 Practice Guidance"), illustrates the pattern of exclusion identified above. While the President's foreword claims the guidance was "produced by a group...made up of judges, legal advisers, practitioners, CAFCASS, ADCS and young people from the FJYPB" (McFarlane, 2024, p. 1), the Publication Guidance Subgroup that actually drafted publication recommendations consisted of six legal professionals—judges, barristers, and academics—with no documented participation by FJYPB representatives acting in their capacity as representatives of young people's perspectives (Transparency Implementation Group, 2023, Publication Guidance Subgroup Report, para. 4).
 
@@ -3356,7 +3356,7 @@ This pattern is consistent with the 2016 Brophy research consultation, where you
 
 The 2024 subgroup's remit was explicitly confined to "the number of judgments that judges ought to publish" and "the types of judgments that might be deemed priority for publication," while excluding any "overview or commentary on the legal framework as it currently exists" (Transparency Implementation Group, 2023, Publication Guidance Subgroup Report, paras. 2–3). Similarly, the 2016 consultation focused on improving anonymisation within the existing publication framework. By restricting inquiry to implementation details while forbidding examination of foundational premises, both exercises ensured that children's primary concerns—"should our cases be published at all?" and "what alternative transparency mechanisms exist?"—could not inform policy, because these questions arise at the level of analysis the inquiry was designed to exclude.
 
-#### 7.5.1 Multi-Layer Exclusion Pattern
+### 7.5.1 Multi-Layer Exclusion Pattern
 
 This absence compounds across all five analytical layers:
 
@@ -3370,13 +3370,13 @@ This absence compounds across all five analytical layers:
 
 The four focus groups conducted for the June 2024 Practice Guidance consulted 28 legal professionals about judicial workload and anonymisation concerns; no focus groups consulted young people (Transparency Implementation Group, 2023, Publication Guidance Subgroup Report, p. 2; Transparency Implementation Group, 2024, NatCen Report, paras. 9–15). This represents a regression from even the limited 2016 consultation, which at least gave young people the opportunity to express concerns about published judgments—even if those concerns were not incorporated into foundational policy review.
 
-### 7.7.6 Opening Space: Questions as Scaffolding, Not Prescription
+## 7.6 Opening Space: Questions as Scaffolding, Not Prescription
 
 The preceding sections documented systematic exclusion and identified one possible meta-question with five subsidiary dimensions. But as §7.7.2 established, rushing to answers—even rushing to questions—risks embedding the same exclusionary logic that created the current system: adults identifying problems, formulating questions, and proposing solutions without consulting those whose lives are documented in the records being published.
 
 This section does not claim to know what questions children would want us to ask. That claim would commit the epistemic error this chapter exposes. Instead, it offers hypothesised questions as scaffolding—provisional starting points based on existing research, legal frameworks, and limited past consultations—while explicitly preserving space for children and all other stakeholders to reject, modify, or replace this scaffolding entirely.
 
-#### 7.7.6.1 The Scaffolding Approach
+### 7.6.1 The Scaffolding Approach
 
 Research with care-experienced young people (Munro, 2001), children's rights frameworks (Lundy, 2007; UNCRC, 1989), developmental psychology literature (Howe, 2005), and the 2016 NYAS consultation findings (Brophy et al., 2016) suggest certain questions might matter to children about transparency in their case records. These research bases inform the questions below. But several caveats are essential:
 
@@ -3388,7 +3388,7 @@ Research with care-experienced young people (Munro, 2001), children's rights fra
 
 With these limitations acknowledged, the questions below represent one possible starting point for consultation, not a definitive frame.
 
-#### 7.7.6.2 Hypothesised Questions Across Six Domains
+### 7.6.2 Hypothesised Questions Across Six Domains
 
 **Immediate impact questions (while they are children):**
 - Who in my life will be able to identify this is about me, even with names changed?
@@ -3433,7 +3433,7 @@ With these limitations acknowledged, the questions below represent one possible 
 - Shouldn't there be a mechanism to review the sealing decision when I turn 18, like there is for adoption records?
 - If other adults made this record about me, shouldn't I get to decide what happens to it once I'm old enough to understand?
 
-#### 7.7.6.3 What These Questions Cannot Capture
+### 7.6.3 What These Questions Cannot Capture
 
 The questions above share limitations that consultation must address:
 - They assume certain values (autonomy, privacy, future-orientation) which children might not share or prioritise differently.
@@ -3441,7 +3441,7 @@ The questions above share limitations that consultation must address:
 - They focus on transparency policy when children might want to talk about something else entirely—like why their case was in court at all, or what happened after the judgment, or whether the system helped them.
 - They are questions when what children might need is not interrogation but invitation: space to share what matters to them without having to fit their concerns into our categories.
 
-#### 7.7.6.4 The Invitation Beyond Questions
+### 7.6.4 The Invitation Beyond Questions
 
 Consultation with children and care-experienced adults should therefore operate on multiple levels:
 - **Level 1**: Respond to these specific questions—Do they matter? Are they wrong? Which ones actually resonate?
@@ -3451,7 +3451,7 @@ Consultation with children and care-experienced adults should therefore operate 
 
 This multi-level approach recognises that some children may find structured questions helpful while others need open space. Some may want to engage with policy details; others may want to share stories that reveal problems we never thought to ask about. Some may be ready to articulate preferences now; others may need time, support, or developmental maturity before meaningful consultation is possible.
 
-#### 7.7.6.5 Extending the Invitation to All Stakeholders
+### 7.6.5 Extending the Invitation to All Stakeholders
 
 While this section has focused on children's potential questions because their exclusion is most severe, the same principles of humility and openness apply to all six analytical layers:
 - **Parents and litigants (Layer 3)**: Does our diagnosis of user experience match yours? What are we missing about what it's like to navigate this system?
@@ -3465,7 +3465,7 @@ The analysis in Chapters 7-8 represents our best understanding based on availabl
 
 That uncertainty is essential. Any framework claiming to serve children while excluding their voices lacks legitimacy, regardless of its substantive merit. The same principle applies to all stakeholders: a transparency system designed without input from those it affects cannot claim to serve them, no matter how well-intentioned.
 
-#### 7.7.6.6 Transcripts as Future Memory: The Unique Value for Children
+### 7.6.6 Transcripts as Future Memory: The Unique Value for Children
 
 Transcripts hold distinctive significance for children as the only verbatim record of life-altering events. When care-experienced adults retrospectively seek their histories, they encounter judgments (judicial interpretation and reasoning—what the judge decided and why), social care files (local authority accounts, assessments, and interventions—what professionals observed and recommended), and Cafcass reports (guardian analysis of best interests—what was advocated on their behalf). But only transcripts capture what was actually said in proceedings—testimony examined, evidence challenged, arguments presented, children's own words (when given), or what was omitted about their wishes. Transcripts are the unmediated record, preserving dialogue that shaped childhood in ways judgments and reports cannot fully convey.
 
@@ -3479,15 +3479,15 @@ The temporal dimension of transcript access becomes particularly acute when pare
 
 Unlike adoption records, which are subject to post-18 access rights under the Adoption and Children Act 2002, family court transcripts have no analogous preserved-access mechanism. Care-experienced adults seeking to understand their histories face the same barriers as any party: application, judicial discretion, cost. The absence of evidence regarding children's actual preferences—whether some prioritise absolute privacy, some value accurate preservation even without publication, or some (particularly adolescents and care-experienced adults) might consent to anonymised publication if it prevents similar harms to others—is itself a design failure.
 
-### 7.7.7 Beyond Diagnosis: Toward Collaborative Reconstruction
+## 7.7 Beyond Diagnosis: Toward Collaborative Reconstruction
 
-#### 7.7.7.1 What This Chapter Revealed
+### 7.7.1 What This Chapter Revealed
 
 The five-layer analysis exposed systematic exclusion visible across institutional design (Layer 1), judicial gatekeeping (Layer 2), user experience (Layer 3), professional practice (Layer 4), and external observation (Layer 5). This chapter added a sixth layer: children's perspectives do not structurally inform the transparency system ostensibly designed to serve them.
 But §7.7.4 revealed something deeper: this exclusion is not accidental oversight but structural feature. The system cannot know what it does not know because it was never designed to incorporate the knowledge of those it purports to serve. While the paramountcy principle (Children Act 1989, s.1) requires courts to prioritise children's welfare when deciding individual cases, and while mechanisms exist for individual children's views to be represented in proceedings through Cafcass guardians or solicitors, the policy framework that structures how those individual decisions are made developed without mechanisms for children collectively to inform what "welfare" means in transparency contexts, what risks matter to them, and what alternative mechanisms might better serve their interests.
 This constitutes more than a representational gap. It reveals a legitimacy gap: decisions made "in children's best interests" without mechanisms for children to articulate those interests at the policy level, based on adult presumptions about what children need to know about their own lives.
 
-#### 7.7.7.2 What This Chapter Cannot Provide
+### 7.7.2 What This Chapter Cannot Provide
 
 What this analysis cannot do—and what no adult-authored analysis can do—is answer the questions posed in §7.7.6 on children's behalf. We can identify that narrative authority questions matter. We cannot know whether children care about narrative authority, or whether they care about something else entirely that our frameworks don't capture.
 
@@ -3497,7 +3497,7 @@ We can propose transparency reforms (Chapters 8-10) based on documented failures
 
 This inability to know is not a weakness in this analysis—it is this analysis's central finding.
 
-#### 7.7.7.3 The System That Wasn't There
+### 7.7.3 The System That Wasn't There
 
 Through this analysis, a pattern emerges: the transparency system doesn't exist as a coherent system at all. What appears in policy documents as "the transparency regime" is actually:
 - Forms that contradict guidance (Layer 1)
@@ -3511,7 +3511,7 @@ This isn't a solid structure we're dismantling. It's already fragmented, barely 
 
 The question therefore is not "Should we tear down the system?" but "Should we build one? And if so, who should design it?"
 
-#### 7.7.7.4 Two Paths Forward
+### 7.7.4 Two Paths Forward
 
 The analysis in Chapters 7-8 and the paradigmatic questions in Chapter 9 lead to a fork:
 
@@ -3529,7 +3529,7 @@ This path is harder. It requires surrendering the assumption that adult expertis
 
 But this path is the only one with legitimacy.
 
-#### 7.7.7.5 The Collaborative Framework
+### 7.7.5 The Collaborative Framework
 
 All six analytical layers participate equally, with no limitations on who can join and express their views:
    - Children and care-experienced adults
@@ -3576,7 +3576,7 @@ This consultation runs in parallel with implementation, not as a gate before ref
 
 But the more fundamental questions—what transparency should achieve, who it should serve, whether it serves children, what mechanisms honor temporal justice—these remain open for collaborative resolution.
 
-#### 7.7.7.6 What Success Looks Like
+### 7.7.6 What Success Looks Like
 
 Chapters 8-10 propose specific interventions addressing documented failures across all six analytical layers. However, success in this collaborative framework is not consensus on those proposed solutions. 
 Success is:
@@ -3601,7 +3601,7 @@ Success is:
 
 The collaborative framework succeeds if it remains open to being fundamentally reconceived.
 
-#### 7.7.7.7 The Invitation
+### 7.7.7 The Invitation
 
 This chapter began by documenting absence: children's voices systematically excluded across all five analytical layers. It ends by opening space.
 
@@ -3619,7 +3619,7 @@ The roadmap in Chapter 10 is not a blueprint to implement—it's a hypothesis to
 This article supplies evidence, proposes interventions, and offers frameworks. Whether they're useful depends on whether they resonate with those who navigate, decide within, observe, and are subject to family court transparency systems.  
 That determination belongs to you.
 
-#### 7.7.7.8 What Comes Next
+### 7.7.8 What Comes Next
 
 Chapters 8-10 proceed with proposed solutions across three tiers:
 - **Procedural interventions (Chapter 8)**: Technical fixes to documented failures
