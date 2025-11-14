@@ -3253,6 +3253,7 @@ This stance reflects **epistemic justice** (Fricker, 2007). When adults formulat
 Family courts have child participation mechanisms for **individual cases**—statutory welfare checklists (Children Act 1989, s.1), Cafcass practices, and emerging ‘Child First’ frameworks. These enable children to influence **specific outcomes**, not the **policy frameworks** determining what questions are asked, what factors matter, or what alternatives exist.
 
 The required reorientation extends participation principles (Lundy, 2007) from **case-level consultation** to **collective policy co-design**.
+
 ---
 
 ## 7.3 The Meta-Question: Who Controls Children’s Narratives, By What Authority, and For Whose Benefit?
