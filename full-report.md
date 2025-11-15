@@ -2895,12 +2895,12 @@ TP provides foundational guidance on s.12 Administration of Justice Act 1960 (au
 
 _The knowledge gap:_ TP's educational output confirms that official guidance creates knowledge deficits requiring external explanation.
 
-### Documenting Rule & Practice Changes
+**Documenting Rule & Practice Changes**
 TP systematically tracks changes in rules, PD12R amendments, and court practices over time.  
 
 _The reporting gap:_ The [TIG website](https://www.judiciary.uk/related-offices-and-bodies/ti-groups/) hosts minutes, progress reports, and sub-group documents on transparency reforms, but its utility for monitoring reform implementation is limited. Materials posted through 2023 lack automated change logs, integrated timelines, or real-time tracking of procedural amendments outside TIG's remit. External observers must therefore aggregate information from multiple scattered sources to assess whether transparency reforms translate into changed court practices, creating the same documentability constraints TP faces when tracking implementation: visible announcements exist, but systematic evaluation remains impossible.
 
-**Critical Analysis (n=10, 27%)**  
+**Critical Analysis**  
 TP documents mismatches between PD12R's aims and reality:[^TP_Analysis]
 
 | Issue | Example (Blog Post ID) |
@@ -2909,7 +2909,7 @@ TP documents mismatches between PD12R's aims and reality:[^TP_Analysis]
 | Slow adoption of transparency orders | 35, 46 |
 | Absence of official reporting data | 9 |
 
-**Implementation gap:** In May 2025—five months after PD12R came into effect—only 5 judgments were published, with just 2 including transparency orders (Post 46). Monthly publication rates throughout early 2025 remained similarly minimal (January: 3-4 judgments, Post 21; February-March: 4-5, Post 31; April: 4, Post 42), with cumulative publications January-May totaling approximately 18-25 judgments—less than 0.1% of family court proceedings.
+_Implementation gap:_ In May 2025—five months after PD12R came into effect—only 5 judgments were published, with just 2 including transparency orders (Post 46). Monthly publication rates throughout early 2025 remained similarly minimal (January: 3-4 judgments, Post 21; February-March: 4-5, Post 31; April: 4, Post 42), with cumulative publications January-May totaling approximately 18-25 judgments—less than 0.1% of family court proceedings.
 
 ---
 
