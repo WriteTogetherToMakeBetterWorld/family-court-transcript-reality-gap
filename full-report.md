@@ -2832,8 +2832,6 @@ Layer 5 completes the evidential foundation; Chapter 8 converts it into actionab
 
 ## 6.5 Layer 5: Observers – Independent Validation and Meta-Opacity
 
-### Purpose and Scope
-
 Layer 5 asks a foundational question: **Can transparency in the family courts be meaningfully observed and documented?** This question matters because transparency cannot be evaluated, improved, or held accountable unless it is first observable. If transparency itself cannot be seen, then no actor—user, researcher, or reformer—can verify whether the system functions as intended.
 
 Here, **'user experience' refers to the barriers documented in Layers 1–4—what families, litigants, and professionals encounter when engaging with transparency mechanisms.** Those layers showed that institutional design creates voids, judicial practice accommodates dysfunction, professional mediation sustains inequality, and users face exclusion.
@@ -2855,14 +2853,12 @@ Three questions guide the analysis:
 
 **Method:** Documentary analysis (TP guidance materials), empirical blog corpus analysis (n=31 posts, January–September 2025), TIG/FRCTG minutes analysis (n=30 documents, 2021–2024), and cross-layer citation mapping examining convergence patterns across all five layers.
 
-
-### Layer 5 Conclusion: Architectural Dysfunction Confirmed
 Layer 5 confirms that **transparency barriers are structurally embedded in the system's design, not merely a matter of user misunderstanding or external misperception.** If only users and litigants reported these barriers, skeptics might attribute them to misunderstanding or exceptional cases. But when Britain's leading family court transparency organisation—staffed by legal professionals, analysing published case law, monitoring reforms—encounters the same opacity when trying to document system performance, it validates that the dysfunction is structural rather than experiential. More powerfully: when the judiciary's own reform implementation bodies—TIG and FRCTG, comprising judges, MoJ/HMCTS officials, and legal experts—face identical barriers when designing and monitoring transparency reforms, the architectural nature of the failure becomes irrefutable. **The strongest evidence isn't what observers see about the system; it's what observers cannot see despite expertise, institutional access, and sustained effort.**
 
 The analysis proceeds by examining first how external observers (TP) allocate their monitoring efforts, then testing whether internal reform architects (TIG) face identical constraints.
 
-## 6.5.1 Operational Focus: Documentation Dominates, Obtaining Neglected
-TP's blog output shows what external observers can see: 
+## 6.5.1 Observational Coverage: What External Monitors Can See
+TP's blog output (n=31 posts, November 2024 – October 2025—capturing the first 12 months following PD12R implementation in October 2024) shows what external observers can see:
 
 | Function      | %   | n  | What This Reveals |
 |---------------|-----|----|-------------------|
