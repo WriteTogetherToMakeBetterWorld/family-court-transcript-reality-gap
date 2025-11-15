@@ -2836,13 +2836,13 @@ Layer 5 asks a foundational question: **Can transparency in the family courts be
 
 Here, **'user experience' refers to the barriers documented in Layers 1–4—what families, litigants, and professionals encounter when engaging with transparency mechanisms.** Those layers showed that institutional design creates voids, judicial practice accommodates dysfunction, professional mediation sustains inequality, and users face exclusion.
 
-**The analytical premise:** If external watchdogs and internal reform architects both struggle to see what users experience, this suggests constraints arise not from observer position but from system architecture.
+The analytical premise: If external watchdogs and internal reform architects both struggle to see what users experience, this suggests constraints arise not from observer position but from system architecture.
 
 To test this, the analysis compares two organisations at opposite ends of the institutional spectrum:
 
 **The Transparency Project (TP)** — Britain's leading independent family court transparency monitor, operating without institutional access
 
-**The Transparency Implementation Group (TIG)** — the judiciary's internal reform body established in 2021, comprising judges, MoJ/HMCTS officials, and legal experts with decision-making authority
+**The Transparency Implementation Group (TIG)** — the judiciary's internal reform body established in 2021, comprising judges, MoJ/HMCTS officials, and legal experts with decision-making authority. TIG operates alongside the **Financial Remedies Consultative & Transparency Group (FRCTG)**, a parallel body addressing transparency in financial remedy proceedings.
 
 This external/internal comparison probes a central question: **Does institutional position make any difference to the ability to observe dysfunction?**
 
@@ -2854,9 +2854,9 @@ Three questions guide the analysis:
 
 **Method:** Documentary analysis (TP guidance materials), empirical blog corpus analysis (n=67 posts, November 2024–October 2025; 37 transparency-focused, 30 other content), TIG/FRCTG minutes analysis (n=30 documents, 2021–2024), and cross-layer citation mapping examining convergence patterns across all five layers.
 
-Layer 5 confirms that **transparency barriers are structurally embedded in the system's design, not merely a matter of user misunderstanding or external misperception.** If only users and litigants reported these barriers, skeptics might attribute them to misunderstanding or exceptional cases. But when Britain's leading family court transparency organisation—staffed by legal professionals, analysing published case law, monitoring reforms—encounters the same opacity when trying to document system performance, it validates that the dysfunction is structural rather than experiential. More powerfully: when the judiciary's own reform implementation bodies—TIG and FRCTG, comprising judges, MoJ/HMCTS officials, and legal experts—**face comparable barriers when designing and monitoring transparency reforms, the evidence strongly points to systemic, architectural constraints rather than merely positional limits.** **The strongest evidence isn't what observers see about the system; it's what observers cannot see despite expertise, institutional access, and sustained effort.**
+Layer 5 confirms that **transparency barriers are structurally embedded in the system's design, not merely a matter of user misunderstanding or external misperception.** If only users and litigants reported these barriers, skeptics might attribute them to misunderstanding or exceptional cases. But when Britain's leading family court transparency organisation—staffed by legal professionals, analysing published case law, monitoring reforms—encounters the same opacity when trying to document system performance, it validates that the dysfunction is structural rather than experiential. More powerfully: when the judiciary's own reform implementation bodies—**TIG (addressing children cases) and FRCTG (addressing financial remedy cases)**, both comprising judges, MoJ/HMCTS officials, and legal experts—face comparable barriers when designing and monitoring transparency reforms, the evidence strongly points to systemic, architectural constraints rather than merely positional limits. **The strongest evidence isn't what observers see about the system; it's what observers cannot see despite expertise, institutional access, and sustained effort.**
 
-The analysis proceeds by examining first how external observers—The Transparency Project (TP)—allocate their monitoring efforts, then testing whether internal reform architects—The Transparency Implementation Group (TIG)—face identical constraints.
+The analysis proceeds by examining first how external observers—The Transparency Project (TP)—allocate their monitoring efforts, then testing whether internal reform architects—The Transparency Implementation Group (TIG) and Financial Remedies Consultative & Transparency Group (FRCTG)—face identical constraints.
 
 ---
 
