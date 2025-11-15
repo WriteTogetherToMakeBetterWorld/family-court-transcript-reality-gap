@@ -2900,17 +2900,20 @@ TP systematically tracks changes in rules, PD12R amendments, and court practices
 
 _The reporting gap:_ The [TIG website](https://www.judiciary.uk/related-offices-and-bodies/ti-groups/) hosts minutes, progress reports, and sub-group documents on transparency reforms, but its utility for monitoring reform implementation is limited. Materials posted through 2023 lack automated change logs, integrated timelines, or real-time tracking of procedural amendments outside TIG's remit. External observers must therefore aggregate information from multiple scattered sources to assess whether transparency reforms translate into changed court practices, creating the same documentability constraints TP faces when tracking implementation: visible announcements exist, but systematic evaluation remains impossible.
 
-**Critical Analysis**  
-TP documents mismatches between PD12R's aims and reality:  
+**Critical Analysis (n=10, 27%)**  
+TP documents mismatches between PD12R's aims and reality:[^TP_Analysis]
 
-| Issue | Example (ID) |
-|-------|-------------|
+| Issue | Example (Blog Post ID) |
+|-------|------------------------|
 | Redactions blocking scrutiny | 1 |
 | Slow adoption of transparency orders | 35, 46 |
 | Absence of official reporting data | 9 |
 
-**Implementation gap:** In May 2025—five months after PD12R came into effect—only 5 judgments were published, with just 2 including transparency orders. Monthly publication rates throughout early 2025 remained similarly minimal (January: 3–4 judgments; February–March: 4–5; April: 4), with cumulative publications January–May totaling approximately 18–25 judgments—less than 0.1% of family court proceedings.
+**Implementation gap:** In May 2025—five months after PD12R came into effect—only 5 judgments were published, with just 2 including transparency orders (Post 46). Monthly publication rates throughout early 2025 remained similarly minimal (January: 3-4 judgments, Post 21; February-March: 4-5, Post 31; April: 4, Post 42), with cumulative publications January-May totaling approximately 18-25 judgments—less than 0.1% of family court proceedings.
 
+---
+
+[^TP_Analysis]: Full TP blog corpus analysis with all post IDs, dates, and coding available at: [Layer 5 TP Blog Analysis Table](https://github.com/NoEndsNoGains/family-court-reform/blob/main/DATA/layer5_NGOs_media/Layer%205%20TP-BlogsAnalyesTable.md). Numbers in table correspond to individual blog posts analyzed in the complete dataset (n=67 posts, November 2024-October 2025; 37 transparency-focused).
 
 ---
 
