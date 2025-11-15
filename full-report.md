@@ -2836,27 +2836,28 @@ Layer 5 completes the evidential foundation; Chapter 8 converts it into actionab
 
 Layer 5 asks a foundational question: **Can transparency in the family courts be meaningfully observed and documented?** This question matters because transparency cannot be evaluated, improved, or held accountable unless it is first observable. If transparency itself cannot be seen, then no actor—user, researcher, or reformer—can verify whether the system functions as intended.
 
-Here, 'user experience' encompasses what anyone encounters when engaging with transparency mechanisms—families and litigants seeking their own case information, solicitors navigating procedures on behalf of clients, judges attempting to implement transparency orders ("I'll publish the skeleton arguments, but in which database?"), and court staff executing disclosure requests. The barriers documented across Layers 1–4 affect not only those using the system but also those operating it: professionals trying to navigate opaque procedures, judges struggling to operationalize vague guidance, and administrators managing requests without clear protocols. If only direct users reported these barriers, skeptics might dismiss them as misunderstanding. If only external observers documented them, critics might claim bias. But when internal reform architects designing the fixes encounter the same opacity, the architectural nature of dysfunction becomes undeniable.
+Here, **'user experience' refers to the barriers documented in Layers 1–4—what families, litigants, and professionals encounter when engaging with transparency mechanisms.** Those layers showed that institutional design creates voids, judicial practice accommodates dysfunction, professional mediation sustains inequality, and users face exclusion.
 
-The analytical premise is simple: If observers positioned both outside and inside the system struggle to see what users actually experience, this suggests that the constraints do not arise from their institutional position but from the system's underlying architecture.
+The analytical premise: If external watchdogs and internal reform architects both struggle to see what users experience, this suggests constraints arise not from observer position but from system architecture.
 
-To test this, the analysis compares two organizations at opposite ends of the institutional spectrum:
+To test this, the analysis compares two organisations at opposite ends of the institutional spectrum:
 
-- The Transparency Project (TP) — Britain's leading independent family court transparency monitor, operating without institutional access
-- The Transparency Implementation Group (TIG) — the judiciary's internal reform body established in 2021, comprising judges, MoJ/HMCTS officials, and legal experts with decision-making authority
+The Transparency Project (TP) — Britain's leading independent family court transparency monitor, operating without institutional access
+The Transparency Implementation Group (TIG) — the judiciary's internal reform body established in 2021, comprising judges, MoJ/HMCTS officials, and legal experts with decision-making authority
 
-This external/internal comparison probes a central question: Does institutional position make any difference to the ability to observe dysfunction?
+This external/internal comparison probes a central question: **Does institutional position make any difference to the ability to observe dysfunction?**
 
 Three questions guide the analysis:
 
-1. **Observational capacity:** Do external monitors (TP) and internal reform architects (TIG) encounter different barriers based on institutional position, or do both face identical opacity?
-2. **Observational focus:** Where do observers concentrate their transparency work? Is coverage balanced between Publication and Obtaining pathways, or does documentability determine focus?
-3. **Reform observability:** Can either external monitors or internal reform architects systematically measure whether transparency reforms are being adopted and whether they're effective?
+1. **Observational capacity:** Do external monitors (TP) and internal reform architects (TIG) see the same barriers, or does institutional position determine what each can observe?
+2. **Observational focus:**  Where do observers concentrate their transparency work? Is coverage balanced between Publication and Obtaining pathways, clustered on one pathway, or organised around different priorities entirely—and why?
+3. **Reform observability:** Can either external monitors (TP) or internal reform architects (TIG) systematically measure whether transparency reforms are being adopted and whether they're effective?
 
 **Method:** Documentary analysis (TP guidance materials), empirical blog corpus analysis (n=31 posts, January–September 2025), TIG/FRCTG minutes analysis (n=30 documents, 2021–2024), and cross-layer citation mapping examining convergence patterns across all five layers.
 
+
 ### Layer 5 Conclusion: Architectural Dysfunction Confirmed
-Layer 5 confirms that the reality gap is architectural, not perceptual. If only users and litigants reported these barriers, skeptics might attribute them to misunderstanding or exceptional cases. But when Britain's leading family court transparency organisation—staffed by legal professionals, analysing published case law, monitoring reforms—encounters the same opacity when trying to document system performance, it validates that the dysfunction is structural rather than experiential. More powerfully: when the judiciary's own reform implementation bodies—TIG and FRCTG, comprising judges, MoJ/HMCTS officials, and legal experts—face identical barriers when designing and monitoring transparency reforms, the architectural nature of the failure becomes irrefutable. The strongest evidence isn't what observers see about the system; it's what observers cannot see despite expertise, institutional access, and sustained effort.
+Layer 5 confirms that **transparency barriers are structurally embedded in the system's design, not merely a matter of user misunderstanding or external misperception.** If only users and litigants reported these barriers, skeptics might attribute them to misunderstanding or exceptional cases. But when Britain's leading family court transparency organisation—staffed by legal professionals, analysing published case law, monitoring reforms—encounters the same opacity when trying to document system performance, it validates that the dysfunction is structural rather than experiential. More powerfully: when the judiciary's own reform implementation bodies—TIG and FRCTG, comprising judges, MoJ/HMCTS officials, and legal experts—face identical barriers when designing and monitoring transparency reforms, the architectural nature of the failure becomes irrefutable. The strongest evidence isn't what observers see about the system; it's what observers cannot see despite expertise, institutional access, and sustained effort.
 
 ## 7.5.1 Operational Focus: Documentation Dominates, Obtaining Neglected
 TP's blog output reveals strategic prioritisation driven by documentability constraints:
