@@ -2862,7 +2862,7 @@ The analysis proceeds by examining first how external observers—The Transparen
 
 ## 6.5.1 Observational Coverage: What External Monitors Can See
 
-Analysis of TP's full blog output (n=67 posts, November 2024–October 2025) shows how the transparency architecture shapes what can and cannot be scrutinised.[^1] This period captures Practice Direction 12R (PD12R)—the amendment that made the Reporting Pilot permanent—through its first 10 months of operation, offering the clearest available window to assess whether the reform produced observable change.
+Analysis of TP's full blog output (n=67 posts, November 2024–October 2025) shows how the transparency architecture shapes what can and cannot be scrutinised.[^1] This period captures Practice Direction 12R (PD12R)—the amendment that made the Reporting Pilot permanent—through its first 10 months of operation, providing a window to observe emerging patterns and identify where the largest gaps in transparency remain.
 
 ### What External Observers Can See
 
