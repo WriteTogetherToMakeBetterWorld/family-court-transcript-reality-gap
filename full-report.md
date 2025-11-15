@@ -2836,7 +2836,7 @@ Layer 5 asks a foundational question: **Can transparency in the family courts be
 
 Here, **'user experience' refers to the barriers documented in Layers 1–4—what families, litigants, and professionals encounter when engaging with transparency mechanisms.** Those layers showed that institutional design creates voids, judicial practice accommodates dysfunction, professional mediation sustains inequality, and users face exclusion.
 
-The analytical premise: If external watchdogs and internal reform architects both struggle to see what users experience, this suggests constraints arise not from observer position but from system architecture.
+**The analytical premise:** If external watchdogs and internal reform architects both struggle to see what users experience, this suggests constraints arise not from observer position but from system architecture.
 
 To test this, the analysis compares two organisations at opposite ends of the institutional spectrum:
 
