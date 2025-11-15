@@ -2830,7 +2830,7 @@ Layer 5 completes the evidential foundation; Chapter 8 converts it into actionab
 ---
 
 
-## Layer 5: Observers – Independent Validation and Meta-Opacity
+## 6.5 Layer 5: Observers – Independent Validation and Meta-Opacity
 
 ### Purpose and Scope
 
@@ -2857,10 +2857,12 @@ Three questions guide the analysis:
 
 
 ### Layer 5 Conclusion: Architectural Dysfunction Confirmed
-Layer 5 confirms that **transparency barriers are structurally embedded in the system's design, not merely a matter of user misunderstanding or external misperception.** If only users and litigants reported these barriers, skeptics might attribute them to misunderstanding or exceptional cases. But when Britain's leading family court transparency organisation—staffed by legal professionals, analysing published case law, monitoring reforms—encounters the same opacity when trying to document system performance, it validates that the dysfunction is structural rather than experiential. More powerfully: when the judiciary's own reform implementation bodies—TIG and FRCTG, comprising judges, MoJ/HMCTS officials, and legal experts—face identical barriers when designing and monitoring transparency reforms, the architectural nature of the failure becomes irrefutable. The strongest evidence isn't what observers see about the system; it's what observers cannot see despite expertise, institutional access, and sustained effort.
+Layer 5 confirms that **transparency barriers are structurally embedded in the system's design, not merely a matter of user misunderstanding or external misperception.** If only users and litigants reported these barriers, skeptics might attribute them to misunderstanding or exceptional cases. But when Britain's leading family court transparency organisation—staffed by legal professionals, analysing published case law, monitoring reforms—encounters the same opacity when trying to document system performance, it validates that the dysfunction is structural rather than experiential. More powerfully: when the judiciary's own reform implementation bodies—TIG and FRCTG, comprising judges, MoJ/HMCTS officials, and legal experts—face identical barriers when designing and monitoring transparency reforms, the architectural nature of the failure becomes irrefutable. **The strongest evidence isn't what observers see about the system; it's what observers cannot see despite expertise, institutional access, and sustained effort.**
 
-## 7.5.1 Operational Focus: Documentation Dominates, Obtaining Neglected
-TP's blog output reveals strategic prioritisation driven by documentability constraints:
+The analysis proceeds by examining first how external observers (TP) allocate their monitoring efforts, then testing whether internal reform architects (TIG) face identical constraints.
+
+## 6.5.1 Operational Focus: Documentation Dominates, Obtaining Neglected
+TP's blog output shows what external observers can see: 
 
 | Function      | %   | n  | What This Reveals |
 |---------------|-----|----|-------------------|
