@@ -2840,9 +2840,9 @@ The analytical premise: If external watchdogs and internal reform architects bot
 
 To test this, the analysis compares two observer positions at opposite ends of the institutional spectrum:
 
-**The Transparency Project (TP)** — Britain's leading independent family court transparency monitor, operating without institutional access
+**The Transparency Project (TP)** — Britain's leading independent family court transparency monitor, operating without institutional access.[^TP]
 
-**Internal reform bodies (TIG and FRCTG)** — The Transparency Implementation Group (TIG, established 2021) focuses on transparency in children cases, while the Financial Remedies Consultative & Transparency Group (FRCTG) focuses on transparency in financial remedy cases. Both groups include judges, MoJ/HMCTS officials, and legal experts with decision-making authority. FRCTG is included in the analysis because, despite its financial focus, it undertakes transparency reform work that parallels TIG’s work: the two bodies share overlapping membership, similar objectives, and face the same observational constraints. Consequently, internal reform documents analysed—such as meeting minutes and sub-group reports—come from both TIG and FRCTG.
+**Internal reform bodies (TIG and FRCTG)** — The Transparency Implementation Group (TIG, established 2021) and Financial Remedies Consultative & Transparency Group (FRCTG) are parallel bodies addressing transparency in children cases and financial remedy cases respectively. Both comprise judges, MoJ/HMCTS officials, and legal experts with decision-making authority. They are analysed together because the n=30 internal reform documents include minutes from both bodies, which conduct parallel transparency reform work with overlapping membership.
 
 This external/internal comparison probes a central question: **Does institutional position make any difference to the ability to observe dysfunction?**
 
@@ -2862,11 +2862,11 @@ The analysis proceeds by examining first how external observers—The Transparen
 
 ## 6.5.1 Observational Coverage: What External Monitors Can See
 
-Analysis of TP's full blog output (n=67 posts, November 2024–October 2025) shows how the transparency architecture shapes what can and cannot be scrutinised.[^1] This period captures Practice Direction 12R (PD12R)—the amendment that made the Reporting Pilot permanent—through its first 10 months of operation, providing a window to observe emerging patterns and identify where the largest gaps in transparency remain.
+Analysis of TP's full blog output (n=67 posts, November 2024–October 2025) shows how the transparency architecture shapes what can and cannot be scrutinised.[^TP_Corpus] This period captures Practice Direction 12R (PD12R)—the amendment that made the Reporting Pilot permanent—through its first 10 months of operation, providing a window to observe emerging patterns and identify where the largest gaps in transparency remain.
 
 ### What External Observers Can See
 
-Of the 67 posts, **37 (55%)** focus directly on transparency.[^2] These divide into four functions:
+Of the 67 posts, **37 (55%)** focus directly on transparency.[^TP_Analysis] These divide into four functions:
 
 | Function | Count | % of Transparency Posts |
 |--------|-------|--------------------------|
@@ -2877,44 +2877,46 @@ Of the 67 posts, **37 (55%)** focus directly on transparency.[^2] These divide i
 
 The remaining 30 posts (45%) cover case-specific analysis, fair trial procedures, and organisational matters. Beyond topic counts, the posts reveal which transparency pathways are actually observable: all 37 transparency posts (100%) concern the **Publication pathway**—what is published, how transparency orders work, and what reporters can access.
 
-In contrast, **zero posts** address the **Obtaining pathway**—transcripts, file access, Subject Access Requests (SARs), cost barriers, or refusals. This absence is not a matter of editorial preference; it reflects the system’s architecture, which generates no public data for Obtaining processes, leaving nothing for systematic analysis.
+In contrast, **zero posts** address the **Obtaining pathway**—transcripts, file access, Subject Access Requests (SARs), cost barriers, or refusals. This absence is not a matter of editorial preference; it reflects the system's architecture, which generates no public data for Obtaining processes, leaving nothing for systematic analysis.
 
 > Where the system is silent, observation becomes impossible.
 
 ---
-
 ### What Monitoring Reveals About Missing Infrastructure
 
-**Monitoring Publication Trends**  
-TP publishes recurring posts manually cataloguing published judgments, transparency orders, and judicial practices.  
+TP's four monitoring functions expose systematic gaps in institutional accountability:
 
-_The accountability gap:_ The system announces reforms (PD12R, pilot schemes, publication targets) and set goals but generates no institutional data on compliance rates, geographic variation, or adoption patterns. External observers substitute for missing accountability infrastructure by tracking implementation the system cannot or does not measure.
+**Monitoring Publication**  
+TP publishes recurring posts manually cataloguing published judgments, transparency orders, and judicial practices.
 
-**Educational Posts**  
-TP provides foundational guidance on s.12 Administration of Justice Act 1960 (automatic confidentiality rules), reporter rights, and document procedures.  
+_The accountability gap:_ The system announces reforms (PD12R, pilot schemes, publication targets) and sets goals but generates no institutional data on compliance rates, geographic variation, or adoption patterns. External observers substitute for missing accountability infrastructure by tracking implementation the system cannot or does not measure.
 
-_The knowledge gap:_ TP's educational output confirms that official guidance creates knowledge deficits requiring external explanation.
+**Educating on Procedures & Reporter Rights**  
+TP provides foundational guidance on s.12 Administration of Justice Act 1960 (automatic confidentiality rules), reporter rights, and document procedures.
 
-**Documenting Rule & Practice Changes**
-TP systematically tracks changes in rules, PD12R amendments, and court practices over time.  
+_The knowledge gap:_ TP's sustained educational output (22% of transparency work) confirms that official guidance creates knowledge deficits requiring external explanation, whether due to inadequate institutional instruction or inherent complexity of layered reforms.
 
-_The reporting gap:_ The [TIG website](https://www.judiciary.uk/related-offices-and-bodies/ti-groups/) hosts minutes, progress reports, and sub-group documents on transparency reforms, but its utility for monitoring reform implementation is limited. Materials posted through 2023 lack automated change logs, integrated timelines, or real-time tracking of procedural amendments outside TIG's remit. External observers must therefore aggregate information from multiple scattered sources to assess whether transparency reforms translate into changed court practices, creating the same documentability constraints TP faces when tracking implementation: visible announcements exist, but systematic evaluation remains impossible.
+**Documenting Rule & Practice Changes**  
+TP systematically tracks changes in rules, PD12R amendments, and court practices over time.
 
-**Critical Analysis**  
-TP documents mismatches between PD12R's aims and reality:[^TP_Analysis]
+_The reporting gap:_ The TIG website hosts minutes, progress reports, and sub-group documents on transparency reforms, but its utility for monitoring reform implementation is limited. Materials posted through 2023 lack automated change logs, integrated timelines, or real-time tracking of procedural amendments outside TIG's remit. External observers like TP must therefore aggregate information from multiple scattered sources to assess whether transparency reforms translate into changed court practices—substituting for the accountability infrastructure that should exist institutionally. Visible announcements exist, but systematic evaluation remains impossible.
 
-| Issue | Example (Blog Post ID) |
-|-------|------------------------|
-| Redactions blocking scrutiny | 1 |
-| Slow adoption of transparency orders | 35, 46 |
-| Absence of official reporting data | 9 |
+**Critiquing Implementation Gaps**  
 
-_Implementation gap:_ In May 2025—five months after PD12R came into effect—only 5 judgments were published, with just 2 including transparency orders (Post 46). Monthly publication rates throughout early 2025 remained similarly minimal (January: 3-4 judgments, Post 21; February-March: 4-5, Post 31; April: 4, Post 42), with cumulative publications January-May totaling approximately 18-25 judgments—less than 0.1% of family court proceedings.
+Systematic analysis of TP's transparency-focused blog posts (n=37, November 2024–October 2025) reveals four recurring critiques of PD12R implementation.[^TP_Analysis] Numbers below reference individual posts in the full corpus:
+
+| Issue | Evidence | Source |
+|-------|----------|---------|
+| **Redactions blocking scrutiny** | Judge allows publication but redacts LA/police names despite public interest | Post 1 |
+| **Slow adoption of transparency orders** | April: First transparency order applications filed<br>May: Only 2 of 5 published judgments used transparency orders (40%) | Posts 35, 42, 46 |
+| **Absence of official reporting data** | Annual report documents "insufficient data collection on outcomes" | Post 9 |
+| **Minimal publication volumes** | Jan: 3 judgments (pre-PD12R)<br>Feb-Mar: 7 judgments<br>April: 4 judgments (first month under PD12R)<br>May: 5 judgments<br>**Total Jan-May: 19 judgments** | Posts 21, 31, 42, 46 |
+
+_The implementation gap:_ Five months after PD12R came into effect (October 2024), only 19 judgments were published January-May 2025—less than 0.1% of family court proceedings (based on ~22,514 monthly proceedings, MOJ Q1 2025 data). Of these, transparency orders were confirmed in only 2 cases, demonstrating minimal uptake of the mechanism designed to facilitate media reporting.
 
 ---
 
-[^TP_Analysis]: Full TP blog corpus analysis with all post IDs, dates, and coding available at: [Layer 5 TP Blog Analysis Table](https://github.com/NoEndsNoGains/family-court-reform/blob/main/DATA/layer5_NGOs_media/Layer%205%20TP-BlogsAnalyesTable.md). Numbers in table correspond to individual blog posts analyzed in the complete dataset (n=67 posts, November 2024-October 2025; 37 transparency-focused).
-
+[^TP_Analysis]: Full blog corpus analysis with post IDs, dates, publication links, and coding categories: [Layer 5 TP Blog Analysis Table](https://github.com/NoEndsNoGains/family-court-reform/blob/main/DATA/layer5_NGOs_media/Layer%205%20TP-BlogsAnalyesTable.md). The analysis coded all 67 TP blog posts (November 2024-October 2025) into transparency-focused (n=37) and other content (n=30), with transparency posts further categorized by function (monitoring, education, documentation, critique).
 ---
 
 ### What Remains Invisible
@@ -2949,9 +2951,11 @@ External observers can explain what they see, but cannot document what the syste
 
 ---
 
-[^1]: Full corpus with dates: [TP Blog Posts Nov 2024 – Oct 2025](https://github.com/NoEndsNoGains/family-court-reform/blob/main/DATA/layer5_NGOs_media/TP%20Links%20to%20Blog%20Posts%20Nov%202024%20-%20Oct%2025.md)
+[^TP]: The Transparency Project, https://www.transparencyproject.org.uk
 
-[^2]: Full coding & breakdown: [Layer 5 TP Blog Analysis Table](https://github.com/NoEndsNoGains/family-court-reform/blob/main/DATA/layer5_NGOs_media/Layer%205%20TP-BlogsAnalyesTable.md)
+[^TP_Corpus]: Full corpus with dates and links: [TP Blog Posts Nov 2024 – Oct 2025](https://github.com/NoEndsNoGains/family-court-reform/blob/main/DATA/layer5_NGOs_media/TP%20Links%20to%20Blog%20Posts%20Nov%202024%20-%20Oct%2025.md)
+
+[^TP_Analysis]: Full coding breakdown with post IDs, dates, and analysis: [Layer 5 TP Blog Analysis Table](https://github.com/NoEndsNoGains/family-court-reform/blob/main/DATA/layer5_NGOs_media/Layer%205%20TP-BlogsAnalyesTable.md). Numbers in tables correspond to individual blog posts in the complete dataset (n=67 posts, November 2024-October 2025; 37 transparency-focused).
 
 ---
 
