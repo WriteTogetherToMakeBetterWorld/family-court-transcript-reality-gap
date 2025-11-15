@@ -81,6 +81,7 @@ layout: changelog
 | 2025-11-15 | — | Update 5.external-monitors.md | @NoEndsNoGains |
 | 2025-11-15 | — | Update 6.cross-layer-synthesis.md | @NoEndsNoGains |
 | 2025-11-15 | — | Update 5.external-monitors.md | @NoEndsNoGains |
+| 2025-11-15 | — | Update 5.external-monitors.md | @NoEndsNoGains |
 | 2025-11-03 | v0.9 | **Initial draft released** – 5 Layers defined, stats added | @NoEndsNoGains |
 | — | — | *Your name here* | [Submit PR →](https://github.com/NoEndsNoGains/family-court-reform/pulls) |
 
