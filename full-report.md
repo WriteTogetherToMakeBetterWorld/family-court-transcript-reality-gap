@@ -2875,7 +2875,7 @@ Of the 67 posts, **37 (55%)** focus directly on transparency.[^2] These divide i
 | Documenting rule & practice changes | 9 | 24% |
 | Critiquing implementation gaps | 10 | 27% |
 
-The remaining 30 posts (45%) cover case-specific analysis, off-topic content, fair trial procedures, and organisational matters. Beyond topic counts, the posts reveal which transparency pathways are actually observable: all 37 transparency posts (100%) concern the **Publication pathway**—what is published, how transparency orders work, and what reporters can access.
+The remaining 30 posts (45%) cover case-specific analysis, fair trial procedures, and organisational matters. Beyond topic counts, the posts reveal which transparency pathways are actually observable: all 37 transparency posts (100%) concern the **Publication pathway**—what is published, how transparency orders work, and what reporters can access.
 
 In contrast, **zero posts** address the **Obtaining pathway**—transcripts, file access, Subject Access Requests (SARs), cost barriers, or refusals. This absence is not a matter of editorial preference; it reflects the system’s architecture, which generates no public data for Obtaining processes, leaving nothing for systematic analysis.
 
