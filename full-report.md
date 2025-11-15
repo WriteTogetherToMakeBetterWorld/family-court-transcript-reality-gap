@@ -2847,11 +2847,11 @@ Layer 5 examines how independent observers—media, NGOs, legal bloggers, and ad
 
 ## Layer 5 Conclusion: Architectural Dysfunction Confirmed
 
-Layer 5 confirms that the reality gap is architectural, not perceptual. If only users and litigants reported these barriers, skeptics might attribute them to misunderstanding or exceptional cases. But when Britain's leading family court transparency organisation—staffed by legal professionals, analyzing published case law, monitoring reforms—encounters the same opacity when trying to document system performance, it validates that the dysfunction is structural rather than experiential. More powerfully: when the judiciary's own reform implementation bodies—TIG and FRCTG, comprising judges, MoJ/HMCTS officials, and legal experts—face identical barriers when designing and monitoring transparency reforms, the architectural nature of the failure becomes irrefutable. The strongest evidence isn't what observers see about the system; it's what observers cannot see despite expertise, institutional access, and sustained effort.
+Layer 5 confirms that the reality gap is architectural, not perceptual. If only users and litigants reported these barriers, skeptics might attribute them to misunderstanding or exceptional cases. But when Britain's leading family court transparency organisation—staffed by legal professionals, analysing published case law, monitoring reforms—encounters the same opacity when trying to document system performance, it validates that the dysfunction is structural rather than experiential. More powerfully: when the judiciary's own reform implementation bodies—The Transparency Implementation Group (TIG, established December 2021) and parallel Financial Remedies Consultative & Transparency Group (FRCTG), comprising judges, MoJ/HMCTS officials, and legal experts—face identical barriers when designing and monitoring transparency reforms, the architectural nature of the failure becomes irrefutable. The strongest evidence isn't what observers see about the system; it's what observers cannot see despite expertise, institutional access, and sustained effort.
 
 ## 7.5.1 Operational Focus: Documentation Dominates, Obtaining Neglected
 
-TP's blog output reveals strategic prioritization driven by documentability constraints:
+TP's blog output reveals strategic prioritisation driven by documentability constraints:
 
 | Function      | %   | n  | What This Reveals |
 |---------------|-----|----|-------------------|
@@ -2897,10 +2897,10 @@ This asymmetry both validates the analytical framework and reveals documentabili
 
 **Empirical Evidence**: Of 31 transparency-focused posts:
 
-- 29 address Publication: reporting on judgments granting/refusing permission, analyzing judicial reasoning about open justice, tracking pilot schemes, monitoring PD12R implementation  
+- 29 address Publication: reporting on judgments granting/refusing permission, analysing judicial reasoning about open justice, tracking pilot schemes, monitoring PD12R implementation  
 - 2 address Obtaining: comprehensive "How Do I Get Hold of a Transcript?" guide (educational function) and brief EX107 form update (documentation function)
 
-This ratio is not evidence of TP deprioritizing Obtaining—their guide is thorough and user-focused. Rather, it reveals structural limits on what external observers can systematically monitor: TP can write about Publication because published judgments provide analyzable data; they struggle with Obtaining because system opacity prevents comprehensive documentation.
+This ratio is not evidence of TP deprioritising Obtaining—their guide is thorough and user-focused. Rather, it reveals structural limits on what external observers can systematically monitor: TP can write about Publication because published judgments provide analyzable data; they struggle with Obtaining because system opacity prevents comprehensive documentation.
 
 **The Dual-Constituency Problem**: The transparency barriers that most severely affect individual users (Obtaining pathway—transcript costs prohibiting appeals, approval delays preventing hearing preparation) are precisely those external observers struggle to document. This creates dual exclusion:
 
@@ -2924,7 +2924,7 @@ TIG's sub-group work reflects the focus of reform efforts rather than systematic
 | Media Engagement        | ~10% of substantive discussion | National and local forums built to facilitate journalist access, yet late/vague case listing codes prevent journalists from locating hearings—validating DF-4 (vendor/listing opacity).[^Media_Codes] |
 | Financial Remedies      | ~5% of substantive discussion | FRCTG minutes (2022) flag identical form-guidance disconnects in financial cases as found in EX107 analysis, confirming pattern extends beyond private law.[^FRCTG_Forms] |
 
-**Pattern Recognition**: Like TP's 94%/6% Publication/Obtaining split derived from systematic blog corpus analysis, TIG's operational priorities cluster around designing visible reforms (pilots, guidance, court access) rather than measuring hidden barriers (refusals, costs, penetration rates). This isn't deprioritization—it's documentability constraint operating at the reform design level.
+**Pattern Recognition**: Like TP's 94%/6% Publication/Obtaining split derived from systematic blog corpus analysis, TIG's operational priorities cluster around designing visible reforms (pilots, guidance, court access) rather than measuring hidden barriers (refusals, costs, penetration rates). This isn't deprioritisation—it's documentability constraint operating at the reform design level.
 
 **The Positional Mobility Test: Lucy Reed's Dual Vantage**  
 Lucy Reed KC's simultaneous roles—authoring TP blog posts as external analyst and chairing TIG anonymisation sub-group as internal reform architect—create a natural experiment in observational privilege.[^Reed_Dual] If institutional position determines observational capacity, Reed's TIG role should grant access to data unavailable to TP. It doesn't.
@@ -2939,7 +2939,7 @@ Lucy Reed KC's simultaneous roles—authoring TP blog posts as external analyst 
 **What Reed cannot document from either position**:
 
 - Refusal rates (unpublished decisions prevent aggregation)  
-- Geographic penetration (no denominator data on pilot utilization)  
+- Geographic penetration (no denominator data on pilot utilisation)  
 - Cost patterns (vendors don't report; HMCTS doesn't collect)  
 - Implementation consistency (voluntary recording; no compliance monitoring)  
 - Impact metrics (no baseline; evaluation struggles with engagement data)  
@@ -2970,7 +2970,7 @@ This appears to demonstrate successful reform adoption: judicial practice is cha
 |-----------------|--------------------------------------------|------------------|--------------------------------|
 | 2023 Q1–Q2      | Public law pilots (3 sites)[^Pilots_Launch] | +100% sites (from 0) | No denominator data; coverage <0.01% of proceedings |
 | 2023 Q3–2024 Q1 | Private law/magistrates rollout[^Pilots_Expand] | +300% scope     | Evaluation notes "limited" media engagement; no refusal statistics |
-| 2024 Q2–2025    | FPR Rule embedding; 20 DFJ areas[^FPR_Embed] | +567% areas     | "Teething issues" with notifications persist; no utilization metrics |
+| 2024 Q2–2025    | FPR Rule embedding; 20 DFJ areas[^FPR_Embed] | +567% areas     | "Teething issues" with notifications persist; no utilisation metrics |
 
 **But Context Reveals Performative Reform Cycles**  
 This pattern need not reflect deliberate obfuscation by reform architects. Rather, it demonstrates how institutions can genuinely celebrate progress (pilot expansions, rule changes) while remaining structurally unable to measure that progress against baseline dysfunction:
@@ -2991,7 +2991,7 @@ This pattern need not reflect deliberate obfuscation by reform architects. Rathe
 
 **The Performative Reform Pattern**: System shows progress (267% increase! 20-site expansion!) while 99.8% remains invisible. Reform announcements generate legitimacy without requiring operational transformation—creating appearance of transparency improvement while maintaining fundamental opacity about whether reforms address systemic dysfunction or constitute marginal visibility gains. TIG minutes celebrate milestones ("Family Court Reporting Week," November 2024) while simultaneously noting "no increased press attendance" and evaluation struggles with family engagement.[^Reporting_Week]
 
-**Layer 5 Insight**: External observers (TP) and internal reform architects (TIG) provide essential monitoring but are constrained by the same data deficits they critique. A 267% increase in visible implementation may represent genuine progress or minimal absolute penetration—neither TP nor TIG can distinguish these interpretations without institutional transparency about system-wide utilization. That nine months post-PD12R and three years into pilots we still cannot answer "How widely are these reforms being used?" demonstrates that transparency reforms themselves lack transparency.
+**Layer 5 Insight**: External observers (TP) and internal reform architects (TIG) provide essential monitoring but are constrained by the same data deficits they critique. A 267% increase in visible implementation may represent genuine progress or minimal absolute penetration—neither TP nor TIG can distinguish these interpretations without institutional transparency about system-wide utilisation. That nine months post-PD12R and three years into pilots we still cannot answer "How widely are these reforms being used?" demonstrates that transparency reforms themselves lack transparency.
 
 ## 7.5.5 Cross-Layer Validation: Six Independent Actors, One Architecture
 
@@ -3007,7 +3007,7 @@ The strongest evidence that Layers 1–4 document reality rather than perception
 | **DF-11: Recording Infrastructure Opacity** | No published guidance on recording cataloguing/retrieval/transfer to vendors | Case law never interrogates recording system failures or delays | Professionals assume recordings exist but cannot verify or audit availability | Users experience delays attributable to "lost" or "unavailable" recordings | TP cannot document recording failures—system operates below visibility threshold | Transcript delays for appeals go unmonitored; pilots focus on courtroom access, not obtaining documentation[^Recording_Delays] | Infrastructure void confirmed across user experience, professional practice, judicial silence, external monitoring gaps, and internal reform priorities |
 | **DF-15: No Integrated Data Architecture** | Each actor (MOJ, HMCTS, vendors, judiciary) maintains separate systems with no cross-referencing | Judges lack access to system-wide performance data when making individual decisions | Professionals work from accumulated experiential knowledge, not institutional statistics | Users cannot benchmark their experiences against systemic norms or average timelines | TP cannot answer basic questions: How many requests filed? What % approved? Average costs/timelines? | 2022 "scorecard" initiative stalled; HMCTS data silos persist; gaps in outcomes, demographics, and geographic variation remain unmapped through 2024[^Scorecard_Stalled] | Data architecture failure validated recursively: external observers can't access institutional data; internal reformers can't integrate institutional data; system cannot self-assess |
 
-**What This Demonstrates**: Six independently situated actors—system designers publishing official forms and guidance (L1), judges writing case law (L2), legal professionals advising clients (L3), litigants navigating procedures (L4), external monitors analyzing transparency (L5), and internal reform architects designing solutions (L5.5)—all encounter the same architectural voids, operational gaps, and procedural barriers. The consistency is empirical, not coordinated.
+**What This Demonstrates**: Six independently situated actors—system designers publishing official forms and guidance (L1), judges writing case law (L2), legal professionals advising clients (L3), litigants navigating procedures (L4), external monitors analysing transparency (L5), and internal reform architects designing solutions (L5.5)—all encounter the same architectural voids, operational gaps, and procedural barriers. The consistency is empirical, not coordinated.
 
 **Convergence as Validation**: When six layers using six different analytical approaches all identify the same problems, the reality gap thesis is no longer hypothesis, interpretation, or contested claim—it is verified structural fact. The system's formal promises (transparency, accessibility, accountability) and operational realities (opacity, exclusion, selective visibility) diverge systematically across multiple data sources, analytical methods, institutional perspectives, and institutional positions (external/internal). That reform designers face the barriers they're attempting to fix elevates dysfunction from operational failure to architectural irredeemability.
 
@@ -3070,7 +3070,7 @@ Comprehensive transparency assessment requires answers to basic accountability q
 | Obtaining Timelines | What percentage meet 21-day guideline? | What causes delays (recording failures, vendor backlogs, approval bottlenecks)? | No systematic timeline monitoring; delays unattributed |
 | Publication Volume | How many publication applications filed annually? | What proportion succeed/fail, by court/case type? | Applications not systematically logged; outcomes unpublished |
 | Publication Reasoning | What factors predict grants vs. refusals? | Has guidance improved consistency? | Unpublished refusals prevent pattern analysis; no pre/post comparison data |
-| Reform Penetration | How widely is PD12R implemented beyond published judgments? | What is actual pilot utilization in 20 designated areas? | Voluntary reporting; no denominator; manual collection burden |
+| Reform Penetration | How widely is PD12R implemented beyond published judgments? | What is actual pilot utilisation in 20 designated areas? | Voluntary reporting; no denominator; manual collection burden |
 | Reform Impact | Has media reporting improved in volume, depth, accuracy? | Do transparency mechanisms affect public understanding or case outcomes? | No baseline media analysis; no outcome tracking linked to transparency |
 
 These are not exotic research curiosities—they are fundamental accountability questions any functional transparency system would be designed to answer. Their unanswerability evidences the system lacks data infrastructure for self-assessment. More troublingly: reform architects designing data collection systems cannot collect data about their own data collection attempts (the "scorecard" stall validates DF-15 recursively).
@@ -3083,7 +3083,7 @@ This is not a claim about incomplete data collection pending fuller implementati
 |--------------|------------|------------------------------|---------------------------------------|--------------------|
 | Document Access | EX107 → untimed approval, cost uncertainty | No published data on approval rates, timelines, costs | Data collection proposals stall; manual burden prevents systematic monitoring | All three constituencies excluded from transparency mechanisms or their measurement |
 | Refusal Visibility | Denied transcript/publication with no reasoning | Unpublished refusals prevent case law analysis | "Inconsistent" practices acknowledged but unquantifiable; no refusal tracking | Restrictive patterns remain invisible across all observation levels |
-| Reform Implementation | Unclear if reforms apply to their case | Can only track visible exhaust (published mentions), not total utilization | Can only track pilot sites, not penetration within sites or impact | No epidemiological understanding at any institutional level |
+| Reform Implementation | Unclear if reforms apply to their case | Can only track visible exhaust (published mentions), not total utilisation | Can only track pilot sites, not penetration within sites or impact | No epidemiological understanding at any institutional level |
 | Accountability | Cannot benchmark experiences against norms | Cannot measure systemic performance to identify outliers | Cannot evaluate reform effectiveness to justify continuation/expansion | System prevents self-correction from user, external, or internal perspectives |
 
 Meta-opacity creates triple exclusion: users cannot access justice (transcript costs prohibit appeals, publication barriers prevent accountability, procedural complexity excludes litigants in person), external observers cannot comprehensively document injustice (refusals unpublished, implementation untraceable, institutional data absent), and internal reform architects cannot measure their own interventions (pilots lack penetration data, guidance lacks compliance metrics, data initiatives lack infrastructure). The same architectural features creating user barriers prevent their systematic documentation and prevent reform evaluation. When the system requiring accountability prevents accountability monitoring and prevents reform assessment, meta-opacity itself becomes evidence of systemic failure.
@@ -3126,10 +3126,10 @@ The pathways where barriers are highest are precisely those where accountability
 External observers and internal reform architects encounter transparency barriers when monitoring the system:
 
 - Invisible refusals: Transcript denials and publication refusals rarely appear in published case law (preventing TP's comprehensive documentation) and aren't systematically tracked in pilot evaluations (preventing TIG's pattern analysis of restrictive decisions).  
-- Untraceable implementation: Reform monitoring limited to visible exhaust (TP: published PD12R mentions; TIG: pilot site counts) without denominator data (total eligible cases) or numerator data (actual utilization within eligible populations).  
-- Institutional data deficits: HMCTS doesn't publish statistics on transcript requests, approval rates, costs, timelines; family courts don't publish publication application statistics or outcomes; no systematic data exists on PD12R utilization or impact; TIG's own data collection proposals stall for lack of infrastructure funding.
+- Untraceable implementation: Reform monitoring limited to visible exhaust (TP: published PD12R mentions; TIG: pilot site counts) without denominator data (total eligible cases) or numerator data (actual utilisation within eligible populations).  
+- Institutional data deficits: HMCTS doesn't publish statistics on transcript requests, approval rates, costs, timelines; family courts don't publish publication application statistics or outcomes; no systematic data exists on PD12R utilisation or impact; TIG's own data collection proposals stall for lack of infrastructure funding.
 
-Recursive opacity: Transparency pilots lack transparency metrics; data collection initiatives cannot collect data on their own penetration; publication guidance addresses barriers while being unable to quantify those barriers' prevalence. TIG minutes document "progress" (pilot expansions, rule changes) while simultaneously acknowledging "teething issues" (limited attendance, no utilization stats, stalled funding) without reconciling these contradictions through systematic measurement.
+Recursive opacity: Transparency pilots lack transparency metrics; data collection initiatives cannot collect data on their own penetration; publication guidance addresses barriers while being unable to quantify those barriers' prevalence. TIG minutes document "progress" (pilot expansions, rule changes) while simultaneously acknowledging "teething issues" (limited attendance, no utilisation stats, stalled funding) without reconciling these contradictions through systematic measurement.
 
 The fact that independent analysts with legal expertise, institutional knowledge, and sustained engagement with the system (TP) and reform architects with institutional access, decision-making authority, and multi-year implementation timelines (TIG) still cannot answer basic accountability questions—How many transcript requests are refused? What percentage of PD12R-eligible cases actually provide documents to media? How much do transcripts typically cost? What is the actual penetration rate of pilots in designated areas?—demonstrates that the transparency deficit is structural, not merely procedural.
 
